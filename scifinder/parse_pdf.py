@@ -80,10 +80,15 @@ for html in glob.glob(os.path.join(os.path.join(folder,'html'), '*.html')):
     
 #print(parsed_data)
 
-print(len([i for i in parsed_data.values() if ('Alternate CAS' in i and i['Alternate CAS'])]))
-assert 13 == len([i for i in parsed_data.values() if ('Alternate CAS' in i and i['Alternate CAS'])])
-print(len([i for i in parsed_data.values() if ('Deleted CAS' in i and i['Deleted CAS'])]))
-assert 226 == len([i for i in parsed_data.values() if ('Deleted CAS' in i and i['Deleted CAS'])])
-for CAS, i in parsed_data.items():
-    if 'Other Names' in i:
-        print(i['Other Names']) 
+#print(len([i for i in parsed_data.values() if ('Alternate CAS' in i and i['Alternate CAS'])]))
+#assert 13 == len([i for i in parsed_data.values() if ('Alternate CAS' in i and i['Alternate CAS'])])
+#print(len([i for i in parsed_data.values() if ('Deleted CAS' in i and i['Deleted CAS'])]))
+#assert 226 == len([i for i in parsed_data.values() if ('Deleted CAS' in i and i['Deleted CAS'])])
+#for CAS, i in parsed_data.items():
+#    if 'Other Names' in i:
+#        print(i['Other Names']) 
+
+f = open('Parsed scifinder metadata.json', 'w')
+print(parsed_data)
+json.dump(parsed_data, f, indent=2, separators=(',', ': '), encoding="utf-8", sort_keys=True)
+f.close()
