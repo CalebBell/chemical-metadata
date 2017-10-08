@@ -17,9 +17,19 @@ for CAS, d in pdf_data.items():
         all_names.extend(d['Other Names'])
     if 'Name' in d:
         all_names.append(d['Name'])
+    if 'Deleted CAS' in d:
+        all_names.extend(d['Deleted CAS'])
+    if 'Alternate CAS' in d:
+        all_names.extend(d['Alternate CAS'])
+    all_names.append(CAS)
 dup_names =  [item for item, count in Counter(all_names).items() if count > 1]
 all_names = set(all_names)
 
+# TODO finish this
+# Big database = hard to work on
+# Small database = good to work on
+failed_mol = set(['11062-77-4',# No charge
+                  ])
 
 arg = sys.argv[0:]
 arg.pop(0)
