@@ -1,0 +1,136 @@
+hydride	hydride	12184-88-2	H-	-1	1.01
+fluoride	fluoride	16984-48-8	F-	-1	18.99
+chloride	chloride	16887-00-6	Cl-	-1	35.45
+bromide	bromide	24959-67-9	Br-	-1	79.91
+iodide	iodide	20461-54-5	I-	-1	126.91
+astatide	astatide	20561-39-1	At-	-1	211
+hydroxide	hydroxide	14280-30-9	OH-	-1	17.01
+hydrosulfide	sulfide (HS 1-)	15035-72-0	SH-	-1	33.07
+hydroselenide	selenide (HSe 1-)	16661-43-1	SeH-	-1	79.97
+hydrotelluride	telluride (HTe 1-)	18282-39-8	TeH-	-1	128.62
+amide	amide	17655-31-1	NH2-	-1	16.02
+superoxide	superoxide	11062-77-4	O2-	-1	32
+hypochlorite	hypochlorite	14380-61-1	ClO-	-1	51.45
+hypobromite	hypobromite	14380-62-2	BrO-	-1	95.91
+hypoiodite	hypoiodite	15065-65-3	IO-	-1	142.91
+cyanide	cyanide	57-12-5	CN-	-1	26.02
+cyanate	cyanate	661-20-1	NCO-	-1	42.02
+thiocyanate	thiocyanate	302-04-5	SCN-	-1	58.08
+selenocyanate	selenocyanate	5749-48-4	SeCN-	-1	104.98
+azide	azide	14343-69-2	N3-	-1	42.02
+tribromide	bromide (Br3 1-)	14522-80-6	Br3-	-1	239.71
+triiodide	iodide (I3 1-)	14900-04-0	I3-	-1	380.71
+Hydrogendifluoride	fluoride (HF2 1-)	18130-74-0	HF2-	-1	39.01
+hydroperoxide	peroxide (HO2 1-)	14691-59-9	HO2-	-1	33.01
+metaborate	borate (BO2 1-)	14100-65-3	BO2-	-1	42.81
+metaaluminate	aluminate (AlO2 1-)	20653-98-9	AlO2-	-1	58.98
+chlorite	chlorite	14998-27-7	ClO2-	-1	67.45
+nitrite	nitrite	14797-65-0	NO2-	-1	46.01
+arsenenite	arsenenite	17306-35-3	AsO2-	-1	106.92
+nitrate	nitrate	14797-55-8	NO3-	-1	62.01
+chlorate	chlorate	14866-68-3	ClO3-	-1	83.45
+bromate	bromate	15541-45-4	BrO3-	-1	127.91
+iodate	iodate	15454-31-6	IO3-	-1	174.91
+metaphosphate	metaphosphate (PO3 1-)	15389-19-2	PO3-	-1	78.97
+metavanadate	vanadate (VO3 1-)	13981-20-9	VO3-	-1	98.94
+tetrachloroaurate(III)	aurate (1-), tetrachloro-	14337-12-3	AuCl4-	-1	338.78
+tetrabromoaurate(III)	aurate (1-), tetrabromo-	14337-14-5	AuBr4-	-1	516.58
+perchlorate	perchlorate (ClO4 1-)	14797-73-0	ClO4-	-1	99.45
+perbromate	perbromate (BrO4 1-)	16474-32-1	BrO4-	-1	143.91
+periodate	periodate (IO4 1-)	15056-35-6	IO4-	-1	190.91
+permanganate	permanganate (MnO4 1-)	14333-13-2	MnO4-	-1	118.94
+pertechnetate	technetate (TcO4 1-)	14333-20-1	TcO4-	-1	163.01
+perrhenate	rhenate (ReO4 1-)	14333-24-5	ReO4-	-1	250.01
+tetrahydroborate	borate (1-), tetrahydro-	16971-29-2	BH4-	-1	14.84
+tetrahydroxyborate	borate (1-), tetrahydroxy-	15390-83-7	B(OH)4-	-1	31.01
+tetrahydroaluminate	aluminate (1-), tetrahydro-	19469-81-9	AlH4-	-1	78.84
+tetrahydroxyaluminate	aluminate (Al(OH)4 1-)	14485-39-3	Al(OH)4-	-1	95.01
+tetrafluoroborate	borate (1-), tetrafluoro-	14874-70-5	BF4-	-1	86.81
+tetraphenylborate	borate (1-), tetraphenyl	4358-26-3	BPh4-	-1	319.23
+formate	formic acid ion (1-)	71-47-6	HCO2-	-1	45.02
+acetate	acetic acid ion (1-)	71-50-1	CH3CO2-	-1	59.04
+propanoate	propanoic acid ion (1-)	72-03-7	C2H5CO2-	-1	73.06
+benzoate	benzoic acid ion (1-)	766-76-7	PhCO2-	-1	121.12
+picrate	phenol, 2,4,6-trinitro-  ion (1-)	14798-26-6	C6H2(NO2)3O-	-1	228.11
+trifluoroacetate	acetic acid, trifluoro ion (1-)	14477-72-6	CF3CO2-	-1	113.02
+sulfamate	sulfamic acid ion (1-)	15853-39-1	H2NSO3-	-1	96.08
+methylsulfonate	methanesulfonic acid ion (1-)	16053-58-0	CH3SO3-	-1	95.04
+trifluoromethylsulfonate	methanesulfonic acid, trifluoro-	37181-39-8	CF3SO3-	-1	149.06
+benzenesulfonate	benzenesulfonic acid  ion (1-)	3198-32-1	PhSO3-	-1	157.16
+fluorosulfate	fluorosulfate	15181-47-2	FSO3-	-1	99.06
+chlorosulfate	chlorosulfate	15181-48-3	ClSO3-	-1	115.51
+hydrogencarbonate	carbonate, hydrogen	71-52-3	HCO3-	-1	61.02
+hydrogensulfite	sulfite, hydrogen	15181-46-1	HSO3-	-1	81.07
+hydrogenselenite	selenite (SeO3 2-), hydrogen	20638-10-2	HSeO3-	-1	127.97
+hydrogensulfate	sulfate, hydrohen	14996-02-2	HSO4-	-1	97.07
+hydrogenselenate	selenate, hydrogen	14998-57-3	HSeO4-	-1	143.97
+dihydrogenphosphate	phosphate (PO4 3-), dihyfrogen	14066-20-7	H2PO4-	-1	96.99
+dihydrogenvanadate	vanadate (VO4 3-), dihyfrogen	34786-97-5	H2VO4-	-1	139.94
+dihydrogenarsenate	arsenate (AsO4 3-), dihyfrogen	16518-47-1	H2AsO4-	-1	116.95
+dicyanoargentate(I)	argentate (1-), bis(cyano-C)-	15391-88-5	Ag(CN)2-	-1	159.91
+dicyanoaurate(I)	aurate (1-), bis(cyano-C)-	14950-87-9	Au(CN)2-	-1	249.01
+hexafluorophosphate	phosphate (1-), hexafluoro-	16919-18-9	PF6-	-1	144.96
+hexafluoroarsenate	arsenate (1-), hexafluoro-	16973-45-8	AsF6-	-1	188.91
+hexafluoroantimonate	antimonate (1-), hexafluoro-	17111-95-4	SbF6-	-1	235.74
+oxide	oxide	16833-27-5	O-2	-2	16
+sulfide	sulfide	18496-25-8	S-2	-2	32.07
+selenide	selenide	22541-48-6	Se-2	-2	78.96
+telluride	telluride	22541-49-7	Te-2	-2	127.61
+peroxide	peroxide (O2 2-)	14915-07-2	O2-2	-2	32
+disulfide	sulfide (S2 2-)	16734-12-6	S2-2	-2	64.13
+trisulfide	sulfide (S3 2-)	12597-05-6	S3-2	-2	96.21
+carbonate	carbonate	3812-32-6	CO3-2	-2	60.01
+oxalate	ethanedioic acid ion (2-)	338-70-5	C2O4-2	-2	88.02
+metasilicate	silicate (SO3 2-)	15593-90-5	SiO3-2	-2	76.08
+sulfite	sulfite	14265-45-3	SO3-2	-2	80.07
+selenite	selenite	14124-67-5	SeO3-2	-2	126.97
+tellurite	tellurate (TeO3 2-)	15852-22-9	TeO3-2	-2	175.61
+sulfate	sulfate	14808-79-8	SO4-2	-2	96.07
+selenate	selenate	14124-68-6	SeO4-2	-2	142.97
+tellurate	tellurate (TeO4 2-)	15845-23-5	TeO4-2	-2	191.61
+chromate	chromate (CrO4 2-)	13907-45-4	CrO4-2	-2	115.99
+molybdate	molybdate (MoO4 2-)	14259-85-9	MoO4-2	-2	159.94
+tungstate	tungstate (WO4 2-)	14311-52-5	WO4-2	-2	247.85
+manganate(VI)	manganate (MnO4 2-)	14333-14-3	MnO4-2	-2	118.94
+trans-hyponitrite	hyponitrite (trans)	15435-66-2	N2O2-2	-2	60.01
+thiosulfate	thiosulfate	14383-50-7	S2O3-2	-2	112.12
+dithionite	dithionite	14844-07-6	S2O4-2	-2	128.12
+disulfite	disulfite	23134-05-6	S2O5-2	-2	144.12
+dithionate	dithionate	14781-81-8	S2O6-2	-2	160.12
+tetrathionate	tetrathionate	15536-54-6	S4O6-2	-2	224.24
+peroxodisulfate	peroxydisulfate	15092-81-6	S2O8-2	-2	192.12
+dichromate	chromate (Cr2O7 2-)	13907-47-6	Cr2O7-2	-2	215.99
+tetraborate	borate B4O7 2-)	12258-53-6	B4O7-2	-2	155.24
+hydrogenphosphate	phosphate (PO4 3-), hydrogen	14066-19-4	HPO4-2	-2	95.98
+hydrogenvanadate	vanadate (VO4 3-), hydrogen	26450-38-4	HVO4-2	-2	138.93
+hydrogenarsenate	arsenate (AsO4 3-), hydrogen	16844-87-4	HAsO4-2	-2	115.95
+tetrachloropalladate	palladate (2-), tetrachloro-	14349-67-8	PdCl4-2	-2	248.23
+tetrabromopalladate	palladate (2-), tetrabromo-	14127-70-9	PdBr4-2	-2	426.04
+tetrachloroplatinate	platinate (2-), tetrachloro-	13965-91-8	PtCl4-2	-2	336.89
+tetrabromoplatinate	platinate (2-), tetrabromo-	14493-01-7	PtBr4-2	-2	515.71
+hexafluorosilicate	silicate (2-), hexafluoro-	17084-08-1	SiF6-2	-2	142.08
+hexachloropalladate(IV)	palladate (2-), hexachloro-	17141-41-2	PdCl6-2	-2	319.14
+hexachlorostannate(IV)	stannate (2-), hexachloro-	16871-48-0	SnCl6-2	-2	331.41
+hexachlororhenate(IV)	rhenate (2-), hexachloro-	16871-50-4	ReCl6-2	-2	398.93
+hexachloroiridate(IV)	iridate (2-), hexachloro-	60818-94-2	IrCl6-2	-2	404.94
+hexachloroplatinate(IV)	platinate (2-), hexachloro-	16871-54-8	PtCl6-2	-2	407.81
+hexabromoplatinateIV)	platinate (2-), hexabromo-	16871-55-9	PtBr6-2	-2	674.51
+tetracyanonickelate	nickelate (2-), tetrakis(cyano-C)	48042-08-6	Ni(CN)4-2	-2	162.76
+tetracyanomercurate	mercurate (2-), tetrakis(cyano-C)	19426-03-0	Hg(CN)4-2	-2	304.66
+nitride	nitride	18851-77-9	N-3	-3	14.01
+borate	borate (BO3 3-)	14213-97-9	BO3-3	-3	58.81
+arsenite	arsenite	15502-74-6	AsO3-3	-3	122.92
+phosphate	phosphate (PO4 3-)	14265-44-2	PO4-3	-3	94.97
+vanadate	vanadate (VO4 3-)	14333-18-7	VO4-3	-3	114.94
+arsenate	arsenate (AsO4 3-)	15584-04-0	AsO4-3	-3	138.92
+antimonate	antimonate (SbO4 3-)	20175-28-4	SbO4-3	-3	185.75
+bismuthate	bismuthate (BiO4 3-)	113152-92-4	BiO4-3	-3	272.96
+hexafluoroaluminate	aluminate (3-), hexafluoro-	21340-03-4	AlF6-3	-3	140.97
+hexacyanoferrate(III)	ferrate (3-), hexakis(cyano-C)	13408-62-3	Fe(CN)6-3	-3	211.95
+hexacyanocobaltate(III)	cobaltate (3-), hexakis(cyano-C)	14897-04-2	Co(CN)6-3	-3	216.11
+hexachlororhodate(III)	rhodate (3-), hexachloro-	21412-00-0	RhCl6-3	-3	315.62
+hexachloroiridate(III)	iridate (3-), hexachloro-	14648-50-1	IrCl6-3	-3	404.94
+orthosilicate	silicate (SiO4 4-)	17181-37-2	SiO4-4	-4	92.08
+hexacyanoferrate(II)	ferrate (2-), hexakis(cyano-C)	13408-63-4	Fe(CN)6-4	-4	211.95
+diphosphate	diphosphate	14000-31-8	P2O7-4	-4	173.94
+octacyanomolybdate(IV)	molybdate (4-), oktakis(cyano-C)	17923-49-8	Mo(CN)8-4	-4	304.08
