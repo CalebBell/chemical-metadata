@@ -89,6 +89,6 @@ for html in glob.glob(os.path.join(os.path.join(folder,'html'), '*.html')):
 #        print(i['Other Names']) 
 
 f = open('Parsed scifinder metadata.json', 'w')
-print(parsed_data)
+#print(parsed_data)
 json.dump(parsed_data, f, indent=2, separators=(',', ': '), encoding="utf-8", sort_keys=True)
 f.close()
