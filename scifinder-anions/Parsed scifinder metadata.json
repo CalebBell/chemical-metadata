@@ -51,6 +51,12 @@
   "113152-92-4": {
     "Name": "Bismuthate (BiO43-), (T-4)- (9CI)"
   },
+  "117412-24-5": {
+    "Name": "Beryllate (BeO22-) (9CI)"
+  },
+  "119046-04-7": {
+    "Name": "Titanate (Ti(OH)51-)"
+  },
   "12184-88-2": {
     "Name": "Hydride",
     "Other Names": [
@@ -61,6 +67,13 @@
       "Hydrogen atom ion(1-)",
       "Hydrogen ion(1-)",
       "Hydrogen, ion (H1-)"
+    ]
+  },
+  "12258-16-1": {
+    "Name": "Argentate (Ag(OH)21-) (9CI)",
+    "Other Names": [
+      "Argentate ([Ag(OH)2]1-) (8CI)",
+      "Dihydroxyargentate(1-)"
     ]
   },
   "12258-53-6": {
@@ -81,6 +94,14 @@
     "Name": "Sulfide (S32-) (9CI)",
     "Other Names": [
       "Trisulfide"
+    ]
+  },
+  "12758-12-2": {
+    "Name": "Aluminate (AlO1-) (9CI)",
+    "Other Names": [
+      "Aluminate(1-), oxo-",
+      "Aluminum oxide (AlO1-)",
+      "Aluminum oxide ion (AlO1-)"
     ]
   },
   "13408-62-3": {
@@ -264,6 +285,20 @@
       "Metaborate",
       "Metaborate (BO21-)",
       "Metaborate anion"
+    ]
+  },
+  "14102-45-5": {
+    "Deleted CAS": [
+      "124733-86-4",
+      "163686-53-1",
+      "163686-54-2",
+      "191348-92-2",
+      "797805-89-1"
+    ],
+    "Name": "Arsonic acid, ion(1-) (9CI)",
+    "Other Names": [
+      "Arsenite (AsO33-), dihydrogen (8CI)",
+      "Dihydrogen arsenite (H2AsO3-)"
     ]
   },
   "14124-67-5": {
@@ -937,6 +972,9 @@
       "Sulfur monohydride ion(1-)"
     ]
   },
+  "150393-25-2": {
+    "Name": "Ferrate (Fe(OH)43-) (9CI)"
+  },
   "15056-35-6": {
     "Name": "Periodate (IO41-) (8CI,9CI)",
     "Other Names": [
@@ -1021,6 +1059,20 @@
     "Name": "Chlorosulfate (8CI,9CI)",
     "Other Names": [
       "Chlorosulfate (ClSO3-)"
+    ]
+  },
+  "15251-42-0": {
+    "Deleted CAS": [
+      "84376-16-9",
+      "1620086-78-3"
+    ],
+    "Name": "Diphosphate, dihydrogen",
+    "Other Names": [
+      "Pyrophosphate, dihydrogen (8CI)",
+      "Dihydrogen pyrophosphate",
+      "Diphosphate (H2P2O72-)",
+      "Pyrophosphate H2P2O72-",
+      "Pyrophosphateion (H2P2O72-)"
     ]
   },
   "15389-19-2": {
@@ -1135,6 +1187,22 @@
       "Metasilicate",
       "Silicate (SiO3)(2-)",
       "Silicate ion (SiO32-)"
+    ]
+  },
+  "15596-54-0": {
+    "Name": "Chromate (CrO42-), hydrogen (8CI,9CI)",
+    "Other Names": [
+      "Chromate (CrO42-), monohydrogen",
+      "Chromate (HCrO41-)",
+      "Chromate ion (HCrO4-)",
+      "Chromate ion (HCrO41-)",
+      "Chromic acid (H2CrO4),ion(1-)",
+      "Hydrochromate",
+      "Hydrochromate (HCrO4-)",
+      "Hydrogen chromate",
+      "Hydrogen chromate (HCrO41-)",
+      "Hydroxytrioxochromate(1-)",
+      "Monohydrogenchromate (HCrO4-)"
     ]
   },
   "15845-23-5": {
@@ -1529,6 +1597,9 @@
       "Tetrahydroaluminate(1-)"
     ]
   },
+  "195071-87-5": {
+    "Name": "Thallate (Tl(OH)21-) (9CI)"
+  },
   "20175-28-4": {
     "Name": "Antimonate (SbO43-), (T-4)- (9CI)",
     "Other Names": [
@@ -1643,6 +1714,12 @@
       "Pyrosulfite (S2O52-)"
     ]
   },
+  "24203-21-2": {
+    "Name": "Rhenium, ion (Re1-)",
+    "Other Names": [
+      "Rhenium(1-)"
+    ]
+  },
   "24959-67-9": {
     "Deleted CAS": [
       "405267-47-2"
@@ -1667,6 +1744,14 @@
     "Other Names": [
       "Vanadate (VO43-), monohydrogen (8CI)",
       "Vanadate (HVO42-)"
+    ]
+  },
+  "29145-79-7": {
+    "Name": "Ferrate (Fe(OH)41-), (T-4)- (9CI)",
+    "Other Names": [
+      "Ferrate ([Fe(OH)4]1-) (8CI)",
+      "Tetrahydroxoferrate(1-)",
+      "Tetrahydroxyferrate(1-)"
     ]
   },
   "302-04-5": {
@@ -1717,6 +1802,13 @@
       "Oxalate ion (C2O42-)",
       "Oxalate ion(2-)",
       "Oxalate(2-)"
+    ]
+  },
+  "34175-11-6": {
+    "Name": "Dithionite, hydrogen",
+    "Other Names": [
+      "Dithionous acid, ion(1-)",
+      "Hydrogen dithionite"
     ]
   },
   "34786-97-5": {
@@ -1773,6 +1865,17 @@
       "Carbonic acid, ion(2-)"
     ]
   },
+  "42499-21-8": {
+    "Deleted CAS": [
+      "51053-84-0",
+      "65597-52-6"
+    ],
+    "Name": "Diphosphate, hydrogen",
+    "Other Names": [
+      "Diphosphate (HP2O73-)",
+      "Monohydrogen diphosphate"
+    ]
+  },
   "4358-26-3": {
     "Alternate CAS": [
       "163709-59-9"
@@ -1798,6 +1901,12 @@
       "Tetraphenylborate(1-)",
       "Tetraphenylboride ion",
       "Tetraphenylboron anion"
+    ]
+  },
+  "44030-61-7": {
+    "Name": "Phosphorofluoridate, hydrogen (9CI)",
+    "Other Names": [
+      "Fluorophosphate ion (HPFO31-)"
     ]
   },
   "48042-08-6": {
@@ -1863,6 +1972,13 @@
       "Isocyanate",
       "Isocyanate ion(1-)",
       "Isocyanic acid, ion(1-)"
+    ]
+  },
+  "70756-39-7": {
+    "Name": "Ferrate (Fe(OH)31-) (9CI)",
+    "Other Names": [
+      "Trihydroxoferrate(1-)",
+      "Trihydroxyferrate(1-)"
     ]
   },
   "71-47-6": {
@@ -1933,6 +2049,9 @@
       "Propionate(1-)"
     ]
   },
+  "73128-36-6": {
+    "Name": "Ferrate (Fe(OH)42-), (SP-4-1)-"
+  },
   "766-76-7": {
     "Deleted CAS": [
       "21049-51-4"
@@ -1945,5 +2064,30 @@
       "Benzoic acid anion",
       "Benzoic acid conjugate base"
     ]
+  },
+  "79799-72-7": {
+    "Name": "Nickelate (Ni(OH)31-) (9CI)"
+  },
+  "920-52-5": {
+    "Deleted CAS": [
+      "51410-24-3"
+    ],
+    "Name": "Ethanedioic acid, ion(1-)",
+    "Other Names": [
+      "Oxalic acid, ion(1-) (8CI)",
+      "Hydrogen oxalate",
+      "Hydrogen oxalate anion",
+      "Hydrogen oxalate monoanion"
+    ]
+  },
+  "94492-00-9": {
+    "Name": "Polonium, ion (Po1-)",
+    "Other Names": [
+      "Po1-",
+      "Polonium(1-)"
+    ]
+  },
+  "97775-49-0": {
+    "Name": "Chromate (Cr(OH)41-), (T-4)- (9CI)"
   }
 }

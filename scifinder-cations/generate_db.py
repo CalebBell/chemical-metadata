@@ -43,9 +43,18 @@ failed_mol = set(['11062-77-4',# No charge
 arg = sys.argv[0:]
 arg.pop(0)
 for f in arg:
-#    try:
-    mol = Chem.MolFromMolFile(f)
-    inchi_val = inchi.MolToInchi(mol)
+    try:
+        mol = Chem.MolFromMolFile(f)
+        assert mol is not None
+    except:
+        print('Cannot read ', f)
+        continue
+    try:
+        inchi_val = inchi.MolToInchi(mol)
+    except:
+        print('BAILING ON', f)
+        continue
+    
     mol = inchi.MolFromInchi(inchi_val) # Works better for ions
     if mol is None:
         print('BAILING ON %s'%f)

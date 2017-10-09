@@ -21,6 +21,68 @@
       "Tetrabutylammonium(1+)"
     ]
   },
+  "105715-27-3": {
+    "Name": "Polonium, ion (Po6+)",
+    "Other Names": [
+      "Po6+",
+      "Polonium(6+)"
+    ]
+  },
+  "115776-74-4": {
+    "Name": "Nickel(2+), hydroxy- (9CI)"
+  },
+  "119701-01-8": {
+    "Name": "Manganese(3+), hydroxy- (9CI)"
+  },
+  "12125-54-1": {
+    "Name": "Nickel(1+), hydroxy- (9CI)",
+    "Other Names": [
+      "Nickel(1+), hydroxy-, ion (8CI)"
+    ]
+  },
+  "12135-07-8": {
+    "Deleted CAS": [
+      "12135-25-0"
+    ],
+    "Name": "Scandium(2+), hydroxy- (9CI)",
+    "Other Names": [
+      "Scandium(2+), hydroxy-, ion (8CI)"
+    ]
+  },
+  "12168-64-8": {
+    "Deleted CAS": [
+      "77298-94-3",
+      "85908-74-3"
+    ],
+    "Name": "Lead(1+), hydroxy- (9CI)",
+    "Other Names": [
+      "Lead(1+), hydroxy-, ion (8CI)",
+      "Lead hydroxide (PbOH1+)",
+      "Lead hydroxide ion (PbOH+)"
+    ]
+  },
+  "12179-03-2": {
+    "Deleted CAS": [
+      "12382-85-3"
+    ],
+    "Name": "Thorium(3+), hydroxy- (9CI)",
+    "Other Names": [
+      "Thorium(3+), hydroxy-, ion (8CI)",
+      "Thorium hydroxide ion (ThOH3+)"
+    ]
+  },
+  "12179-05-4": {
+    "Deleted CAS": [
+      "12382-99-9",
+      "12383-11-8"
+    ],
+    "Name": "Thorium(2+), dihydroxy- (9CI)",
+    "Other Names": [
+      "Thorium(2+), dihydroxy-, ion (8CI)",
+      "Dihydroxythorium(2+)",
+      "Thorium hydroxide ion (Th(OH)22+)"
+    ]
+  },
   "12298-97-4": {
     "Name": "Zirconyl ion(2+) (8CI,9CI)",
     "Other Names": [
@@ -29,6 +91,15 @@
       "Zirconium oxide ion (ZrO2+)",
       "Zirconium(2+), oxo-",
       "Zirconyl ion"
+    ]
+  },
+  "12299-69-3": {
+    "Name": "Iron(2+), hydroxy- (9CI)",
+    "Other Names": [
+      "Iron(2+), hydroxy-, ion (8CI)",
+      "Iron hydroxide ion ((FeOH)2+)",
+      "Iron monohydroxide ion(2+)",
+      "Iron monohydroxide(2+)"
     ]
   },
   "12323-66-9": {
@@ -42,6 +113,9 @@
       "Dioxoamericium ion(2+)",
       "Dioxoamericium(2+)"
     ]
+  },
+  "12325-02-9": {
+    "Name": "Mercury(1+), hydroxy- (9CI)"
   },
   "12408-02-5": {
     "Name": "Hydrogen ion",
@@ -65,6 +139,23 @@
       "Hydrogen, ion (H1+) electrolytic"
     ]
   },
+  "12528-83-5": {
+    "Name": "Iron(2+), dihydroxy- (9CI)",
+    "Other Names": [
+      "Iron(4+), tetrahydroxydi-, ion (8CI)"
+    ]
+  },
+  "12588-30-6": {
+    "Deleted CAS": [
+      "12296-82-1"
+    ],
+    "Name": "Aluminum(1+), oxo- (9CI)",
+    "Other Names": [
+      "Aluminum(1+), oxo-, ion (8CI)",
+      "Aluminum monoxide ion(1+)",
+      "Aluminum oxide (AlO+)"
+    ]
+  },
   "12596-26-8": {
     "Deleted CAS": [
       "34767-64-1",
@@ -80,11 +171,23 @@
       "Mercury dimer(2+)"
     ]
   },
+  "127622-32-6": {
+    "Name": "Yttrium(2+), hydroxy- (9CI)"
+  },
+  "129466-35-9": {
+    "Name": "Tellurium(1+), trihydroxy- (9CI)"
+  },
   "13010-31-6": {
     "Deleted CAS": [
       "1130194-68-1"
     ],
     "Name": "1-Propanaminium,\u00a0N,N,N-tripropyl-"
+  },
+  "1313606-05-1": {
+    "Name": "Indium(3+), hydroxy-"
+  },
+  "134627-17-1": {
+    "Name": "Scandium(1+), hydroxy- (9CI)"
   },
   "13968-08-6": {
     "Deleted CAS": [
@@ -116,6 +219,13 @@
       "Oxonium ion",
       "Oxonium ion (H3O1+)",
       "Oxonium(1+)"
+    ]
+  },
+  "139941-00-7": {
+    "Name": "Lutetium(1+), fluoro- (9CI)",
+    "Other Names": [
+      "Lutetium fluoride ion (LuF1+)",
+      "Lutetium monofluoride ion(1+)"
     ]
   },
   "14127-61-8": {
@@ -358,6 +468,20 @@
       "Indium(1+)"
     ]
   },
+  "14877-29-3": {
+    "Name": "Gallium, ion (Ga2+)",
+    "Other Names": [
+      "Ga2+",
+      "Gallium ion(2+)"
+    ]
+  },
+  "14877-30-6": {
+    "Name": "Indium, ion (In2+)",
+    "Other Names": [
+      "In2+",
+      "Indium(2+)"
+    ]
+  },
   "14913-52-1": {
     "Deleted CAS": [
       "22541-15-7"
@@ -379,6 +503,13 @@
       "Silver(II)"
     ]
   },
+  "15092-05-4": {
+    "Name": "Iron(1+), hydroxy- (9CI)",
+    "Other Names": [
+      "Iron(1+), hydroxy-, ion (8CI)",
+      "Hydroxyiron(1+)"
+    ]
+  },
   "15121-26-3": {
     "Name": "Vanadium, ion (V2+)",
     "Other Names": [
@@ -388,6 +519,9 @@
       "Vanadium(2+)",
       "Vanadium(2+) ion"
     ]
+  },
+  "151462-86-1": {
+    "Name": "Tin(3+), hydroxy- (9CI)"
   },
   "15158-11-9": {
     "Deleted CAS": [
@@ -412,6 +546,12 @@
       "Cupric ion (Cu2+)"
     ]
   },
+  "15391-91-0": {
+    "Name": "Thallium(1+), dihydroxy- (9CI)",
+    "Other Names": [
+      "Thallium(1+), dihydroxy-, ion (8CI)"
+    ]
+  },
   "15438-31-0": {
     "Name": "Iron, ion (Fe2+)",
     "Other Names": [
@@ -433,6 +573,23 @@
       "Zirconium ion(4+)",
       "Zirconium(4+)",
       "Zr4+"
+    ]
+  },
+  "15823-78-6": {
+    "Name": "Thallium(2+), hydroxy- (9CI)",
+    "Other Names": [
+      "Thallium(2+), hydroxy-, ion (8CI)"
+    ]
+  },
+  "15906-92-0": {
+    "Deleted CAS": [
+      "12324-06-0"
+    ],
+    "Name": "Chromium(2+), hydroxy- (9CI)",
+    "Other Names": [
+      "Chromium(2+), hydroxy-, ion (8CI)",
+      "Chromium hydroxide ion (CrOH2+)",
+      "Chromium monohydroxide(2+)"
     ]
   },
   "15912-80-8": {
@@ -589,6 +746,15 @@
       "Mn2+"
     ]
   },
+  "16408-24-5": {
+    "Name": "Iron(1+), dihydroxy- (9CI)",
+    "Other Names": [
+      "Iron(1+), dihydroxy-, ion (8CI)"
+    ]
+  },
+  "164265-61-6": {
+    "Name": "Yttrium(1+), hydroxy- (9CI)"
+  },
   "16455-68-8": {
     "Name": "Platinum(2+), tetraammine-, (SP-4-1)- (9CI)",
     "Other Names": [
@@ -597,6 +763,16 @@
       "Tetraammine platinum(II)",
       "Tetraammineplatinum(2+)",
       "Tetramineplatinum(II)"
+    ]
+  },
+  "16458-09-6": {
+    "Deleted CAS": [
+      "11085-74-8"
+    ],
+    "Name": "Aluminum(2+), hydroxy- (9CI)",
+    "Other Names": [
+      "Aluminum(2+), hydroxy-, ion (8CI)",
+      "Hydroxyaluminum(2+)"
     ]
   },
   "16637-16-4": {
@@ -796,6 +972,9 @@
       "Protonated hydrazine"
     ]
   },
+  "186449-38-7": {
+    "Name": "Indium(2+), hydroxy- (9CI)"
+  },
   "18923-26-7": {
     "Name": "Cerium, ion (Ce3+)",
     "Other Names": [
@@ -817,6 +996,15 @@
       "Ytterbium(III)"
     ]
   },
+  "189450-92-8": {
+    "Name": "Iron(2+), tetrahydroxy-, (T-4)- (9CI)"
+  },
+  "18946-64-0": {
+    "Name": "Lutetium(2+), fluoro- (9CI)",
+    "Other Names": [
+      "Lutetium(2+), fluoro-, ion (8CI)"
+    ]
+  },
   "18973-22-3": {
     "Deleted CAS": [
       "73060-55-6"
@@ -830,6 +1018,9 @@
       "Neptunium oxide ion(NpO22+)",
       "Neptunyl ion (NpO22+)"
     ]
+  },
+  "198830-58-9": {
+    "Name": "Nickel(1+), trihydroxy- (9CI)"
   },
   "20074-52-6": {
     "Deleted CAS": [
@@ -863,6 +1054,14 @@
       "Tetrahexylammonium cation",
       "Tetrahexylammonium ion",
       "Tetrahexylammoniumion(1+)"
+    ]
+  },
+  "20561-58-4": {
+    "Name": "Rhenium, ion (Re1+)",
+    "Other Names": [
+      "Re1+",
+      "Rhenium ion(1+)",
+      "Rhenium(1+)"
     ]
   },
   "20644-97-7": {
@@ -968,6 +1167,9 @@
       "Triisoamylbutylammonium",
       "Triisopentylbutylammonium ion(1+)"
     ]
+  },
+  "219946-99-3": {
+    "Name": "Aluminum(3+), (dihydrogen dioxide)- (9CI)"
   },
   "22537-20-8": {
     "Name": "Beryllium, ion (Be2+)",
@@ -1109,6 +1311,13 @@
       "Tl1+"
     ]
   },
+  "22537-58-2": {
+    "Name": "Polonium, ion (Po2+)",
+    "Other Names": [
+      "Po2+",
+      "Polonium(2+)"
+    ]
+  },
   "22537-59-3": {
     "Name": "Protactinium, ion (Pa4+)",
     "Other Names": [
@@ -1234,6 +1443,22 @@
       "Hafnium(4+)",
       "Hafnium, ion(4+)",
       "Hf4+"
+    ]
+  },
+  "22541-28-2": {
+    "Name": "Rhenium, ion (Re7+)",
+    "Other Names": [
+      "Re7+",
+      "Rhenium ion(7+)",
+      "Rhenium(7+)",
+      "Rhenium(7+) ion"
+    ]
+  },
+  "22541-34-0": {
+    "Name": "Polonium, ion (Po4+)",
+    "Other Names": [
+      "Po4+",
+      "Polonium(4+)"
     ]
   },
   "22541-36-2": {
@@ -1382,6 +1607,22 @@
       "Ytterbium(II)"
     ]
   },
+  "22542-02-5": {
+    "Name": "Rhenium, ion (Re4+)",
+    "Other Names": [
+      "Re4+",
+      "Rhenium ion(4+)",
+      "Rhenium(4+)"
+    ]
+  },
+  "22542-03-6": {
+    "Name": "Rhenium, ion (Re2+)",
+    "Other Names": [
+      "Re2+",
+      "Rhenium ion(2+)",
+      "Rhenium(2+)"
+    ]
+  },
   "22542-10-5": {
     "Name": "Platinum, ion (Pt2+)",
     "Other Names": [
@@ -1389,6 +1630,13 @@
       "Platinum(2+)",
       "Platinum(II) ion",
       "Pt2+"
+    ]
+  },
+  "22569-48-8": {
+    "Name": "Zinc(1+), hydroxy- (9CI)",
+    "Other Names": [
+      "Zinc(1+), hydroxy-, ion (8CI)",
+      "Hydroxozinc(1+)"
     ]
   },
   "22578-81-0": {
@@ -1459,6 +1707,19 @@
       "Plutonyl ion (PuO2+)"
     ]
   },
+  "23402-66-6": {
+    "Name": "Titanium(1+), trihydroxy- (9CI)",
+    "Other Names": [
+      "Titanium(1+), trihydroxy-, ion (8CI)"
+    ]
+  },
+  "23411-85-0": {
+    "Name": "Aluminum(1+), dihydroxy- (9CI)",
+    "Other Names": [
+      "Aluminum(1+), dihydroxy-, ion (8CI)",
+      "Dihydroxyaluminum(1+)"
+    ]
+  },
   "23713-46-4": {
     "Name": "Bismuth, ion (Bi3+)",
     "Other Names": [
@@ -1511,6 +1772,12 @@
       "Potassium(1+)"
     ]
   },
+  "24228-44-2": {
+    "Name": "Manganese(2+), hydroxy- (9CI)",
+    "Other Names": [
+      "Manganese(2+), hydroxy-, ion (8CI)"
+    ]
+  },
   "25215-10-5": {
     "Deleted CAS": [
       "43531-41-5",
@@ -1527,6 +1794,22 @@
       "Triaminocarbenium",
       "Triaminomethylium"
     ]
+  },
+  "27216-79-1": {
+    "Deleted CAS": [
+      "73593-35-8"
+    ],
+    "Name": "Tin(1+), hydroxy- (9CI)",
+    "Other Names": [
+      "Tin(1+), hydroxy-, ion (8CI)",
+      "Tin hydroxide (SnOH1+)"
+    ]
+  },
+  "289651-09-8": {
+    "Name": "Magnesium(2+), hydroxy- (9CI)"
+  },
+  "289651-10-1": {
+    "Name": "Zinc(2+), hydroxy- (9CI)"
   },
   "31479-14-8": {
     "Deleted CAS": [
@@ -1550,6 +1833,26 @@
       "Tetraheptylammonium ion"
     ]
   },
+  "36756-53-3": {
+    "Name": "Rhenium, ion (Re3+)",
+    "Other Names": [
+      "Re3+",
+      "Rhenium ion(3+)",
+      "Rhenium(3+)"
+    ]
+  },
+  "36812-31-4": {
+    "Deleted CAS": [
+      "39327-29-2"
+    ],
+    "Name": "Calcium(1+), hydroxy- (9CI)",
+    "Other Names": [
+      "Hydroxycalcium(1+)"
+    ]
+  },
+  "36812-32-5": {
+    "Name": "Strontium(1+), hydroxy- (9CI)"
+  },
   "37841-17-1": {
     "Deleted CAS": [
       "133828-30-5"
@@ -1559,6 +1862,12 @@
       "Tetra(isoamyl)ammonium ion",
       "Tetraisoamylammonium",
       "Tetraisopentylammonium"
+    ]
+  },
+  "41618-72-8": {
+    "Name": "Bismuth(2+), hydroxy- (9CI)",
+    "Other Names": [
+      "Hydroxybismuth(2+)"
     ]
   },
   "51-92-3": {
@@ -1577,6 +1886,34 @@
       "Tetramethylammonium(1+)",
       "Tetramine",
       "Tetramine (toxin)"
+    ]
+  },
+  "52140-06-4": {
+    "Name": "Gallium(1+), dihydroxy- (9CI)"
+  },
+  "55896-88-3": {
+    "Deleted CAS": [
+      "12299-79-5"
+    ],
+    "Name": "Indium(1+), dihydroxy- (9CI)"
+  },
+  "56797-55-8": {
+    "Name": "Polonium, ion (Po1+)",
+    "Other Names": [
+      "Po1+",
+      "Polonium(1+)"
+    ]
+  },
+  "60172-61-4": {
+    "Name": "Magnesium(1+), hydroxy- (9CI)",
+    "Other Names": [
+      "Hydroxymagnesium(1+)"
+    ]
+  },
+  "61003-61-0": {
+    "Name": "Thallium(1+), hydroxy- (9CI)",
+    "Other Names": [
+      "Hydroxothallium(1+)"
     ]
   },
   "66-40-0": {
@@ -1613,6 +1950,53 @@
       "Tetraethylammonium(1+) ion",
       "Tetramon",
       "Tetrylammonium"
+    ]
+  },
+  "67588-88-9": {
+    "Name": "Chromium(1+), dihydroxy- (9CI)",
+    "Other Names": [
+      "Chromium dihydroxide ion(1+)",
+      "Chromium hydroxide ion (Cr(OH)21+)",
+      "Dihydroxychromium(1+)"
+    ]
+  },
+  "68193-67-9": {
+    "Name": "Barium(1+), hydroxy- (9CI)",
+    "Other Names": [
+      "Barium monohydroxide ion(1+)"
+    ]
+  },
+  "68566-23-4": {
+    "Name": "Chromium(1+), hydroxy- (9CI)"
+  },
+  "70198-64-0": {
+    "Name": "Gallium(2+), hydroxy- (9CI)"
+  },
+  "74143-30-9": {
+    "Name": "Polonium, ion (Po3+)",
+    "Other Names": [
+      "Po3+",
+      "Polonium(3+)"
+    ]
+  },
+  "90759-83-4": {
+    "Name": "Lead(2+), hydroxy- (9CI)",
+    "Other Names": [
+      "Hydroxylead(2+)",
+      "Lead monohydroxide ion(2+)"
+    ]
+  },
+  "95118-37-9": {
+    "Name": "Manganese(1+), hydroxy- (9CI)"
+  },
+  "97066-74-5": {
+    "Deleted CAS": [
+      "105715-26-2"
+    ],
+    "Name": "Polonium, ion (Po5+)",
+    "Other Names": [
+      "Po5+",
+      "Polonium(5+)"
     ]
   }
 }
