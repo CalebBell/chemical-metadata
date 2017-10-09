@@ -1,5 +1,5 @@
-412976
-  -OEChem-10081719062D
+6857612
+  -OEChem-10091703552D
 
  17  8  0     0  0  0  0  0  0999 V2000
     3.9318    0.0000    0.0000 Mo  0  0  0  0  0  0  0  0  0  0  0  0
@@ -27,10 +27,11 @@
   7 15  3  0  0  0  0
   8 16  3  0  0  0  0
   9 17  3  0  0  0  0
-M  CHG  8  10  -1  11  -1  12  -1  13  -1  14  -1  15  -1  16  -1  17  -1
+M  CHG  8   1   4  10  -1  11  -1  12  -1  13  -1  14  -1  15  -1  16  -1
+M  CHG  1  17  -1
 M  END
 > <PUBCHEM_COMPOUND_CID>
-412976
+6857612
 
 > <PUBCHEM_COMPOUND_CANONICALIZED>
 1
@@ -51,40 +52,40 @@ M  END
 AAADcQBzwAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
 
 > <PUBCHEM_IUPAC_OPENEYE_NAME>
-molybdenum;octacyanide
+molybdenum(4+);octacyanide
 
 > <PUBCHEM_IUPAC_CAS_NAME>
-molybdenum;octacyanide
+molybdenum(4+);octacyanide
 
 > <PUBCHEM_IUPAC_NAME>
-molybdenum;octacyanide
+molybdenum(4+);octacyanide
 
 > <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
-molybdenum;octacyanide
+molybdenum(4+);octacyanide
 
 > <PUBCHEM_IUPAC_TRADITIONAL_NAME>
-molybdenum;octacyanide
+molybdenum(4+);octacyanide
 
 > <PUBCHEM_IUPAC_INCHI>
-InChI=1S/8CN.Mo/c8*1-2;/q8*-1;
+InChI=1S/8CN.Mo/c8*1-2;/q8*-1;+4
 
 > <PUBCHEM_IUPAC_INCHIKEY>
-NBGVJDDKPHCFFE-UHFFFAOYSA-N
+JZKVHJBDGMTVSM-UHFFFAOYSA-N
 
 > <PUBCHEM_EXACT_MASS>
 305.93
 
 > <PUBCHEM_MOLECULAR_FORMULA>
-C8MoN8-8
+C8MoN8-4
 
 > <PUBCHEM_MOLECULAR_WEIGHT>
 304.094
 
 > <PUBCHEM_OPENEYE_CAN_SMILES>
-[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[Mo]
+[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[Mo+4]
 
 > <PUBCHEM_OPENEYE_ISO_SMILES>
-[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[Mo]
+[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[Mo+4]
 
 > <PUBCHEM_CACTVS_TPSA>
 190
@@ -93,7 +94,7 @@ C8MoN8-8
 305.93
 
 > <PUBCHEM_TOTAL_CHARGE>
--8
+-4
 
 > <PUBCHEM_HEAVY_ATOM_COUNT>
 17
