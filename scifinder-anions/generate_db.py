@@ -45,6 +45,11 @@ arg.pop(0)
 for f in arg:
     try:
         mol = Chem.MolFromMolFile(f)
+        assert mol is not None
+    except:
+        print('Cannot read ', f)
+        continue
+    try:
         inchi_val = inchi.MolToInchi(mol)
     except:
         print('BAILING ON', f)
