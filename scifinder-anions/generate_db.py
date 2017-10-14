@@ -38,39 +38,60 @@ for CAS, d in pdf_data.items():
 dup_names =  [item for item, count in Counter(all_names).items() if count > 1]
 all_names = set(all_names)
 
-failed_mol = set(['11062-77-4',# No charge
-                  ])
 
 arg = sys.argv[0:]
 arg.pop(0)
 for f in arg:
-    try:
-        mol = Chem.MolFromMolFile(f)
-        assert mol is not None
-    except:
-        print('Cannot read ', f)
-        continue
-    try:
-        inchi_val = inchi.MolToInchi(mol)
-    except:
-        print('BAILING ON', f)
-        continue
-    
-    mol = inchi.MolFromInchi(inchi_val) # Works better for ions
-    if mol is None:
-        print('BAILING ON %s'%f)
-        continue
-    smi = Chem.MolToSmiles(mol, True)
-    inchi_val = inchi.MolToInchi(mol)
-    inchikey = inchi.InchiToInchiKey(inchi_val)
-    mw = Descriptors.MolWt(mol)
-    formula = CalcMolFormula(mol)
     CAS = f.split('/')[1] if '/' in f else f
     CAS = CAS.split('.')[0]
-    
-    if CAS in failed_CASs:
-        continue
-    
+    failed_mol = False
+    try:
+        try:
+            mol = Chem.MolFromMolFile(f)
+            assert mol is not None
+        except:
+            print('Cannot read ', f)
+            1/0
+        try:
+            inchi_val = inchi.MolToInchi(mol)
+        except:
+            print('BAILING ON', f)
+            1/0
+        mol = inchi.MolFromInchi(inchi_val) # Works better for ions
+        if mol is None:
+            print('BAILING ON reconversion to mol %s'%f)
+            1/0
+    except:
+        failed_mol = True
+        if CAS in syn_data:
+            d = syn_data[CAS]
+            if 'pubchem' in d:
+                pc = from_cid(d['pubchem'])
+                cid = pc.cid
+                iupac_name = pc.iupac_name
+                names = pc.synonyms
+                mw = pc.molecular_weight
+                smi = pc.canonical_smiles
+                inchi_val = pc.inchi
+                inchikey = pc.inchikey
+            else:
+                cid = -1
+                names = d['synonyms'] if 'synonyms' in d else ['']
+                mw = float(d['MW'])
+                smi = d['synonyms'] if 'synonyms' in d else ''
+                inchi_val = d['inchi'] if 'inchi' in d else ''
+                inchikey = d['inchikey'] if 'inchikey' in d else ''
+        else:
+            print('FAILED on %s and no custom data was available either' %CAS)
+            continue
+                
+    if not failed_mol:
+        smi = Chem.MolToSmiles(mol, True)
+        inchi_val = inchi.MolToInchi(mol)
+        inchikey = inchi.InchiToInchiKey(inchi_val)
+        mw = Descriptors.MolWt(mol)
+        formula = CalcMolFormula(mol)
+        
     try:
         pc = get_compounds(inchikey, 'inchikey')[0]
         cid = pc.cid
