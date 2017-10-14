@@ -18,8 +18,6 @@ for CAS, d in syn_data.items():
         all_user_names.extend(d['synonyms'])
 all_user_names = set(all_user_names)
 
-# These nnewly added CASs have their mols read wrong; fails even before the inchi level.
-failed_CASs = ['29145-79-7', '119046-04-7', '12258-16-1', '12758-12-2', '150393-25-2', '70756-39-7', '73128-36-6', '97775-49-0']
 
 pdf_data = open('Parsed scifinder metadata.json').read()
 pdf_data = json.loads(pdf_data)
@@ -50,6 +48,8 @@ for f in arg:
             d = syn_data[CAS]
             if 'pubchem' in d:
                 raise Exception('Pubchem specified, not trying to use the mol file')
+            elif 'formula' in d:
+                raise Exception('Formula specified, not trying to use the mol file')
         try:
             mol = Chem.MolFromMolFile(f)
             assert mol is not None
@@ -83,9 +83,11 @@ for f in arg:
                 cid = -1
                 names = d['synonyms'] if 'synonyms' in d else ['']
                 mw = float(d['MW'])
-                smi = d['synonyms'] if 'synonyms' in d else ''
+                smi = d['smiles'] if 'smiles' in d else ''
+                formula = d['formula'] if 'formula' in d else ''
                 inchi_val = d['inchi'] if 'inchi' in d else ''
                 inchikey = d['inchikey'] if 'inchikey' in d else ''
+                iupac_name = ''
         else:
             print('FAILED on %s and no custom data was available either' %CAS)
             continue
@@ -98,10 +100,11 @@ for f in arg:
         formula = CalcMolFormula(mol)
         
     try:
-        pc = get_compounds(inchikey, 'inchikey')[0]
-        cid = pc.cid
-        iupac_name = pc.iupac_name
-        names = pc.synonyms
+        if not failed_mol:
+            pc = get_compounds(inchikey, 'inchikey')[0]
+            cid = pc.cid
+            iupac_name = pc.iupac_name
+            names = pc.synonyms
     except:
         cid = -1
         iupac_name = ''
