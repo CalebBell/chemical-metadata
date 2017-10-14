@@ -46,6 +46,10 @@ for f in arg:
     CAS = CAS.split('.')[0]
     failed_mol = False
     try:
+        if CAS in syn_data:
+            d = syn_data[CAS]
+            if 'pubchem' in d:
+                raise Exception('Pubchem specified, not trying to use the mol file')
         try:
             mol = Chem.MolFromMolFile(f)
             assert mol is not None
@@ -66,7 +70,7 @@ for f in arg:
         if CAS in syn_data:
             d = syn_data[CAS]
             if 'pubchem' in d:
-                pc = from_cid(d['pubchem'])
+                pc = Compound.from_cid(d['pubchem'])
                 cid = pc.cid
                 iupac_name = pc.iupac_name
                 names = pc.synonyms
@@ -74,6 +78,7 @@ for f in arg:
                 smi = pc.canonical_smiles
                 inchi_val = pc.inchi
                 inchikey = pc.inchikey
+                formula = pc.molecular_formula
             else:
                 cid = -1
                 names = d['synonyms'] if 'synonyms' in d else ['']
