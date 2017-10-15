@@ -37,9 +37,19 @@ dup_names =  [item for item, count in Counter(all_names).items() if count > 1]
 all_names = set(all_names)
 
 
-arg = sys.argv[0:]
-arg.pop(0)
-for f in arg:
+args = sys.argv[0:]
+args.pop(0)
+
+INCLUDE_EVERYTHING = True
+
+if INCLUDE_EVERYTHING:
+    for CAS, d in syn_data.items():
+        if 'pubchem' in d or 'formula' in d:
+            if not any([CAS in i for i in args]):
+                args.append('mol/%s.mol' %CAS)
+
+
+for f in args:
     CAS = f.split('/')[1] if '/' in f else f
     CAS = CAS.split('.')[0]
     failed_mol = False
