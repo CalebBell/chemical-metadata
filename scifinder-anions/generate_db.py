@@ -8,6 +8,7 @@ from rdkit.Chem.rdMolDescriptors import CalcMolFormula
 from pubchempy import get_compounds, Compound
 import json
 from collections import Counter
+from thermo import serialize_formula
 
 syn_data = open('Good synoynms by CAS.json').read()
 syn_data = json.loads(syn_data)
@@ -158,6 +159,8 @@ for f in args:
                 actual_names.append(n)
 
     actual_names = [i for i in actual_names if i]
+    
+    formula = serialize_formula(formula)
     s = '%d\t%s\t%s\t%g\t%s\t%s\t%s\t%s\t' %(cid, CAS, formula, mw, smi, inchi_val, inchikey, iupac_name)
     
     
