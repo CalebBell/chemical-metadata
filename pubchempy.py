@@ -32,6 +32,14 @@ try:
 except ImportError:
     from itertools import izip_longest as zip_longest
 
+try:
+    from StringIO import StringIO
+except ImportError:
+    from io import StringIO
+    
+from fcache.cache import FileCache
+mycache = FileCache('myapp', flag='cs', serialize=True, app_cache_dir='/home/caleb/Documents/University/CHE3123/chemical-metadata/scifinder-anions/')
+
 
 __author__ = 'Matt Swain'
 __email__ = 'm.swain@me.com'
@@ -268,7 +276,24 @@ def request(identifier, namespace='cid', domain='compound', operation=None, outp
     try:
         log.debug('Request URL: %s', apiurl)
         log.debug('Request data: %s', postdata)
-        response = urlopen(apiurl, postdata)
+        key = apiurl + str(postdata)
+        
+        if key in mycache:
+#            print('in cache', apiurl, postdata)
+            text = mycache[key]
+        else:
+#            print('not in cache', apiurl, postdata)
+            response = urlopen(apiurl, postdata)
+            try:
+                mycache[key] = response.read().decode('utf-8')
+            except:
+                mycache[key] = response.read()
+        text = mycache[key]
+            
+        response = StringIO()
+        response.write(str(text))
+        response.seek(0)
+#        print('returning')
         return response
     except HTTPError as e:
         raise PubChemHTTPError(e)
@@ -278,14 +303,20 @@ def get(identifier, namespace='cid', domain='compound', operation=None, output='
     """Request wrapper that automatically handles async requests."""
     if (searchtype and searchtype != 'xref') or namespace in ['formula']:
         response = request(identifier, namespace, domain, None, 'JSON', searchtype, **kwargs).read()
-        status = json.loads(response.decode())
+        try:
+            status = json.loads(response.decode())
+        except:
+            status = json.loads(response)
         if 'Waiting' in status and 'ListKey' in status['Waiting']:
             identifier = status['Waiting']['ListKey']
             namespace = 'listkey'
             while 'Waiting' in status and 'ListKey' in status['Waiting']:
                 time.sleep(2)
                 response = request(identifier, namespace, domain, operation, 'JSON', **kwargs).read()
-                status = json.loads(response.decode())
+                try:
+                    status = json.loads(response.decode())
+                except:
+                    status = json.loads(response)
             if not output == 'JSON':
                 response = request(identifier, namespace, domain, operation, output, searchtype, **kwargs).read()
     else:
@@ -296,7 +327,10 @@ def get(identifier, namespace='cid', domain='compound', operation=None, output='
 def get_json(identifier, namespace='cid', domain='compound', operation=None, searchtype=None, **kwargs):
     """Request wrapper that automatically parses JSON response and supresses NotFoundError."""
     try:
-        return json.loads(get(identifier, namespace, domain, operation, 'JSON', searchtype, **kwargs).decode())
+        try:
+            return json.loads(get(identifier, namespace, domain, operation, 'JSON', searchtype, **kwargs).decode())
+        except:
+            return json.loads(get(identifier, namespace, domain, operation, 'JSON', searchtype, **kwargs))
     except NotFoundError as e:
         log.info(e)
         return None
@@ -723,7 +757,12 @@ class Compound(object):
 
         :param int cid: The PubChem Compound Identifier (CID).
         """
-        record = json.loads(request(cid, **kwargs).read().decode())['PC_Compounds'][0]
+        try:
+            record = json.loads(request(cid, **kwargs).read().decode())['PC_Compounds'][0]
+        except:
+            d = request(cid, **kwargs).read()
+#            print('going to fail', d)
+            record = json.loads(d)['PC_Compounds'][0]
         return cls(record)
 
     def __repr__(self):
