@@ -72,11 +72,16 @@ for f in arg:
         pc = get_compounds(inchikey, 'inchikey')[0]
         cid = pc.cid
         iupac_name = pc.iupac_name
-        names = pc.synonyms
     except:
         cid = -1
         iupac_name = ''
+        pc = None
+    try:
+        # Bug with caching, easier to fix here
+        names = pc.synonyms
+    except:
         names = ['']
+
     
     other_CAS = []
     if CAS in pdf_data:
