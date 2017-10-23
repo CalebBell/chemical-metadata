@@ -10,6 +10,10 @@ import json
 from collections import Counter
 from thermo import serialize_formula
 
+from fcache.cache import FileCache
+mycache = FileCache('myapp', flag='cs', serialize=True, app_cache_dir='/home/caleb/Documents/University/CHE3123/chemical-metadata/fcache')
+
+
 syn_data = open('Good synoynms by CAS.json').read()
 syn_data = json.loads(syn_data)
 
@@ -81,15 +85,20 @@ for f in args:
         if CAS in syn_data:
             d = syn_data[CAS]
             if 'pubchem' in d:
-                pc = Compound.from_cid(d['pubchem'])
-                cid = pc.cid
-                iupac_name = pc.iupac_name
-                names = pc.synonyms
-                mw = pc.molecular_weight
-                smi = pc.canonical_smiles
-                inchi_val = pc.inchi
-                inchikey = pc.inchikey
-                formula = pc.molecular_formula
+                if str(d['pubchem']) in mycache:
+                    cid, iupac_name, names, mw, smi, inchi_val, inchikey, formula = mycache[str(d['pubchem'])]
+                else:
+                    pc = Compound.from_cid(d['pubchem'])
+                    cid = pc.cid
+                    iupac_name = pc.iupac_name
+                    names = pc.synonyms
+                    mw = pc.molecular_weight
+                    smi = pc.canonical_smiles
+                    inchi_val = pc.inchi
+                    inchikey = pc.inchikey
+                    formula = pc.molecular_formula
+                    
+                    mycache[str(d['pubchem'])] = (cid, iupac_name, names, mw, smi, inchi_val, inchikey, formula)
             else:
                 cid = -1
                 names = d['synonyms'] if 'synonyms' in d else ['']
@@ -112,10 +121,17 @@ for f in args:
         
     try:
         if not failed_mol:
-            pc = get_compounds(inchikey, 'inchikey')[0]
-            cid = pc.cid
-            iupac_name = pc.iupac_name
-            names = pc.synonyms
+            if str(inchikey) in mycache:
+                cid, iupac_name, names = mycache[str(inchikey)]
+            else:
+                try:
+                    pc = get_compounds(inchikey, 'inchikey')[0]
+                    cid = pc.cid
+                    iupac_name = pc.iupac_name
+                    names = pc.synonyms
+                    mycache[str(inchikey)] = (cid, iupac_name, names)
+                except:
+                    mycache[str(inchikey)] = (-1, '', [''])
     except:
         cid = -1
         iupac_name = ''
