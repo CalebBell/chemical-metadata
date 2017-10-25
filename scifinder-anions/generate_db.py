@@ -1,5 +1,6 @@
 #! /home/caleb/.anaconda3/bin/python
 import sys
+import os
 
 import rdkit
 from rdkit import Chem
@@ -44,6 +45,7 @@ all_names = set(all_names)
 
 args = sys.argv[0:]
 args.pop(0)
+dest = args.pop(-1)
 
 INCLUDE_EVERYTHING = True
 
@@ -53,6 +55,8 @@ if INCLUDE_EVERYTHING:
             if not any([CAS in i for i in args]):
                 args.append('mol/%s.mol' %CAS)
 
+dest_open = open(dest + '_tmp', 'w')
+print = lambda x : dest_open.write(x+'\n')
 
 for f in args:
     CAS = f.split('/')[1] if '/' in f else f
@@ -69,12 +73,12 @@ for f in args:
             mol = Chem.MolFromMolFile(f)
             assert mol is not None
         except:
-            print('Cannot read ', f)
+            print('Cannot read %s' % f)
             1/0
         try:
             inchi_val = inchi.MolToInchi(mol)
         except:
-            print('BAILING ON', f)
+            print('BAILING ON %s' %f)
             1/0
         mol = inchi.MolFromInchi(inchi_val) # Works better for ions
         if mol is None:
@@ -182,3 +186,8 @@ for f in args:
     
     s += '\t'.join(actual_names)
     print(s)
+
+dest_open.close()
+
+os.system('cat %s | sort -n > %s' %(dest + '_tmp', dest))
+os.remove(dest + '_tmp')
