@@ -11,6 +11,11 @@ import json
 from collections import Counter
 from thermo import serialize_formula
 
+
+os.system('python2 parse_pdf.py')
+
+
+
 from fcache.cache import FileCache
 mycache = FileCache('myapp', flag='cs', serialize=True, app_cache_dir='/home/caleb/Documents/University/CHE3123/chemical-metadata/fcache')
 
@@ -42,6 +47,11 @@ for CAS, d in pdf_data.items():
 dup_names =  [item for item, count in Counter(all_names).items() if count > 1]
 all_names = set(all_names)
 
+# TODO add without smiles or inchi
+ignored_CASs = ['12339-27-4',  # H2P2+ can't draw it, not in any db
+                '68111-10-4', # AuBr2+ bromine charge problem, smiles is [Br-][Au+][Br-]
+                '107596-48-5' # H2P2-1 can't draw it not in any db
+                ]
 
 args = sys.argv[0:]
 args.pop(0)
@@ -58,9 +68,13 @@ if INCLUDE_EVERYTHING:
 dest_open = open(dest + '_tmp', 'w')
 print = lambda x : dest_open.write(x+'\n')
 
-for f in args:
+def parse_f(f):
+    names = ['']
+    cid = -1
     CAS = f.split('/')[1] if '/' in f else f
     CAS = CAS.split('.')[0]
+    if CAS in ignored_CASs:
+        return None
     failed_mol = False
     try:
         if CAS in syn_data:
@@ -114,7 +128,7 @@ for f in args:
                 iupac_name = ''
         else:
             print('FAILED on %s and no custom data was available either' %CAS)
-            continue
+            return None
                 
     if not failed_mol:
         smi = Chem.MolToSmiles(mol, True)
@@ -122,7 +136,7 @@ for f in args:
         inchikey = inchi.InchiToInchiKey(inchi_val)
         mw = Descriptors.MolWt(mol)
         formula = CalcMolFormula(mol)
-        
+        iupac_name = ''
     try:
         if not failed_mol:
             if str(inchikey) in mycache:
@@ -186,6 +200,10 @@ for f in args:
     
     s += '\t'.join(actual_names)
     print(s)
+    return None
+
+for f in args:
+    parse_f(f)
 
 dest_open.close()
 

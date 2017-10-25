@@ -1,4 +1,7 @@
 {
+  "107596-48-5": {
+    "Name": "Diphosphene, radical ion(1-) (9CI)"
+  },
   "11062-77-4": {
     "Deleted CAS": [
       "12185-08-9",
@@ -85,6 +88,28 @@
       "Boric acid (H2B4O7), ion(2-)",
       "Pyroborate",
       "Tetraborate"
+    ]
+  },
+  "12299-76-2": {
+    "Deleted CAS": [
+      "22475-82-7"
+    ],
+    "Name": "Plumbate (Pb(OH)O1-) (9CI)"
+  },
+  "123454-39-7": {
+    "Name": "Ferrate (Fe(OH)O31-), (T-4)- (9CI)"
+  },
+  "123505-69-1": {
+    "Name": "Ferrate (Fe(OH)O32-), (T-4)- (9CI)"
+  },
+  "12447-33-5": {
+    "Deleted CAS": [
+      "124386-10-3"
+    ],
+    "Name": "B4\u00a0H O7",
+    "Other Names": [
+      "Borate (B4O72-), hydrogen",
+      "Borate, hydrogen (8CI)"
     ]
   },
   "12597-05-6": {
@@ -320,6 +345,15 @@
       "Selenate ion",
       "Selenate ion (SeO42-)",
       "Selenate ion(2-)"
+    ]
+  },
+  "14127-68-5": {
+    "Name": "Triphosphate",
+    "Other Names": [
+      "Triphosphate (P3O105-)",
+      "Triphosphate(5-)",
+      "Tripolyphosphate",
+      "Tripolyphosphate (P3O105-) ion"
     ]
   },
   "14127-70-9": {
@@ -642,6 +676,9 @@
       "Tribromide ion(1-)"
     ]
   },
+  "145679-05-6": {
+    "Name": "Antimonate (Sb(OH)63-), (OC-6-11)- (9CI)"
+  },
   "14648-50-1": {
     "Deleted CAS": [
       "22863-96-3"
@@ -794,6 +831,9 @@
       "Chloric acid, ion(1-)",
       "Chlorine oxide (ClO31-)"
     ]
+  },
+  "148735-91-5": {
+    "Name": "Be2\u00a0O3"
   },
   "14874-70-5": {
     "Alternate CAS": [
@@ -1011,6 +1051,19 @@
       "Persulfate ion (S2O8-2)"
     ]
   },
+  "15181-43-8": {
+    "Name": "Phosphorofluoridate (8CI,9CI)",
+    "Other Names": [
+      "Fluorophosphate",
+      "Fluorophosphate (FPO32-)",
+      "Fluorophosphate ion (PFO32-)",
+      "Fluorophosphate ion (PO3F2-)",
+      "Fluorotrioxophosphate(2-)",
+      "Monofluorophosphate (PO3F2-)",
+      "Monofluorophosphate(2-)",
+      "Phosphorofluoridate(2-)"
+    ]
+  },
   "15181-46-1": {
     "Deleted CAS": [
       "12795-58-3",
@@ -1134,6 +1187,43 @@
       "Iodic acid (HIO3), ion(1-)"
     ]
   },
+  "15460-68-1": {
+    "Deleted CAS": [
+      "21578-16-5",
+      "89713-32-6",
+      "1800212-13-8"
+    ],
+    "Name": "Phosphinic acid, ion(1-) (9CI)",
+    "Other Names": [
+      "Phosphinate (8CI)",
+      "Hypophosphite",
+      "Hypophosphite ion (H2PO2-)",
+      "Hypophosphite(1-)",
+      "Hypophosphite(1-) ion",
+      "Phosphinate (H2PO21-)",
+      "Phosphonite, hydrogen"
+    ]
+  },
+  "15477-76-6": {
+    "Deleted CAS": [
+      "15181-42-7",
+      "69824-89-1",
+      "98844-66-7",
+      "136800-56-1",
+      "180093-97-4",
+      "1224049-77-7"
+    ],
+    "Name": "Phosphonic acid, ion(2-) (8CI,9CI)",
+    "Other Names": [
+      "Hydrogen phosphite (HPO32-)",
+      "Monohydrogen phosphite",
+      "Phosphite (HPO32-)",
+      "Phosphonate",
+      "Phosphonate (HPO32-)",
+      "Phosphonatedianion",
+      "Phosphonate(2-)"
+    ]
+  },
   "15502-74-6": {
     "Deleted CAS": [
       "11118-55-1"
@@ -1206,6 +1296,14 @@
       "Hydrogen chromate (HCrO41-)",
       "Hydroxytrioxochromate(1-)",
       "Monohydrogenchromate (HCrO4-)"
+    ]
+  },
+  "15705-55-2": {
+    "Name": "Metaphosphate (P3O93-)",
+    "Other Names": [
+      "Cyclotriphosphate",
+      "Trimetaphosphate",
+      "Trimetaphosphate trianion"
     ]
   },
   "15845-23-5": {
@@ -1528,6 +1626,17 @@
       "Octacyanomolybdate(4-)"
     ]
   },
+  "17997-40-9": {
+    "Deleted CAS": [
+      "933994-15-1"
+    ],
+    "Name": "Cyanamide,\u00a0N-cyano-, ion(1-)",
+    "Other Names": [
+      "Cyanamide, cyano-, ion(1-) (9CI)",
+      "Dicyanamide, ion(1-) (8CI)",
+      "Dicyanamide anion"
+    ]
+  },
   "18130-74-0": {
     "Deleted CAS": [
       "21088-77-7",
@@ -1583,6 +1692,16 @@
       "Nitrogen, ion (N3-)"
     ]
   },
+  "18973-62-1": {
+    "Name": "Cuprate(1-),\u00a0bis(cyano-\u03baC)-\u00a0(9CI)",
+    "Other Names": [
+      "Cuprate(1-), bis(cyano-C)-",
+      "Cuprate(1-), dicyano- (8CI)",
+      "Bis(cyano-C)cuprate(1-)",
+      "Dicyanocopper(1-)",
+      "Dicyanocuprate(1-)"
+    ]
+  },
   "19426-03-0": {
     "Name": "Mercurate(2-),\u00a0tetrakis(cyano-\u03baC)-,\u00a0(T-4)-",
     "Other Names": [
@@ -1602,6 +1721,13 @@
   },
   "195071-87-5": {
     "Name": "Thallate (Tl(OH)21-) (9CI)"
+  },
+  "20057-70-9": {
+    "Name": "Bismuthate(1-), tetrachloro-, (T-4)- (9CI)",
+    "Other Names": [
+      "Bismuthate(1-), tetrachloro- (8CI)",
+      "Tetrachlorobismuthate(1-)"
+    ]
   },
   "20175-28-4": {
     "Name": "Antimonate (SbO43-), (T-4)- (9CI)",
@@ -1654,6 +1780,18 @@
       "Aluminum oxide (AlO21-)"
     ]
   },
+  "21029-33-4": {
+    "Name": "Ruthenate(4-),\u00a0hexakis(cyano-\u03baC)-,\u00a0(OC-6-11)-",
+    "Other Names": [
+      "Ruthenate(4-),\u00a0hexacyano-\u00a0(8CI)",
+      "Ruthenate(4-),\u00a0hexakis(cyano-C)-,\u00a0(OC-6-11)-",
+      "(OC-6-11)-Hexakis(cyano-\u03baC)ruthenate(4-)",
+      "Hexacyanoruthenate\u00a0ion(4-)",
+      "Hexacyanoruthenate(4-)",
+      "Hexacyanoruthenate(II)",
+      "Hexacyanoruthenium(4-)"
+    ]
+  },
   "21340-03-4": {
     "Deleted CAS": [
       "703396-43-4",
@@ -1669,6 +1807,15 @@
       "Hexafluoroaluminate ion",
       "Hexafluoroaluminate(3-)",
       "Hexafluoroaluminate(3-) ion"
+    ]
+  },
+  "21374-25-4": {
+    "Name": "Ruthenate(2-),\u00a0hexakis(cyano-\u03baC)-,\u00a0(OC-6-11)-",
+    "Other Names": [
+      "Ruthenate(2-),\u00a0hexacyano-\u00a0(8CI)",
+      "Ruthenate(2-),\u00a0hexakis(cyano-C)-,\u00a0(OC-6-11)-",
+      "(OC-6-11)-Hexakis(cyano-\u03baC)ruthenate(2-)",
+      "Hexacyanoruthenate(2-)"
     ]
   },
   "21412-00-0": {
@@ -1698,6 +1845,18 @@
       "Tellurium, ion (Te2-)"
     ]
   },
+  "22806-79-7": {
+    "Name": "Aurate(1-),\u00a0tetrakis(cyano-\u03baC)-,\u00a0(SP-4-1)-",
+    "Other Names": [
+      "Aurate(1-),\u00a0tetracyano-\u00a0(8CI)",
+      "Aurate(1-),\u00a0tetrakis(cyano-C)-,\u00a0(SP-4-1)-",
+      "(SP-4-1)-Tetrakis(cyano-\u03baC)aurate(1-)",
+      "Tetracyanoaurate(1-)"
+    ]
+  },
+  "22853-17-4": {
+    "Name": "Aluminate (Al(OH)2O1-) (8CI,9CI)"
+  },
   "23134-05-6": {
     "Deleted CAS": [
       "11098-80-9",
@@ -1715,6 +1874,16 @@
       "Metabisulfite",
       "Metasulfite (S2O52-)",
       "Pyrosulfite (S2O52-)"
+    ]
+  },
+  "23209-26-9": {
+    "Name": "Cobaltate(4-),\u00a0hexakis(cyano-\u03baC)-,\u00a0(OC-6-11)-",
+    "Other Names": [
+      "Cobaltate(4-),\u00a0hexacyano-\u00a0(8CI)",
+      "Cobaltate(4-),\u00a0hexakis(cyano-C)-,\u00a0(OC-6-11)-",
+      "(OC-6-11)-Hexakis(cyano-\u03baC)cobaltate(4-)",
+      "Cobaltocyanide",
+      "Hexacyanocobaltate(4-)"
     ]
   },
   "24203-21-2": {
@@ -1742,11 +1911,26 @@
       "Hydrobromic acid, ion(1-)"
     ]
   },
+  "26214-93-7": {
+    "Name": "Cadmate (Cd(OH)42-), (T-4)- (9CI)",
+    "Other Names": [
+      "Cadmate ([Cd(OH)4]2-) (8CI)"
+    ]
+  },
   "26450-38-4": {
     "Name": "Vanadate (V(OH)O32-), (T-4)- (9CI)",
     "Other Names": [
       "Vanadate (VO43-), monohydrogen (8CI)",
       "Vanadate (HVO42-)"
+    ]
+  },
+  "265644-20-0": {
+    "Name": "H3\u00a0Mo7\u00a0O24"
+  },
+  "28486-22-8": {
+    "Name": "Phosphate(1-), fluorotrioxo-, (T-4)- (9CI)",
+    "Other Names": [
+      "Phosphate(1-), fluorotrioxo- (8CI)"
     ]
   },
   "29145-79-7": {
@@ -1755,6 +1939,24 @@
       "Ferrate ([Fe(OH)4]1-) (8CI)",
       "Tetrahydroxoferrate(1-)",
       "Tetrahydroxyferrate(1-)"
+    ]
+  },
+  "29703-19-3": {
+    "Deleted CAS": [
+      "797805-88-0"
+    ],
+    "Name": "Antimonate (Sb(OH)2O21-), (T-4)- (9CI)",
+    "Other Names": [
+      "Antimonate (SbO43-), dihydrogen (8CI)"
+    ]
+  },
+  "29872-00-2": {
+    "Name": "Antimonate (Sb(OH)61-), (OC-6-11)-",
+    "Other Names": [
+      "Antimonate (Sb(OH)61-)",
+      "Antimonate (SbO67-), hexahydrogen (8CI)",
+      "Hexahydroxoantimonate(1-)",
+      "Hexahydroxyantimonate(1-)"
     ]
   },
   "302-04-5": {
@@ -1780,6 +1982,12 @@
       "Thiocyanate anion",
       "Thiocyanate ion",
       "Thiocyanide"
+    ]
+  },
+  "30291-68-0": {
+    "Name": "Cuprate(1-), diiodo- (8CI,9CI)",
+    "Other Names": [
+      "Diiodocuprate(1-)"
     ]
   },
   "3198-32-1": {
@@ -1868,6 +2076,17 @@
       "Carbonic acid, ion(2-)"
     ]
   },
+  "39201-27-9": {
+    "Name": "Borate (BO33-), dihydrogen (9CI)",
+    "Other Names": [
+      "Borate (H2BO3-)",
+      "Borate (H2BO31-)",
+      "Borate anion"
+    ]
+  },
+  "41650-26-4": {
+    "Name": "Ruthenate(5-), hexakis(cyano-C)-, (OC-6-11)- (9CI)"
+  },
   "42499-21-8": {
     "Deleted CAS": [
       "51053-84-0",
@@ -1899,9 +2118,9 @@
     ],
     "Name": "Borate(1-), tetraphenyl-",
     "Other Names": [
+      "Tetraphenylborate(1-)",
       "Tetraphenylborate",
       "Tetraphenylborate (III)",
-      "Tetraphenylborate(1-)",
       "Tetraphenylboride ion",
       "Tetraphenylboron anion"
     ]
@@ -1923,6 +2142,23 @@
       "(SP-4-1)-Tetrakis(cyano-\u03baC)nickelate(2-)",
       "Tetracyanonickelate",
       "Tetracyanonickelate(2-)"
+    ]
+  },
+  "53293-42-8": {
+    "Deleted CAS": [
+      "64911-50-8"
+    ],
+    "Name": "Chromate (CrO21-) (9CI)",
+    "Other Names": [
+      "Chromate(1-), dioxo-",
+      "Chromite (anion)"
+    ]
+  },
+  "54692-27-2": {
+    "Name": "Ruthenate(3-), hexakis(cyano-C)-, (OC-6-11)-",
+    "Other Names": [
+      "(OC-6-11)-Hexakis(cyano-C)ruthenate(3-)",
+      "Hexacyanoruthenate(3-)"
     ]
   },
   "57-12-5": {
@@ -1976,6 +2212,16 @@
       "Isocyanate ion(1-)",
       "Isocyanic acid, ion(1-)"
     ]
+  },
+  "68111-10-4": {
+    "Name": "Aurate(1-), dibromo- (8CI,9CI)",
+    "Other Names": [
+      "Dibromoaurate(1-)",
+      "Gold dibromide ion (1-)"
+    ]
+  },
+  "687620-85-5": {
+    "Name": "Indate (In(OH)41-), (T-4)- (9CI)"
   },
   "70756-39-7": {
     "Name": "Ferrate (Fe(OH)31-) (9CI)",
@@ -2055,6 +2301,12 @@
   "73128-36-6": {
     "Name": "Ferrate (Fe(OH)42-), (SP-4-1)-"
   },
+  "754122-47-9": {
+    "Name": "Aurate(3-), tetrakis(cyano-C)-, (SP-4-1)- (9CI)"
+  },
+  "756789-51-2": {
+    "Name": "Aurate(2-), tetrakis(cyano-C)-, (SP-4-1)- (9CI)"
+  },
   "766-76-7": {
     "Deleted CAS": [
       "21049-51-4"
@@ -2070,6 +2322,9 @@
   },
   "79799-72-7": {
     "Name": "Nickelate (Ni(OH)31-) (9CI)"
+  },
+  "87965-36-4": {
+    "Name": "Phosphate(1-), hydrotrioxo- (9CI)"
   },
   "920-52-5": {
     "Deleted CAS": [
