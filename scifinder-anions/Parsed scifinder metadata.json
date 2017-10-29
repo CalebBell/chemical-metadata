@@ -512,6 +512,26 @@
       "Technetate (TcO41-)"
     ]
   },
+  "14333-21-2": {
+    "Deleted CAS": [
+      "12710-96-2",
+      "1884419-79-7"
+    ],
+    "Name": "Ruthenate (RuO41-), (T-4)- (9CI)",
+    "Other Names": [
+      "Ruthenate (RuO41-) (8CI)",
+      "Perruthenate (RuO4-)",
+      "Perruthenate (RuO41-)",
+      "Tetraoxoruthenate(1-) ion"
+    ]
+  },
+  "14333-22-3": {
+    "Name": "Ruthenate (RuO42-), (T-4)- (9CI)",
+    "Other Names": [
+      "Ruthenate (RuO42-) (8CI)",
+      "Tetraoxoruthenate(2-)"
+    ]
+  },
   "14333-24-5": {
     "Deleted CAS": [
       "37251-66-4",
@@ -1051,6 +1071,12 @@
       "Persulfate ion (S2O8-2)"
     ]
   },
+  "151111-42-1": {
+    "Name": "Antimonate (SbO33-)",
+    "Other Names": [
+      "Antimonate(3-), trioxo-"
+    ]
+  },
   "15181-43-8": {
     "Name": "Phosphorofluoridate (8CI,9CI)",
     "Other Names": [
@@ -1337,6 +1363,14 @@
     "Other Names": [
       "Mesylate anion",
       "Methanesulfonate anion"
+    ]
+  },
+  "16408-25-6": {
+    "Name": "Zincate (Zn(OH)42-), (T-4)- (9CI)",
+    "Other Names": [
+      "Zincate ([Zn(OH)4]2-) (8CI)",
+      "Tetrahydroxyzincate(2-)",
+      "Zinc hydroxide (Zn(OH)42-)"
     ]
   },
   "16474-32-1": {
@@ -1792,6 +1826,18 @@
       "Hexacyanoruthenium(4-)"
     ]
   },
+  "21172-59-8": {
+    "Deleted CAS": [
+      "50798-76-0"
+    ],
+    "Name": "Stannate (Sn(OH)62-), (OC-6-11)-",
+    "Other Names": [
+      "Stannate(2-), hexahydroxy- (8CI)",
+      "Hexahydroxostannate(2-)",
+      "Hexahydroxystannate(2-)",
+      "Hexahydroxystannate(IV)"
+    ]
+  },
   "21340-03-4": {
     "Deleted CAS": [
       "703396-43-4",
@@ -2004,6 +2050,9 @@
       "Benzenesulfonate ion"
     ]
   },
+  "322470-97-3": {
+    "Name": "Zincate (ZnO21-) (9CI)"
+  },
   "338-70-5": {
     "Name": "Ethanedioic acid, ion(2-)",
     "Other Names": [
@@ -2034,6 +2083,9 @@
       "Vanadate (H2VO4-)",
       "Vanadate (H2VO41-)"
     ]
+  },
+  "36121-95-6": {
+    "Name": "Antimonate (SbO31-) (9CI)"
   },
   "37181-39-8": {
     "Deleted CAS": [
@@ -2074,6 +2126,16 @@
       "Carbonate(2-)",
       "Carbonate(2-)ion",
       "Carbonic acid, ion(2-)"
+    ]
+  },
+  "39051-24-6": {
+    "Deleted CAS": [
+      "39282-27-4",
+      "40211-90-3"
+    ],
+    "Name": "Zincate (ZnO22-) (9CI)",
+    "Other Names": [
+      "Zincate(2-), dioxo-"
     ]
   },
   "39201-27-9": {
@@ -2220,6 +2282,15 @@
       "Gold dibromide ion (1-)"
     ]
   },
+  "683737-82-8": {
+    "Deleted CAS": [
+      "27264-01-3"
+    ],
+    "Name": "Antimonate (SbO21-) (9CI)",
+    "Other Names": [
+      "Antimony dioxide monoanion"
+    ]
+  },
   "687620-85-5": {
     "Name": "Indate (In(OH)41-), (T-4)- (9CI)"
   },
@@ -2301,6 +2372,9 @@
   "73128-36-6": {
     "Name": "Ferrate (Fe(OH)42-), (SP-4-1)-"
   },
+  "747350-06-7": {
+    "Name": "Ruthenate (RuO43-), (T-4)- (9CI)"
+  },
   "754122-47-9": {
     "Name": "Aurate(3-), tetrakis(cyano-C)-, (SP-4-1)- (9CI)"
   },
@@ -2322,6 +2396,12 @@
   },
   "79799-72-7": {
     "Name": "Nickelate (Ni(OH)31-) (9CI)"
+  },
+  "79949-96-5": {
+    "Name": "Stannate (Sn(OH)63-), (OC-6-11)- (9CI)"
+  },
+  "81736-04-1": {
+    "Name": "Zincate (Zn(OH)41-), (T-4)- (9CI)"
   },
   "87965-36-4": {
     "Name": "Phosphate(1-), hydrotrioxo- (9CI)"

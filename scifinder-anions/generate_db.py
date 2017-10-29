@@ -49,8 +49,8 @@ all_names = set(all_names)
 
 # TODO add without smiles or inchi
 ignored_CASs = ['12339-27-4',  # H2P2+ can't draw it, not in any db
-                '68111-10-4', # AuBr2+ bromine charge problem, smiles is [Br-][Au+][Br-]
-                '107596-48-5' # H2P2-1 can't draw it not in any db
+                '68111-10-4' # AuBr2+ bromine charge problem, smiles is [Br-][Au+][Br-]
+                # H2P2-1 can't draw it not in any db
                 ]
 
 args = sys.argv[0:]
