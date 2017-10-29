@@ -117,6 +117,12 @@
   "12325-02-9": {
     "Name": "Mercury(1+), hydroxy- (9CI)"
   },
+  "12339-27-4": {
+    "Name": "Diphosphene, radical ion(1+) (9CI)",
+    "Other Names": [
+      "Phosphorus(1+), dihydrodi-Radical Ion"
+    ]
+  },
   "12408-02-5": {
     "Name": "Hydrogen ion",
     "Other Names": [
@@ -144,6 +150,9 @@
     "Other Names": [
       "Iron(4+), tetrahydroxydi-, ion (8CI)"
     ]
+  },
+  "125408-88-0": {
+    "Name": "Tin(1+), hydroxyoxo- (9CI)"
   },
   "12588-30-6": {
     "Deleted CAS": [
@@ -185,6 +194,12 @@
   },
   "1313606-05-1": {
     "Name": "Indium(3+), hydroxy-"
+  },
+  "1345201-68-4": {
+    "Name": "Zinc(1+), superoxido-"
+  },
+  "1345201-74-2": {
+    "Name": "Zinc(2+), superoxido-"
   },
   "134627-17-1": {
     "Name": "Scandium(1+), hydroxy- (9CI)"
@@ -1019,6 +1034,9 @@
       "Neptunyl ion (NpO22+)"
     ]
   },
+  "198830-43-2": {
+    "Name": "Titanium(1+), dihydroxy- (9CI)"
+  },
   "198830-58-9": {
     "Name": "Nickel(1+), trihydroxy- (9CI)"
   },
@@ -1707,6 +1725,12 @@
       "Plutonyl ion (PuO2+)"
     ]
   },
+  "23335-61-7": {
+    "Name": "Titanium(2+), dihydroxy- (9CI)",
+    "Other Names": [
+      "Titanium(2+), dihydroxy-, ion (8CI)"
+    ]
+  },
   "23402-66-6": {
     "Name": "Titanium(1+), trihydroxy- (9CI)",
     "Other Names": [
@@ -1960,6 +1984,12 @@
       "Dihydroxychromium(1+)"
     ]
   },
+  "68111-10-4": {
+    "Name": "Gold(1+), dibromo- (9CI)",
+    "Other Names": [
+      "Gold dibromide ion(1+)"
+    ]
+  },
   "68193-67-9": {
     "Name": "Barium(1+), hydroxy- (9CI)",
     "Other Names": [
@@ -1985,6 +2015,9 @@
       "Hydroxylead(2+)",
       "Lead monohydroxide ion(2+)"
     ]
+  },
+  "918440-44-5": {
+    "Name": "Antimony(1+), dioxo-"
   },
   "95118-37-9": {
     "Name": "Manganese(1+), hydroxy- (9CI)"

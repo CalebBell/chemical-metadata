@@ -1,5 +1,6 @@
 #! /home/caleb/.anaconda3/bin/python
 import sys
+import os
 
 import rdkit
 from rdkit import Chem
@@ -10,6 +11,15 @@ import json
 from collections import Counter
 from thermo import serialize_formula
 
+
+os.system('python2 parse_pdf.py')
+
+
+
+from fcache.cache import FileCache
+mycache = FileCache('myapp', flag='cs', serialize=True, app_cache_dir='/home/caleb/Documents/University/CHE3123/chemical-metadata/fcache')
+
+
 syn_data = open('Good synoynms by CAS.json').read()
 syn_data = json.loads(syn_data)
 
@@ -18,7 +28,6 @@ for CAS, d in syn_data.items():
     if 'synonyms' in d:
         all_user_names.extend(d['synonyms'])
 all_user_names = set(all_user_names)
-
 
 
 pdf_data = open('Parsed scifinder metadata.json').read()
@@ -38,50 +47,113 @@ for CAS, d in pdf_data.items():
 dup_names =  [item for item, count in Counter(all_names).items() if count > 1]
 all_names = set(all_names)
 
-failed_mol = set(['11062-77-4',# No charge
-                  ])
+# TODO add without smiles or inchi
+ignored_CASs = ['12339-27-4',  # H2P2+ can't draw it, not in any db
+                '68111-10-4' # AuBr2+ bromine charge problem, smiles is [Br-][Au+][Br-]
+                # H2P2-1 can't draw it not in any db
+                ]
 
-arg = sys.argv[0:]
-arg.pop(0)
-for f in arg:
-    try:
-        mol = Chem.MolFromMolFile(f)
-        assert mol is not None
-    except:
-        print('Cannot read ', f)
-        continue
-    try:
-        inchi_val = inchi.MolToInchi(mol)
-    except:
-        print('BAILING ON', f)
-        continue
-    
-    mol = inchi.MolFromInchi(inchi_val) # Works better for ions
-    if mol is None:
-        print('BAILING ON %s'%f)
-        continue
-    smi = Chem.MolToSmiles(mol, True)
-    inchi_val = inchi.MolToInchi(mol)
-    inchikey = inchi.InchiToInchiKey(inchi_val)
-    mw = Descriptors.MolWt(mol)
-    formula = CalcMolFormula(mol)
+args = sys.argv[0:]
+args.pop(0)
+dest = args.pop(-1)
+
+INCLUDE_EVERYTHING = True
+
+if INCLUDE_EVERYTHING:
+    for CAS, d in syn_data.items():
+        if 'pubchem' in d or 'formula' in d:
+            if not any([CAS in i for i in args]):
+                args.append('mol/%s.mol' %CAS)
+
+dest_open = open(dest + '_tmp', 'w')
+print = lambda x : dest_open.write(x+'\n')
+
+def parse_f(f):
+    names = ['']
+    cid = -1
     CAS = f.split('/')[1] if '/' in f else f
     CAS = CAS.split('.')[0]
-    
+    if CAS in ignored_CASs:
+        return None
+    failed_mol = False
     try:
-        pc = get_compounds(inchikey, 'inchikey')[0]
-        cid = pc.cid
-        iupac_name = pc.iupac_name
+        if CAS in syn_data:
+            d = syn_data[CAS]
+            if 'pubchem' in d:
+                raise Exception('Pubchem specified, not trying to use the mol file')
+            elif 'formula' in d:
+                raise Exception('Formula specified, not trying to use the mol file')
+        try:
+            mol = Chem.MolFromMolFile(f)
+            assert mol is not None
+        except:
+            print('Cannot read %s' % f)
+            1/0
+        try:
+            inchi_val = inchi.MolToInchi(mol)
+        except:
+            print('BAILING ON %s' %f)
+            1/0
+        mol = inchi.MolFromInchi(inchi_val) # Works better for ions
+        if mol is None:
+            print('BAILING ON reconversion to mol %s'%f)
+            1/0
+    except:
+        failed_mol = True
+        if CAS in syn_data:
+            d = syn_data[CAS]
+            if 'pubchem' in d:
+                if str(d['pubchem']) in mycache:
+                    cid, iupac_name, names, mw, smi, inchi_val, inchikey, formula = mycache[str(d['pubchem'])]
+                else:
+                    pc = Compound.from_cid(d['pubchem'])
+                    cid = pc.cid
+                    iupac_name = pc.iupac_name
+                    names = pc.synonyms
+                    mw = pc.molecular_weight
+                    smi = pc.canonical_smiles
+                    inchi_val = pc.inchi
+                    inchikey = pc.inchikey
+                    formula = pc.molecular_formula
+                    
+                    mycache[str(d['pubchem'])] = (cid, iupac_name, names, mw, smi, inchi_val, inchikey, formula)
+            else:
+                cid = -1
+                names = d['synonyms'] if 'synonyms' in d else ['']
+                mw = float(d['MW']) if 'MW' in d else 0
+                smi = d['smiles'] if 'smiles' in d else ''
+                formula = d['formula'] if 'formula' in d else ''
+                inchi_val = d['inchi'] if 'inchi' in d else ''
+                inchikey = d['inchikey'] if 'inchikey' in d else ''
+                iupac_name = ''
+        else:
+            print('FAILED on %s and no custom data was available either' %CAS)
+            return None
+                
+    if not failed_mol:
+        smi = Chem.MolToSmiles(mol, True)
+        inchi_val = inchi.MolToInchi(mol)
+        inchikey = inchi.InchiToInchiKey(inchi_val)
+        mw = Descriptors.MolWt(mol)
+        formula = CalcMolFormula(mol)
+        iupac_name = ''
+    try:
+        if not failed_mol:
+            if str(inchikey) in mycache:
+                cid, iupac_name, names = mycache[str(inchikey)]
+            else:
+                try:
+                    pc = get_compounds(inchikey, 'inchikey')[0]
+                    cid = pc.cid
+                    iupac_name = pc.iupac_name
+                    names = pc.synonyms
+                    mycache[str(inchikey)] = (cid, iupac_name, names)
+                except:
+                    mycache[str(inchikey)] = (-1, '', [''])
     except:
         cid = -1
         iupac_name = ''
-        pc = None
-    try:
-        # Bug with caching, easier to fix here
-        names = pc.synonyms
-    except:
         names = ['']
-
     
     other_CAS = []
     if CAS in pdf_data:
@@ -121,9 +193,19 @@ for f in arg:
                 actual_names.append(n)
 
     actual_names = [i for i in actual_names if i]
+    
     formula = serialize_formula(formula)
     s = '%d\t%s\t%s\t%g\t%s\t%s\t%s\t%s\t' %(cid, CAS, formula, mw, smi, inchi_val, inchikey, iupac_name)
     
     
     s += '\t'.join(actual_names)
     print(s)
+    return None
+
+for f in args:
+    parse_f(f)
+
+dest_open.close()
+
+os.system('cat %s | sort -n > %s' %(dest + '_tmp', dest))
+os.remove(dest + '_tmp')
