@@ -102,6 +102,16 @@
       "Iron monohydroxide(2+)"
     ]
   },
+  "12312-87-7": {
+    "Deleted CAS": [
+      "113685-55-5"
+    ],
+    "Name": "Nickel(4+),\u00a0[\u00b5-[N1,N2-bis[2-(amino-\u03baN)ethyl]-1,2-ethanediamine-\u03baN1:\u03baN2]]bis[N1,N2-bis[2-(amino-\u03baN)ethyl]-1,2-ethanediamine-\u03baN1,\u03baN2]di-",
+    "Other Names": [
+      "Nickel(4+),\u00a0[\u00b5-[N,N'-bis(2-aminoethyl)-1,2-ethanediamine-N1,N1':N2,N2']]bis[N,N'-bis(2-aminoethyl)-1,2-ethanediamine-N,N',N'',N''']di-(9CI)",
+      "1,2-Ethanediamine,\u00a0N,N'-bis(2-aminoethyl)-,\u00a0nickel\u00a0complex"
+    ]
+  },
   "12323-66-9": {
     "Deleted CAS": [
       "73060-58-9"
@@ -495,6 +505,23 @@
     "Other Names": [
       "In2+",
       "Indium(2+)"
+    ]
+  },
+  "14878-41-2": {
+    "Deleted CAS": [
+      "16569-47-4"
+    ],
+    "Name": "Cobalt(3+),\u00a0tris(1,2-ethanediamine-\u03baN1,\u03baN2)-,\u00a0(OC-6-11)-",
+    "Other Names": [
+      "Cobalt(3+),\u00a0tris(1,2-ethanediamine-N,N')-,\u00a0(OC-6-11)-",
+      "Cobalt(3+),\u00a0tris(1,2-ethanediamine-\u03baN,\u03baN')-,\u00a0(OC-6-11)-\u00a0(9CI)",
+      "Cobalt(3+),tris(ethylenediamine)-,\u00a0ion\u00a0(8CI)",
+      "(OC-6-11)-Tris(1,2-ethanediamine-\u03baN1,\u03baN2)cobalt(3+)",
+      "Tris(1,2-diaminoethane)cobalt(3+)",
+      "Tris(1,2-ethanediamine)cobalt(3+)",
+      "Tris(ethylenediamine)cobalt(3+)",
+      "Tris(ethylenediamine)cobalt(3+)\u00a0ion",
+      "Tris(ethylenediamine)cobalt(III)"
     ]
   },
   "14913-52-1": {
@@ -1928,6 +1955,9 @@
       "Polonium(1+)"
     ]
   },
+  "59792-78-8": {
+    "Name": "Cadmium(1+), hydroxy- (9CI)"
+  },
   "60172-61-4": {
     "Name": "Magnesium(1+), hydroxy- (9CI)",
     "Other Names": [
@@ -2008,6 +2038,9 @@
       "Po3+",
       "Polonium(3+)"
     ]
+  },
+  "747348-22-7": {
+    "Name": "Cobalt(6+),\u00a0[\u00b5-[N,N'-bis(2-aminoethyl)-1,2-ethanediamine-N1,N1':N2,N2']]bis[N,N'-bis(2-aminoethyl)-1,2-ethanediamine-N,N',N'',N''']di-\u00a0(9CI)"
   },
   "90759-83-4": {
     "Name": "Lead(2+), hydroxy- (9CI)",
