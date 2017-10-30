@@ -253,6 +253,17 @@
       "Lutetium monofluoride ion(1+)"
     ]
   },
+  "14067-04-0": {
+    "Name": "Titanium, ion (Ti1+)",
+    "Other Names": [
+      "Ti1+",
+      "Titanium cation(1+)",
+      "Titanium ion(1+)",
+      "Titanium monocation",
+      "Titanium(1+)",
+      "Titanium(1+) ion"
+    ]
+  },
   "14127-61-8": {
     "Name": "Calcium, ion (Ca2+)",
     "Other Names": [
@@ -588,6 +599,14 @@
       "Cupric ion (Cu2+)"
     ]
   },
+  "15184-93-7": {
+    "Name": "Thulium, ion (Tm1+)",
+    "Other Names": [
+      "Thulium ion(1+)",
+      "Thulium(1+)",
+      "Tm1+"
+    ]
+  },
   "15391-91-0": {
     "Name": "Thallium(1+), dihydroxy- (9CI)",
     "Other Names": [
@@ -667,11 +686,32 @@
       "Tetrapentylammonium ion"
     ]
   },
+  "15969-58-1": {
+    "Name": "Titanium, ion (Ti2+)",
+    "Other Names": [
+      "Ti2+",
+      "Titanium ion(2+)",
+      "Titanium(2+)"
+    ]
+  },
   "15974-14-8": {
     "Name": "Palladium(2+), tetraammine-, (SP-4-1)- (9CI)",
     "Other Names": [
       "Palladium(2+), tetraammine-, ion (8CI)",
       "Tetraamminepalladium(2+)"
+    ]
+  },
+  "16043-45-1": {
+    "Name": "Titanium, ion (Ti4+)",
+    "Other Names": [
+      "Antidote T (Ti4+-containing)",
+      "Antidote T (titanium-containing)",
+      "Ti4+",
+      "Titanium (Ti4+)-contg. Antidote T",
+      "Titanium ion(4+)",
+      "Titanium(4+)",
+      "Titanium(4+) ion",
+      "Titanium(IV)"
     ]
   },
   "16065-83-1": {
@@ -850,6 +890,16 @@
     "Name": "Phosphonium",
     "Other Names": [
       "Phosphine, conjugate acid"
+    ]
+  },
+  "16910-52-4": {
+    "Name": "Thulium, ion (Tm2+)",
+    "Other Names": [
+      "Thulium ion (Tm2+)",
+      "Thulium ion(2+)",
+      "Thulium(2+)",
+      "Thulium(2+) ion",
+      "Tm2+"
     ]
   },
   "16910-54-6": {
@@ -1060,6 +1110,9 @@
       "Neptunium oxide ion(NpO22+)",
       "Neptunyl ion (NpO22+)"
     ]
+  },
+  "198830-41-0": {
+    "Name": "Titanium(1+), hydroxy- (9CI)"
   },
   "198830-43-2": {
     "Name": "Titanium(1+), dihydroxy- (9CI)"
@@ -1890,6 +1943,14 @@
       "Re3+",
       "Rhenium ion(3+)",
       "Rhenium(3+)"
+    ]
+  },
+  "36756-65-7": {
+    "Name": "Thulium, ion (Tm4+)",
+    "Other Names": [
+      "Thulium ion(4+)",
+      "Thulium(4+)",
+      "Tm4+"
     ]
   },
   "36812-31-4": {
