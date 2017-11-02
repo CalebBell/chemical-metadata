@@ -1,23 +1,123 @@
+24403
+  -OEChem-11021702092D
 
-
-Written by jPsi
- 10  8  0  0  0  0  0  0  0  0999 V2000
- 2500.0400 2450.4900    0.0000 Na  0  0  0  0  0  0  0  0  0  0  0  0
- 2504.4600 2515.2900    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
- 2550.3200 2515.2900    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
- 2550.3200 2549.5100    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
- 2596.0900 2515.2900    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
- 2550.3200 2481.0600    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
- 2458.6800 2515.2900    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
- 2458.6800 2549.5100    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
- 2403.9100 2515.2900    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
- 2458.6800 2481.0600    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-  2  3  1  0  0  0  0
+ 13  8  0     0  0  0  0  0  0999 V2000
+    3.7320   -0.4330    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641   -0.4330    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -0.4330    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
+    3.7320    1.2990    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
+    7.1962   -0.4330    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
+    5.4641    1.2990    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
+    4.5981    0.0670    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -0.9330    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    3.2320    0.4330    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    6.3301   -0.9330    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    5.9641    0.4330    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    4.9641   -1.2990    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2320   -1.2990    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  1  8  1  0  0  0  0
+  1  9  1  0  0  0  0
+  1 13  2  0  0  0  0
   2  7  1  0  0  0  0
-  3  4  2  0  0  0  0
-  3  5  1  0  0  0  0
-  3  6  1  0  0  0  0
-  7  8  2  0  0  0  0
-  7  9  1  0  0  0  0
-  7 10  1  0  0  0  0
+  2 10  1  0  0  0  0
+  2 11  1  0  0  0  0
+  2 12  2  0  0  0  0
+M  CHG  8   3   1   4   1   5   1   6   1   8  -1   9  -1  10  -1  11  -1
 M  END
+> <PUBCHEM_COMPOUND_CID>
+24403
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+124
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+7
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+0
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADcQAAODMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAABAAQAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+tetrasodium;phosphonato phosphate
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+tetrasodium;phosphonato phosphate
+
+> <PUBCHEM_IUPAC_NAME>
+tetrasodium;phosphonato phosphate
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+tetrasodium;phosphonato phosphate
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+tetrasodium;phosphonato phosphate
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/4Na.H4O7P2/c;;;;1-8(2,3)7-9(4,5)6/h;;;;(H2,1,2,3)(H2,4,5,6)/q4*+1;/p-4
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+FQENQNTWSFEDLI-UHFFFAOYSA-J
+
+> <PUBCHEM_EXACT_MASS>
+265.871
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+Na4O7P2
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+265.9
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+[O-]P(=O)([O-])OP(=O)([O-])[O-].[Na+].[Na+].[Na+].[Na+]
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+[O-]P(=O)([O-])OP(=O)([O-])[O-].[Na+].[Na+].[Na+].[Na+]
+
+> <PUBCHEM_CACTVS_TPSA>
+136
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+265.871
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+13
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+5
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+$$$$
