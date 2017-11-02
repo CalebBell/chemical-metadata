@@ -1,0 +1,131 @@
+24850
+  -OEChem-11011720492D
+
+ 17 12  0     0  0  0  0  0  0999 V2000
+    8.7262    1.0260    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0532   -0.4223    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7071   -1.3189    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7262    0.0260    0.0000 Al  0  1  0  0  0  0  0  0  0  0  0  0
+    4.3801   -0.8706    0.0000 Al  0  1  0  0  0  0  0  0  0  0  0  0
+    7.7262    1.0260    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    8.7262    0.0260    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    7.0191   -0.6811    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    5.0872   -0.1635    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    3.4142   -0.6118    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    4.6390   -1.8365    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    9.7262    1.0260    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7262    2.0260    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7944   -1.3882    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3120    0.5436    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -2.0260    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -0.6118    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  1 12  2  0  0  0  0
+  1 13  2  0  0  0  0
+  2  8  1  0  0  0  0
+  2  9  1  0  0  0  0
+  2 14  2  0  0  0  0
+  2 15  2  0  0  0  0
+  3 10  1  0  0  0  0
+  3 11  1  0  0  0  0
+  3 16  2  0  0  0  0
+  3 17  2  0  0  0  0
+M  CHG  8   4   3   5   3   6  -1   7  -1   8  -1   9  -1  10  -1  11  -1
+M  END
+> <PUBCHEM_COMPOUND_CID>
+24850
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+62.2
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+12
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+0
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADcQAAPABgABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+dialuminum;trisulfate
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+dialuminum;trisulfate
+
+> <PUBCHEM_IUPAC_NAME>
+dialuminum;trisulfate
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+dialuminum;trisulfate
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+dialuminum;trisulfate
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/2Al.3H2O4S/c;;3*1-5(2,3)4/h;;3*(H2,1,2,3,4)/q2*+3;;;/p-6
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+DIZPMCHEQGEION-UHFFFAOYSA-H
+
+> <PUBCHEM_EXACT_MASS>
+341.818
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+Al2O12S3
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+342.131
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[Al+3].[Al+3]
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[Al+3].[Al+3]
+
+> <PUBCHEM_CACTVS_TPSA>
+266
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+341.818
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+17
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+5
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+$$$$

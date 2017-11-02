@@ -120,7 +120,7 @@ def parse_f(f):
             else:
                 cid = -1
                 names = d['synonyms'] if 'synonyms' in d else ['']
-                mw = float(d['MW']) if 'MW' in d else 0
+                mw = float(d['MW'])
                 smi = d['smiles'] if 'smiles' in d else ''
                 formula = d['formula'] if 'formula' in d else ''
                 inchi_val = d['inchi'] if 'inchi' in d else ''
@@ -135,7 +135,7 @@ def parse_f(f):
         inchi_val = inchi.MolToInchi(mol)
         inchikey = inchi.InchiToInchiKey(inchi_val)
         mw = Descriptors.MolWt(mol)
-        formula = CalcMolFormula(mol)
+        formula = CalcMolFormula(mol, True, True)
         iupac_name = ''
     try:
         if not failed_mol:

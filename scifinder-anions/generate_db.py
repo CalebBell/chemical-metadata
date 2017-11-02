@@ -135,7 +135,7 @@ def parse_f(f):
         inchi_val = inchi.MolToInchi(mol)
         inchikey = inchi.InchiToInchiKey(inchi_val)
         mw = Descriptors.MolWt(mol)
-        formula = CalcMolFormula(mol)
+        formula = CalcMolFormula(mol, True, True)
         iupac_name = ''
     try:
         if not failed_mol:
