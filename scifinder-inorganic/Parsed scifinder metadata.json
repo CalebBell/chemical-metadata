@@ -13,6 +13,23 @@
       "Trichlorochromium"
     ]
   },
+  "10025-74-8": {
+    "Name": "Dysprosium chloride (DyCl3)",
+    "Other Names": [
+      "Dysprosium chloride",
+      "Dysprosium trichloride",
+      "Dysprosium(III) chloride",
+      "NSC 174321"
+    ]
+  },
+  "10031-25-1": {
+    "Name": "Chromium bromide (CrBr3)",
+    "Other Names": [
+      "Chromic bromide",
+      "Chromium bromide",
+      "Chromium tribromide"
+    ]
+  },
   "10034-96-5": {
     "Name": "Sulfuric acid, manganese(2+) salt, hydrate (1:1:1)",
     "Other Names": [
@@ -96,6 +113,36 @@
       "U-Ramin MC"
     ]
   },
+  "10099-58-8": {
+    "Deleted CAS": [
+      "12314-13-5"
+    ],
+    "Name": "Lanthanum chloride (LaCl3)",
+    "Other Names": [
+      "Lanthanum chloride",
+      "Lanthanum chloride (La2Cl6)",
+      "Lanthanum trichloride",
+      "Lanthanum(III) chloride"
+    ]
+  },
+  "10099-59-9": {
+    "Alternate CAS": [
+      "35099-99-1"
+    ],
+    "Deleted CAS": [
+      "33247-19-7",
+      "253779-57-6"
+    ],
+    "Name": "Nitric acid, lanthanum(3+) salt (3:1)",
+    "Other Names": [
+      "Nitric acid, lanthanum(3+) salt (8CI,9CI)",
+      "Lanthanum (III) nitrate",
+      "Lanthanum nitrate",
+      "Lanthanum nitrate (La(NO3)3)",
+      "Lanthanumtrinitrate",
+      "Lanthanum(3+) nitrate"
+    ]
+  },
   "10102-44-0": {
     "Deleted CAS": [
       "50443-93-1",
@@ -130,6 +177,50 @@
       "Zinc iodide (8CI)",
       "NSC 39113",
       "Zinc diiodide"
+    ]
+  },
+  "10214-40-1": {
+    "Deleted CAS": [
+      "1221821-47-1"
+    ],
+    "Name": "Selenious acid, copper(2+) salt (1:1)",
+    "Other Names": [
+      "Copper selenite (6CI)",
+      "Copper selenite (Cu(SeO3)) (7CI)",
+      "Selenious acid (H2SeO3), copper(2+) salt (1:1) (8CI)",
+      "Copper(2+) selenite",
+      "Copper(II) selenite",
+      "Cupric selenite"
+    ]
+  },
+  "10257-55-3": {
+    "Alternate CAS": [
+      "31110-95-9"
+    ],
+    "Name": "Sulfurous acid, calcium salt (1:1)",
+    "Other Names": [
+      "Calcium sulfite (6CI)",
+      "Calcium sulfite (CaSO3) (7CI)",
+      "Calcium sulfite (1:1)"
+    ]
+  },
+  "10294-26-5": {
+    "Alternate CAS": [
+      "19287-89-9"
+    ],
+    "Deleted CAS": [
+      "14125-27-0"
+    ],
+    "Name": "Sulfuric acid, silver(1+) salt (1:2)",
+    "Other Names": [
+      "Sulfuric acid, disilver(1+) salt (8CI,9CI)",
+      "Disilver monosulfate",
+      "Disilver sulfate",
+      "Disilver(1+) sulfate",
+      "Silver sulfate",
+      "Silver sulfate(Ag2SO4)",
+      "Sulfuric acid disilver salt",
+      "Sulfuric acid silver salt (1:2)"
     ]
   },
   "10361-37-2": {
@@ -1074,6 +1165,28 @@
       "Securoc B 9Mineral"
     ]
   },
+  "13536-73-7": {
+    "Name": "Erbium bromide (ErBr3)",
+    "Other Names": [
+      "Erbium bromide",
+      "Erbium tribromide"
+    ]
+  },
+  "13536-79-3": {
+    "Name": "Lanthanum bromide (LaBr3)",
+    "Other Names": [
+      "Lanthanum bromide",
+      "Lanthanum tribromide",
+      "NSC 158928"
+    ]
+  },
+  "13572-98-0": {
+    "Name": "Gadolinium iodide (GdI3)",
+    "Other Names": [
+      "Gadolinium iodide",
+      "Gadolinium triiodide"
+    ]
+  },
   "13598-36-2": {
     "Deleted CAS": [
       "1135443-40-1"
@@ -1082,6 +1195,27 @@
     "Other Names": [
       "Dihydroxyphosphine oxide",
       "Phosphorous acid"
+    ]
+  },
+  "13718-50-8": {
+    "Name": "Barium iodide (BaI2)",
+    "Other Names": [
+      "Barium iodide (6CI,8CI)",
+      "Barium diiodide"
+    ]
+  },
+  "13759-88-1": {
+    "Name": "Europium bromide (EuBr3)",
+    "Other Names": [
+      "Europium tribromide"
+    ]
+  },
+  "13814-59-0": {
+    "Name": "Selenious acid, cadmium salt (1:1)",
+    "Other Names": [
+      "Cadmium selenite (CdSeO3) (6CI,7CI)",
+      "Selenious acid (H2SeO3), cadmium salt (1:1) (8CI)",
+      "Cadmium selenium oxide (CdSeO3)"
     ]
   },
   "13825-74-6": {
@@ -1104,8 +1238,25 @@
       "Uniti\u00a0909"
     ]
   },
+  "13825-76-8": {
+    "Name": "Holmium bromide (HoBr3)",
+    "Other Names": [
+      "Holmium bromide",
+      "Holmium tribromide"
+    ]
+  },
   "13966-86-4": {
     "Name": "Cadmium chloride (CdCl) (6CI,7CI,8CI,9CI)"
+  },
+  "14457-87-5": {
+    "Name": "Cerium bromide (CeBr3)",
+    "Other Names": [
+      "Cerium bromide",
+      "Cerium tribromide",
+      "Cerium(III) bromide",
+      "Cerous bromide",
+      "NSC 158933"
+    ]
   },
   "14808-60-7": {
     "Deleted CAS": [
@@ -1934,6 +2085,34 @@
   "449146-65-0": {
     "Name": "Manganese(1+),\u00a0[sulfato(2-)-\u03baO]-"
   },
+  "506-64-9": {
+    "Deleted CAS": [
+      "12351-98-3",
+      "29829-51-4"
+    ],
+    "Name": "Silver cyanide (Ag(CN))",
+    "Other Names": [
+      "Argentous cyanide",
+      "Silver cyanide (Ag2(CN)2)",
+      "Silver monocyanide",
+      "Silver(1+) cyanide",
+      "Silver(I) cyanide"
+    ]
+  },
+  "544-92-3": {
+    "Deleted CAS": [
+      "13092-67-6"
+    ],
+    "Name": "Copper cyanide (Cu(CN))",
+    "Other Names": [
+      "Copper cyanide",
+      "Copper monocyanide",
+      "Copper(1+) cyanide",
+      "Copper(I) cyanide",
+      "Cupricin",
+      "Cuprous cyanide"
+    ]
+  },
   "6303-21-5": {
     "Deleted CAS": [
       "60062-19-3"
@@ -2151,6 +2330,19 @@
       "Victor TSPP"
     ]
   },
+  "7726-95-6": {
+    "Deleted CAS": [
+      "23724-81-4"
+    ],
+    "Name": "Bromine",
+    "Other Names": [
+      "Bromine element",
+      "Bromine molecule (Br2)",
+      "Bromitize Plus",
+      "Diatomic bromine",
+      "Dibromine"
+    ]
+  },
   "7757-79-1": {
     "Deleted CAS": [
       "96193-83-8"
@@ -2276,6 +2468,15 @@
       "Germanium fluoride",
       "Germanium tetrafluoride",
       "Germyl tetrafluoride"
+    ]
+  },
+  "7783-86-0": {
+    "Name": "Iron iodide (FeI2)",
+    "Other Names": [
+      "Ferrous iodide",
+      "Iron diiodide",
+      "Iron protoiodide",
+      "Iron(II) iodide"
     ]
   },
   "7784-13-6": {
@@ -2405,6 +2606,28 @@
       "White Nigari NS"
     ]
   },
+  "7787-46-4": {
+    "Name": "Beryllium bromide (BeBr2)",
+    "Other Names": [
+      "Beryllium bromide (6CI,7CI,8CI)",
+      "Beryllium dibromide"
+    ]
+  },
+  "7787-53-3": {
+    "Name": "Beryllium iodide (BeI2)",
+    "Other Names": [
+      "Beryllium iodide (6CI,8CI)",
+      "Beryllium diiodide"
+    ]
+  },
+  "7789-45-9": {
+    "Name": "Copper bromide (CuBr2)",
+    "Other Names": [
+      "Copper dibromide",
+      "Copper(II) bromide",
+      "Cupric bromide"
+    ]
+  },
   "7789-75-5": {
     "Deleted CAS": [
       "29070-15-3",
@@ -2425,6 +2648,15 @@
   },
   "7790-31-0": {
     "Name": "Magnesium iodide, octahydrate (8CI,9CI)"
+  },
+  "7790-87-6": {
+    "Name": "Cerium iodide (CeI3)",
+    "Other Names": [
+      "Cerium iodide",
+      "Cerium triiodide",
+      "Cerium(III) iodide",
+      "Cerous iodide"
+    ]
   },
   "7803-51-2": {
     "Deleted CAS": [
