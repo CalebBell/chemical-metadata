@@ -232,6 +232,14 @@
       "NSC 146181"
     ]
   },
+  "10361-91-8": {
+    "Name": "Ytterbium chloride (YbCl3)",
+    "Other Names": [
+      "Ytterbium chloride",
+      "Ytterbium trichloride",
+      "Ytterbium(III) chloride"
+    ]
+  },
   "10377-58-9": {
     "Deleted CAS": [
       "61349-42-6"
@@ -259,6 +267,14 @@
       "Manganese(II) nitrate",
       "Manganous dinitrate",
       "Manganous nitrate"
+    ]
+  },
+  "10578-16-2": {
+    "Name": "Nitrogen fluoride (N2F2) (6CI,8CI,9CI)",
+    "Other Names": [
+      "Diazene, difluoro-",
+      "Difluorodiazene",
+      "Dinitrogen difluoride"
     ]
   },
   "11138-49-1": {
@@ -1165,6 +1181,15 @@
       "Securoc B 9Mineral"
     ]
   },
+  "13446-03-2": {
+    "Name": "Manganese bromide (MnBr2)",
+    "Other Names": [
+      "Manganese bromide",
+      "Manganese dibromide",
+      "Manganese(II) bromide",
+      "Manganous bromide"
+    ]
+  },
   "13536-73-7": {
     "Name": "Erbium bromide (ErBr3)",
     "Other Names": [
@@ -1178,6 +1203,15 @@
       "Lanthanum bromide",
       "Lanthanum tribromide",
       "NSC 158928"
+    ]
+  },
+  "13536-80-6": {
+    "Name": "Neodymium bromide (NdBr3)",
+    "Other Names": [
+      "NSC 158924",
+      "Neodymium bromide",
+      "Neodymium tribromide",
+      "Neodymium(3+) bromide"
     ]
   },
   "13572-98-0": {
@@ -1210,12 +1244,58 @@
       "Europium tribromide"
     ]
   },
+  "13776-62-0": {
+    "Name": "Nitrogen fluoride (N2F2), [N(E)]- (9CI)",
+    "Other Names": [
+      "Nitrogen fluoride (N2F2), (E)- (8CI)",
+      "(E)-Difluorodiazene",
+      "trans-1,2-Difluorodiazene",
+      "trans-1,2-Difluorodiimide",
+      "trans-Difluorodiazene",
+      "trans-Difluorodiimide"
+    ]
+  },
+  "13812-43-6": {
+    "Name": "Nitrogen fluoride (N2F2), (Z)- (8CI,9CI)",
+    "Other Names": [
+      "(Z)-Difluorodiazene",
+      "cis-1,2-Difluorodiimide",
+      "cis-Difluorodiazene",
+      "cis-Difluorodiimide"
+    ]
+  },
   "13814-59-0": {
     "Name": "Selenious acid, cadmium salt (1:1)",
     "Other Names": [
       "Cadmium selenite (CdSeO3) (6CI,7CI)",
       "Selenious acid (H2SeO3), cadmium salt (1:1) (8CI)",
       "Cadmium selenium oxide (CdSeO3)"
+    ]
+  },
+  "13814-76-1": {
+    "Deleted CAS": [
+      "35780-09-7"
+    ],
+    "Name": "Rhenium chloride oxide (ReCl4O)",
+    "Other Names": [
+      "Rhenium chloride oxide (ReOCl4) (6CI,7CI,8CI)",
+      "Rhenium oxytetrachloride",
+      "Rhenium oxytetrachloride (ReOCl4)",
+      "Rheniumtetrachloride monoxide",
+      "Rhenium tetrachloride oxide",
+      "Tetrachlorooxorhenium",
+      "Tetrachlorooxorhenium(VI)"
+    ]
+  },
+  "13825-25-7": {
+    "Deleted CAS": [
+      "15796-95-9"
+    ],
+    "Name": "Nitrous acid, rubidium salt (1:1)",
+    "Other Names": [
+      "Nitrous acid, rubidium salt (8CI,9CI)",
+      "Rubidium nitrite (RbNO2) (6CI)",
+      "Rubidium nitrite"
     ]
   },
   "13825-74-6": {
@@ -1245,6 +1325,12 @@
       "Holmium tribromide"
     ]
   },
+  "13874-75-4": {
+    "Name": "Samarium chloride (SmCl2)",
+    "Other Names": [
+      "Samarium dichloride"
+    ]
+  },
   "13966-86-4": {
     "Name": "Cadmium chloride (CdCl) (6CI,7CI,8CI,9CI)"
   },
@@ -1256,6 +1342,15 @@
       "Cerium(III) bromide",
       "Cerous bromide",
       "NSC 158933"
+    ]
+  },
+  "145226-95-5": {
+    "Deleted CAS": [
+      "168294-47-1"
+    ],
+    "Name": "Sulfuric acid, sodium salt (3:2) (9CI)",
+    "Other Names": [
+      "Sodium sesquisulfate"
     ]
   },
   "14808-60-7": {
@@ -1372,6 +1467,13 @@
       "W\u00a012",
       "W\u00a012MST",
       "\u03b1-QuartzMineral"
+    ]
+  },
+  "14913-58-7": {
+    "Name": "Antimony chloride fluoride (SbCl4F)",
+    "Other Names": [
+      "Antimony tetrachloride fluoride",
+      "Antimony tetrachloride monofluoride"
     ]
   },
   "15238-00-3": {
@@ -2277,6 +2379,29 @@
       "Zinc(II) chloride"
     ]
   },
+  "7647-18-9": {
+    "Deleted CAS": [
+      "12314-11-3"
+    ],
+    "Name": "Antimony chloride (SbCl5)",
+    "Other Names": [
+      "Antimony pentachloride",
+      "Antimony pentachloride (SbCl5)",
+      "Antimony perchloride",
+      "Antimony(V) chloride",
+      "Pentachloroantimony"
+    ]
+  },
+  "7698-05-7": {
+    "Name": "Hydrochloric acid-d",
+    "Other Names": [
+      "Deuterium chloride",
+      "Deuterium chloride (DCl)",
+      "Deuterium monochloride",
+      "Hydrogen chloride (DCl)",
+      "Hydrogen-d\u00a0chloride"
+    ]
+  },
   "7705-07-9": {
     "Name": "Titanium chloride (TiCl3)",
     "Other Names": [
@@ -2419,6 +2544,27 @@
       "Wandetto B"
     ]
   },
+  "7775-19-1": {
+    "Deleted CAS": [
+      "37354-60-2",
+      "161374-81-8",
+      "950582-56-6",
+      "1437319-05-5",
+      "1449469-60-6",
+      "1853278-50-8"
+    ],
+    "Name": "Boric acid (HBO2), sodium salt (1:1)",
+    "Other Names": [
+      "Boric acid (HBO2), sodium salt (8CI,9CI)",
+      "Sodium borate (NaBO2) (6CI)",
+      "Borosoap",
+      "Kodalk",
+      "Monosodium metaborate",
+      "Sodiumborate (Na2(BO2)2)",
+      "Sodium metaborate",
+      "Sodium metaborate (NaBO2)"
+    ]
+  },
   "7782-65-2": {
     "Name": "Germane",
     "Other Names": [
@@ -2468,6 +2614,19 @@
       "Germanium fluoride",
       "Germanium tetrafluoride",
       "Germyl tetrafluoride"
+    ]
+  },
+  "7783-68-8": {
+    "Deleted CAS": [
+      "12422-77-4",
+      "26979-71-5",
+      "63144-38-7"
+    ],
+    "Name": "Niobium fluoride (NbF5), (TB-5-11)-",
+    "Other Names": [
+      "Niobium fluoride (NbF5) (6CI,7CI,8CI)",
+      "Niobium pentafluoride",
+      "Niobium(V) fluoride"
     ]
   },
   "7783-86-0": {
@@ -2620,12 +2779,37 @@
       "Beryllium diiodide"
     ]
   },
+  "7789-40-4": {
+    "Deleted CAS": [
+      "11086-18-3",
+      "12330-85-7"
+    ],
+    "Name": "Thallium bromide (TlBr)",
+    "Other Names": [
+      "Thallium bromide",
+      "Thallium bromide (Tl2Br2)",
+      "Thallium bromide (TlBr), dimer",
+      "Thallium monobromide",
+      "Thallium(I) bromide",
+      "Thallousbromide"
+    ]
+  },
   "7789-45-9": {
     "Name": "Copper bromide (CuBr2)",
     "Other Names": [
       "Copper dibromide",
       "Copper(II) bromide",
       "Cupric bromide"
+    ]
+  },
+  "7789-48-2": {
+    "Deleted CAS": [
+      "53168-84-6"
+    ],
+    "Name": "Magnesium bromide (MgBr2)",
+    "Other Names": [
+      "Magnesium bromide (8CI)",
+      "Magnesium dibromide"
     ]
   },
   "7789-75-5": {
@@ -2649,6 +2833,24 @@
   "7790-31-0": {
     "Name": "Magnesium iodide, octahydrate (8CI,9CI)"
   },
+  "7790-33-2": {
+    "Name": "Manganese iodide (MnI2)",
+    "Other Names": [
+      "Manganese diiodide",
+      "Manganese iodide",
+      "Manganese(II) iodide",
+      "Manganous iodide"
+    ]
+  },
+  "7790-38-7": {
+    "Name": "Palladium iodide (PdI2)",
+    "Other Names": [
+      "Palladium diiodide",
+      "Palladium iodide",
+      "Palladium(II) iodide",
+      "Palladous iodide"
+    ]
+  },
   "7790-87-6": {
     "Name": "Cerium iodide (CeI3)",
     "Other Names": [
@@ -2656,6 +2858,19 @@
       "Cerium triiodide",
       "Cerium(III) iodide",
       "Cerous iodide"
+    ]
+  },
+  "7791-12-0\n": {
+    "Deleted CAS": [
+      "1805777-09-6"
+    ],
+    "Name": "Thallium chloride (TlCl)",
+    "Other Names": [
+      "Thallium chloride",
+      "Thallium monochloride",
+      "Thallium(1+) chloride",
+      "Thallium(I) chloride",
+      "Thallous chloride"
     ]
   },
   "7803-51-2": {
@@ -2683,6 +2898,19 @@
       "Silicon hydride",
       "Silicon hydride (SiH4)",
       "Silicon tetrahydride"
+    ]
+  },
+  "Substance_11_03_2017_125822": {
+    "Deleted CAS": [
+      "1805777-09-6"
+    ],
+    "Name": "Thallium chloride (TlCl)",
+    "Other Names": [
+      "Thallium chloride",
+      "Thallium monochloride",
+      "Thallium(1+) chloride",
+      "Thallium(I) chloride",
+      "Thallous chloride"
     ]
   }
 }
