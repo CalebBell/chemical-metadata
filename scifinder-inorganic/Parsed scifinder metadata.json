@@ -22,6 +22,21 @@
       "NSC 174321"
     ]
   },
+  "10026-11-6": {
+    "Deleted CAS": [
+      "12331-30-5"
+    ],
+    "Name": "Zirconium chloride (ZrCl4), (T-4)-",
+    "Other Names": [
+      "Zirconium chloride (ZrCl4) (8CI)",
+      "Orgatix ZB 126",
+      "Tetrachlorozirconium",
+      "Zirconium chloride",
+      "Zirconium chloride (Zr2Cl8)",
+      "Zirconiumtetrachloride",
+      "Zirconium(IV) chloride"
+    ]
+  },
   "10031-25-1": {
     "Name": "Chromium bromide (CrBr3)",
     "Other Names": [
@@ -1189,6 +1204,9 @@
       "Manganese(II) bromide",
       "Manganous bromide"
     ]
+  },
+  "13494-88-7": {
+    "Name": "Bismuth chloride (BiCl2) (9CI)"
   },
   "13536-73-7": {
     "Name": "Erbium bromide (ErBr3)",
