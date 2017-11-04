@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.spreadsheet">
- <office:meta><meta:creation-date>2017-11-01T02:20:53.521235283</meta:creation-date><dc:date>2017-11-04T03:51:04.679594891</dc:date><meta:editing-duration>P2DT6H36M21S</meta:editing-duration><meta:editing-cycles>141</meta:editing-cycles><meta:generator>LibreOffice/5.2.7.2$Linux_X86_64 LibreOffice_project/20m0$Build-2</meta:generator><meta:document-statistic meta:table-count="1" meta:cell-count="222" meta:object-count="0"/></office:meta>
+ <office:meta><meta:creation-date>2017-11-01T02:20:53.521235283</meta:creation-date><dc:date>2017-11-04T14:23:24.283346182</dc:date><meta:editing-duration>P2DT17H8M39S</meta:editing-duration><meta:editing-cycles>143</meta:editing-cycles><meta:generator>LibreOffice/5.2.7.2$Linux_X86_64 LibreOffice_project/20m0$Build-2</meta:generator><meta:document-statistic meta:table-count="1" meta:cell-count="223" meta:object-count="0"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
    <config:config-item config:name="VisibleAreaLeft" config:type="int">0</config:config-item>
-   <config:config-item config:name="VisibleAreaWidth" config:type="int">18725</config:config-item>
-   <config:config-item config:name="VisibleAreaHeight" config:type="int">32827</config:config-item>
+   <config:config-item config:name="VisibleAreaWidth" config:type="int">20983</config:config-item>
+   <config:config-item config:name="VisibleAreaHeight" config:type="int">32845</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
      <config:config-item-map-named config:name="Tables">
       <config:config-item-map-entry config:name="Sheet1">
-       <config:config-item config:name="CursorPositionX" config:type="int">2</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">69</config:config-item>
+       <config:config-item config:name="CursorPositionX" config:type="int">4</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">4</config:config-item>
        <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="VerticalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
        <config:config-item config:name="VerticalSplitPosition" config:type="int">0</config:config-item>
        <config:config-item config:name="ActiveSplitRange" config:type="short">2</config:config-item>
-       <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionLeft" config:type="int">1</config:config-item>
        <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
-       <config:config-item config:name="PositionBottom" config:type="int">43</config:config-item>
+       <config:config-item config:name="PositionBottom" config:type="int">0</config:config-item>
        <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
        <config:config-item config:name="ZoomValue" config:type="int">90</config:config-item>
        <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
@@ -580,13 +580,13 @@
    <style:table-row-properties style:row-height="4.52mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
   </style:style>
   <style:style style:name="ro3" style:family="table-row">
-   <style:table-row-properties style:row-height="8.08mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
+   <style:table-row-properties style:row-height="4.69mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
   </style:style>
   <style:style style:name="ro4" style:family="table-row">
-   <style:table-row-properties style:row-height="8.41mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
+   <style:table-row-properties style:row-height="8.08mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
   </style:style>
   <style:style style:name="ro5" style:family="table-row">
-   <style:table-row-properties style:row-height="4.69mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
+   <style:table-row-properties style:row-height="8.41mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
   </style:style>
   <style:style style:name="ta1" style:family="table" style:master-page-name="Default">
    <style:table-properties table:display="true" style:writing-mode="lr-tb"/>
@@ -675,7 +675,7 @@
     <table:table-column table:style-name="co1" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co2" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co3" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co4" table:number-columns-repeated="2" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co4" table:number-columns-repeated="3" table:default-cell-style-name="Default"/>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
       <text:p>Name_of_Ion</text:p>
@@ -692,6 +692,7 @@
      <table:table-cell table:style-name="ce6" office:value-type="string" calcext:value-type="string">
       <text:p>Mass_Molar, g/mol</text:p>
      </table:table-cell>
+     <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -704,7 +705,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Mn O4 S</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -719,7 +720,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>H2 O4 S . Mn</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -732,21 +733,24 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>H2 O4 S . H2 O . Mn</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
-    <table:table-row table:style-name="ro2">
+    <table:table-row table:style-name="ro3">
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Phosphoric acid, sodium salt (1:2)</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p><text:a xlink:href="https://pubchem.ncbi.nlm.nih.gov/compound/86587427#section=Top" xlink:type="simple">https://pubchem.ncbi.nlm.nih.gov/compound/86587427#section=Top</text:a></text:p>
-     </table:table-cell>
+     <table:table-cell/>
      <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
       <text:p>7558-79-4</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>H3 O4 P . 2 Na</text:p>
+      <text:p>HO4 P . 2 Na</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Extra two Hs ignored </text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p><text:a xlink:href="https://pubchem.ncbi.nlm.nih.gov/compound/86587427#section=Top" xlink:type="simple">https://pubchem.ncbi.nlm.nih.gov/compound/86587427#section=Top</text:a></text:p>
+     </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="ro2">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -760,7 +764,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>H3 O4 P . 7 H2 O . 2 Na</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -773,7 +777,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>MgCl2</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -786,7 +790,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>ZnCl2</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -799,7 +803,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>CrCl3</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -812,7 +816,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>O5 S Ti</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -825,7 +829,7 @@
      <table:table-cell table:style-name="ce3" office:value-type="string" calcext:value-type="string">
       <text:p>BaCl2</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
      <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
@@ -838,7 +842,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>NaH3PO4</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
      <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
@@ -851,9 +855,9 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>AlCl3</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
-    <table:table-row table:style-name="ro3">
+    <table:table-row table:style-name="ro4">
      <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
       <text:p>Aluminum chloride (AlCl3)​, hydrate (1:6)</text:p>
      </table:table-cell>
@@ -864,9 +868,9 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>AlCl3(H2O)6</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
-    <table:table-row table:style-name="ro4">
+    <table:table-row table:style-name="ro5">
      <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
       <text:p>Cadmium chloride (CdCl) (6CI,​7CI,​8CI,​9CI) </text:p>
      </table:table-cell>
@@ -877,7 +881,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>CdCl</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
      <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
@@ -890,7 +894,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>CdCl2</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -903,7 +907,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>H2 O . 1/2 H N O3 . 1/4 Mn</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -919,6 +923,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>H not present <text:s/>in pubchem</text:p>
      </table:table-cell>
+     <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -936,6 +941,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>H not present in pubchem</text:p>
      </table:table-cell>
+     <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
      <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
@@ -948,7 +954,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>CoI2</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
      <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
@@ -961,7 +967,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>ZnI2</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -974,7 +980,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>NH4Cl</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -987,7 +993,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>KNO3</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1003,6 +1009,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>AlNaO4H4 another option for formula; there are no CAS specified for thse formula options though.</text:p>
      </table:table-cell>
+     <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1018,8 +1025,9 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Needs to be custom – fully defined, just rdkit fails</text:p>
      </table:table-cell>
+     <table:table-cell/>
     </table:table-row>
-    <table:table-row table:style-name="ro4">
+    <table:table-row table:style-name="ro5">
      <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
       <text:p>Sulfuric acid, silver(1+) salt (1:2)</text:p>
      </table:table-cell>
@@ -1030,7 +1038,7 @@
      <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
       <text:p>Ag . 1/2 H2 O4 S</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
      <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
@@ -1043,7 +1051,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>AgCN</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1056,7 +1064,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>BaI2</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1069,7 +1077,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>BeBr2</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
      <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
@@ -1082,7 +1090,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>BeI2</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
      <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
@@ -1095,7 +1103,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>CaSO3H2</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
      <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
@@ -1108,7 +1116,7 @@
      <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
       <text:p>CdSO3H2</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
      <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
@@ -1121,7 +1129,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>CeBr3</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1134,7 +1142,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>CeI3</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
      <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
@@ -1147,7 +1155,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>CrBr3</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1160,7 +1168,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>CsBrO3</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1173,7 +1181,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>CuBr2</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
      <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
@@ -1186,7 +1194,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>CuCN</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1199,7 +1207,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>NO2</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
      <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
@@ -1212,7 +1220,7 @@
      <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
       <text:p>Cu . H2 O3 Se</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
      <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
@@ -1225,7 +1233,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>DyCl3</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
      <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
@@ -1238,7 +1246,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>ErBr3</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
      <table:table-cell table:style-name="ce3" office:value-type="string" calcext:value-type="string">
@@ -1251,7 +1259,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>EuBr3</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
      <table:table-cell table:style-name="ce3" office:value-type="string" calcext:value-type="string">
@@ -1264,7 +1272,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>FeI2</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
      <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
@@ -1277,7 +1285,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>GdI3</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
      <table:table-cell table:style-name="ce3" office:value-type="string" calcext:value-type="string">
@@ -1290,7 +1298,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>HoBr3</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
      <table:table-cell table:style-name="ce3" office:value-type="string" calcext:value-type="string">
@@ -1303,7 +1311,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>LaBr3</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
      <table:table-cell table:style-name="ce3" office:value-type="string" calcext:value-type="string">
@@ -1316,7 +1324,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>LaCl3</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1332,6 +1340,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>H added in scifinder this better</text:p>
      </table:table-cell>
+     <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1344,7 +1353,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>MgBr2</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
      <table:table-cell table:style-name="ce3" office:value-type="string" calcext:value-type="string">
@@ -1357,7 +1366,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>MnBr2</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
      <table:table-cell table:style-name="ce3" office:value-type="string" calcext:value-type="string">
@@ -1370,7 +1379,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>MnI2</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
      <table:table-cell table:style-name="ce3" office:value-type="string" calcext:value-type="string">
@@ -1383,7 +1392,7 @@
      <table:table-cell table:style-name="ce3" office:value-type="string" calcext:value-type="string">
       <text:p>NaBO2</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1396,7 +1405,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>NdBr3</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
      <table:table-cell table:style-name="ce3" office:value-type="string" calcext:value-type="string">
@@ -1409,9 +1418,9 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>PdI2</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
-    <table:table-row table:style-name="ro5">
+    <table:table-row table:style-name="ro3">
      <table:table-cell table:style-name="ce3" office:value-type="string" calcext:value-type="string">
       <text:p>Rubidium nitrite</text:p>
      </table:table-cell>
@@ -1425,6 +1434,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>H added in scifinder this better</text:p>
      </table:table-cell>
+     <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1437,7 +1447,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>SmCl2</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1450,7 +1460,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>TlBr</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1463,7 +1473,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>TlCl</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1476,7 +1486,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>YbCl3</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1489,7 +1499,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Hna3O8S2</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
      <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
@@ -1502,7 +1512,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>SbCl5</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1515,7 +1525,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>SbCl4F</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1528,7 +1538,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>ReCl4O</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1541,7 +1551,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>D2Se</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1554,7 +1564,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>N2F2</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1567,7 +1577,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>N2F2</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1580,7 +1590,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>N2F2</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
      <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
@@ -1593,7 +1603,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>NbF5</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1606,7 +1616,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>ClD</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
    </table:table>
    <table:named-expressions/>

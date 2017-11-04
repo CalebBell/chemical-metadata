@@ -1,27 +1,25 @@
-24196325
-  -OEChem-11011720272D
+24204
+  -OEChem-11041713312D
 
-  9  7  0     0  0  0  0  0  0999 V2000
-    1.4030    0.8660    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
-    1.1530    4.2690    0.0000 Na  0  4  0  0  0  0  0  0  0  0  0  0
-    2.2690    1.3660    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    0.5369    0.3660    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    0.9030    1.7320    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    1.9030    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    2.8059    1.0560    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
-    0.0000    0.6760    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
-    1.2130    2.2690    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  8  6  0     0  0  0  0  0  0999 V2000
+    3.4030   -0.2685    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350   -0.2685    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
+    2.5369   -0.7685    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9030    0.5976    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690    0.2315    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    3.9030   -1.1345    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -0.4585    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2130    1.1345    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
   1  3  1  0  0  0  0
   1  4  1  0  0  0  0
   1  5  1  0  0  0  0
   1  6  2  0  0  0  0
   3  7  1  0  0  0  0
   4  8  1  0  0  0  0
-  5  9  1  0  0  0  0
-M  RAD  1   2   2
+M  CHG  2   2   1   5  -1
 M  END
 > <PUBCHEM_COMPOUND_CID>
-24196325
+24204
 
 > <PUBCHEM_COMPOUND_CANONICALIZED>
 1
@@ -33,7 +31,7 @@ M  END
 4
 
 > <PUBCHEM_CACTVS_HBOND_DONOR>
-3
+2
 
 > <PUBCHEM_CACTVS_ROTATABLE_BOND>
 0
@@ -42,46 +40,46 @@ M  END
 AAADcQAAOCIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACCAAAAAAAAAAAAAAABAAQAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
 
 > <PUBCHEM_IUPAC_OPENEYE_NAME>
-phosphoric acid;sodium
+sodium;dihydrogen phosphate
 
 > <PUBCHEM_IUPAC_CAS_NAME>
-phosphoric acid;sodium
+sodium;dihydrogen phosphate
 
 > <PUBCHEM_IUPAC_NAME>
-phosphoric acid;sodium
+sodium;dihydrogen phosphate
 
 > <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
-phosphoric acid;sodium
+sodium;dihydrogen phosphate
 
 > <PUBCHEM_IUPAC_TRADITIONAL_NAME>
-phosphoric acid;sodium
+sodium;dihydrogen phosphate
 
 > <PUBCHEM_IUPAC_INCHI>
-InChI=1S/Na.H3O4P/c;1-5(2,3)4/h;(H3,1,2,3,4)
+InChI=1S/Na.H3O4P/c;1-5(2,3)4/h;(H3,1,2,3,4)/q+1;/p-1
 
 > <PUBCHEM_IUPAC_INCHIKEY>
-NFIYTPYOYDDLGO-UHFFFAOYSA-N
+AJPJDKMHJJGVTQ-UHFFFAOYSA-M
 
 > <PUBCHEM_EXACT_MASS>
-120.967
+119.959
 
 > <PUBCHEM_MOLECULAR_FORMULA>
-H3NaO4P
+H2NaO4P
 
 > <PUBCHEM_MOLECULAR_WEIGHT>
-120.984
+119.976
 
 > <PUBCHEM_OPENEYE_CAN_SMILES>
-OP(=O)(O)O.[Na]
+OP(=O)(O)[O-].[Na+]
 
 > <PUBCHEM_OPENEYE_ISO_SMILES>
-OP(=O)(O)O.[Na]
+OP(=O)(O)[O-].[Na+]
 
 > <PUBCHEM_CACTVS_TPSA>
-77.8
+80.6
 
 > <PUBCHEM_MONOISOTOPIC_WEIGHT>
-120.967
+119.959
 
 > <PUBCHEM_TOTAL_CHARGE>
 0
@@ -108,7 +106,7 @@ OP(=O)(O)O.[Na]
 2
 
 > <PUBCHEM_CACTVS_TAUTO_COUNT>
-2
+1
 
 > <PUBCHEM_COORDINATE_TYPE>
 1

@@ -137,6 +137,11 @@ def parse_f(f):
         inchi_val = inchi.MolToInchi(mol)
         inchikey = inchi.InchiToInchiKey(inchi_val)
         mw = Descriptors.MolWt(mol)
+#        for i in mol.GetAtoms():
+#            if i.GetIsotope():
+#                mw = Descriptors.ExactMolWt(mol)
+#                break
+        
         formula = CalcMolFormula(mol, True, True)
         iupac_name = ''
     try:
