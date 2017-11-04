@@ -128,6 +128,14 @@
       "U-Ramin MC"
     ]
   },
+  "10097-32-2": {
+    "Name": "Bromine, atomic",
+    "Other Names": [
+      "Atomic bromine",
+      "Bromine atom",
+      "Bromo radical"
+    ]
+  },
   "10099-58-8": {
     "Deleted CAS": [
       "12314-13-5"
@@ -385,6 +393,17 @@
       "Dipotassium oxide",
       "Potash",
       "Potassium oxide"
+    ]
+  },
+  "12265-14-4": {
+    "Deleted CAS": [
+      "12265-14-4"
+    ],
+    "Name": "Phosphorane, chloro- (8CI,9CI)",
+    "Other Names": [
+      "Phosphonium chloride ((PH4)Cl) (7CI)",
+      "Phosphonium chloride (6CI)",
+      "Chlorophosphorane"
     ]
   },
   "1309-37-1": {
@@ -1205,6 +1224,13 @@
       "Manganous bromide"
     ]
   },
+  "13454-75-6": {
+    "Name": "Bromic acid, cesium salt (8CI,9CI)",
+    "Other Names": [
+      "Cesium bromate (6CI,7CI)",
+      "Cesium bromate (CsBrO3)"
+    ]
+  },
   "13478-45-0": {
     "Name": "Niobium bromide (NbBr5)",
     "Other Names": [
@@ -1256,6 +1282,13 @@
       "Neodymium bromide",
       "Neodymium tribromide",
       "Neodymium(3+) bromide"
+    ]
+  },
+  "13536-95-3": {
+    "Name": "Hydrogen selenide (D2Se)",
+    "Other Names": [
+      "Hydrogen-d2\u00a0selenide (D2Se) (6CI,7CI)",
+      "Deuterium selenide"
     ]
   },
   "13572-98-0": {
@@ -1545,6 +1578,31 @@
       "Cobalt iodide",
       "Cobalt(II) iodide",
       "Cobaltous iodide"
+    ]
+  },
+  "16919-19-0": {
+    "Deleted CAS": [
+      "36596-71-1",
+      "53238-22-5"
+    ],
+    "Name": "Silicate(2-), hexafluoro-, ammonium (1:2)",
+    "Other Names": [
+      "Ammonium fluosilicate (6CI)",
+      "Silicate(2-), hexafluoro-, diammonium (8CI,9CI)",
+      "Ammonium fluorosilicate",
+      "Ammonium fluorosilicate((NH4)2SiF6)",
+      "Ammonium hexafluorosilicate",
+      "Ammonium hexafluorosilicate ((NH4)2SiF6)",
+      "Ammonium hexafluorosilicate (NH4SiF6)",
+      "Ammoniumsilicofluoride",
+      "Ammonium silicon fluoride ((NH4)2SiF6)",
+      "Diammonium fluosilicate ((NH4)2SiF6)",
+      "Diammonium hexafluorosilicate",
+      "Diammoniumhexafluorosilicate ((NH4)2SiF6)",
+      "Diammonium hexafluorosilicate(2-)",
+      "Diammonium silicon hexafluoride",
+      "LPE 6",
+      "NSC 310005"
     ]
   },
   "20694-39-7": {

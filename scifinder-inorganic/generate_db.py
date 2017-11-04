@@ -8,9 +8,11 @@ from rdkit.Chem import Descriptors, inchi
 from rdkit.Chem.rdMolDescriptors import CalcMolFormula
 from pubchempy import get_compounds, Compound
 import json
+import db_preprocessor
 from collections import Counter
 from thermo import serialize_formula
 
+db_preprocessor.write()
 
 os.system('python2 parse_pdf.py')
 
