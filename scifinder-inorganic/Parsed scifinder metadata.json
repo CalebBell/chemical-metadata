@@ -1205,8 +1205,34 @@
       "Manganous bromide"
     ]
   },
+  "13478-45-0": {
+    "Name": "Niobium bromide (NbBr5)",
+    "Other Names": [
+      "Niobium pentabromide",
+      "Niobium pentabromide (NbBr5)",
+      "Niobium(V) bromide"
+    ]
+  },
   "13494-88-7": {
     "Name": "Bismuth chloride (BiCl2) (9CI)"
+  },
+  "13520-78-0": {
+    "Name": "Tungsten chloride oxide (WCl4O) (9CI)",
+    "Other Names": [
+      "Tungsten chloride oxide (WOCl4) (6CI,8CI)",
+      "Tetrachlorooxotungsten",
+      "Tetrachlorooxytungsten",
+      "Tetrachlorotungsten oxide",
+      "Tungstenoxide chloride (WOCl4)",
+      "Tungsten oxide tetrachloride",
+      "Tungsten oxychloride (WOCl4)",
+      "Tungsten oxytetrachloride",
+      "Tungsten tetrachloride monooxide",
+      "Tungsten tetrachloride monoxide",
+      "Tungsten tetrachloride oxide",
+      "Tungsten(VI) oxochloride",
+      "Tungsten(VI) oxychloride"
+    ]
   },
   "13536-73-7": {
     "Name": "Erbium bromide (ErBr3)",
@@ -1271,6 +1297,12 @@
       "trans-1,2-Difluorodiimide",
       "trans-Difluorodiazene",
       "trans-Difluorodiimide"
+    ]
+  },
+  "13777-23-6": {
+    "Name": "Hafnium iodide (HfI4)",
+    "Other Names": [
+      "Hafnium tetraiodide"
     ]
   },
   "13812-43-6": {
@@ -1351,6 +1383,15 @@
   },
   "13966-86-4": {
     "Name": "Cadmium chloride (CdCl) (6CI,7CI,8CI,9CI)"
+  },
+  "14335-40-1": {
+    "Name": "Phosphorous chloride difluoride (9CI)",
+    "Other Names": [
+      "Phosphorus chloride fluoride (PClF2) (6CI,7CI,8CI)",
+      "Chlorodifluorophosphine",
+      "Phosphorus chloride difluoride",
+      "Phosphorus chloridefluoride (PF2Cl)"
+    ]
   },
   "14457-87-5": {
     "Name": "Cerium bromide (CeBr3)",
