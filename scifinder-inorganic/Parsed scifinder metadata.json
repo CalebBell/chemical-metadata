@@ -395,6 +395,17 @@
       "Potassium oxide"
     ]
   },
+  "12136-58-2": {
+    "Deleted CAS": [
+      "1936483-83-8"
+    ],
+    "Name": "Lithium sulfide (Li2S)",
+    "Other Names": [
+      "Dilithium monosulfide",
+      "Dilithium sulfide",
+      "Lithium sulfide"
+    ]
+  },
   "12265-14-4": {
     "Deleted CAS": [
       "12265-14-4"
@@ -1238,6 +1249,17 @@
     "Name": "Arsenic acid (H3AsO4), zinc salt (1:1) (8CI,9CI)",
     "Other Names": [
       "Zinc arsenate (7CI)"
+    ]
+  },
+  "13464-44-3": {
+    "Deleted CAS": [
+      "29871-07-6"
+    ],
+    "Name": "Arsenic acid (H3AsO4), zinc salt (2:3) (8CI,9CI)",
+    "Other Names": [
+      "Zinc arsenate (Zn3(AsO4)2) (6CI,7CI)",
+      "Arsenic acid (H3AsO4) zinc salt",
+      "Zinc orthoarsenate"
     ]
   },
   "13478-45-0": {
@@ -2322,6 +2344,24 @@
       "ZX 131"
     ]
   },
+  "22205-45-4": {
+    "Deleted CAS": [
+      "1308-78-7",
+      "22891-51-6",
+      "155903-69-8",
+      "1708103-96-1"
+    ],
+    "Name": "Copper sulfide (Cu2S)",
+    "Other Names": [
+      "Austro Tecc CB 500",
+      "Copper sulfide (Cu0.67S0.33)",
+      "Copper(I) sulfide",
+      "Cuprous sulfide",
+      "Cuprous sulfide (Cu2S)",
+      "Dicoppermonosulfide",
+      "Dicopper sulfide"
+    ]
+  },
   "360-89-4": {
     "Name": "2-Butene, 1,1,1,2,3,4,4,4-octafluoro-",
     "Other Names": [
@@ -2541,6 +2581,81 @@
       "Antimony perchloride",
       "Antimony(V) chloride",
       "Pentachloroantimony"
+    ]
+  },
+  "7681-52-9": {
+    "Deleted CAS": [
+      "8007-59-8",
+      "56172-57-7",
+      "102324-78-7",
+      "227453-69-2"
+    ],
+    "Name": "Hypochlorous acid, sodium salt (1:1)",
+    "Other Names": [
+      "Hypochlorous acid, sodium salt (8CI,9CI)",
+      "AD Gel",
+      "ActiPlus N 2818",
+      "AgClor 310",
+      "Antiformin",
+      "Aron Clean",
+      "Aron Clean LB 10",
+      "B-KLiquid",
+      "Baso agri+",
+      "Belizna",
+      "Belkina",
+      "Carrel-Dakin solution",
+      "Chloros",
+      "Cloralex",
+      "Cloralex NL",
+      "Clorox",
+      "Comfor",
+      "Dakin's solution",
+      "DanKlorix",
+      "Deosan",
+      "Dispatch",
+      "Dispatch (salt)",
+      "Fox-Chlor",
+      "Hishikurin S",
+      "Histolith",
+      "Hyclorite",
+      "Hypex",
+      "Hypure",
+      "Hypure N",
+      "Javel water",
+      "Javelle water",
+      "Javex",
+      "Javex 5",
+      "JomaxMold & Mildew Stain Remover",
+      "Klorocin",
+      "Linely",
+      "Milton",
+      "Milton Sterilising Fluid",
+      "Modified Dakin's solution",
+      "Nades",
+      "Neo-cleaner",
+      "Neoseptal CL",
+      "Parazone",
+      "Parozone",
+      "Purelex",
+      "Purelox",
+      "Purelox S",
+      "Purin B",
+      "Raverrack D",
+      "Sanrack P",
+      "Sodium chloride oxide (NaClO)",
+      "Sodium hypochloride",
+      "Sodium hypochlorite",
+      "Sodium hypochlorite (NaClO)",
+      "Sodium hypochlorite (NaOCl)",
+      "Sodium oxychloride",
+      "Solutions, Dakin's",
+      "Sunnysol 150",
+      "Super White L",
+      "Tsurukuron",
+      "Tsurukuron N 40",
+      "Tsurukuron TW",
+      "XY 12",
+      "Youxiaolin"
     ]
   },
   "7698-05-7": {
