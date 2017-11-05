@@ -29,11 +29,12 @@ Br = {'pubchem': 5360770}
 NaAlO4H4 = {'pubchem': 166673}
 Na2HPO4 = {'pubchem': 24203}
 NaH2PO4 = {'pubchem': 24204}
+CuH2O4S = {'pubchem': 6536471}
 
 
 custom_ions = {'13536-95-3': D2Se, '16919-19-0': ammonium_hexafluorosilicate,
                '13454-75-6': CsBromate, '10097-32-2': Br, '2099990000-00-0': NaAlO4H4,
-               '7558-79-4': Na2HPO4, '7558-80-7': NaH2PO4}
+               '7558-79-4': Na2HPO4, '7558-80-7': NaH2PO4, '18939-61-2': CuH2O4S}
 
 for CAS, d in custom_ions.items():
     if CAS in good_syns:

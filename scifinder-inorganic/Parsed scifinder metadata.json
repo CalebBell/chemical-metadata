@@ -1231,6 +1231,15 @@
       "Cesium bromate (CsBrO3)"
     ]
   },
+  "13464-33-0": {
+    "Deleted CAS": [
+      "12322-30-4"
+    ],
+    "Name": "Arsenic acid (H3AsO4), zinc salt (1:1) (8CI,9CI)",
+    "Other Names": [
+      "Zinc arsenate (7CI)"
+    ]
+  },
   "13478-45-0": {
     "Name": "Niobium bromide (NbBr5)",
     "Other Names": [
@@ -1426,6 +1435,12 @@
       "Phosphorus chloridefluoride (PF2Cl)"
     ]
   },
+  "14374-77-7": {
+    "Name": "Willemite (Zn2(SiO4))",
+    "Other Names": [
+      "Willemite (8CI)Mineral"
+    ]
+  },
   "14457-87-5": {
     "Name": "Cerium bromide (CeBr3)",
     "Other Names": [
@@ -1603,6 +1618,25 @@
       "Diammonium silicon hexafluoride",
       "LPE 6",
       "NSC 310005"
+    ]
+  },
+  "17599-81-4": {
+    "Deleted CAS": [
+      "31207-09-7"
+    ],
+    "Name": "Sulfuric acid, copper(1+) salt (1:2)",
+    "Other Names": [
+      "Copper sulfate (Cu2SO4) (6CI,7CI)",
+      "Sulfuric acid, dicopper(1+) salt (8CI,9CI)",
+      "Copper(I) sulfate",
+      "Cuprous sulfate",
+      "Dicopper sulfate"
+    ]
+  },
+  "18939-61-2": {
+    "Name": "Sulfuric acid, copper(2+) salt (1:?)",
+    "Other Names": [
+      "Sulfuric acid, copper(2+) salt (8CI,9CI)"
     ]
   },
   "20694-39-7": {
