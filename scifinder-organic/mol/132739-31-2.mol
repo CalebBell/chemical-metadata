@@ -1,0 +1,176 @@
+164333
+  -OEChem-11211710372D
+
+ 35 34  0     1  0  0  0  0  0999 V2000
+    3.7320    0.1830    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3301   -0.3170    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7942   -0.3170    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -0.3170    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641    0.1830    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    4.5981   -0.3170    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -0.8170    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3660    0.5490    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3660   -1.1830    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641    1.1830    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1962    0.1830    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0622   -0.3170    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9282    0.1830    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641   -0.4370    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1996   -0.7919    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9966   -0.7919    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6900   -0.2801    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4631   -1.1270    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9030    0.8590    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0560    1.0860    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8291    0.2390    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3100   -1.3539    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8291   -1.4930    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6760   -1.7200    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9030   -0.8730    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0841    1.1830    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641    1.8030    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8441    1.1830    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5947    0.6580    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7976    0.6580    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6636   -0.7919    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4607   -0.7919    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3267    0.6580    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5297    0.6580    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3312   -0.0070    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3 13  1  0  0  0  0
+  3 35  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 14  1  0  0  0  0
+  6 15  1  0  0  0  0
+  6 16  1  0  0  0  0
+  7 17  1  0  0  0  0
+  7 18  1  0  0  0  0
+  7 22  1  0  0  0  0
+  8 19  1  0  0  0  0
+  8 20  1  0  0  0  0
+  8 21  1  0  0  0  0
+  9 23  1  0  0  0  0
+  9 24  1  0  0  0  0
+  9 25  1  0  0  0  0
+ 10 26  1  0  0  0  0
+ 10 27  1  0  0  0  0
+ 10 28  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 29  1  0  0  0  0
+ 11 30  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 31  1  0  0  0  0
+ 12 32  1  0  0  0  0
+ 13 33  1  0  0  0  0
+ 13 34  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+164333
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+118
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+3
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+1
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+7
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceBwMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGgAACAAADFSggAICAAAABgAAAAAAAAAAAAAAAAAAAAAAAAABEAAAAAACQAABAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+3-(2-tert-butoxy-1-methyl-ethoxy)propan-1-ol
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+3-[1-[(2-methylpropan-2-yl)oxy]propan-2-yloxy]-1-propanol
+
+> <PUBCHEM_IUPAC_NAME>
+3-[1-[(2-methylpropan-2-yl)oxy]propan-2-yloxy]propan-1-ol
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+3-[1-[(2-methylpropan-2-yl)oxy]propan-2-yloxy]propan-1-ol
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+3-(2-tert-butoxy-1-methyl-ethoxy)propan-1-ol
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C10H22O3/c1-9(12-7-5-6-11)8-13-10(2,3)4/h9,11H,5-8H2,1-4H3
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+OYBCJPZUEMNMGD-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+1
+
+> <PUBCHEM_EXACT_MASS>
+190.157
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C10H22O3
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+190.283
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CC(COC(C)(C)C)OCCCO
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CC(COC(C)(C)C)OCCCO
+
+> <PUBCHEM_CACTVS_TPSA>
+38.7
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+190.157
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+13
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+5  10  3
+
+$$$$

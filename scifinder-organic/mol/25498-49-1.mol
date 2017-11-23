@@ -1,0 +1,77 @@
+347755308
+  -OEChem-11211710442D
+
+ 14 13  0     1  0  0  0  0  0999 V2000
+    0.7145    0.2062    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -0.2062    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -0.2062    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5724    0.2062    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    0.2062    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    1.4289   -0.2062    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+   -0.0000   -0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434    0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579   -0.2062    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+   -0.7145    1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579   -1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724    0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3 14  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 11  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 12  1  0  0  0  0
+  8 10  1  0  0  0  0
+ 10 13  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_ID_TYPE>
+0
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_SUBSTANCE_ID>
+347755308
+
+> <PUBCHEM_SUBSTANCE_VERSION>
+1
+
+> <PUBCHEM_EXT_DATASOURCE_NAME>
+11764
+
+> <PUBCHEM_EXT_DATASOURCE_REGID>
+25498-49-1
+
+> <PUBCHEM_SUBSTANCE_COMMENT>
+Alfa Chemistry offers an extensive catalog of building blocks, reagents, catalysts, reference materials, and research chemicals in a wide range of applications. We supply TRIPROPYLENE GLYCOL MONOMETHYL ETHER (cas no:25498-49-1).
+
+> <PUBCHEM_SUBSTANCE_SYNONYM>
+25498-49-1
+TRIPROPYLENE GLYCOL MONOMETHYL ETHER
+
+> <PUBCHEM_GENERIC_REGISTRY_NAME>
+25498-49-1
+
+> <PUBCHEM_XREF_EXT_ID>
+25498-49-1
+
+> <PUBCHEM_EXT_DATASOURCE_URL>
+http://www.alfa-chemistry.com/
+
+> <PUBCHEM_EXT_SUBSTANCE_URL>
+http://www.alfa-chemistry.com/tripropylene-glycol-monomethyl-ether-cas-25498-49-1-item-118690.htm
+
+> <PUBCHEM_CID_ASSOCIATIONS>
+30111  1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+3
+
+$$$$

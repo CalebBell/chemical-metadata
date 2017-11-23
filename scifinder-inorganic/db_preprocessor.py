@@ -6,7 +6,7 @@ from rdkit.Chem import Descriptors
 from rdkit.Chem.rdMolDescriptors import CalcMolFormula
 import json
 
-db = ChemicalMetadataDB(elements=False, main_db=('Inorganic db.tsv'), user_dbs=[])
+db = ChemicalMetadataDB(elements=False, main_db=('Inorganic_db.tsv'), user_dbs=[])
 
 good_syns = {}
 

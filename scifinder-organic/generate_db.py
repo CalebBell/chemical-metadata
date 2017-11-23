@@ -8,11 +8,13 @@ from rdkit.Chem import Descriptors, inchi
 from rdkit.Chem.rdMolDescriptors import CalcMolFormula
 from pubchempy import get_compounds, Compound
 import json
+import db_preprocessor
 from collections import Counter
 from thermo import serialize_formula
 
+db_preprocessor.write()
 
-os.system('python2 parse_pdf.py')
+#os.system('python2 parse_pdf.py')
 
 
 
@@ -135,6 +137,11 @@ def parse_f(f):
         inchi_val = inchi.MolToInchi(mol)
         inchikey = inchi.InchiToInchiKey(inchi_val)
         mw = Descriptors.MolWt(mol)
+#        for i in mol.GetAtoms():
+#            if i.GetIsotope():
+#                mw = Descriptors.ExactMolWt(mol)
+#                break
+        
         formula = CalcMolFormula(mol, True, True)
         iupac_name = ''
     try:
@@ -193,6 +200,9 @@ def parse_f(f):
                 actual_names.append(n)
 
     actual_names = [i for i in actual_names if i]
+    
+    if inchi_val is not None:
+        inchi_val = inchi_val.replace('InChI=1S/', '')
     
     formula = serialize_formula(formula)
     s = '%d\t%s\t%s\t%g\t%s\t%s\t%s\t%s\t' %(cid, CAS, formula, mw, smi, inchi_val, inchikey, iupac_name)

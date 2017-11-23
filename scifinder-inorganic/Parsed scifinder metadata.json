@@ -417,6 +417,46 @@
       "Chlorophosphorane"
     ]
   },
+  "1303-96-4": {
+    "Deleted CAS": [
+      "1344-90-7",
+      "12322-85-9",
+      "12447-40-4",
+      "61028-24-8",
+      "71377-02-1",
+      "910783-71-0",
+      "950582-60-2",
+      "1242163-03-6",
+      "1443500-22-8",
+      "1820039-99-3"
+    ],
+    "Name": "Borax (B4Na2O7.10H2O)",
+    "Other Names": [
+      "Borax (8CI)",
+      "20 Mule Team Borax",
+      "20 Mule Team Borax Tech 4/200 Mesh",
+      "BR 100",
+      "BR 100 (borate)",
+      "Borascu",
+      "Borax decahydrate",
+      "Boric acid (H2B4O7), disodium salt, decahydrate",
+      "Boricin",
+      "Boron sodium oxide (B4Na2O7), decahydrate",
+      "Bura",
+      "Disodium tetraborate decahydrate",
+      "Gerstley borate",
+      "M 9358",
+      "Sodium biborate decahydrate",
+      "Sodium borate (Na2B4O7), decahydrate",
+      "Sodium pyroborate",
+      "Sodium pyroborate decahydrate",
+      "Sodium tetraborate decahydrate",
+      "Solubor",
+      "Solubor DF",
+      "Three Elephant",
+      "TincalMineral,"
+    ]
+  },
   "1309-37-1": {
     "Deleted CAS": [
       "1343-09-5",
@@ -3165,6 +3205,9 @@
       "Silicon hydride (SiH4)",
       "Silicon tetrahydride"
     ]
+  },
+  "93401-23-1": {
+    "Name": "Potassate(1-),\u00a0\u00b5-hydroxydi-\u00a0(9CI)"
   },
   "Substance_11_03_2017_125822": {
     "Deleted CAS": [
