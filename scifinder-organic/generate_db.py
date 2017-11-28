@@ -14,7 +14,7 @@ from thermo import serialize_formula
 
 db_preprocessor.write()
 
-#os.system('python2 parse_pdf.py')
+os.system('python2 parse_pdf.py')
 
 
 

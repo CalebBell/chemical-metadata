@@ -1266,6 +1266,30 @@
       "Securoc B 9Mineral"
     ]
   },
+  "1327-53-3": {
+    "Deleted CAS": [
+      "28380-38-3",
+      "856307-43-2"
+    ],
+    "Name": "Arsenic oxide (As2O3)",
+    "Other Names": [
+      "Arsenic oxide (AsO1.5)",
+      "Arsenic sesquioxide",
+      "Arsenic sesquioxide (As2O3)",
+      "Arsenic trioxide",
+      "Arsenic(III) trioxide",
+      "Arsenicum album",
+      "Arsenious oxide",
+      "Arsenious trioxide",
+      "Arsenous anhydride",
+      "Arsenous oxide",
+      "Arsodent",
+      "Diarsenic trioxide",
+      "Trisenox",
+      "Trisonex",
+      "White arsenic"
+    ]
+  },
   "13446-03-2": {
     "Name": "Manganese bromide (MnBr2)",
     "Other Names": [
@@ -2432,6 +2456,9 @@
       "Silver(I) cyanide"
     ]
   },
+  "51177-04-9": {
+    "Name": "Cobalt carbide"
+  },
   "544-92-3": {
     "Deleted CAS": [
       "13092-67-6"
@@ -2907,6 +2934,17 @@
       "Seleniumdihydride",
       "Selenium hydride",
       "Selenium hydride (SeH2)"
+    ]
+  },
+  "7783-29-1": {
+    "Name": "Tetrasilane",
+    "Other Names": [
+      "Silicobutane",
+      "Silicon hydride (Si4H10)",
+      "Tetrasilicane",
+      "Tetrasilicobutane",
+      "Tetrasilicon decahydride",
+      "n-Tetrasilane"
     ]
   },
   "7783-58-6": {
