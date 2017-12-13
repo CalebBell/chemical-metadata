@@ -1,4 +1,18 @@
 {
+  "10025-67-9": {
+    "Name": "Sulfur chloride (S2Cl2)",
+    "Other Names": [
+      "Chlorosulfane",
+      "Dichlorodisulfane",
+      "Disulfur dichloride",
+      "Sulfur chloride",
+      "Sulfur monochloride",
+      "Sulfur monochloride (S2Cl2)",
+      "Sulfursubchloride",
+      "Sulphur chloride (S2Cl2)",
+      "Thiosulfurous dichloride"
+    ]
+  },
   "10025-73-7": {
     "Name": "Chromium chloride (CrCl3)",
     "Other Names": [
@@ -57,6 +71,27 @@
       "Manganese(II) sulfate monohydrate",
       "Manganous sulfate monohydrate",
       "Sulfuric acid manganese salt (1:1) monohydrate"
+    ]
+  },
+  "10039-54-0": {
+    "Deleted CAS": [
+      "120893-78-9",
+      "1257422-90-4"
+    ],
+    "Name": "Hydroxylamine, sulfate (2:1)",
+    "Other Names": [
+      "Hydroxylamine, sulfate (2:1) (salt) (8CI,9CI)",
+      "Hydroxylamine, sulfate (7CI)",
+      "Bis(hydroxylamine) sulfate",
+      "Bis(hydroxylammonium)sulfate",
+      "Di(hydroxylamine) sulfate",
+      "Envision MLB 2030",
+      "Hydroxyl ammonium sulfate ((HONH3)2SO4)",
+      "Hydroxylamine neutral sulfate",
+      "Hydroxylammonium sulfate",
+      "Lanasane LAB",
+      "Oxammonium sulfate",
+      "Reduction Solution Securiganth P"
     ]
   },
   "10043-01-3": {
@@ -128,6 +163,39 @@
       "U-Ramin MC"
     ]
   },
+  "10045-95-1": {
+    "Alternate CAS": [
+      "22653-35-6"
+    ],
+    "Name": "Nitric acid, neodymium(3+) salt (3:1)",
+    "Other Names": [
+      "Neodymium nitrate (Nd(NO3)3) (6CI)",
+      "Nitric acid, neodymium(3+) salt (8CI,9CI)",
+      "Neodymium nitrate",
+      "Neodymium trinitrate",
+      "Neodymium(3+) nitrate",
+      "Neodymium(III) nitrate"
+    ]
+  },
+  "10049-08-8": {
+    "Name": "Ruthenium chloride (RuCl3)",
+    "Other Names": [
+      "Dichlororuthenium chloride ((RuCl2)Cl) (7CI)",
+      "Ruthenium chloride",
+      "Ruthenium trichloride",
+      "Ruthenium(III) chloride"
+    ]
+  },
+  "10049-14-6": {
+    "Name": "Uranium fluoride (UF4), (T-4)-",
+    "Other Names": [
+      "Uranium fluoride (UF4) (8CI)",
+      "Green salt",
+      "Tetrafluorouranium",
+      "Uranium fluoride (U2F8)",
+      "Uranium tetrafluoride"
+    ]
+  },
   "10097-32-2": {
     "Name": "Bromine, atomic",
     "Other Names": [
@@ -166,6 +234,23 @@
       "Lanthanum(3+) nitrate"
     ]
   },
+  "10102-24-6": {
+    "Deleted CAS": [
+      "1189978-77-5",
+      "1779572-75-6"
+    ],
+    "Name": "Silicic acid (H2SiO3), lithium salt (1:2)",
+    "Other Names": [
+      "Lithium silicate (Li2SiO3) (6CI)",
+      "Silicic acid (H2SiO3), dilithium salt (8CI,9CI)",
+      "Dilithium metasilicate",
+      "Dilithium silicate (Li2SiO3)",
+      "Lithium metasilicate",
+      "Lithium metasilicate (Li2SiO3)",
+      "Lithium silicate",
+      "Lithium silicon oxide (Li2SiO3)"
+    ]
+  },
   "10102-44-0": {
     "Deleted CAS": [
       "50443-93-1",
@@ -200,6 +285,24 @@
       "Zinc iodide (8CI)",
       "NSC 39113",
       "Zinc diiodide"
+    ]
+  },
+  "10170-69-1": {
+    "Deleted CAS": [
+      "14267-36-8",
+      "28829-51-8"
+    ],
+    "Name": "Manganese, decacarbonyldi-, (Mn-Mn)",
+    "Other Names": [
+      "Manganese carbonyl (6CI)",
+      "CORM 1",
+      "Decacarbonyldimanganese",
+      "Decacarbonyldimanganese(0)",
+      "Dimanganese decacarbonyl",
+      "Manganese carbonyl (Mn2(CO)10)",
+      "Manganese pentacarbonyl dimer",
+      "NSC 203018",
+      "NSC 22319"
     ]
   },
   "10214-40-1": {
@@ -328,6 +431,259 @@
       "\u03b2-Alumina"
     ]
   },
+  "12003-65-5": {
+    "Deleted CAS": [
+      "260411-04-9",
+      "373594-17-3",
+      "855654-98-7",
+      "1294451-99-2",
+      "2095496-57-2"
+    ],
+    "Name": "Al La O3",
+    "Other Names": [
+      "Lanthanum aluminate (LaAlO3) (6CI)",
+      "Aluminum lanthanum oxide (AlLaO1.5)",
+      "Aluminum lanthanum trioxide",
+      "Lanthanum aluminate",
+      "Lanthanum aluminum oxide (LaAlO3)",
+      "Lanthanum orthoaluminate"
+    ]
+  },
+  "12007-60-2": {
+    "Deleted CAS": [
+      "12688-51-6",
+      "108662-77-7",
+      "110271-56-2",
+      "796879-31-7"
+    ],
+    "Name": "B4\u00a0Li2\u00a0O7",
+    "Other Names": [
+      "Boric acid (H2B4O7), dilithium salt (8CI)",
+      "Lithium borate (Li2B4O7) (6CI)",
+      "Lithium tetraborate (Li2B4O7) (7CI)",
+      "Dilithium tetraborate",
+      "Dilithium tetraborate (Li2B4O7)",
+      "Lithium borate",
+      "Lithium boron oxide (Li2B4O7)",
+      "Lithium tetraborate"
+    ]
+  },
+  "12017-12-8": {
+    "Deleted CAS": [
+      "264125-06-6",
+      "803745-60-0",
+      "852177-80-1",
+      "869698-88-4",
+      "1314941-74-6"
+    ],
+    "Name": "Cobalt silicide (CoSi2)",
+    "Other Names": [
+      "Cobalt disilicide"
+    ]
+  },
+  "12018-01-8": {
+    "Deleted CAS": [
+      "1310414-90-4"
+    ],
+    "Name": "Chromium oxide (CrO2)",
+    "Other Names": [
+      "Amdry 6415",
+      "Chromium dioxide",
+      "Chromium dioxide (CrO2)",
+      "Chromium oxide",
+      "Chromium(IV) oxide",
+      "Magtrieve"
+    ]
+  },
+  "12018-09-6": {
+    "Deleted CAS": [
+      "1351377-69-9"
+    ],
+    "Name": "Chromium silicide (CrSi2)",
+    "Other Names": [
+      "Chromium disilicide",
+      "Chromium disilicide (CrSi2)"
+    ]
+  },
+  "12031-63-9": {
+    "Deleted CAS": [
+      "108026-39-7",
+      "874998-53-5",
+      "1416059-34-1",
+      "1620054-05-8",
+      "1802392-91-1"
+    ],
+    "Name": "Lithium niobium oxide (LiNbO3)",
+    "Other Names": [
+      "Lithium niobate(V) (LiNbO3) (6CI)",
+      "Niobate (NbO31-), lithium",
+      "LN",
+      "Lithium metaniobate",
+      "Lithium niobate",
+      "Lithium niobate (LiNbO3)",
+      "Lithium niobium trioxide"
+    ]
+  },
+  "12032-20-1": {
+    "Deleted CAS": [
+      "1350899-15-8",
+      "1400873-08-6",
+      "1581258-67-4"
+    ],
+    "Name": "Lutetium oxide (Lu2O3)",
+    "Other Names": [
+      "Dilutetium trioxide",
+      "Lutetia",
+      "Lutetium oxide",
+      "Lutetium sesquioxide",
+      "Lutetium sesquioxide (Lu2O3)",
+      "Lutetium trioxide",
+      "Lutetium(3+)oxide",
+      "Lutetium(III) oxide"
+    ]
+  },
+  "12032-36-9": {
+    "Deleted CAS": [
+      "957799-14-3"
+    ],
+    "Name": "Magnesium sulfide (MgS)",
+    "Other Names": [
+      "Magnesium monosulfide",
+      "Magnesium sulfide"
+    ]
+  },
+  "12036-32-7": {
+    "Alternate CAS": [
+      "11113-81-8"
+    ],
+    "Deleted CAS": [
+      "847941-37-1",
+      "1240378-86-2"
+    ],
+    "Name": "O3\u00a0Pr2",
+    "Other Names": [
+      "Dipraseodymium trioxide",
+      "Praseodymia",
+      "Praseodymium oxide",
+      "Praseodymium sesquioxide",
+      "Praseodymium trioxide",
+      "Praseodymium(3+) oxide",
+      "Praseodymium(III) oxide",
+      "SU-FP",
+      "SU-FP (praseodymium compound)"
+    ]
+  },
+  "12045-63-5": {
+    "Deleted CAS": [
+      "161088-90-0",
+      "681215-79-2",
+      "827581-01-1",
+      "1088528-17-9",
+      "1301243-49-1",
+      "1383706-94-2",
+      "1428333-90-7",
+      "1439384-78-7",
+      "1611441-08-7",
+      "1615228-13-1",
+      "1644294-53-0",
+      "1809784-78-8",
+      "1821115-24-5",
+      "2119569-60-5"
+    ],
+    "Name": "Titanium boride (TiB2)",
+    "Other Names": [
+      "Ceralloy 225",
+      "TiBX",
+      "Titanium boride",
+      "Titanium boride (Ti8B16)",
+      "Titanium diboride"
+    ]
+  },
+  "12045-64-6": {
+    "Deleted CAS": [
+      "1613508-72-7"
+    ],
+    "Name": "Zirconium boride (ZrB2)",
+    "Other Names": [
+      "Ceraborex",
+      "Ceraborex CR",
+      "ZB-MOD",
+      "Zirconium boride",
+      "Zirconium diboride"
+    ]
+  },
+  "12055-23-1": {
+    "Alternate CAS": [
+      "37230-85-6"
+    ],
+    "Deleted CAS": [
+      "597552-83-5",
+      "939428-39-4",
+      "939429-00-2"
+    ],
+    "Name": "Hafnium oxide (HfO2)",
+    "Other Names": [
+      "Hafnia",
+      "Hafnia (HfO2)",
+      "Hafnium dioxide",
+      "Hafnium dioxide (HfO2)",
+      "Hafnium oxide",
+      "Hafnotrast",
+      "Hf 05",
+      "Hf 05 (oxide)",
+      "NSC 158931"
+    ]
+  },
+  "12060-08-1": {
+    "Deleted CAS": [
+      "256652-08-1",
+      "256652-09-2",
+      "1187313-37-6",
+      "1257584-26-1"
+    ],
+    "Name": "Scandium oxide (Sc2O3)",
+    "Other Names": [
+      "Discandium trioxide",
+      "Scandia",
+      "Scandia (Sc2O3)",
+      "Scandium oxide",
+      "Scandium oxide (ScO1.5)",
+      "Scandium sesquioxide",
+      "Scandiumtrioxide",
+      "Scandium(3+) oxide",
+      "Scandium(III) oxide"
+    ]
+  },
+  "12069-94-2": {
+    "Deleted CAS": [
+      "11129-66-1",
+      "11129-67-2",
+      "155969-44-1",
+      "357245-90-0",
+      "1039456-73-9"
+    ],
+    "Name": "Niobium carbide (NbC)",
+    "Other Names": [
+      "Niobium carbide",
+      "Niobium monocarbide",
+      "Niobium monocarbide (NbC)"
+    ]
+  },
+  "12070-10-9": {
+    "Name": "Vanadium carbide (VC)",
+    "Other Names": [
+      "Vanadium carbide",
+      "Vanadium monocarbide"
+    ]
+  },
+  "12070-13-2": {
+    "Name": "Tungsten carbide (W2C)",
+    "Other Names": [
+      "Ditungsten carbide",
+      "Ditungsten monocarbide",
+      "Ditungsten monocarbide (W2C)"
+    ]
+  },
   "12125-02-9": {
     "Alternate CAS": [
       "152128-19-3, 1448438-95-6"
@@ -406,6 +762,18 @@
       "Lithium sulfide"
     ]
   },
+  "12201-89-7": {
+    "Deleted CAS": [
+      "264125-11-3",
+      "803745-61-1",
+      "2077101-10-9"
+    ],
+    "Name": "Nickel silicide (NiSi2)",
+    "Other Names": [
+      "Nickel disilicide",
+      "Nickel silicide"
+    ]
+  },
   "12265-14-4": {
     "Deleted CAS": [
       "12265-14-4"
@@ -415,6 +783,70 @@
       "Phosphonium chloride ((PH4)Cl) (7CI)",
       "Phosphonium chloride (6CI)",
       "Chlorophosphorane"
+    ]
+  },
+  "1291-32-3": {
+    "Deleted CAS": [
+      "23845-55-8"
+    ],
+    "Name": "Zirconium,\u00a0dichlorobis(\u03b75-2,4-cyclopentadien-1-yl)-",
+    "Other Names": [
+      "Zirconium,\u00a0dichlorodi-\u03c0-cyclopentadienyl-\u00a0(8CI)",
+      "Zirconium,\u00a0dichlorodicyclopentadienyl-\u00a0(7CI)",
+      "Dichlorobis(\u03b75-2,4-cyclopentadien-1-yl)zirconium",
+      "Bis(cyclopentadienyl)dichlorozirconium",
+      "Bis(cyclopentadienyl)zirconium\u00a0dichloride",
+      "Bis(cyclopentadienyl)zirconium(IV)\u00a0dichloride",
+      "Bis(\u03b75-cyclopentadienyl)dichlorozirconium",
+      "Bis(\u03b75-cyclopentadienyl)zirconium\u00a0dichloride",
+      "Bis-\u03c0-cyclopentadienyldichlorozirconium",
+      "Dichloro(cyclopentadienyl)zirconium",
+      "Dichlorobis(cyclopentadienyl)\u00a0zirconium",
+      "Dichlorobis(\u03b75-cyclopentadienyl)zirconium",
+      "Dichlorobis(\u03c0-cyclopentadienyl)zirconium",
+      "Dichlorodi-\u03c0-cyclopentadienylzirconium",
+      "Dichlorodi-\u03c0-dicyclopentadienylzirconium",
+      "Dichlorodicyclopentadienylzirconium",
+      "Dichlorozirconocene",
+      "Dicyclopentadienyldichlorozirconium",
+      "Dicyclopentadienylzirconium\u00a0dichloride",
+      "Eurecen\u00a05034",
+      "NSC\u00a093930",
+      "Zirconiumdicyclopentadiene\u00a0dichloride",
+      "Zirconocene\u00a0dichloride",
+      "Zirconocene,\u00a0dichloride",
+      "dichlorobis(\u03b75-2,4-cyclopentadien-1-yl)zirconium"
+    ]
+  },
+  "1302-93-8": {
+    "Deleted CAS": [
+      "55964-99-3",
+      "1260518-72-6"
+    ],
+    "Name": "Mullite (Al6O5(SiO4)2)",
+    "Other Names": [
+      "AM 72S",
+      "CK 1081",
+      "Cerabeads 1700",
+      "EC 95",
+      "KM 101",
+      "KM 101 (mineral)",
+      "M 45",
+      "M 45 (mineral)",
+      "M 60",
+      "MLS 62",
+      "MLS 62 (mineral)",
+      "MP40",
+      "MP 40 (mineral)",
+      "MP 40-02",
+      "MULCR",
+      "Mullite",
+      "Mullite Ball",
+      "Mullite Flour 200",
+      "Mullite MM 325F",
+      "Mullite-alpha",
+      "Naigai Cerabeads 60",
+      "PM TubeMineral,"
     ]
   },
   "1303-96-4": {
@@ -455,6 +887,16 @@
       "Solubor DF",
       "Three Elephant",
       "TincalMineral,"
+    ]
+  },
+  "1308-14-1": {
+    "Name": "Chromium hydroxide (Cr(OH)3)",
+    "Other Names": [
+      "Chromic acid (H3CrO3)",
+      "Chromic hydroxide",
+      "Chromium trihydroxide",
+      "Chromium(3+) hydroxide",
+      "Chromium(III) hydroxide"
     ]
   },
   "1309-37-1": {
@@ -1211,6 +1653,19 @@
       "Zerogen Vertex"
     ]
   },
+  "1312-73-8": {
+    "Alternate CAS": [
+      "37248-34-3"
+    ],
+    "Name": "Potassium sulfide (K2S)",
+    "Other Names": [
+      "Dipotassium monosulfide",
+      "Dipotassium monosulfide (K2S)",
+      "Dipotassium sulfide",
+      "Potassium monosulfide",
+      "Potassium sulfide"
+    ]
+  },
   "1313-82-2": {
     "Deleted CAS": [
       "113584-74-0",
@@ -1226,6 +1681,36 @@
       "Sodium sulfide",
       "Sodiumsulphide",
       "sodium sulfide Na2S"
+    ]
+  },
+  "1314-15-4": {
+    "Name": "Platinum oxide (PtO2)",
+    "Other Names": [
+      "Adams' catalyst",
+      "NSC 402624",
+      "Platinic oxide",
+      "Platinum dioxide",
+      "Platinum(IV) oxide"
+    ]
+  },
+  "1314-37-0": {
+    "Deleted CAS": [
+      "1400873-06-4",
+      "1445316-69-7",
+      "1580410-26-9"
+    ],
+    "Name": "Ytterbium oxide (Yb2O3)",
+    "Other Names": [
+      "Diytterbium trioxide",
+      "UU-HP",
+      "Ytterbia",
+      "Ytterbium oxide",
+      "Ytterbium oxide (YbO1.5)",
+      "Ytterbium sesquioxide",
+      "Ytterbium sesquioxide(Yb2O3)",
+      "Ytterbium trioxide",
+      "Ytterbium(3+) oxide",
+      "Ytterbium(III) oxide"
     ]
   },
   "1314-80-3": {
@@ -1253,6 +1738,73 @@
       "Thiophosphoric anhydride"
     ]
   },
+  "1314-84-7": {
+    "Deleted CAS": [
+      "39342-49-9",
+      "67181-74-2",
+      "74191-18-7"
+    ],
+    "Name": "Zinc phosphide (Zn3P2)",
+    "Other Names": [
+      "Arrex E",
+      "Delusal",
+      "Nera",
+      "Ratol",
+      "Stutox",
+      "Stutox I",
+      "Trizinc diphosphide",
+      "ZP Rodent Bait AG",
+      "Zinc phosphide",
+      "Zinctox"
+    ]
+  },
+  "1317-39-1": {
+    "Deleted CAS": [
+      "633343-78-9"
+    ],
+    "Name": "Copper oxide (Cu2O)",
+    "Other Names": [
+      "Ag Copp 75",
+      "C.I. 77402",
+      "Caocobre Sandoz",
+      "Chem Copp 50",
+      "Cobre Sandoz",
+      "Copper Sandoz",
+      "Copper oxide",
+      "Copper protoxide",
+      "Copper red Cu2O",
+      "Copper suboxide",
+      "Copper(1+) oxide",
+      "Copper(I) oxide",
+      "Copper(I) oxide (Cu2O)",
+      "Copperoxy",
+      "Cupramar",
+      "Cuprous oxide",
+      "Dicoppermonooxide",
+      "Dicopper monoxide",
+      "Dicopper oxide",
+      "Fungimar",
+      "GG",
+      "GG (pigment)",
+      "LoLo Tint LM",
+      "Lolo Tint 97",
+      "NC 102",
+      "NC 301",
+      "NC 301 (oxide)",
+      "NC 303",
+      "NC 803",
+      "NSC 83538",
+      "NX 3",
+      "Nordox",
+      "Perenox",
+      "Purple Copp",
+      "R 30",
+      "R 30 (oxide)",
+      "Red Copp 97N Premium",
+      "Red copper oxide",
+      "Yellow cuprocide"
+    ]
+  },
   "1317-43-7": {
     "Name": "Brucite (Mg(OH)2)",
     "Other Names": [
@@ -1264,6 +1816,404 @@
       "Hydrofy G 1.0",
       "PC 200",
       "Securoc B 9Mineral"
+    ]
+  },
+  "1317-61-9": {
+    "Deleted CAS": [
+      "73905-81-4",
+      "107720-80-9",
+      "118440-50-9",
+      "122391-58-6",
+      "139660-10-9",
+      "144856-04-2",
+      "170277-36-8",
+      "207621-21-4",
+      "208666-79-9",
+      "219674-87-0",
+      "224310-08-1",
+      "253310-51-9",
+      "514204-11-6",
+      "940941-19-5",
+      "942194-22-1",
+      "954415-69-1",
+      "1402398-17-7",
+      "1433983-76-6",
+      "1481694-60-3",
+      "1643773-71-0",
+      "1988696-47-4",
+      "2031170-98-4"
+    ],
+    "Name": "Iron oxide (Fe3O4)",
+    "Other Names": [
+      "ABL 205",
+      "ABL 207",
+      "AM 01",
+      "AM 01 (ferrofluid)",
+      "AX 3000",
+      "B 2550",
+      "B 6",
+      "B 6 (oxide)",
+      "BK 45",
+      "BK 5099",
+      "BL 10",
+      "BL 10 (oxide)",
+      "BL 100",
+      "BL100P",
+      "BL 400",
+      "BL-SP",
+      "BM 200P",
+      "BM 611",
+      "BP 303C",
+      "BRIJ 20",
+      "Bayferrox 306",
+      "Bayferrox 316",
+      "Bayferrox 318",
+      "Bayferrox 318NM",
+      "Bayferrox 320",
+      "Bayferrox 330",
+      "Bayferrox 8010",
+      "Bayferrox Black 318",
+      "Bayoxide E 8706",
+      "Bayoxide E 8707H",
+      "Bayoxide E 8708",
+      "Bayoxide E 8709",
+      "Bayoxide E 8710",
+      "Bayoxide E 8713H",
+      "Black BL 100P",
+      "BlackCap 1",
+      "CTD 7205",
+      "Color MAT 220",
+      "Colorana Black CM 4",
+      "Colortherm 303T",
+      "Dittany B 77499",
+      "Duploxide 88P",
+      "E 335",
+      "E 335 (oxide)",
+      "E 8706",
+      "EC 301",
+      "EC 371",
+      "EC 371 (metal oxide)",
+      "EFV 100/200",
+      "EMG 705",
+      "EMG 805",
+      "EMG 900",
+      "EMG 911",
+      "EPM 0045F",
+      "EPM012S1",
+      "EPP 2000",
+      "EPT 1002",
+      "EPT 2000",
+      "EPT 305",
+      "EPT 5000",
+      "Ethiops iron",
+      "FW 17134",
+      "FW 1790",
+      "Fe3O4",
+      "Ferriferrous oxide",
+      "Ferriferrous oxide(Fe3O4)",
+      "Ferrix 8600",
+      "Ferroferric oxide",
+      "Ferrofluid EMG",
+      "Ferrofluid EMG 705",
+      "Ferrofluid EMG 707",
+      "Ferrofluid EMG 805",
+      "Ferrofluid EMG 911",
+      "Ferronan8501",
+      "Ferrosoferric oxide",
+      "Ferrotec EMG 705",
+      "Ferroxide 77",
+      "HR 370H",
+      "HR 390H",
+      "IO Black 318",
+      "Iron ferrite",
+      "Iron oxide",
+      "Iron oxide (Fe3O4) syntheticmagnetite",
+      "Iron oxide black",
+      "Iron(II) diiron(III) oxide",
+      "JC-HRM 01",
+      "KBN 400",
+      "KFH-NA",
+      "LH",
+      "LP",
+      "Lohtragon FOX 222",
+      "MAT 206",
+      "MAT 230",
+      "MAT 305",
+      "MB22",
+      "MF 100",
+      "MF 100 (ferrite)",
+      "MG 1300",
+      "MG 1306",
+      "MG 9300",
+      "MG-WMK",
+      "MG-WS",
+      "MGR 22",
+      "MGR 22K",
+      "MION 37",
+      "MION 46",
+      "MO 4232",
+      "MO 4431",
+      "MO7029",
+      "MO 8029",
+      "MS 0302",
+      "MTA 230",
+      "MTA 710",
+      "MTA 740",
+      "MTC 01",
+      "MTC 01 (oxide)",
+      "MTH 009F",
+      "MTH 310",
+      "MTS 010",
+      "MTS 106",
+      "MTS 305",
+      "MX 030A",
+      "Magnetite (synthetic)",
+      "Magnetite Black TN 15",
+      "Magnox B 353",
+      "Nanotek Fe3O4",
+      "PMT 92",
+      "RB-BL-P",
+      "Rezovist",
+      "S 2",
+      "S 320",
+      "S 320 (oxide)",
+      "S 3308",
+      "SM 200",
+      "SM 200 (oxide)",
+      "SM 350",
+      "SM 350NV",
+      "SM 400 (oxide)",
+      "SOR-10-50",
+      "SOR-50-50",
+      "SPBL",
+      "Spherox",
+      "SunPURO Black",
+      "TEFV",
+      "TEFV 200/300",
+      "TEFV250/400",
+      "TM 620",
+      "TMB 100",
+      "TMB 105T",
+      "TN 15",
+      "TTR 840",
+      "Tarox BL 100",
+      "Tarox BL 100P",
+      "Tarox BL 200",
+      "Tarox BL 500",
+      "Tarox Black BL 100",
+      "TaroxBlack BL 100P",
+      "Tarox EL 100",
+      "Toda Brown 710",
+      "Tri-iron tetraoxide (Fe3O4)",
+      "Triiron tetraoxide",
+      "Triiron tetroxide",
+      "W 11",
+      "Z 250",
+      "Z 250 (oxide)"
+    ]
+  },
+  "1327-41-9": {
+    "Deleted CAS": [
+      "8012-66-6",
+      "11097-68-0",
+      "32056-15-8",
+      "37226-46-3",
+      "39380-80-8",
+      "56803-01-1",
+      "56831-66-4",
+      "64441-77-6",
+      "79586-02-0",
+      "84861-98-3",
+      "101707-17-9",
+      "114442-10-3",
+      "135864-70-9",
+      "143230-54-0",
+      "144388-28-3",
+      "162535-15-1",
+      "167140-05-8",
+      "245064-40-8",
+      "672263-85-3",
+      "745062-58-2",
+      "808739-25-5",
+      "851541-97-4",
+      "929897-91-6",
+      "929897-93-8",
+      "929898-03-3",
+      "929898-04-4",
+      "1123762-30-0",
+      "1709832-51-8"
+    ],
+    "Name": "Aluminum chloride, basic",
+    "Other Names": [
+      "Aluminum chloride hydroxide (8CI)",
+      "A 296",
+      "AACH 7172",
+      "ACH",
+      "ACH 325",
+      "ACH 331",
+      "ACH 7-321",
+      "Akva-Aurat",
+      "Akva-Aurat 10",
+      "Akva-Aurat 105",
+      "Akva-Aurat 14",
+      "Akva-Aurat 170",
+      "Akva-Aurat 18",
+      "Akva-Aurat 30",
+      "Alcofix 905",
+      "Alfine 83",
+      "Aloxicoll",
+      "Aloxicoll L",
+      "Aloxicoll LR",
+      "Alufine 83",
+      "Aluminium hydroxychloride",
+      "Aluminol ACH",
+      "Aluminum chlorhydrate",
+      "Aluminum chlorhydroxide",
+      "Aluminum chloride hydroxide oxide, basic",
+      "Aluminumchloride oxide",
+      "Aluminum chlorohydrate",
+      "Aluminum chlorohydrol",
+      "Aluminum chlorohydroxide",
+      "Aluminum hydroxide chloride",
+      "Aluminum hydroxychloride",
+      "Aluminum oxychloride",
+      "Aquarhone",
+      "Aquarhone 18",
+      "Aquaserv AQ 292",
+      "Arya PAC",
+      "Astringen",
+      "Astringen 10",
+      "Banoltan White",
+      "Basic aluminum chloride",
+      "Basic aluminum chloride, hydrate",
+      "Berukotan AC-P",
+      "Cartafix LA",
+      "Cawood 5025",
+      "Chlorhydrol",
+      "Chlorhydrol Micro-Dry",
+      "Chlorhydrol Micro-Dry SUF",
+      "Chlorudol 50",
+      "Compozil EKA-ATC 8210",
+      "E 200",
+      "E 200 (coagulant)",
+      "EC 309",
+      "EC 409",
+      "Ecorite PAC 2010",
+      "Ekoflock 70",
+      "Ekoflock 90",
+      "Ekoflock 91",
+      "GC7503",
+      "GC 850",
+      "GenPac 4370",
+      "Gilufloc 83",
+      "HAC 25",
+      "HAP 25",
+      "HPB 5025",
+      "Hessidrex WT",
+      "Hydral",
+      "Hydrofugal",
+      "Hyper Ion 1026",
+      "Hyperdrol",
+      "Kempac 10",
+      "Kempac 18",
+      "Kempac 20",
+      "Kemwater PAX 14",
+      "Locron",
+      "Locron P",
+      "Locron S",
+      "Macro 95",
+      "Micro-Dry 3115",
+      "Microdry",
+      "Microdry 3110",
+      "Nalco 8187",
+      "Nalco8676",
+      "Nikkosphere ACH",
+      "OCAL",
+      "Oulupac 180",
+      "PAC",
+      "PAC (salt)",
+      "PAC 10",
+      "PAC 100",
+      "PAC 1000W",
+      "PAC 100W",
+      "PAC 16",
+      "PAC 18",
+      "PAC 18S",
+      "PAC 250A",
+      "PAC 250AD",
+      "PAC 250L",
+      "PAC 300A",
+      "PAC 300M",
+      "PAC 39",
+      "PAC 6",
+      "PAC 70",
+      "PAC-A 16",
+      "PAC-A 9L",
+      "PAC-A 9M",
+      "PALC",
+      "PAX",
+      "PAX 1060",
+      "PAX 11S",
+      "PAX14",
+      "PAX 16",
+      "PAX 18",
+      "PAX 19",
+      "PAX 60p",
+      "PAX-WD",
+      "PAX-XL 1",
+      "PAX-XL 19",
+      "PAX-XL 6",
+      "PAX-XL 60S",
+      "PAX-XL 61S",
+      "PAX-XL 69",
+      "PAX-XL 8",
+      "PAX-XL 9",
+      "Paho 2S",
+      "Panclar P 1010",
+      "Panfloc TE-HP",
+      "Perform PB 9007",
+      "Phacsize",
+      "Phosphonorm",
+      "Pluspac S 1800",
+      "Poly(aluminum hydroxy) chloride",
+      "Polyaluminum chloride",
+      "Polypacs 18",
+      "Polypacs 30LF",
+      "Prodefloc AC 190",
+      "Prodefloc AL",
+      "Prodefloc SAB 18",
+      "Prodefloc SAB 18/5",
+      "Prodefloc SAB 19",
+      "Purachem WT",
+      "Reach 101",
+      "Reach 103",
+      "Reach 301",
+      "Reach 501",
+      "Reheis 36G",
+      "Reheis Macro 95",
+      "Sachtoklar 39",
+      "Scanpol 87",
+      "Sulzfloc JG",
+      "Sulzfloc JG15",
+      "Sulzfloc JG 19",
+      "Sulzfloc JG 30",
+      "TR 50",
+      "TR 50 (inorganic compound)",
+      "Taipac",
+      "Taipac 6010",
+      "Takibine",
+      "Takibine 1000",
+      "Takibine 3000",
+      "Tanwhite",
+      "UPAX 20",
+      "Ultrion 8187",
+      "Vikram PAC-AC 100S",
+      "WAC",
+      "WAC 2",
+      "Westchlor 187",
+      "Westchlor 200",
+      "Wickenol 303",
+      "Wickenol CPS 325"
     ]
   },
   "1327-53-3": {
@@ -1290,6 +2240,25 @@
       "White arsenic"
     ]
   },
+  "1344-54-3": {
+    "Deleted CAS": [
+      "154909-47-4",
+      "155673-30-6",
+      "321838-39-5",
+      "422304-07-2",
+      "425622-21-5",
+      "949461-95-4",
+      "952341-60-5",
+      "1002754-92-8"
+    ],
+    "Name": "Titanium oxide (Ti2O3)",
+    "Other Names": [
+      "C.I. 77892",
+      "Dititanium trioxide",
+      "Titanium oxide (TiO1.5)",
+      "Titanium sesquioxide"
+    ]
+  },
   "13446-03-2": {
     "Name": "Manganese bromide (MnBr2)",
     "Other Names": [
@@ -1297,6 +2266,21 @@
       "Manganese dibromide",
       "Manganese(II) bromide",
       "Manganous bromide"
+    ]
+  },
+  "1345-07-9": {
+    "Alternate CAS": [
+      "11104-47-5"
+    ],
+    "Name": "Bismuth sulfide (Bi2S3)",
+    "Other Names": [
+      "AustroTec Bis 84",
+      "BIS 83",
+      "Bismuth sesquisulfide",
+      "Bismuth sulfide",
+      "Bismuth(3+) sulfide",
+      "C.I. 77172",
+      "Dibismuth trisulfide"
     ]
   },
   "13454-75-6": {
@@ -1336,6 +2320,22 @@
   },
   "13494-88-7": {
     "Name": "Bismuth chloride (BiCl2) (9CI)"
+  },
+  "13494-90-1": {
+    "Deleted CAS": [
+      "27425-77-0",
+      "33836-97-4",
+      "39394-16-6"
+    ],
+    "Name": "Nitric acid, gallium salt (3:1)",
+    "Other Names": [
+      "Gallium nitrate (6CI,7CI)",
+      "Nitric acid, gallium salt (8CI,9CI)",
+      "Gallium nitrate (Ga(NO3)3)",
+      "Gallium trinitrate",
+      "Ganite",
+      "NSC 15200"
+    ]
   },
   "13520-78-0": {
     "Name": "Tungsten chloride oxide (WCl4O) (9CI)",
@@ -1403,6 +2403,23 @@
       "Phosphorous acid"
     ]
   },
+  "13709-42-7": {
+    "Name": "Neodymium fluoride (NdF3)",
+    "Other Names": [
+      "Neodymium fluoride",
+      "Neodymium trifluoride",
+      "Neodymium trifluoride (NdF3)"
+    ]
+  },
+  "13709-49-4": {
+    "Name": "Yttrium fluoride (YF3)",
+    "Other Names": [
+      "FCD-546-3",
+      "Yttrium fluoride",
+      "Yttrium trifluoride",
+      "Yttrium trifluoride (YF3)"
+    ]
+  },
   "13718-50-8": {
     "Name": "Barium iodide (BaI2)",
     "Other Names": [
@@ -1414,6 +2431,41 @@
     "Name": "Europium bromide (EuBr3)",
     "Other Names": [
       "Europium tribromide"
+    ]
+  },
+  "13765-26-9": {
+    "Name": "Gadolinium fluoride (GdF3)",
+    "Other Names": [
+      "Gadolinium fluoride",
+      "Gadolinium trifluoride"
+    ]
+  },
+  "13775-50-3": {
+    "Name": "Sulfuric acid, sodium salt (2:3)",
+    "Other Names": [
+      "Sodium sulfate (Na3H(SO4)2) (7CI)",
+      "Sodium hydrogen sulfate (Na3H(SO4)2)"
+    ]
+  },
+  "13775-53-6": {
+    "Deleted CAS": [
+      "12397-51-2",
+      "1228236-36-9"
+    ],
+    "Name": "Aluminate(3-), hexafluoro-, sodium (1:3), (OC-6-11)-",
+    "Other Names": [
+      "Aluminate(3-), hexafluoro-, trisodium (8CI)",
+      "Aluminate(3-), hexafluoro-, trisodium, (OC-6-11)- (9CI)",
+      "Aluminum sodium fluoride(Na3AlF6)",
+      "Aluminum sodium hexafluoride (AlNa3F6)",
+      "Aluminum trisodium hexafluoride",
+      "Sodium aluminum hexafluoride",
+      "Sodium fluoaluminate(3-)",
+      "Sodium fluoroaluminate (Na3AlF6)",
+      "Sodium hexafluoroaluminate (Na3AlF6)",
+      "Sodium hexafluoroaluminate(3-)",
+      "Trisodium aluminum hexafluoride",
+      "Trisodium hexafluoroaluminate"
     ]
   },
   "13776-62-0": {
@@ -1509,8 +2561,39 @@
       "Samarium dichloride"
     ]
   },
+  "13939-06-5": {
+    "Deleted CAS": [
+      "11065-25-1",
+      "28896-18-6",
+      "56779-83-0",
+      "78778-54-8",
+      "164115-69-9"
+    ],
+    "Name": "Molybdenum carbonyl (Mo(CO)6), (OC-6-11)-",
+    "Other Names": [
+      "Molybdenum carbonyl (Mo(CO)6) (6CI,8CI)",
+      "Hexacarbonylmolybdenum",
+      "Hexacarbonylmolybdenum(0)",
+      "Molybdenum hexacarbonyl",
+      "Molybdenum hexacarbonyl (Mo(CO)6)",
+      "NSC 173702",
+      "NSC 215198"
+    ]
+  },
   "13966-86-4": {
     "Name": "Cadmium chloride (CdCl) (6CI,7CI,8CI,9CI)"
+  },
+  "14285-68-8": {
+    "Name": "Rhenium, decacarbonyldi-, (Re-Re)",
+    "Other Names": [
+      "Rhenium carbonyl (Re2(CO)10) (6CI)",
+      "Rhenium, decacarbonyldi- (8CI)",
+      "Decacarbonyldirhenium",
+      "Decacarbonyldirhenium(0)",
+      "Dirhenium decacarbonyl",
+      "NSC 158174",
+      "Pentacarbonylrhenium dimer"
+    ]
   },
   "14335-40-1": {
     "Name": "Phosphorous chloride difluoride (9CI)",
@@ -1544,6 +2627,511 @@
     "Name": "Sulfuric acid, sodium salt (3:2) (9CI)",
     "Other Names": [
       "Sodium sesquisulfate"
+    ]
+  },
+  "147-14-8": {
+    "Deleted CAS": [
+      "10482-39-0",
+      "11097-56-6",
+      "11129-84-3",
+      "12767-67-8",
+      "34567-54-9",
+      "37223-81-7",
+      "39378-75-1",
+      "39473-10-4",
+      "51331-32-9",
+      "53028-77-6",
+      "53802-06-5",
+      "55819-49-3",
+      "57425-52-2",
+      "57916-96-8",
+      "59518-91-1",
+      "59966-88-0",
+      "60880-51-5",
+      "60937-79-3",
+      "61489-66-5",
+      "61489-77-8",
+      "61537-10-8",
+      "64333-57-9",
+      "66121-19-5",
+      "69431-77-2",
+      "78170-27-1",
+      "78413-59-9",
+      "85255-95-4",
+      "85256-77-5",
+      "90452-20-3",
+      "92909-14-3",
+      "95660-31-4",
+      "95917-74-1",
+      "96024-35-0",
+      "104921-99-5",
+      "109675-77-6",
+      "109766-95-2",
+      "115284-42-9",
+      "143350-47-4",
+      "158853-86-2",
+      "172308-31-5",
+      "172826-46-9",
+      "175386-67-1",
+      "177529-54-3",
+      "177646-05-8",
+      "184007-78-1",
+      "209343-48-6",
+      "211564-97-5",
+      "211925-80-3",
+      "213190-86-4",
+      "220971-30-2",
+      "244244-86-8",
+      "281664-46-8",
+      "345338-75-2",
+      "392718-62-6",
+      "681847-78-9",
+      "807622-86-2",
+      "819860-69-0",
+      "819860-85-0",
+      "863781-22-0",
+      "876132-97-7",
+      "878390-73-9",
+      "898287-57-5",
+      "924902-00-1",
+      "929875-82-1",
+      "1082606-32-3",
+      "1200437-05-3",
+      "1314884-83-7",
+      "1319006-94-4",
+      "1400683-45-5",
+      "1630800-70-2",
+      "1808110-27-1",
+      "1818338-87-2",
+      "1957169-56-0"
+    ],
+    "Name": "Copper,\u00a0[29H,31H-phthalocyaninato(2-)-\u03baN29,\u03baN30,\u03baN31,\u03baN32]-,\u00a0(SP-4-1)-",
+    "Other Names": [
+      "Copper,\u00a0[29H,31H-phthalocyaninato(2-)-N29,N30,N31,N32]-,\u00a0(SP-4-1)-",
+      "Copper,\u00a0[phthalocyaninato(2-)]-\u00a0(7CI,8CI)",
+      "Phthalocyanineblue\u00a0(6CI)",
+      "(SP-4-1)-[29H,31H-Phthalocyaninato(2-)-\u03baN29,\u03baN30,\u03baN31,\u03baN32]copper",
+      "29H,31H-Phthalocyanine,\u00a0copper\u00a0complex",
+      "29H,31H-Phthalocyanine,copper\u00a0deriv.",
+      "(Phthalocyaninato)copper",
+      "127EPS",
+      "402SD",
+      "405D",
+      "5412SD",
+      "700-10FG\u00a0Cyblue",
+      "7075M",
+      "79S26C",
+      "79S26C\u00a0chip",
+      "A\u00a0220",
+      "A\u00a04R",
+      "AF\u00a0Blue\u00a0E11",
+      "AF\u00a0Blue\u00a0E\u00a02B",
+      "Accosperse\u00a0Cyan\u00a0Blue\u00a0GT",
+      "Acnalin\u00a0Supra\u00a0Blue\u00a0G",
+      "Acramin\u00a0Blue\u00a0F\u00a03G",
+      "Akrochem\u00a0626",
+      "Aquafine\u00a0Blue\u00a0E\u00a02B",
+      "Aqualine\u00a0Blue",
+      "AquisBW\u00a03571",
+      "Arlocyanine\u00a0Blue\u00a0PS",
+      "Aztech\u00a0Chemisperse\u00a0Cyan\u00a01541",
+      "B\u00a0102",
+      "B\u00a02G-D",
+      "B\u00a02G-L",
+      "B\u00a04G",
+      "B\u00a04G-KR",
+      "B\u00a0702W",
+      "B\u00a0705H",
+      "B\u00a0736",
+      "B\u00a0736\u00a0(dye)",
+      "B8M25",
+      "BF\u00a0401",
+      "BFD\u00a01121",
+      "BGS",
+      "BGS\u00a01",
+      "BGSG-C",
+      "BJ",
+      "BL\u00a01531",
+      "BPD\u00a09777",
+      "BRS\u00a01",
+      "BRX",
+      "BSS\u00a04342",
+      "BT\u00a04651",
+      "Bahama\u00a0Blue\u00a0BC",
+      "Bahama\u00a0Blue\u00a0BNC",
+      "Bahama\u00a0Blue\u00a0Lake\u00a0NCNF",
+      "Bahama\u00a0Blue\u00a0WD",
+      "Bermuda\u00a0Blue",
+      "Blue\u00a015:3",
+      "Blue\u00a04920",
+      "Blue\u00a04GNP",
+      "Blue\u00a07110V",
+      "Blue\u00a0A\u00a04R",
+      "Blue\u00a0AE\u00a08",
+      "Blue\u00a0BRF",
+      "BlueBSNF",
+      "Blue\u00a0BT\u00a0627D",
+      "Blue\u00a0EP\u00a0193",
+      "Blue\u00a0G\u00a0314",
+      "Blue\u00a0GLA",
+      "Blue\u00a0GLA-SD",
+      "Blue\u00a0GLSM",
+      "Blue\u00a0L\u00a06905F",
+      "Blue\u00a0Microdis",
+      "Blue\u00a0TGR-G",
+      "Blue\u00a0Toner\u00a0GTNF",
+      "Blue\u00a0phthalocyanaine\u00a0\u03b1-form",
+      "Blue\u00a0pigment",
+      "C.I.\u00a074160",
+      "C.I.\u00a0PB\u00a015:3",
+      "C.I.\u00a0PB\u00a015:6",
+      "C.I.\u00a0Pigment\u00a0Blue\u00a015",
+      "C.I.\u00a0Pigment\u00a0Blue\u00a015:1",
+      "C.I.\u00a0Pigment\u00a0Blue15:2",
+      "C.I.\u00a0Pigment\u00a0Blue\u00a015:3",
+      "C.I.\u00a0Pigment\u00a0Blue\u00a015:4",
+      "C.I.\u00a0Pigment\u00a0Blue\u00a015:5",
+      "C.I.\u00a0Pigment\u00a0Blue\u00a015:6",
+      "CAB-LX\u00a0716",
+      "CAB-LX\u00a0716\u00a0Blue",
+      "CFP-FF\u00a0775B",
+      "COJ\u00a0250",
+      "CT-BX\u00a0121",
+      "Cab-O-Jet\u00a0250C",
+      "Cab-O-Jet\u00a0253",
+      "Cab-O-Jet\u00a0450C",
+      "Cab-O-Jet\u00a0IJX\u00a0253M",
+      "Cabot\u00a0IJX\u00a0253M",
+      "Calcotone\u00a0Blue\u00a0GP",
+      "Ceres\u00a0Blue\u00a0BHR",
+      "Chromatex\u00a0Blue\u00a0BN",
+      "Chromofine\u00a0Blue\u00a04920",
+      "Chromofine\u00a0Blue\u00a04920G",
+      "Chromofine\u00a0Blue\u00a04927",
+      "Chromofine\u00a0Blue\u00a04930PK",
+      "Chromofine\u00a0Blue\u00a04937",
+      "Chromofine\u00a0Blue\u00a04950",
+      "Chromofine\u00a0Blue\u00a04965",
+      "Chromofine\u00a0Blue\u00a04973",
+      "Chromofine\u00a0Blue\u00a05026",
+      "Chromofine\u00a0Blue\u00a05108",
+      "Chromofine\u00a0Blue\u00a05165",
+      "Chromofine\u00a0Blue\u00a05187",
+      "Chromofine\u00a0Blue\u00a05191",
+      "Chromofine\u00a0Blue\u00a05191D",
+      "Chromofine\u00a0Blue\u00a05201A",
+      "Chromofine\u00a0Blue\u00a05206",
+      "Chromofine\u00a0Blue\u00a05208",
+      "Chromofine\u00a0Blue\u00a05240K",
+      "Chromofine\u00a0Blue\u00a05241",
+      "Chromofine\u00a0Blue\u00a05250A",
+      "Chromofine\u00a0Blue\u00a06310PK",
+      "Chromofine\u00a0Blue\u00a06332JC",
+      "Chromofine\u00a0Blue6335JC",
+      "Chromofine\u00a0Blue\u00a06337JC",
+      "Chromofine\u00a0Blue\u00a0A\u00a0220",
+      "Chromofine\u00a0Blue\u00a0A\u00a0220JC",
+      "Chromofine\u00a0Blue\u00a0B\u00a0145",
+      "Chromofine\u00a0Blue\u00a0CFB\u00a06332JC",
+      "Chromofine\u00a0Blue\u00a0HS\u00a03",
+      "Chromofine\u00a0Blue\u00a0S\u00a020",
+      "Chromofine\u00a0Blue\u00a0S\u00a0200",
+      "Chromofine\u00a0Blue\u00a0S\u00a02010",
+      "Chromofine\u00a0Blue\u00a0S\u00a04920",
+      "Chromofine\u00a0Blue\u00a0SR\u00a05020",
+      "Chromofine\u00a0Blue\u00a0ZCN\u00a0910",
+      "Chromofine\u00a0Phthalocyanine\u00a0Blue",
+      "Colanyl\u00a0Blue\u00a0AR",
+      "Colanyl\u00a0Blue\u00a0B\u00a02G131",
+      "Colortex\u00a0Blue\u00a0D\u00a0904",
+      "Colortex\u00a0Blue\u00a0U\u00a0618",
+      "Congo\u00a0Blue\u00a0B\u00a04",
+      "Copper\u00a0phthalocyanin",
+      "Copper\u00a0phthalocyanine",
+      "Copper\u00a0phthalocyanine\u00a0blue",
+      "Copper\u00a0tetrabenzoporphyrazine",
+      "Copper\u00a0\u03b2-phthalocyanine",
+      "Copper(2+)\u00a0phthalocyanine",
+      "Copper(II)\u00a0phthalocyanine",
+      "Cosmenyl\u00a0Blue\u00a0A\u00a02R",
+      "Covarine\u00a0Blue\u00a0W\u00a06795",
+      "Cromophtal\u00a0Blue\u00a04G",
+      "Cromophtal\u00a0Blue\u00a04GLP",
+      "Cromophtal\u00a0Blue\u00a04GN",
+      "Cromophtal\u00a0Blue\u00a04GNP",
+      "Cromophtal\u00a0Blue\u00a0BCF",
+      "Cromophtal\u00a0Blue\u00a0GF",
+      "Cromophtal\u00a0Jet\u00a0Cyan\u00a0GLX",
+      "CuPc",
+      "Cupric\u00a0phthalocyanine",
+      "Cyan\u00a0B\u00a04G",
+      "Cyan\u00a0BG",
+      "Cyan\u00a0BG\u00a010",
+      "Cyan\u00a0Blue\u00a0BNC\u00a055-3745",
+      "Cyan\u00a0Blue\u00a0BNF\u00a055-3753",
+      "Cyan\u00a0Blue\u00a0GT",
+      "Cyan\u00a0Blue\u00a0GT55-3295",
+      "Cyan\u00a0Blue\u00a0GT\u00a055-3300",
+      "Cyan\u00a0Blue\u00a0GTNF",
+      "Cyan\u00a0Blue\u00a0Toner\u00a0GT\u00a03000",
+      "Cyan\u00a0Blue\u00a0XR\u00a055-3758",
+      "Cyan\u00a0Blue\u00a0XR\u00a055-3760",
+      "Cyan\u00a0COJ\u00a0250\u00a0BluePigment",
+      "Cyan\u00a0Peacock\u00a0Blue\u00a0G",
+      "Cyanine\u00a0Blue",
+      "Cyanine\u00a0Blue\u00a03020",
+      "Cyanine\u00a0Blue\u00a04044",
+      "Cyanine\u00a0Blue\u00a04720",
+      "Cyanine\u00a0Blue\u00a04920",
+      "Cyanine\u00a0Blue\u00a04927",
+      "Cyanine\u00a0Blue\u00a04927G-EPB",
+      "Cyanine\u00a0Blue\u00a04930",
+      "Cyanine\u00a0Blue\u00a04930PK",
+      "Cyanine\u00a0Blue\u00a04933GN-EP",
+      "Cyanine\u00a0Blue\u00a04937",
+      "Cyanine\u00a0Blue\u00a04938",
+      "CyanineBlue\u00a04940",
+      "Cyanine\u00a0Blue\u00a0494ON",
+      "Cyanine\u00a0Blue\u00a04950",
+      "Cyanine\u00a0Blue\u00a04960",
+      "Cyanine\u00a0Blue\u00a04973",
+      "Cyanine\u00a0Blue\u00a04976EP",
+      "Cyanine\u00a0Blue\u00a05026",
+      "CyanineBlue\u00a05165",
+      "Cyanine\u00a0Blue\u00a05182",
+      "Cyanine\u00a0Blue\u00a05187",
+      "Cyanine\u00a0Blue\u00a05203",
+      "Cyanine\u00a0Blue\u00a05206",
+      "Cyanine\u00a0Blue\u00a05240K",
+      "Cyanine\u00a0Blue\u00a05240KB",
+      "CyanineBlue\u00a05241",
+      "Cyanine\u00a0Blue\u00a06820",
+      "Cyanine\u00a0Blue\u00a0700-10FG",
+      "Cyanine\u00a0Blue\u00a0A\u00a022",
+      "Cyanine\u00a0Blue\u00a0A\u00a0220",
+      "Cyanine\u00a0Blue\u00a0A\u00a0220J",
+      "Cyanine\u00a0Blue\u00a0A\u00a0220JC",
+      "Cyanine\u00a0Blue\u00a0A\u00a0292",
+      "Cyanine\u00a0Blue\u00a0A\u00a0385",
+      "Cyanine\u00a0Blue\u00a0BB",
+      "Cyanine\u00a0Blue\u00a0BF",
+      "Cyanine\u00a0Blue\u00a0C",
+      "Cyanine\u00a0Blue\u00a0CP\u00a01",
+      "Cyanine\u00a0Blue\u00a0CR",
+      "Cyanine\u00a0BlueDS\u00a02",
+      "Cyanine\u00a0Blue\u00a0G\u00a0314",
+      "Cyanine\u00a0Blue\u00a0G\u00a0314NF",
+      "Cyanine\u00a0Blue\u00a0G\u00a0500\u00a0Pure-A",
+      "Cyanine\u00a0Blue\u00a0GNPS",
+      "Cyanine\u00a0Blue\u00a0GNPT",
+      "Cyanine\u00a0Blue\u00a0GP",
+      "Cyanine\u00a0Blue\u00a0HB",
+      "Cyanine\u00a0Blue\u00a0HS\u00a03",
+      "Cyanine\u00a0Blue\u00a0IMS",
+      "Cyanine\u00a0Blue\u00a0KRO",
+      "Cyanine\u00a0Blue\u00a0KRS",
+      "Cyanine\u00a0Blue\u00a0LBG",
+      "Cyanine\u00a0Blue\u00a0LC",
+      "Cyanine\u00a0BlueMG\u00a07",
+      "Cyanine\u00a0Blue\u00a0MR\u00a03",
+      "Cyanine\u00a0Blue\u00a0PK\u00a0110",
+      "Cyanine\u00a0Blue\u00a0PRPD",
+      "Cyanine\u00a0Blue\u00a0S\u00a02010",
+      "Cyanine\u00a0Blue\u00a0S\u00a02100",
+      "Cyanine\u00a0Blue\u00a0SR\u00a0150A",
+      "CyanineBlue\u00a0ZAC\u00a0350",
+      "D\u00a07079",
+      "D\u00a07110F",
+      "DB\u00a015C888",
+      "DC\u00a03127",
+      "DST\u00a0Blue\u00a0S\u00a07249",
+      "Daihan\u00a0Blue\u00a08500",
+      "Daihan\u00a0Blue\u00a08700",
+      "Dainichi\u00a0Cyanine\u00a0Blue\u00a0B",
+      "DainichiCyanine\u00a0Blue\u00a0BX",
+      "Dainichi\u00a0Cyanine\u00a0Blue\u00a0FPG",
+      "Dainichi\u00a0Cyanine\u00a0Blue\u00a0PG",
+      "Daltolite\u00a0Fast\u00a0Blue\u00a0B",
+      "Direct\u00a0Fast\u00a0Blue\u00a0BS",
+      "Direct\u00a0Turquoise",
+      "Dispers\u00a0Blue69-0007",
+      "Disperse\u00a0Blue\u00a069-007",
+      "Duratint\u00a0Blue\u00a01001",
+      "Dymic\u00a0MBR\u00a0652\u00a0Blue",
+      "ECB\u00a0301",
+      "ECB\u00a0303",
+      "ECB\u00a0306",
+      "ECB\u00a0308",
+      "EM\u00a0Blue\u00a0NCB",
+      "EP\u00a0700",
+      "EP\u00a0700(pigment)",
+      "EP\u00a0700\u00a0Blue\u00a0GA",
+      "Emacol\u00a0SF\u00a0Blue\u00a0H\u00a0524F",
+      "Endurophthal\u00a0BT\u00a0617D",
+      "Endurophthal\u00a0Blue\u00a0BT\u00a0617D",
+      "Endurophthal\u00a0Blue\u00a0GF-BT\u00a0617D",
+      "EudermBlue\u00a0B",
+      "Eupolen\u00a0Blue\u00a069-1501",
+      "Euvinyl\u00a0Blue\u00a0702",
+      "Excolor\u00a0IR\u00a014",
+      "FBK\u00a03",
+      "FG\u00a07300",
+      "FG\u00a07330",
+      "FG\u00a07350",
+      "FG\u00a07351",
+      "FG\u00a07400G",
+      "FW\u00a0285",
+      "Fastogen\u00a0Blue15:3",
+      "Fastogen\u00a0Blue\u00a04GN",
+      "Fastogen\u00a0Blue\u00a05007",
+      "Fastogen\u00a0Blue\u00a05030L",
+      "Fastogen\u00a0Blue\u00a05050",
+      "Fastogen\u00a0Blue\u00a05110",
+      "Fastogen\u00a0Blue\u00a05120",
+      "Fastogen\u00a0Blue5310SD",
+      "Fastogen\u00a0Blue\u00a05375",
+      "Fastogen\u00a0Blue\u00a05380",
+      "Fastogen\u00a0Blue\u00a05380E",
+      "Fastogen\u00a0Blue\u00a05380LA",
+      "Fastogen\u00a0Blue\u00a05380SD",
+      "Fastogen\u00a0Blue\u00a05396SD",
+      "Fastogen\u00a0Blue\u00a05410G",
+      "Fastogen\u00a0Blue\u00a05412G",
+      "Fastogen\u00a0Blue\u00a05412SD",
+      "Fastogen\u00a0Blue\u00a05414",
+      "Fastogen\u00a0Blue\u00a05415",
+      "Fastogen\u00a0Blue\u00a05430SD",
+      "FastogenBlue\u00a05480",
+      "Fastogen\u00a0Blue\u00a05485",
+      "Fastogen\u00a0Blue\u00a05486",
+      "Fastogen\u00a0Blue\u00a0A\u00a0510",
+      "Fastogen\u00a0Blue\u00a0AC",
+      "Fastogen\u00a0Blue\u00a0AE\u00a08",
+      "Fastogen\u00a0Blue\u00a0AR\u00a07",
+      "FastogenBlue\u00a0B",
+      "Fastogen\u00a0Blue\u00a0B.\u00a081",
+      "Fastogen\u00a0Blue\u00a0BB",
+      "Fastogen\u00a0Blue\u00a0BRF",
+      "Fastogen\u00a0Blue\u00a0BS",
+      "Fastogen\u00a0Blue\u00a0BSF",
+      "Fastogen\u00a0Blue\u00a0BSF-A",
+      "Fastogen\u00a0BlueBSW",
+      "Fastogen\u00a0Blue\u00a0CT-BX\u00a0121",
+      "Fastogen\u00a0Blue\u00a0EP\u00a0193",
+      "Fastogen\u00a0Blue\u00a0EP\u00a0207",
+      "Fastogen\u00a0Blue\u00a0EP\u00a0210",
+      "Fastogen\u00a0Blue\u00a0EP\u00a07",
+      "Fastogen\u00a0Blue\u00a0EP\u00a07S",
+      "Fastogen\u00a0Blue\u00a0EP-CF",
+      "Fastogen\u00a0Blue\u00a0EP-CFE",
+      "Fastogen\u00a0Blue\u00a0EPC",
+      "Fastogen\u00a0Blue\u00a0FA\u00a05375",
+      "Fastogen\u00a0Blue\u00a0FA\u00a05380",
+      "Fastogen\u00a0Blue\u00a0FB\u00a05301",
+      "Fastogen\u00a0Blue\u00a0FDB\u00a014",
+      "Fastogen\u00a0Blue\u00a0FGF",
+      "Fastogen\u00a0Blue\u00a0FGF-SD",
+      "Fastogen\u00a0Blue\u00a0FGS",
+      "Fastogen\u00a0Blue\u00a0FP",
+      "Fastogen\u00a0Blue\u00a0FSN",
+      "Fastogen\u00a0Blue\u00a0GB7",
+      "Fastogen\u00a0Blue\u00a0GB\u00a07H",
+      "Fastogen\u00a0Blue\u00a0GB\u00a07HS",
+      "Fastogen\u00a0Blue\u00a0GB\u00a08HS",
+      "Fastogen\u00a0Blue\u00a0GBK",
+      "Fastogen\u00a0Blue\u00a0GCTF",
+      "Fastogen\u00a0Blue\u00a0GFA",
+      "FastogenBlue\u00a0GNKA-SD",
+      "Fastogen\u00a0Blue\u00a0GNPM-K",
+      "Fastogen\u00a0Blue\u00a0GNPR",
+      "Fastogen\u00a0Blue\u00a0GNPS",
+      "Fastogen\u00a0Blue\u00a0GNPT",
+      "Fastogen\u00a0Blue\u00a0GP\u00a0100",
+      "Fastogen\u00a0BlueGR",
+      "Fastogen\u00a0Blue\u00a0GT\u00a01",
+      "Fastogen\u00a0Blue\u00a0NK",
+      "Fastogen\u00a0Blue\u00a0NK-G",
+      "Fastogen\u00a0Blue\u00a0RF",
+      "Fastogen\u00a0Blue\u00a0RS",
+      "Fastogen\u00a0Blue\u00a0RSK",
+      "Fastogen\u00a0Blue\u00a0TGR",
+      "Fastogen\u00a0Blue\u00a0TGR\u00a01",
+      "Fastogen\u00a0Blue\u00a0TGR-G",
+      "Fastogen\u00a0Blue\u00a0TGR-J",
+      "Fastogen\u00a0Blue\u00a0TGR-L",
+      "Fastogen\u00a0Blue\u00a0TGR-SD",
+      "Fastogen\u00a0Blue\u00a0TRG",
+      "FastogenSuper\u00a0Blue\u00a0GNPM-K",
+      "Fastogen\u00a0TGR-SD",
+      "Fastolux\u00a0Blue",
+      "Fastolux\u00a0Peacock\u00a0Blue",
+      "Fastusol\u00a0P\u00a0Blue\u00a058L",
+      "Fenalac\u00a0Blue\u00a0B\u00a0Disp",
+      "Flexiverse\u00a0BFD\u00a01121",
+      "Flexiverse\u00a0Blue\u00a015:3",
+      "Flexiverse\u00a0Blue\u00a0BFD\u00a01531",
+      "Flexiverse\u00a0Cyan\u00a0Blue\u00a0BFD\u00a01121",
+      "Flexonyl\u00a0Blue",
+      "Flexonyl\u00a0Blue\u00a0B\u00a02G-LA",
+      "Flexverse\u00a0III-BGD\u00a03153",
+      "Foursome",
+      "Franconia\u00a0Blue\u00a0A\u00a04431",
+      "Fuji\u00a0SP\u00a0Blue\u00a0625",
+      "G\u00a0500",
+      "GLNF",
+      "GS-PS",
+      "Graphtol\u00a0Blue\u00a02GLS",
+      "Graphtol\u00a0Blue\u00a06825",
+      "Graphtol\u00a0Blue\u00a0BL",
+      "Graphtol\u00a0BlueBLF",
+      "Helio\u00a0Blue\u00a0B",
+      "Helio\u00a0Fast\u00a0Blue\u00a0B",
+      "Helio\u00a0Fast\u00a0Blue\u00a0BRN",
+      "Helio\u00a0Fast\u00a0Blue\u00a0BT",
+      "Helio\u00a0Fast\u00a0Blue\u00a0GO",
+      "Helio\u00a0Fast\u00a0Blue\u00a0HG",
+      "Heliogen\u00a0Blue\u00a016700F",
+      "Heliogen\u00a0Blue\u00a06840",
+      "Heliogen\u00a0Blue\u00a06911K",
+      "Heliogen\u00a0Blue\u00a06960",
+      "Heliogen\u00a0Blue\u00a07044T",
+      "Heliogen\u00a0Blue\u00a07072D",
+      "Heliogen\u00a0Blue\u00a07080",
+      "Heliogen\u00a0Blue\u00a07100",
+      "Heliogen\u00a0Blue\u00a0A",
+      "Heliogen\u00a0Blue\u00a0B",
+      "Heliogen\u00a0Blue\u00a0BA-CF",
+      "Heliogen\u00a0Blue\u00a0BG",
+      "Heliogen\u00a0Blue\u00a0BKA-CF",
+      "Heliogen\u00a0Blue\u00a0BNC",
+      "Heliogen\u00a0Blue\u00a0BR",
+      "HeliogenBlue\u00a0BV",
+      "Heliogen\u00a0Blue\u00a0BWS",
+      "Heliogen\u00a0Blue\u00a0BWS\u00a0Extra",
+      "Heliogen\u00a0Blue\u00a0BWSN",
+      "Heliogen\u00a0Blue\u00a0D\u00a06700T",
+      "Heliogen\u00a0Blue\u00a0D\u00a06840",
+      "Heliogen\u00a0Blue\u00a0D\u00a06920",
+      "Heliogen\u00a0Blue\u00a0D\u00a07029",
+      "Heliogen\u00a0Blue\u00a0D\u00a07030",
+      "Heliogen\u00a0Blue\u00a0D\u00a07035",
+      "Heliogen\u00a0Blue\u00a0D\u00a07072",
+      "Heliogen\u00a0Blue\u00a0D\u00a07072D",
+      "Heliogen\u00a0Blue\u00a0D\u00a07072DD",
+      "Heliogen\u00a0Blue\u00a0D\u00a07079",
+      "Heliogen\u00a0Blue\u00a0D\u00a07080",
+      "Heliogen\u00a0Blue\u00a0D\u00a07092",
+      "Heliogen\u00a0Blue\u00a0D\u00a07100",
+      "Heliogen\u00a0Blue\u00a0D\u00a07107",
+      "Heliogen\u00a0Blue\u00a0D\u00a07110F",
+      "HeliogenBlue\u00a0D\u00a07160TD",
+      "Heliogen\u00a0Blue\u00a0K",
+      "Heliogen\u00a0Blue\u00a0K\u00a06840",
+      "Heliogen\u00a0Blue\u00a0K\u00a06850",
+      "Heliogen\u00a0Blue\u00a0K\u00a06902",
+      "Heliogen\u00a0Blue\u00a0K\u00a06911D",
+      "Heliogen\u00a0Blue\u00a0K\u00a07080",
+      ""
     ]
   },
   "14808-60-7": {
@@ -1681,6 +3269,92 @@
       "Cobaltous iodide"
     ]
   },
+  "15243-33-1": {
+    "Deleted CAS": [
+      "18904-39-7"
+    ],
+    "Name": "Ruthenium, dodecacarbonyltri-,\u00a0triangulo",
+    "Other Names": [
+      "Ruthenium carbonyl (Ru3(CO)12) (6CI,7CI)",
+      "Dodecacarbonyl-triangulo-triruthenium",
+      "Dodecacarbonyltriruthenium",
+      "Triangulo-Triruthenium dodecacarbonyl",
+      "Triruthenium dodecacarbonyl",
+      "Triruthenium dodecacarbonyl [Ru3(CO)12]",
+      "cyclo-Tris(tetracarbonylruthenium)(3Ru-Ru)"
+    ]
+  },
+  "16893-85-9": {
+    "Deleted CAS": [
+      "1310-02-7",
+      "1344-04-3",
+      "12656-12-1",
+      "39413-34-8",
+      "221174-64-7",
+      "1202391-51-2",
+      "1360896-72-5",
+      "2041645-24-1",
+      "2085706-50-7",
+      "2108687-60-9"
+    ],
+    "Name": "Silicate(2-), hexafluoro-, sodium (1:2)",
+    "Other Names": [
+      "Silicate(2-), hexafluoro-, disodium (8CI,9CI)",
+      "Disodium hexafluorosilicate",
+      "Disodium hexafluorosilicate (Na2SiF6)",
+      "Disodiumhexafluorosilicate(2-)",
+      "KFN",
+      "KFN (silicate)",
+      "Keifuka Soda",
+      "Prodan",
+      "Prodan (pesticide)",
+      "Silicon sodium fluoride (Na2SiF6)",
+      "Silicon sodium fluoride(SiNa2F6)",
+      "Sodium fluorosilicate",
+      "Sodium fluorosilicate (Na2SiF6)",
+      "Sodium fluosilicate",
+      "Sodium fluosilicate (Na2(SiF6))",
+      "Sodium hexafluorosilicate",
+      "Sodium hexafluorosilicate (Na2SiF6)",
+      "Sodium silicofluoride (Na2SiF6)",
+      "Sodium silicon fluoride (Na2SiF6)"
+    ]
+  },
+  "16903-35-8": {
+    "Deleted CAS": [
+      "1335-28-0",
+      "52562-86-4",
+      "81853-52-3",
+      "90907-74-7",
+      "91947-07-8",
+      "137355-36-3",
+      "147142-02-7",
+      "172825-39-7",
+      "1228031-19-3"
+    ],
+    "Name": "Aurate(1-), tetrachloro-, hydrogen (1:1), (SP-4-1)-",
+    "Other Names": [
+      "Aurate(1-), tetrachloro-, hydrogen (8CI)",
+      "Aurate(1-), tetrachloro-, hydrogen, (SP-4-1)- (9CI)",
+      "Chloroauric(III) acid (6CI)",
+      "Auric acid(HAuCl4)",
+      "Brown gold chloride",
+      "Chlorauric acid",
+      "Chloroauric acid",
+      "Chloroauric acid (HAuCl4)",
+      "Chlorooauric acid (HAuCl4)",
+      "G 4022",
+      "Gold chloride(AuCl3), hydrochloride",
+      "Gold hydrogen chloride (AuHCl4)",
+      "Gold tetrachloride (HAuCl4)",
+      "Gold trichloride hydrochloride",
+      "Hydrogen tetrachloroaurate",
+      "Hydrogen tetrachloroaurate (III)",
+      "Hydrogen tetrachloroaurate(1-)",
+      "Tetrachloroauric acid",
+      "Tetrachloroauric acid (HAuCl4)"
+    ]
+  },
   "16919-19-0": {
     "Deleted CAS": [
       "36596-71-1",
@@ -1706,6 +3380,48 @@
       "NSC 310005"
     ]
   },
+  "16941-12-1": {
+    "Deleted CAS": [
+      "1335-29-1",
+      "60322-59-0",
+      "60605-43-8",
+      "70227-39-3",
+      "97301-98-9",
+      "98032-39-4",
+      "110972-89-9",
+      "127521-16-8",
+      "131620-42-3",
+      "140889-50-5",
+      "143337-19-3",
+      "148880-59-5",
+      "1431865-84-7"
+    ],
+    "Name": "Platinate(2-), hexachloro-, hydrogen (1:2), (OC-6-11)-",
+    "Other Names": [
+      "Chloroplatinic(IV) acid (6CI)",
+      "Platinate(2-), hexachloro-, dihydrogen (8CI)",
+      "Platinate(2-), hexachloro-, dihydrogen, (OC-6-11)- (9CI)",
+      "CAT-PL 50T",
+      "Chloroplatinic acid",
+      "Chloroplatinic(IV) acid (H2PtCl6)",
+      "D 165",
+      "Dihydrogen hexachloroplatinate",
+      "Dihydrogen hexachloroplatinate(2-)",
+      "Hexachloroplatinic acid",
+      "Hexachloroplatinic acid (H2PtCl6)",
+      "Hexachloroplatinic(IV) acid",
+      "Hydrogen chloroplatinate (H2PtCl6)",
+      "Hydrogenhexachlorideplatinate (H2PtCl6)",
+      "Hydrogen hexachloroplatinate",
+      "Hydrogen hexachloroplatinate(IV)",
+      "Hydrogen platinum chloride (H2PtCl6)",
+      "PL 50T",
+      "Platinic acid (H2PtCl6)",
+      "Platinic chloride",
+      "Platinum chloride (H2PtCl6)",
+      "Speier's catalyst"
+    ]
+  },
   "17599-81-4": {
     "Deleted CAS": [
       "31207-09-7"
@@ -1719,10 +3435,39 @@
       "Dicopper sulfate"
     ]
   },
+  "18624-44-7": {
+    "Deleted CAS": [
+      "1310-15-2",
+      "8064-01-5",
+      "53468-07-8"
+    ],
+    "Name": "Iron hydroxide (Fe(OH)2)",
+    "Other Names": [
+      "Ferrous hydroxide",
+      "Ferrous hydroxide (Fe(OH)2)",
+      "Iron dihydroxide",
+      "Iron dihydroxide (Fe(OH)2)",
+      "Iron(II) hydroxide"
+    ]
+  },
   "18939-61-2": {
     "Name": "Sulfuric acid, copper(2+) salt (1:?)",
     "Other Names": [
       "Sulfuric acid, copper(2+) salt (8CI,9CI)"
+    ]
+  },
+  "20427-58-1": {
+    "Deleted CAS": [
+      "1333-33-1",
+      "12141-50-3",
+      "12183-81-2",
+      "1395893-87-4"
+    ],
+    "Name": "Zinc hydroxide (Zn(OH)2)",
+    "Other Names": [
+      "Zinc hydroxide (8CI)",
+      "Zinc dihydroxide",
+      "Zinc hydroxide (Zn0.5(OH))"
     ]
   },
   "20694-39-7": {
@@ -2426,6 +4171,13 @@
       "Dicopper sulfide"
     ]
   },
+  "32248-43-4": {
+    "Name": "Samarium iodide (SmI2) (7CI,9CI)",
+    "Other Names": [
+      "Samarium diiodide",
+      "Samarium(II) iodide"
+    ]
+  },
   "360-89-4": {
     "Name": "2-Butene, 1,1,1,2,3,4,4,4-octafluoro-",
     "Other Names": [
@@ -2591,6 +4343,17 @@
       "Sodium phosphate (Na(H2PO4))",
       "Sodium phosphate, monobasic",
       "Sodium primary phosphate"
+    ]
+  },
+  "7580-67-8": {
+    "Deleted CAS": [
+      "64975-42-4",
+      "159577-72-7"
+    ],
+    "Name": "Lithium hydride (LiH)",
+    "Other Names": [
+      "Lithium hydride",
+      "Lithium monohydride"
     ]
   },
   "7632-04-4": {
@@ -2947,6 +4710,44 @@
       "n-Tetrasilane"
     ]
   },
+  "7783-40-6": {
+    "Name": "Magnesium fluoride (MgF2)",
+    "Other Names": [
+      "Magnesium fluoride (8CI)",
+      "Afluon",
+      "Cerac M 2010",
+      "Irtran 1",
+      "MFDNB",
+      "MFDNB 15WT% G 26",
+      "MFW 15WT% E 10",
+      "MS 4",
+      "MS 4(fluoride)",
+      "MSF 10P",
+      "Magnesium difluoride",
+      "Magnesium difluoride (MgF2)",
+      "NanoTek MgF2",
+      "NanoTek MgF2\u00a0Slurry",
+      "Suncolloid MSF 10P"
+    ]
+  },
+  "7783-47-3": {
+    "Deleted CAS": [
+      "12324-56-0",
+      "12324-60-6"
+    ],
+    "Name": "Tin fluoride (SnF2)",
+    "Other Names": [
+      "Difluorostannylene",
+      "Fluoristan",
+      "Gel-Tin",
+      "Stannous fluoride",
+      "Stannous fluoride (SnF2)",
+      "Stop",
+      "Tin bifluoride",
+      "Tin difluoride",
+      "Tin(II)fluoride"
+    ]
+  },
   "7783-58-6": {
     "Deleted CAS": [
       "1519044-57-5"
@@ -3174,6 +4975,16 @@
       "Irtran 3"
     ]
   },
+  "7789-78-8": {
+    "Alternate CAS": [
+      "57308-10-8"
+    ],
+    "Name": "Calcium hydride (CaH2)",
+    "Other Names": [
+      "Calcium dihydride",
+      "Calcium hydride"
+    ]
+  },
   "7790-31-0": {
     "Name": "Magnesium iodide, octahydrate (8CI,9CI)"
   },
@@ -3193,6 +5004,13 @@
       "Palladium iodide",
       "Palladium(II) iodide",
       "Palladous iodide"
+    ]
+  },
+  "7790-79-6": {
+    "Name": "Cadmium fluoride (CdF2)",
+    "Other Names": [
+      "Cadmium fluoride (6CI,8CI)",
+      "Cadmium difluoride"
     ]
   },
   "7790-87-6": {
@@ -3258,6 +5076,18 @@
       "Thallium(1+) chloride",
       "Thallium(I) chloride",
       "Thallous chloride"
+    ]
+  },
+  "Substance_11_29_2017_030405": {
+    "Deleted CAS": [
+      "264125-11-3",
+      "803745-61-1",
+      "2077101-10-9"
+    ],
+    "Name": "Nickel silicide (NiSi2)",
+    "Other Names": [
+      "Nickel disilicide",
+      "Nickel silicide"
     ]
   }
 }
