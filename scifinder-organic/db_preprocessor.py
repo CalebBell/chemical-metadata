@@ -1,5 +1,6 @@
 from thermo import *
-from thermo.identifiers import ChemicalMetadataDB
+from chemicals import *
+from chemicals.identifiers import ChemicalMetadataDB
 from numpy.testing import assert_allclose
 from rdkit import Chem
 from rdkit.Chem import Descriptors
@@ -7,6 +8,7 @@ from rdkit.Chem.rdMolDescriptors import CalcMolFormula
 import json
 
 db = ChemicalMetadataDB(elements=False, main_db=('chemical identifiers example user db.tsv'), user_dbs=[])
+db.autoload_main_db()
 
 good_syns = {}
 

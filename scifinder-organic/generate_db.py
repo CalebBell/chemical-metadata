@@ -1,4 +1,4 @@
-#! /home/caleb/.anaconda3/bin/python
+#! /usr/bin/python3.9
 import sys
 import os
 
@@ -10,7 +10,7 @@ from pubchempy import get_compounds, Compound
 import json
 import db_preprocessor
 from collections import Counter
-from thermo import serialize_formula
+from chemicals import serialize_formula
 
 db_preprocessor.write()
 
