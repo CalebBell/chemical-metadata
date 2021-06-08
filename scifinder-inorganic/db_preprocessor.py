@@ -1,4 +1,3 @@
-from thermo import *
 from chemicals import *
 from chemicals.identifiers import ChemicalMetadataDB
 from numpy.testing import assert_allclose
@@ -7,6 +6,10 @@ from rdkit.Chem import Descriptors
 from rdkit.Chem.rdMolDescriptors import CalcMolFormula
 import json
 
+'''Generate a database of all dynonyms that are hardcoded to be included.
+MW can be ard coded, as well as pubchem ID.
+
+'''
 db = ChemicalMetadataDB(elements=False, main_db='Inorganic db.tsv', user_dbs=[])
 db.autoload_main_db()
 
@@ -19,10 +22,6 @@ for CAS, d in db.CAS_index.items():
     else:
         good_syns[CAS] = {}
         good_syns[CAS]['synonyms'] = []
-
-#good_syns['14464-47-2']['synonyms'].append('deuterium(1+)')
-#good_syns['2099995000-00-0']['synonyms'].append('Yttrium dihydroxide ion')
-
 
 D2Se = {'formula': 'D2Se', 'MW': molecular_weight(nested_formula_parser('D2Se'))}
 ammonium_hexafluorosilicate = {'pubchem': 28145}
