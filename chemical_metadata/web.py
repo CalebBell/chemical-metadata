@@ -136,3 +136,98 @@ def common_chemistry_data(CASRN):
     return (json_data['rn'], remove_html(json_data['name']), json_data['inchi'], json_data['inchiKey'],
             json_data['canonicalSmile'], synonyms, json_data['replacedRns'])
 
+def find_pubchem_from_ids(pubchem=None, CASRN=None, inchi=None, inchikey=None,
+                          smiles=None):
+    '''Cached query of pubchem database, based on one of many identifiers.
+    
+    Parameters
+    ----------
+    pubchem : int, optional
+        PubChem ID; prefered lookup, [-]
+    CASRN : str, optional
+        CAS number, [-]
+    InChI : str, optional
+        InChI identification string as given in Common Chemistry (there can be multiple
+        valid InChI strings for a compound), [-]
+    InChI_key : str, optional
+        InChI key identification string (meant to be unique to a compound), [-]        
+    smiles : str, optional
+        SMILES identification string, [-]
+    
+    Returns
+    -------
+    cid : intoxidane
+        PubChem ID, [-]
+    iupac_name : str
+        IUPAC name as given in pubchem, [-]
+    MW : float
+        Molecular weight, [g/mol]
+    InChI : str
+        InChI identification string as given in Common Chemistry (there can be multiple
+        valid InChI strings for a compound), [-]
+    InChI_key : str
+        InChI key identification string (meant to be unique to a compound), [-]        
+    smiles : str
+        SMILES identification string, [-]
+    formula : str
+        Formula, [-]
+    synonyms : list[str]
+        List of synonyms of the compound, [-]
+        
+    Examples
+    --------
+    
+    >>> find_pubchem_from_ids(pubchem=962)[0]
+    962
+    >>> find_pubchem_from_ids(pubchem=962)[1]
+    'oxidane'
+    >>> find_pubchem_from_ids(pubchem=962)[2]
+    18.015
+    >>> find_pubchem_from_ids(pubchem=962)[3]
+    'InChI=1S/H2O/h1H2'
+    >>> find_pubchem_from_ids(pubchem=962)[4]
+    'XLYOFNOQVPJJNP-UHFFFAOYSA-N'
+    >>> find_pubchem_from_ids(pubchem=962)[5]
+    'O'
+    >>> find_pubchem_from_ids(pubchem=962)[6]
+    'H2O'
+    >>> len(find_pubchem_from_ids(pubchem=962)[7]) > 100
+    True
+    '''
+    key = (pubchem, CASRN, inchi, inchikey, smiles)
+    hash_key = str(hash(key))
+    key_file = os.path.join(pubchem_cache_dir, hash_key)
+    if os.path.exists(key_file):
+        f = open(key_file, 'r')
+        json_data = json.loads(f.read())
+        f.close()
+        return json_data
+    
+    if pubchem is not None:
+        compound = Compound.from_cid(pubchem)
+    else:
+        if inchi is not None:
+            compounds = get_compounds(inchi, 'inchi')
+        elif inchikey is not None:
+            # Dup for water here
+             compounds = get_compounds(inchikey, 'inchikey')
+        elif smiles is not None:
+             compounds = get_compounds(smiles, 'smiles')
+        elif CASRN is not None:
+            compounds = get_compounds(CASRN, 'name')
+        # maybe sort by ID in the future
+        compound = compounds[0]
+    cid = compound.cid
+    iupac_name = compound.iupac_name
+    mw = float(compound.molecular_weight)
+    smi = compound.canonical_smiles
+    inchi_val = compound.inchi
+    inchikey = compound.inchikey
+    formula = compound.molecular_formula
+    names = compound.synonyms
+    ans = (cid, iupac_name, mw, inchi_val, inchikey, smi, formula, names)
+    
+    f = open(key_file, 'w')
+    json.dump(ans, f)
+    f.close()
+    return ans
