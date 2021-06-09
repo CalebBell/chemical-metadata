@@ -72,6 +72,7 @@ def process(init_data, use_cache=True):
     ('InChI=1S/10CO.2Mn/c10*1-2;;', '[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[Mn].[Mn]', 517769, '10170-69-1')
     '''
     # print(locals())
+    init_data = init_data.copy()
     cc = cc_CAS = cc_name = cc_inchi = cc_inchikey = cc_smiles = cc_synonyms = cc_deprecated_CASs = None
     if 'CAS' in init_data:
         try:
@@ -83,7 +84,16 @@ def process(init_data, use_cache=True):
     
     cid = iupac_name = p_MW = p_inchi = p_inchikey = p_smiles = p_formula = p_synonyms = None
 
-    can_search_pubchem = (init_data.get('pubchem') is not None 
+
+    if init_data.get('mol', None) is not None:
+        # If not in common chemistry or no InChi there, but if we have a mol file, get the inchi and inchikey for the
+        # pubchem lookup
+        mol = Chem.MolFromMolFile(init_data['mol'])
+        if mol is not None:
+            init_data['inchi'] = MolToInchi(mol)
+            init_data['inchikey'] = InchiToInchiKey(init_data['inchi'])
+
+    can_search_pubchem = (init_data.get('pubchem') is not None
                           or init_data.get('CASRN', cc_CAS) is not None
                           or init_data.get('inchi', cc_inchi) is not None
                           or init_data.get('inchikey', cc_inchikey) is not None
@@ -191,7 +201,10 @@ def process(init_data, use_cache=True):
     if name in synonyms:
         synonyms.remove(name)
     if synonyms:
-        synonyms = natsorted(synonyms)
+        def key_sort_str(s):
+            return len(s), s.lower()
+        synonyms = sorted(synonyms, key=key_sort_str)
+        # synonyms = natsorted(synonyms)
     # synonyms = []
         
     
