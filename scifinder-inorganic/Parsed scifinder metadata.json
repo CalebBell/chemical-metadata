@@ -5022,7 +5022,7 @@
       "Cerous iodide"
     ]
   },
-  "7791-12-0\n": {
+  "7791-12-0": {
     "Deleted CAS": [
       "1805777-09-6"
     ],
@@ -5064,30 +5064,5 @@
   },
   "93401-23-1": {
     "Name": "Potassate(1-),\u00a0\u00b5-hydroxydi-\u00a0(9CI)"
-  },
-  "Substance_11_03_2017_125822": {
-    "Deleted CAS": [
-      "1805777-09-6"
-    ],
-    "Name": "Thallium chloride (TlCl)",
-    "Other Names": [
-      "Thallium chloride",
-      "Thallium monochloride",
-      "Thallium(1+) chloride",
-      "Thallium(I) chloride",
-      "Thallous chloride"
-    ]
-  },
-  "Substance_11_29_2017_030405": {
-    "Deleted CAS": [
-      "264125-11-3",
-      "803745-61-1",
-      "2077101-10-9"
-    ],
-    "Name": "Nickel silicide (NiSi2)",
-    "Other Names": [
-      "Nickel disilicide",
-      "Nickel silicide"
-    ]
   }
 }

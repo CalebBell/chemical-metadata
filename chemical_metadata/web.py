@@ -35,6 +35,9 @@ import requests
 import os
 import lxml.html
 from pubchempy import get_compounds, Compound
+import hashlib
+from rdkit import Chem
+from rdkit.Chem.inchi import MolToInchi, MolFromInchi, InchiToInchiKey
 
 cache_dir = appdirs.user_cache_dir(appname='chemical_metadata')
 if not os.path.exists(cache_dir):
@@ -47,6 +50,10 @@ if not os.path.exists(common_chemistry_cache_dir):
 pubchem_cache_dir = os.path.join(cache_dir, 'pubchem')
 if not os.path.exists(pubchem_cache_dir):
     os.mkdir(pubchem_cache_dir)
+
+def deterministic_hash(s):
+    return hashlib.sha224(s.encode('utf-8')).hexdigest()
+
     
 base_url = '''https://rboq1qukh0.execute-api.us-east-2.amazonaws.com/default/detail?cas_rn='''
 
@@ -113,6 +120,9 @@ def common_chemistry_data(CASRN):
     
     >>> common_chemistry_data("108-39-4")[1]
     'm-Cresol'
+    
+    >>> common_chemistry_data("53850-36-5")[1]
+    'Rutherfordium'
     '''
     cache_loc = os.path.join(common_chemistry_cache_dir, CASRN)
     cached = False
@@ -132,12 +142,16 @@ def common_chemistry_data(CASRN):
 #     print(json_data)
 
     synonyms = [remove_html(k) for k in json_data['synonyms']]
+    
+    inchi = json_data['inchi'] if json_data['inchi']  else None
+    inchiKey = json_data['inchiKey'] if json_data['inchiKey']  else None
+    canonicalSmile = json_data['canonicalSmile'] if json_data['canonicalSmile']  else None
         
-    return (json_data['rn'], remove_html(json_data['name']), json_data['inchi'], json_data['inchiKey'],
-            json_data['canonicalSmile'], synonyms, json_data['replacedRns'])
+    return (json_data['rn'], remove_html(json_data['name']), inchi, inchiKey,
+            canonicalSmile, synonyms, json_data['replacedRns'])
 
 def find_pubchem_from_ids(pubchem=None, CASRN=None, inchi=None, inchikey=None,
-                          smiles=None):
+                          smiles=None, use_cache=True):
     '''Cached query of pubchem database, based on one of many identifiers.
     
     Parameters
@@ -146,13 +160,15 @@ def find_pubchem_from_ids(pubchem=None, CASRN=None, inchi=None, inchikey=None,
         PubChem ID; prefered lookup, [-]
     CASRN : str, optional
         CAS number, [-]
-    InChI : str, optional
+    inchi : str, optional
         InChI identification string as given in Common Chemistry (there can be multiple
         valid InChI strings for a compound), [-]
-    InChI_key : str, optional
+    inchikey : str, optional
         InChI key identification string (meant to be unique to a compound), [-]        
     smiles : str, optional
         SMILES identification string, [-]
+    use_cache : bool, optional
+        Whether or not to use the cache, [-]
     
     Returns
     -------
@@ -193,11 +209,30 @@ def find_pubchem_from_ids(pubchem=None, CASRN=None, inchi=None, inchikey=None,
     'H2O'
     >>> len(find_pubchem_from_ids(pubchem=962)[7]) > 100
     True
+    
+    >>> find_pubchem_from_ids(CASRN="53850-36-5")[0]
+    56951715
+    
+    >>> find_pubchem_from_ids(CASRN="54084-70-7") # Nihonium is missing
+    [None, None, None, None, None, None, None, None]
+    
+    try to use rdkit here to check the correct inchikey is found.
+    
+    >>> find_pubchem_from_ids(inchi='InChI=1S/Cl', inchikey="ZAMOUSCENKQFHK-UHFFFAOYSA-N")[0]
+    5360523
+    >>> find_pubchem_from_ids(inchi='InChI=1S/H2O/h1H2', inchikey="XLYOFNOQVPJJNP-UHFFFAOYSA-N")[0]
+    962
+    
+    >>> find_pubchem_from_ids(inchi='InChI=1S/I2/c1-2')[0:5]
+    [807, 'molecular iodine', 253.8089, 'InChI=1S/I2/c1-2', 'PNDPGZBMCMUPRI-UHFFFAOYSA-N']
+    >>> find_pubchem_from_ids(inchi='InChI=1S/H2/h1H')[0:5]
+    [783, 'molecular hydrogen', 2.016, 'InChI=1S/H2/h1H', 'UFHFLCQGNIYNRP-UHFFFAOYSA-N']
     '''
+    abort = False
     key = (pubchem, CASRN, inchi, inchikey, smiles)
-    hash_key = str(hash(key))
+    hash_key = deterministic_hash(str(key))
     key_file = os.path.join(pubchem_cache_dir, hash_key)
-    if os.path.exists(key_file):
+    if os.path.exists(key_file) and use_cache:
         f = open(key_file, 'r')
         json_data = json.loads(f.read())
         f.close()
@@ -205,26 +240,39 @@ def find_pubchem_from_ids(pubchem=None, CASRN=None, inchi=None, inchikey=None,
     
     if pubchem is not None:
         compound = Compound.from_cid(pubchem)
+        cid = compound.cid
     else:
-        if inchi is not None:
-            compounds = get_compounds(inchi, 'inchi')
-        elif inchikey is not None:
-            # Dup for water here
+        if inchikey is not None:
+            # Dup for chlorine atomic here
+            # find_pubchem_from_ids(inchikey='ZAMOUSCENKQFHK-UHFFFAOYSA-N')[0]
              compounds = get_compounds(inchikey, 'inchikey')
+        elif inchi is not None:
+            # chlorine search "InChI=1S/Cl" finds HCl
+            compounds = get_compounds(inchi, 'inchi')
         elif smiles is not None:
              compounds = get_compounds(smiles, 'smiles')
         elif CASRN is not None:
             compounds = get_compounds(CASRN, 'name')
         # maybe sort by ID in the future
-        compound = compounds[0]
-    cid = compound.cid
-    iupac_name = compound.iupac_name
-    mw = float(compound.molecular_weight)
-    smi = compound.canonical_smiles
-    inchi_val = compound.inchi
-    inchikey = compound.inchikey
-    formula = compound.molecular_formula
-    names = compound.synonyms
+        if not compounds:
+            abort = True
+            cid = None
+        if not abort:
+            compound = compounds[0]
+            cid = compound.cid
+
+    if cid is None:
+        abort = True
+    if abort:
+        cid, iupac_name, mw, inchi_val, inchikey, smi, formula, names = [None]*8
+    else:
+        iupac_name = compound.iupac_name
+        mw = float(compound.molecular_weight)
+        smi = compound.canonical_smiles
+        inchi_val = compound.inchi
+        inchikey = compound.inchikey
+        formula = compound.molecular_formula
+        names = compound.synonyms
     ans = (cid, iupac_name, mw, inchi_val, inchikey, smi, formula, names)
     
     f = open(key_file, 'w')
