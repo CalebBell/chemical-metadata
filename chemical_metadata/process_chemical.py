@@ -39,7 +39,7 @@ from rdkit.Chem.inchi import MolToInchi, MolFromInchi, InchiToInchiKey
 
 from chemical_metadata import common_chemistry_data, find_pubchem_from_ids
 from chemicals.identifiers import serialize_formula
-
+from chemicals.elements import molecular_weight, nested_formula_parser
 
 def write_database(data, output):
     '''Write a list of dictionaries of data to a file. The expected keys in the
@@ -53,7 +53,7 @@ def write_database(data, output):
 def generate_database_lines(data):
     lines = []
     for dat in data:
-        s = '%d\t%s\t%s\t%g\t%s\t%s\t%s\t%s\t' %(dat['cid'], dat['CAS'], dat['formula'], dat['MW'],
+        s = '%d\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t' %(dat['cid'], dat['CAS'], dat['formula'], round(dat['MW'],9),
                                                  dat['smiles'], dat['inchi'], dat['inchikey'], dat['name'])
         s += '\t'.join(dat['synonyms'])
         s += '\n'
@@ -100,7 +100,6 @@ def process(init_data, use_cache=True):
                           or init_data.get('smiles', cc_smiles) is not None)
     
     if can_search_pubchem:
-        # print(locals())
         try:
             p = find_pubchem_from_ids(pubchem=init_data.get('pubchem'), 
                                       CASRN=init_data.get('CASRN', cc_CAS),
@@ -113,7 +112,7 @@ def process(init_data, use_cache=True):
             print(e, 'exception')
         if p is not None:
             cid, iupac_name, p_MW, p_inchi, p_inchikey, p_smiles, p_formula, p_synonyms = p
-
+    # print(locals())
     mol = None
     # Be aware some smiles descriptions are wrong
     # Start with user overridding
@@ -139,9 +138,10 @@ def process(init_data, use_cache=True):
     smiles = Chem.MolToSmiles(mol, True)
     inchi = MolToInchi(mol)
     inchikey = InchiToInchiKey(inchi)
-    MW = Descriptors.MolWt(mol)
+    #MW = Descriptors.ExactMolWt(mol)
     formula = CalcMolFormula(mol, True, True)
     formula = serialize_formula(formula)
+    MW = molecular_weight(nested_formula_parser(formula))
 
     # print(inchi, cc_inchi, p_inchi)
     # print(inchikey, cc_inchikey, p_inchikey)
