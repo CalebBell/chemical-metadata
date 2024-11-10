@@ -1,0 +1,142 @@
+19098072
+  -OEChem-11012414402D
+
+ 21 16  0     0  0  0  0  0  0999 V2000
+    1.4030    2.7320    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5380    0.8660    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5380    4.5981    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2700    4.5981    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
+    4.8059    4.5981    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
+    2.2690    3.2320    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5369    2.2320    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4040    1.3660    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6720    0.3660    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9030    3.5981    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9030    1.8660    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0380    1.7320    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0380    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4040    5.0981    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    5.6720    4.0981    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    6.0380    5.4641    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0380    3.7320    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8059    2.9220    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    2.5420    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9409    1.0560    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350    0.6760    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  1 10  2  0  0  0  0
+  1 11  2  0  0  0  0
+  2  8  1  0  0  0  0
+  2  9  1  0  0  0  0
+  2 12  2  0  0  0  0
+  2 13  2  0  0  0  0
+  3 14  1  0  0  0  0
+  3 15  1  0  0  0  0
+  3 16  2  0  0  0  0
+  3 17  2  0  0  0  0
+  6 18  1  0  0  0  0
+  7 19  1  0  0  0  0
+  8 20  1  0  0  0  0
+  9 21  1  0  0  0  0
+M  CHG  4   4   1   5   1  14  -1  15  -1
+M  END
+> <PUBCHEM_COMPOUND_CID>
+19098072
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+144
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+12
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+4
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+0
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADcYAAPDBgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAIAAAAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+disodium;sulfuric acid;sulfate
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+disodium;sulfuric acid;sulfate
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+disodium;sulfuric acid;sulfate
+
+> <PUBCHEM_IUPAC_NAME>
+disodium;sulfuric acid;sulfate
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+disodium;sulfuric acid;sulfate
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+disodium;sulfuric acid;sulfate
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/2Na.3H2O4S/c;;3*1-5(2,3)4/h;;3*(H2,1,2,3,4)/q2*+1;;;/p-2
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+IYGFDEZBVCNBRU-UHFFFAOYSA-L
+
+> <PUBCHEM_EXACT_MASS>
+337.86602764
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+H4Na2O12S3
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+338.2
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+OS(=O)(=O)O.OS(=O)(=O)O.[O-]S(=O)(=O)[O-].[Na+].[Na+]
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+OS(=O)(=O)O.OS(=O)(=O)O.[O-]S(=O)(=O)[O-].[Na+].[Na+]
+
+> <PUBCHEM_CACTVS_TPSA>
+255
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+337.86602764
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+17
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+5
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+$$$$

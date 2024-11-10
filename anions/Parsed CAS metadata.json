@@ -1,0 +1,3271 @@
+{
+  "107596-48-5": {
+    "MW": 63.963402,
+    "Name": "diphosphene, radical ion(1-) (9CI)"
+  },
+  "11062-77-4": {
+    "Deleted CAS": [
+      "12185-08-9",
+      "15723-03-2",
+      "71732-58-6",
+      "74902-80-0",
+      "80816-55-3",
+      "1227204-94-5"
+    ],
+    "MW": 31.9988,
+    "Name": "superoxide",
+    "Other Names": [
+      "Diat. oxygen ion(1-)",
+      "Diatomic oxygen anion(1-)",
+      "Diatomic oxygen ion(1-)",
+      "Dioxygen anion radical",
+      "Dioxygen ion(1-)",
+      "Dioxygen radical anion",
+      "Dioxygen(1-)",
+      "Dioxygenradical anion",
+      "Hyperoxide",
+      "Molecular oxygen anion radical(1-)",
+      "Molecular oxygen(1-)",
+      "Oxide ion (O21-)",
+      "Oxygen (O2-)",
+      "Oxygen (O21-)",
+      "Oxygen (O21-) ion",
+      "Oxygen anion (O2-)",
+      "Oxygen anion radical",
+      "Oxygen anion radical (O2-)",
+      "Oxygen anion(1-)",
+      "Oxygen diatomic(1-)",
+      "Oxygen dimer(1-)",
+      "Oxygen ion (O2-)",
+      "Oxygen ion(1-)",
+      "Oxygen mol. ion(1-)",
+      "Oxygen molecular ion(1-)",
+      "Oxygen molecule ion (O2-)",
+      "Oxygen molecule(1-)",
+      "Oxygen, ion (O21-)",
+      "Superoxide",
+      "Superoxide (O21-)",
+      "Superoxide O2-",
+      "Superoxide anion",
+      "Superoxide anion radical",
+      "Superoxide ion",
+      "Superoxide ion (O2-)",
+      "Superoxide ion radical (O2-)",
+      "Superoxide radical anion",
+      "Superoxide(1-)",
+      "Superoxide(1-)Radical Ion",
+      "superoxide (8CI,9CI)"
+    ],
+    "formula": "O2",
+    "inchi": "InChI=1S/O2/c1-2",
+    "inchiKey": "InChIKey=MYMOFIZGZYHOMD-UHFFFAOYSA-N",
+    "smiles": "O=O"
+  },
+  "113152-92-4": {
+    "MW": 272.978,
+    "Name": "bismuthate (BiO43-), (T-4)- (9CI)"
+  },
+  "117412-24-5": {
+    "MW": 41.010982,
+    "Name": "beryllate (BeO22-) (9CI)"
+  },
+  "119046-04-7": {
+    "MW": 132.9037,
+    "Name": "titanate (Ti(OH)51-)"
+  },
+  "12184-88-2": {
+    "MW": 1.00794,
+    "Name": "hydride",
+    "Other Names": [
+      "Hydride",
+      "Hydride anion",
+      "Hydride ion",
+      "Hydride ion (H1-)",
+      "Hydride(1-)",
+      "Hydrogen atom ion(1-)",
+      "Hydrogen ion(1-)",
+      "Hydrogen, ion (H1-)",
+      "hydride"
+    ],
+    "formula": "H",
+    "inchi": "InChI=1S/H/q-1",
+    "inchiKey": "InChIKey=KLGZELKXQMTEMM-UHFFFAOYSA-N",
+    "smiles": "[H-]"
+  },
+  "12258-16-1": {
+    "MW": 141.88288,
+    "Name": "argentate (Ag(OH)21-) (9CI)",
+    "Other Names": [
+      "Argentate ([Ag(OH)2]1-) (8CI)",
+      "Dihydroxyargentate(1-)"
+    ]
+  },
+  "12258-53-6": {
+    "Deleted CAS": [
+      "12305-69-0"
+    ],
+    "MW": 155.2398,
+    "Name": "borate (B4O72-)",
+    "Other Names": [
+      "Boric acid (H2B4O7), ion(2-)",
+      "Pyroborate",
+      "Tetraborate"
+    ]
+  },
+  "12299-76-2": {
+    "Deleted CAS": [
+      "22475-82-7"
+    ],
+    "MW": 240.20674,
+    "Name": "plumbate (Pb(OH)O1-) (9CI)"
+  },
+  "123454-39-7": {
+    "MW": 120.85054,
+    "Name": "ferrate (Fe(OH)O31-), (T-4)- (9CI)"
+  },
+  "123505-69-1": {
+    "MW": 120.85054,
+    "Name": "ferrate (Fe(OH)O32-), (T-4)- (9CI)"
+  },
+  "12447-33-5": {
+    "Deleted CAS": [
+      "124386-10-3"
+    ],
+    "MW": 43.81774,
+    "Name": "b4\u00a0H O7",
+    "Other Names": [
+      "Borate (B4O72-), hydrogen",
+      "Borate, hydrogen (8CI)"
+    ]
+  },
+  "12597-05-6": {
+    "Deleted CAS": [
+      "60789-09-5"
+    ],
+    "MW": 96.195,
+    "Name": "sulfide (S32-) (9CI)",
+    "Other Names": [
+      "Trisulfide"
+    ]
+  },
+  "12758-12-2": {
+    "MW": 42.980938,
+    "Name": "aluminate (AlO1-)",
+    "Other Names": [
+      "Aluminate (AlO1-)",
+      "Aluminate(1-), oxo-",
+      "Aluminum oxide (AlO1-)",
+      "Aluminum oxide ion (AlO1-)",
+      "aluminate (AlO1-) (9CI)"
+    ],
+    "formula": "AlO",
+    "inchi": "InChI=1S/Al.O.2H/q-1;;;",
+    "inchiKey": "InChIKey=DUAKJIHJRHXHFI-UHFFFAOYSA-N",
+    "smiles": "O=[Al-]"
+  },
+  "13408-62-3": {
+    "Deleted CAS": [
+      "37-29-6",
+      "1184-79-8",
+      "1092840-87-3"
+    ],
+    "MW": 211.9494,
+    "Name": "ferricyanide",
+    "Other Names": [
+      "Ferrate(3-), hexacyano-",
+      "Ferrate(3-), hexacyano- (8CI)",
+      "Ferrate(3-), hexakis(cyano-C)-, (OC-6-11)-",
+      "Ferrate(3-), hexakis(cyano-\u03baC)-, (OC-6-11)-",
+      "Ferricyanate",
+      "Ferricyanide",
+      "Ferricyanide ion",
+      "Ferricyanide(3-)",
+      "Ferrihexacyanide",
+      "Hexacyanoferrate",
+      "Hexacyanoferrate(3-)",
+      "Hexacyanoferrate(III)",
+      "Iron cyanide (Fe(CN)63-)",
+      "Iron cyanide ion (Fe(CN)63-)",
+      "Iron cyanide ion(Fe(CN)63-)",
+      "ferrate(3-),\u00a0hexakis(cyano-\u03baC)-,\u00a0(OC-6-11)-\u00a0(9CI)"
+    ],
+    "formula": "C6FeN6",
+    "inchi": "InChI=1S/6CN.Fe/c6*1-2;/q6*-1;+3",
+    "inchiKey": "InChIKey=YAGKRVSRTSUGEY-UHFFFAOYSA-N",
+    "smiles": "N#[C-][Fe+3]([C-]#N)([C-]#N)([C-]#N)([C-]#N)[C-]#N"
+  },
+  "13408-63-4": {
+    "Deleted CAS": [
+      "55318-23-5",
+      "55448-40-3",
+      "60927-30-2"
+    ],
+    "MW": 211.9494,
+    "Name": "ferrocyanide",
+    "Other Names": [
+      "Ferrate(4-), hexacyano-",
+      "Ferrate(4-), hexacyano- (8CI)",
+      "Ferrate(4-), hexakis(cyano-C)-, (OC-6-11)-",
+      "Ferrate(4-), hexakis(cyano-\u03baC)-, (OC-6-11)-",
+      "Ferrocyanate",
+      "Ferrocyanide",
+      "Hexacyanoferrate",
+      "Hexacyanoferrate(4-)",
+      "Hexacyanoferrate(4-) ion",
+      "Hexacyanoferrate(II)",
+      "Hexacyanoiron(II)",
+      "Iron cyanide (Fe(CN)64-)",
+      "Iron cyanide (Fe(CN)64-) ion",
+      "ferrate(4-),\u00a0hexakis(cyano-\u03baC)-,\u00a0(OC-6-11)-\u00a0(9CI)"
+    ],
+    "formula": "C6FeN6",
+    "inchi": "InChI=1S/6CN.Fe/c6*1-2;/q6*-1;+2",
+    "inchiKey": "InChIKey=UETZVSHORCDDTH-UHFFFAOYSA-N",
+    "smiles": "N#[C-][Fe+2]([C-]#N)([C-]#N)([C-]#N)([C-]#N)[C-]#N"
+  },
+  "13907-45-4": {
+    "Deleted CAS": [
+      "12381-48-5",
+      "76055-69-1",
+      "795254-94-3"
+    ],
+    "MW": 115.99369999999999,
+    "Name": "chromate (CrO42-)",
+    "Other Names": [
+      "Chromate (CrO42-)",
+      "Chromate (CrO42-) ion",
+      "Chromate anion (CrO42-)",
+      "Chromate(2-)",
+      "Chromate(IV) ion",
+      "Chromic acid (H2CrO4), ion(2-)",
+      "chromate (CrO42-)"
+    ],
+    "formula": "CrO4",
+    "inchi": "InChI=1S/Cr.4O/q;;;2*-1",
+    "inchiKey": "InChIKey=ZCDOYSPFYFSLEW-UHFFFAOYSA-N",
+    "smiles": "O=[Cr](=O)([O-])[O-]"
+  },
+  "13907-47-6": {
+    "Deleted CAS": [
+      "12268-14-3",
+      "76055-71-5",
+      "104724-24-5",
+      "112667-97-7",
+      "126395-13-9",
+      "155023-16-8",
+      "155023-17-9"
+    ],
+    "MW": 215.988,
+    "Name": "dichromate",
+    "Other Names": [
+      "Bichromate",
+      "Chromate (Cr2O72-)",
+      "Chromic acid (H2Cr2O7), ion(2-)",
+      "Dichromate",
+      "Dichromate (Cr2O72-)",
+      "Dichromate ion",
+      "Dichromate ion (Cr2O72-)",
+      "Dichromate ion(2-)",
+      "Dichromate(2-)",
+      "chromate (Cr2O72-) (8CI,9CI)"
+    ],
+    "formula": "Cr2O7",
+    "inchi": "InChI=1S/2Cr.7O/q;;;;;;;2*-1",
+    "inchiKey": "InChIKey=SOCTUWSJJQCPFX-UHFFFAOYSA-N",
+    "smiles": "O=[Cr](=O)([O-])O[Cr](=O)(=O)[O-]"
+  },
+  "13965-91-8": {
+    "Deleted CAS": [
+      "172542-66-4"
+    ],
+    "MW": 336.89,
+    "Name": "tetrachloroplatinate(2-)",
+    "Other Names": [
+      "Chloroplatinite",
+      "Platinate(2-), tetrachloro-",
+      "Platinate(2-), tetrachloro- (8CI)",
+      "Platinate(2-), tetrachloro-, (SP-4-1)-",
+      "Tetrachloroplatinate(2-)",
+      "Tetrachloroplatinate(II)",
+      "Tetrachloroplatinate(PtCl42-)",
+      "platinate(2-), tetrachloro-, (SP-4-1)- (9CI)"
+    ],
+    "formula": "Cl4Pt",
+    "inchi": "InChI=1S/4ClH.Pt/h4*1H;/q;;;;+2/p-4",
+    "inchiKey": "InChIKey=SVZRVTAEYVVVPM-UHFFFAOYSA-J",
+    "smiles": "[Cl-][Pt+2]([Cl-])([Cl-])[Cl-]"
+  },
+  "13981-20-9": {
+    "Deleted CAS": [
+      "16389-35-8",
+      "860440-30-8",
+      "1208105-31-0"
+    ],
+    "MW": 98.93969999999999,
+    "Name": "metavanadate",
+    "Other Names": [
+      "Metavanadate",
+      "Metavanadate(1-)",
+      "Trioxovanadate(1-)",
+      "Vanadate (VO3-)",
+      "Vanadate (VO3-) ion",
+      "Vanadate (VO31-)",
+      "vanadate (VO31-) (8CI,9CI)"
+    ],
+    "formula": "O3V",
+    "inchi": "InChI=1S/3O.V/q;;;-1",
+    "inchiKey": "InChIKey=YTVPPYMZCLYRBX-UHFFFAOYSA-N",
+    "smiles": "O=[V-](=O)=O"
+  },
+  "14000-31-8": {
+    "MW": 173.943322,
+    "Name": "pyrophosphate",
+    "Other Names": [
+      "Diphosphate",
+      "Diphosphate (P2O74-)",
+      "Diphosphate(4-)",
+      "Diphosphoric acid, ion(4-)",
+      "Phosphate (P2O74-)",
+      "Pyrometaphosphate",
+      "Pyrophosphate",
+      "Pyrophosphate (8CI)",
+      "Pyrophosphate (P2O74-)",
+      "Pyrophosphate tetraanion",
+      "Pyrophosphate(4-)",
+      "Pyrophosphate(4-) ion",
+      "diphosphate"
+    ],
+    "formula": "O7P2",
+    "inchi": "InChI=1S/H4O7P2/c1-8(2,3)7-9(4,5)6/h(H2,1,2,3)(H2,4,5,6)/p-4",
+    "inchiKey": "InChIKey=XPPKVPWEQAFLFU-UHFFFAOYSA-J",
+    "smiles": "O=P([O-])([O-])OP(=O)([O-])[O-]"
+  },
+  "14066-19-4": {
+    "Deleted CAS": [
+      "15410-01-2"
+    ],
+    "MW": 95.97930099999999,
+    "Name": "phosphate(2-)",
+    "Other Names": [
+      "Biphosphate",
+      "Hydrogen orthophosphate",
+      "Hydrogen phosphate",
+      "Hydrogen phosphate (HPO42-)",
+      "Hydrogen phosphate anion (HPO42-)",
+      "Hydrogen phosphate dianion",
+      "Hydrogen phosphate ion (HPO42-)",
+      "Hydrogen phosphate ion(2-)",
+      "Hydrogen phosphate(2-)",
+      "Monohydrogen phosphate",
+      "Monohydrogen phosphate (HPO42-)",
+      "Phosphate (HPO42-)",
+      "Phosphate (PO4H2-)",
+      "Phosphate dianion",
+      "Phosphate dianion (HPO42-)",
+      "Phosphate ion (HPO42-)",
+      "Phosphate ion(2-)",
+      "Phosphate ion(HPO42-)",
+      "Phosphate(2-)",
+      "Phosphate, hydrogen",
+      "Phosphoric acid ion(2-)",
+      "phosphate, hydrogen (8CI,9CI)"
+    ],
+    "formula": "HO4P",
+    "inchi": "InChI=1S/H3O4P/c1-5(2,3)4/h(H3,1,2,3,4)/p-2",
+    "inchiKey": "InChIKey=NBIIXXVUZAFLBC-UHFFFAOYSA-L",
+    "smiles": "O=P([O-])([O-])O"
+  },
+  "14066-20-7": {
+    "MW": 96.987241,
+    "Name": "dihydrogen phosphate",
+    "Other Names": [
+      "Dihydrogen orthophosphate",
+      "Dihydrogen phosphate",
+      "Dihydrogen phosphate (H2PO41-)",
+      "Dihydrogen phosphate anion",
+      "Dihydrogen phosphate anion (H2PO4-)",
+      "Dihydrogen phosphate ion",
+      "Dihydrogen phosphate ion (H2PO4-)",
+      "Dihydrogen phosphate monoanion",
+      "Dihydrogen phosphate(1-)",
+      "Dihydrogenphosphate anion (H2PO4-)",
+      "Dihydrogenphosphate(1-)",
+      "Dihydrophosphate anion",
+      "Hydrogen phosphate ion (H2PO41-)",
+      "Phosphate (H2PO4-)",
+      "Phosphate (H2PO41-)",
+      "Phosphate ion (H2PO41-)",
+      "Phosphate monoanion",
+      "Phosphate, dihydrogen",
+      "Phosphoric acid ion (H2PO41-)",
+      "Phosphoric acid ion(1-)",
+      "phosphate, dihydrogen (8CI,9CI)"
+    ],
+    "formula": "H2O4P",
+    "inchi": "InChI=1S/H3O4P/c1-5(2,3)4/h(H3,1,2,3,4)/p-1",
+    "inchiKey": "InChIKey=NBIIXXVUZAFLBC-UHFFFAOYSA-M",
+    "smiles": "O=P([O-])(O)O"
+  },
+  "14100-65-3": {
+    "MW": 42.809799999999996,
+    "Name": "borate (BO21-)",
+    "Other Names": [
+      "Borate (BO21-)",
+      "Borate ion (BO21-)",
+      "Boric acid (HBO2), ion(1-)",
+      "Boron dioxide(1-)",
+      "Metaborate",
+      "Metaborate (BO21-)",
+      "Metaborate anion",
+      "borate (BO21-) (8CI,9CI)"
+    ],
+    "formula": "BO2",
+    "inchi": "InChI=1S/BO2/c2-1-3/q-1",
+    "inchiKey": "InChIKey=VDLZIANVOYDKFH-UHFFFAOYSA-N",
+    "smiles": "O=B[O-]"
+  },
+  "14102-45-5": {
+    "Deleted CAS": [
+      "124733-86-4",
+      "163686-53-1",
+      "163686-54-2",
+      "191348-92-2",
+      "797805-89-1"
+    ],
+    "MW": 124.93567999999999,
+    "Name": "arsonic acid, ion(1-)",
+    "Other Names": [
+      "Arsenite (AsO33-), dihydrogen",
+      "Arsenite (AsO33-), dihydrogen (8CI)",
+      "Arsonic acid, ion(1-)",
+      "Dihydrogen arsenite (H2AsO3-)",
+      "arsonic acid, ion(1-) (9CI)"
+    ],
+    "formula": "AsH2O3",
+    "inchi": "InChI=1S/AsH3O3/c2-1(3)4/h1H,(H2,2,3,4)/p-1",
+    "inchiKey": "InChIKey=BUSBFZWLPXDYIC-UHFFFAOYSA-M",
+    "smiles": "O=[AsH]([O-])O"
+  },
+  "14124-67-5": {
+    "MW": 126.95819999999999,
+    "Name": "selenite",
+    "Other Names": [
+      "Selenite",
+      "Selenite (SeO32-)",
+      "Selenite (SeO32-) (8CI)",
+      "Selenite ion (SeO32-)",
+      "Selenite ion(2-)",
+      "Selenite(2-)",
+      "selenite (9CI)"
+    ],
+    "formula": "O3Se",
+    "inchi": "InChI=1S/H2O3Se/c1-4(2)3/h(H2,1,2,3)/p-2",
+    "inchiKey": "InChIKey=MCAHWIHFGHIESP-UHFFFAOYSA-L",
+    "smiles": "O=[Se]([O-])[O-]"
+  },
+  "14124-68-6": {
+    "Deleted CAS": [
+      "1385048-46-3"
+    ],
+    "MW": 142.95759999999999,
+    "Name": "selenate",
+    "Other Names": [
+      "Selenate",
+      "Selenate (SeO42-)",
+      "Selenate (SeO42-) (8CI)",
+      "Selenate ion",
+      "Selenate ion (SeO42-)",
+      "Selenate ion(2-)",
+      "selenate (9CI)"
+    ],
+    "formula": "O4Se",
+    "inchi": "InChI=1S/H2O4Se/c1-5(2,3)4/h(H2,1,2,3,4)/p-2",
+    "inchiKey": "InChIKey=QYHFIVBSNOWOCQ-UHFFFAOYSA-L",
+    "smiles": "O=[Se](=O)([O-])[O-]"
+  },
+  "14127-68-5": {
+    "MW": 252.915283,
+    "Name": "triphosphate",
+    "Other Names": [
+      "Triphosphate",
+      "Triphosphate (P3O105-)",
+      "Triphosphate(5-)",
+      "Tripolyphosphate",
+      "Tripolyphosphate (P3O105-) ion",
+      "triphosphate"
+    ],
+    "formula": "O10P3",
+    "inchi": "InChI=1S/H5O10P3/c1-11(2,3)9-13(7,8)10-12(4,5)6/h(H,7,8)(H2,1,2,3)(H2,4,5,6)/p-5",
+    "inchiKey": "InChIKey=UNXRWKVEANCORM-UHFFFAOYSA-I",
+    "smiles": "O=P([O-])([O-])OP(=O)([O-])OP(=O)([O-])[O-]"
+  },
+  "14127-70-9": {
+    "Deleted CAS": [
+      "33485-93-7"
+    ],
+    "MW": 426.036,
+    "Name": "palladate(2-), tetrabromo-, (SP-4-1)- (9CI)",
+    "Other Names": [
+      "Palladate(2-), tetrabromo- (8CI)",
+      "Tetrabromopalladate(2-)",
+      "Tetrabromopalladium(2-)"
+    ]
+  },
+  "14213-97-9": {
+    "MW": 58.8092,
+    "Name": "borate (BO33-) (8CI,9CI)",
+    "Other Names": [
+      "Borate",
+      "Borate ion (BO3-3)",
+      "Borate ion(3-)",
+      "Boric acid (H3BO3), ion(3-)",
+      "Boric acid ion(3-)",
+      "Boron trioxide(3-)",
+      "Orthoborate"
+    ]
+  },
+  "14259-85-9": {
+    "Deleted CAS": [
+      "82638-45-7"
+    ],
+    "MW": 159.95759999999999,
+    "Name": "molybdate (MoO42-)",
+    "Other Names": [
+      "Molybdate (MoO42-)",
+      "Molybdate (MoO42-), (T-4)-",
+      "Molybdate ion (MoO42-)",
+      "Tetraoxomolybdate(2-)",
+      "molybdate (MoO42-), (T-4)- (9CI)"
+    ],
+    "formula": "MoO4",
+    "inchi": "InChI=1S/Mo.4O/q-2;;;;",
+    "inchiKey": "InChIKey=LYKAEQVYSKEMBJ-UHFFFAOYSA-N",
+    "smiles": "O=[Mo-2](=O)(=O)=O"
+  },
+  "14265-44-2": {
+    "Deleted CAS": [
+      "264888-19-9"
+    ],
+    "MW": 94.971361,
+    "Name": "phosphate",
+    "Other Names": [
+      "Orthophosphate",
+      "Orthophosphate (PO43-)",
+      "Orthophosphate(3-)",
+      "Phosphate",
+      "Phosphate (PO43-)",
+      "Phosphate anion(3-)",
+      "Phosphate ion (PO43-)",
+      "Phosphate ion(3-)",
+      "Phosphate trianion",
+      "Phosphate(3-)",
+      "Phosphoric acid, ion(3-)",
+      "phosphate"
+    ],
+    "formula": "O4P",
+    "inchi": "InChI=1S/H3O4P/c1-5(2,3)4/h(H3,1,2,3,4)/p-3",
+    "inchiKey": "InChIKey=NBIIXXVUZAFLBC-UHFFFAOYSA-K",
+    "smiles": "O=P([O-])([O-])[O-]"
+  },
+  "14265-45-3": {
+    "Deleted CAS": [
+      "173658-73-6"
+    ],
+    "MW": 80.0632,
+    "Name": "sulfite",
+    "Other Names": [
+      "Sulfate(2-), trioxo-",
+      "Sulfite",
+      "Sulfite (SO32-)",
+      "Sulfite dianion",
+      "Sulfite(2-)",
+      "Sulfurous acid, ion(2-)",
+      "Sulphite",
+      "sulfite (8CI,9CI)"
+    ],
+    "formula": "O3S",
+    "inchi": "InChI=1S/H2O3S/c1-4(2)3/h(H2,1,2,3)/p-2",
+    "inchiKey": "InChIKey=LSNNMFCWUKXFEE-UHFFFAOYSA-L",
+    "smiles": "O=S([O-])[O-]"
+  },
+  "14280-30-9": {
+    "Deleted CAS": [
+      "58390-08-2",
+      "58721-68-9"
+    ],
+    "MW": 17.00734,
+    "Name": "hydroxide",
+    "Other Names": [
+      "Hydroxide",
+      "Hydroxide anion",
+      "Hydroxide ion",
+      "Hydroxide ion(1-)",
+      "Hydroxide(1-)",
+      "Hydroxy anion",
+      "Hydroxy ion",
+      "Hydroxyl anion",
+      "Hydroxyl ion",
+      "Hydroxyl ion (OH1-)",
+      "hydroxide"
+    ],
+    "formula": "HO",
+    "inchi": "InChI=1S/H2O/h1H2/p-1",
+    "inchiKey": "InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-M",
+    "smiles": "[OH-]"
+  },
+  "14311-52-5": {
+    "Deleted CAS": [
+      "713066-73-0",
+      "1429470-83-6"
+    ],
+    "MW": 247.8376,
+    "Name": "tetraoxotungstate(2-)",
+    "Other Names": [
+      "Tetraoxotungstate(2-)",
+      "Tungstate (2-)",
+      "Tungstate (WO42-), (T-4)-",
+      "Tungstate ion (WO42-)",
+      "tungstate (WO42-), (T-4)- (9CI)"
+    ],
+    "formula": "O4W",
+    "inchi": "InChI=1S/4O.W/q;;;;-2",
+    "inchiKey": "InChIKey=BASIUPHYXUKEPE-UHFFFAOYSA-N",
+    "smiles": "O=[W-2](=O)(=O)=O"
+  },
+  "14333-13-2": {
+    "Deleted CAS": [
+      "23723-55-9",
+      "81954-71-4",
+      "1085506-68-8"
+    ],
+    "MW": 118.935649,
+    "Name": "permanganate",
+    "Other Names": [
+      "Permanganate",
+      "Permanganate (MnO4-) ion",
+      "Permanganate (MnO41-)",
+      "Permanganate anion",
+      "Permanganate ion",
+      "Permanganate ion(1-)",
+      "Permanganate(1-)",
+      "Permanganic acid (HMnO4), ion(1-)",
+      "permanganate (MnO41-) (8CI,9CI)"
+    ],
+    "formula": "MnO4",
+    "inchi": "InChI=1S/Mn.4O/q;;;;-1",
+    "inchiKey": "InChIKey=NPDODHDPVPPRDJ-UHFFFAOYSA-N",
+    "smiles": "O=[Mn](=O)(=O)[O-]"
+  },
+  "14333-14-3": {
+    "Deleted CAS": [
+      "30852-86-9",
+      "56992-15-5"
+    ],
+    "MW": 118.935649,
+    "Name": "manganate (MnO42-)",
+    "Other Names": [
+      "Manganate (MnO42-)",
+      "Manganate(2-)",
+      "Manganese oxide ion (MnO42-)",
+      "Manganic acid (H2MnO4), ion(2-)",
+      "Permanganate (MnO42-)",
+      "Permanganate ion (MnO42-)",
+      "Permanganate ion(MnO42-)",
+      "Tetraoxomanganate(2-)",
+      "manganate (MnO42-) (8CI,9CI)"
+    ],
+    "formula": "MnO4",
+    "inchi": "InChI=1S/Mn.4O/q;;;2*-1",
+    "inchiKey": "InChIKey=LBSANEJBGMCTBH-UHFFFAOYSA-N",
+    "smiles": "O=[Mn](=O)([O-])[O-]"
+  },
+  "14333-18-7": {
+    "Deleted CAS": [
+      "76008-43-0"
+    ],
+    "MW": 114.9391,
+    "Name": "orthovanadate",
+    "Other Names": [
+      "Orthovanadate",
+      "Tetraoxovanadate(3-)",
+      "Vanadate (VO43-)",
+      "Vanadate (VO43-) (8CI)",
+      "Vanadate (VO43-) ion",
+      "Vanadate (VO43-), (T-4)-",
+      "Vanadate ion (VO43-)",
+      "vanadate (VO43-), (T-4)- (9CI)"
+    ],
+    "formula": "O4V",
+    "inchi": "InChI=1S/4O.V/q;;;;-3",
+    "inchiKey": "InChIKey=CTCUHZQONANKCN-UHFFFAOYSA-N",
+    "smiles": "O=[V-3](=O)(=O)=O"
+  },
+  "14333-20-1": {
+    "Deleted CAS": [
+      "53112-55-3"
+    ],
+    "MW": 161.9976,
+    "Name": "technetate (TcO41-), (T-4)- (9CI)",
+    "Other Names": [
+      "Pertechnetate (TcO41-) (8CI)",
+      "Pertechnetate (TcO4-)",
+      "Pertechnetate ion (TcO4-)",
+      "Pertechnetate ion (TcO41-)",
+      "Pertechnetate(1-)",
+      "Technetate (TcO4-)",
+      "Technetate (TcO41-)"
+    ]
+  },
+  "14333-21-2": {
+    "Deleted CAS": [
+      "12710-96-2",
+      "1884419-79-7"
+    ],
+    "MW": 165.0676,
+    "Name": "ruthenate (RuO41-), (T-4)- (9CI)",
+    "Other Names": [
+      "Ruthenate (RuO41-) (8CI)",
+      "Perruthenate (RuO4-)",
+      "Perruthenate (RuO41-)",
+      "Tetraoxoruthenate(1-) ion"
+    ]
+  },
+  "14333-22-3": {
+    "MW": 165.0676,
+    "Name": "ruthenate (RuO42-), (T-4)- (9CI)",
+    "Other Names": [
+      "Ruthenate (RuO42-) (8CI)",
+      "Tetraoxoruthenate(2-)"
+    ]
+  },
+  "14333-24-5": {
+    "Deleted CAS": [
+      "37251-66-4",
+      "63161-26-2",
+      "93484-86-7",
+      "105580-81-2",
+      "119980-03-9",
+      "616883-00-2",
+      "879646-21-6",
+      "1257252-95-1"
+    ],
+    "MW": 250.2046,
+    "Name": "perrhenate",
+    "Other Names": [
+      "Perrhenate",
+      "Perrhenate (ReO4-)",
+      "Perrhenate (ReO41-)",
+      "Perrhenate (ReO41-) (8CI)",
+      "Perrhenate ion (ReO41-)",
+      "Rhenate (Re(OH)O31-), (T-4)-",
+      "Rhenate (ReO4-)",
+      "Rhenate (ReO41-)",
+      "Rhenate (ReO41-), (T-4)-",
+      "Tetraoxorhenate(1-)",
+      "rhenate (ReO41-), (T-4)- (9CI)"
+    ],
+    "formula": "O4Re",
+    "inchi": "InChI=1S/4O.Re/q;;;;-1",
+    "inchiKey": "InChIKey=AENRYWCAYGXUAM-UHFFFAOYSA-N",
+    "smiles": "O=[Re-](=O)(=O)=O"
+  },
+  "14337-12-3": {
+    "MW": 338.77855,
+    "Name": "tetrachloroaurate",
+    "Other Names": [
+      "Aurate(1-), tetrachloro-",
+      "Aurate(1-), tetrachloro- (8CI)",
+      "Aurate(1-), tetrachloro-, (SP-4-1)-",
+      "Chloroaurate",
+      "Gold chloride (AuCl41-)",
+      "Gold chloride anion (AuCl41-)",
+      "Tetrachloroaurate",
+      "Tetrachloroaurate(1-)",
+      "aurate(1-), tetrachloro-, (SP-4-1)- (9CI)"
+    ],
+    "formula": "AuCl4",
+    "inchi": "InChI=1S/Au.4ClH/h;4*1H/q+3;;;;/p-4",
+    "inchiKey": "InChIKey=VDLSFRRYNGEBEJ-UHFFFAOYSA-J",
+    "smiles": "[Cl-][Au+3]([Cl-])([Cl-])[Cl-]"
+  },
+  "14337-14-5": {
+    "MW": 516.58255,
+    "Name": "aurate(1-), tetrabromo-, (SP-4-1)- (9CI)",
+    "Other Names": [
+      "Aurate(1-), tetrabromo- (8CI)",
+      "Bromoaurate(III)",
+      "Tetrabromoaurate(1-)",
+      "Tetrabromoaurate(III)"
+    ]
+  },
+  "14343-69-2": {
+    "Deleted CAS": [
+      "15034-27-2"
+    ],
+    "MW": 42.0201,
+    "Name": "azide",
+    "Other Names": [
+      "Azide",
+      "Azide (N3-)",
+      "Azide ion",
+      "Azide ion(1-)",
+      "Azide(1-)",
+      "Hydrazoate",
+      "Hydrazoic acid, ion(1-)",
+      "Nitrogen ion (N3-)",
+      "Triazide",
+      "Trinitrogen ion (N3-)",
+      "azide (8CI,9CI)"
+    ],
+    "formula": "N3",
+    "inchi": "InChI=1S/N3/c1-3-2/q-1",
+    "inchiKey": "InChIKey=IVRMZWNICZWHMI-UHFFFAOYSA-N",
+    "smiles": "[N-]=[N+]=[N-]"
+  },
+  "14349-67-8": {
+    "Deleted CAS": [
+      "28738-09-2",
+      "172542-68-6"
+    ],
+    "MW": 248.23200000000003,
+    "Name": "tetrachloropalladate(2-)",
+    "Other Names": [
+      "Palladate(2-), tetrachloro-",
+      "Palladate(2-), tetrachloro- (6CI,8CI)",
+      "Palladate(2-), tetrachloro-, (SP-4-1)-",
+      "Tetrachloropalladate ion (PdCl42-)",
+      "Tetrachloropalladate(2-)",
+      "Tetrachloropalladate(II)",
+      "Tetrachloropalladium dianion",
+      "Tetrachloropalladium(2-)",
+      "palladate(2-), tetrachloro-, (SP-4-1)- (9CI)"
+    ],
+    "formula": "Cl4Pd",
+    "inchi": "InChI=1S/4ClH.Pd/h4*1H;/q;;;;+2/p-4",
+    "inchiKey": "InChIKey=RPYSFYBAYJBKCR-UHFFFAOYSA-J",
+    "smiles": "[Cl-][Pd+2]([Cl-])([Cl-])[Cl-]"
+  },
+  "14380-61-1": {
+    "Deleted CAS": [
+      "12590-98-6"
+    ],
+    "MW": 51.452400000000004,
+    "Name": "hypochlorite",
+    "Other Names": [
+      "Chlorine monoxide ion(1-)",
+      "Chlorine oxide (ClO1-)",
+      "Hypochlorite",
+      "Hypochlorite anion",
+      "Hypochlorite ion",
+      "Hypochlorous acid, ion(1-)",
+      "hypochlorite (8CI,9CI)"
+    ],
+    "formula": "ClO",
+    "inchi": "InChI=1S/ClO/c1-2/q-1",
+    "inchiKey": "InChIKey=WQYVRQLZKVEZGA-UHFFFAOYSA-N",
+    "smiles": "[O-]Cl"
+  },
+  "14380-62-2": {
+    "MW": 95.90339999999999,
+    "Name": "hypobromite",
+    "Other Names": [
+      "Hypobromite",
+      "Hypobromite (BrO-)",
+      "Hypobromous acid, ion(1-)",
+      "hypobromite (6CI,8CI,9CI)"
+    ],
+    "formula": "BrO",
+    "inchi": "InChI=1S/BrO/c1-2/q-1",
+    "inchiKey": "InChIKey=JGJLWPGRMCADHB-UHFFFAOYSA-N",
+    "smiles": "[O-]Br"
+  },
+  "14383-50-7": {
+    "Deleted CAS": [
+      "15566-47-9",
+      "77387-72-5"
+    ],
+    "MW": 112.12819999999999,
+    "Name": "thiosulfate (S2O32-)",
+    "Other Names": [
+      "Thiosulfate (S2O32-)",
+      "Thiosulfate (SO3S2-)",
+      "Thiosulfate dianion",
+      "Thiosulfate ion",
+      "Thiosulfate ion (S2O32-)",
+      "Thiosulfate ion(2-)",
+      "Thiosulfate(2-)",
+      "Thiosulfuric acid (H2S2O3), ion(2-)",
+      "Thiosulfuricacid (H2S2O3), ion(2-)",
+      "thiosulfate (S2O32-) (8CI,9CI)"
+    ],
+    "formula": "O3S2",
+    "inchi": "InChI=1S/H2O3S2/c1-5(2,3)4/h(H2,1,2,3,4)/p-2",
+    "inchiKey": "InChIKey=DHCDFWKWKRSZHF-UHFFFAOYSA-L",
+    "smiles": "O=S(=O)([O-])[S-]"
+  },
+  "14477-72-6": {
+    "Deleted CAS": [
+      "299217-98-4"
+    ],
+    "MW": 113.0154096,
+    "Name": "trifluoroacetate",
+    "Other Names": [
+      "Acetic acid, 2,2,2-trifluoro-, ion(1-)",
+      "Acetic acid, trifluoro-, ion(1-)",
+      "Acetic acid, trifluoro-, ion(1-) (8CI,9CI)",
+      "Perfluoroacetate",
+      "Perfluoroacetate anion",
+      "Trifluoroacetate",
+      "Trifluoroacetate anion",
+      "Trifluoroacetate ion",
+      "Trifluoroacetic acid anion",
+      "acetic acid, 2,2,2-trifluoro-, ion(1-)"
+    ],
+    "formula": "C2F3O2",
+    "inchi": "InChI=1S/C2HF3O2/c3-2(4,5)1(6)7/h(H,6,7)/p-1",
+    "inchiKey": "InChIKey=DTQVDTLACAAQTR-UHFFFAOYSA-M",
+    "smiles": "O=C([O-])C(F)(F)F"
+  },
+  "14485-39-3": {
+    "Deleted CAS": [
+      "69990-47-2"
+    ],
+    "MW": 95.010898,
+    "Name": "aluminate (Al(OH)41-), (T-4)- (9CI)",
+    "Other Names": [
+      "Aluminate ([Al(OH)4]1-) (8CI)",
+      "Tetrahydroxoaluminate(1-)",
+      "Tetrahydroxyaluminate(1-)",
+      "Tetrahydroxyaluminum(1-)"
+    ]
+  },
+  "14493-01-7": {
+    "Deleted CAS": [
+      "13455-11-3"
+    ],
+    "MW": 514.694,
+    "Name": "(SP-4-1)-Tetrabromoplatinate(2-)",
+    "Other Names": [
+      "(SP-4-1)-Tetrabromoplatinate(2-)",
+      "Platinate(2-), tetrabromo-",
+      "Platinate(2-), tetrabromo- (8CI)",
+      "Platinate(2-), tetrabromo-, (SP-4-1)-",
+      "Tetrabromoplatinate(2-)",
+      "Tetrabromoplatinate(II)",
+      "platinate(2-), tetrabromo-, (SP-4-1)-"
+    ],
+    "formula": "Br4Pt",
+    "inchi": "InChI=1S/4BrH.Pt/h4*1H;/q;;;;+2/p-4",
+    "inchiKey": "InChIKey=NDLRGHDUUNRQLL-UHFFFAOYSA-J",
+    "smiles": "[Br-][Pt+2]([Br-])([Br-])[Br-]"
+  },
+  "14522-80-6": {
+    "Deleted CAS": [
+      "59538-90-8",
+      "106601-33-6",
+      "109988-38-7",
+      "113160-68-2"
+    ],
+    "MW": 239.712,
+    "Name": "bromide (Br31-) (8CI,9CI)",
+    "Other Names": [
+      "Bromide (Br3-)",
+      "Tribromide",
+      "Tribromide anion",
+      "Tribromide ion(1-)"
+    ]
+  },
+  "145679-05-6": {
+    "MW": 223.80404,
+    "Name": "antimonate (Sb(OH)63-), (OC-6-11)- (9CI)"
+  },
+  "14648-50-1": {
+    "Deleted CAS": [
+      "22863-96-3"
+    ],
+    "MW": 404.93500000000006,
+    "Name": "iridate(3-), hexachloro-, (OC-6-11)- (9CI)",
+    "Other Names": [
+      "Iridate(3-), hexachloro- (8CI)",
+      "Hexachloroiridate(3-)",
+      "Hexachloroiridate(III)"
+    ]
+  },
+  "14691-59-9": {
+    "MW": 33.00674,
+    "Name": "hydroperoxide(1-)",
+    "Other Names": [
+      "Hydrogen oxide ion (HO21-)",
+      "Hydrogen peroxide anion",
+      "Hydrogen peroxide conjugate base",
+      "Hydrogen peroxide ion(1-)",
+      "Hydroperoxide (HO21-)",
+      "Hydroperoxide anion",
+      "Hydroperoxide ion",
+      "Hydroperoxide ion (HO21-)",
+      "Hydroperoxide monoanion",
+      "Hydroperoxide(1-)",
+      "Hydroperoxo(1-)",
+      "Hydroperoxy anion",
+      "Monohydrogen peroxide ion(1-)",
+      "Peroxide (HO2-)",
+      "Peroxide (HO21-)",
+      "peroxide (HO21-) (8CI,9CI)"
+    ],
+    "formula": "HO2",
+    "inchi": "InChI=1S/H2O2/c1-2/h1-2H/p-1",
+    "inchiKey": "InChIKey=MHAJPDPJQMAIIY-UHFFFAOYSA-M",
+    "smiles": "[O-]O"
+  },
+  "14781-81-8": {
+    "Deleted CAS": [
+      "67393-14-0",
+      "444988-10-7"
+    ],
+    "MW": 160.1264,
+    "Name": "dithionate",
+    "Other Names": [
+      "Dithionate",
+      "Dithionate (S2O62-)",
+      "Dithionic acid, ion(2-)",
+      "dithionate"
+    ],
+    "formula": "O6S2",
+    "inchi": "InChI=1S/H2O6S2/c1-7(2,3)8(4,5)6/h(H,1,2,3)(H,4,5,6)/p-2",
+    "inchiKey": "InChIKey=RMGVZKRVHHSUIM-UHFFFAOYSA-L",
+    "smiles": "O=S(=O)([O-])S(=O)(=O)[O-]"
+  },
+  "14797-55-8": {
+    "Deleted CAS": [
+      "23746-18-1",
+      "34236-35-6",
+      "73394-83-9",
+      "951312-67-7"
+    ],
+    "MW": 62.0049,
+    "Name": "nitrate",
+    "Other Names": [
+      "Nitrate",
+      "Nitrate (NO3-)",
+      "Nitrate ion",
+      "Nitrate ion (NO3-)",
+      "Nitrate ion(1-)",
+      "Nitrate(1-)",
+      "Nitrato",
+      "Nitric acid, ion(1-)",
+      "nitrate (6CI,7CI,8CI,9CI)"
+    ],
+    "formula": "NO3",
+    "inchi": "InChI=1S/NO3/c2-1(3)4/q-1",
+    "inchiKey": "InChIKey=NHNBFGGVMKEFGY-UHFFFAOYSA-N",
+    "smiles": "O=N(=O)[O-]"
+  },
+  "14797-65-0": {
+    "Deleted CAS": [
+      "12183-96-9",
+      "114466-53-4",
+      "1092528-35-2",
+      "1275614-42-0",
+      "1625691-65-7"
+    ],
+    "MW": 46.0055,
+    "Name": "nitrite",
+    "Other Names": [
+      "Nitrite",
+      "Nitrite (NO2-)",
+      "Nitrite anion",
+      "Nitrite ion",
+      "Nitrite ion (NO2-)",
+      "Nitrite ion(1-)",
+      "Nitrite(1-)",
+      "Nitrogen dioxide ion(1-)",
+      "Nitrogen dioxide(1-)",
+      "Nitrogen peroxide ion(1-)",
+      "Nitrous acid, ion(1-)",
+      "nitrite (8CI,9CI)"
+    ],
+    "formula": "NO2",
+    "inchi": "InChI=1S/HNO2/c2-1-3/h(H,2,3)/p-1",
+    "inchiKey": "InChIKey=IOVCWXUNBOPUCH-UHFFFAOYSA-M",
+    "smiles": "O=N[O-]"
+  },
+  "14797-73-0": {
+    "Deleted CAS": [
+      "60349-26-0",
+      "181259-57-4",
+      "308833-11-6",
+      "352452-47-2",
+      "464154-30-1"
+    ],
+    "MW": 99.45060000000001,
+    "Name": "perchlorate",
+    "Other Names": [
+      "Perchlorate",
+      "Perchlorate ion",
+      "Perchlorate ion (ClO41-)",
+      "Perchlorate ion(1-)",
+      "Perchlorate(1-)",
+      "Perchloric acid, ion(1-)",
+      "Perchloric acid, rhodium salt (1:?)",
+      "perchlorate (8CI,9CI)"
+    ],
+    "formula": "ClO4",
+    "inchi": "InChI=1S/ClHO4/c2-1(3,4)5/h(H,2,3,4,5)/p-1",
+    "inchiKey": "InChIKey=VLTRZXGMWDSKGL-UHFFFAOYSA-M",
+    "smiles": "O=Cl(=O)(=O)[O-]"
+  },
+  "14798-26-6": {
+    "Deleted CAS": [
+      "92185-26-7"
+    ],
+    "MW": 228.09598,
+    "Name": "phenol, 2,4,6-trinitro-, ion(1-)",
+    "Other Names": [
+      "Picric acid, ion(1-) (8CI)",
+      "2,4,6-Trinitrophenolate",
+      "2,4,6-Trinitrophenoxide",
+      "Picrate",
+      "Picrate anion",
+      "Picrate ion",
+      "Picrate ion(1-)",
+      "Picrate(1-)",
+      "Trinitrophenolate"
+    ]
+  },
+  "14808-79-8": {
+    "MW": 96.0626,
+    "Name": "sulfate",
+    "Other Names": [
+      "Sulfate",
+      "Sulfate (SO4S11-)",
+      "Sulfate (ion 2-)",
+      "Sulfate anion",
+      "Sulfate anion(2-)",
+      "Sulfate dianion",
+      "Sulfate ion",
+      "Sulfate ion (SO42-)",
+      "Sulfate(2-)",
+      "Sulfuric acid, ion(2-)",
+      "Sulphate",
+      "sulfate (7CI,8CI,9CI)"
+    ],
+    "formula": "O4S",
+    "inchi": "InChI=1S/H2O4S/c1-5(2,3)4/h(H2,1,2,3,4)/p-2",
+    "inchiKey": "InChIKey=QAOWNCQODCNURD-UHFFFAOYSA-L",
+    "smiles": "O=S(=O)([O-])[O-]"
+  },
+  "14844-07-6": {
+    "MW": 128.1276,
+    "Name": "dithionite",
+    "Other Names": [
+      "Dithionite",
+      "Dithionite (S2O42-)",
+      "Dithionite dianion",
+      "Dithionous acid, ion(2-)",
+      "Hydrosulfite",
+      "Hyposulfite",
+      "dithionite"
+    ],
+    "formula": "O4S2",
+    "inchi": "InChI=1S/H2O4S2/c1-5(2)6(3)4/h(H,1,2)(H,3,4)/p-2",
+    "inchiKey": "InChIKey=GRWZHXKQBITJKP-UHFFFAOYSA-L",
+    "smiles": "O=S([O-])S(=O)[O-]"
+  },
+  "14866-68-3": {
+    "Deleted CAS": [
+      "83752-70-9",
+      "419531-55-8"
+    ],
+    "MW": 83.4512,
+    "Name": "chlorate",
+    "Other Names": [
+      "Chlorate",
+      "Chlorate ion",
+      "Chlorate ion (ClO3-)",
+      "Chlorate(1-)",
+      "Chloric acid, ion(1-)",
+      "Chlorine oxide (ClO31-)",
+      "chlorate (8CI,9CI)"
+    ],
+    "formula": "ClO3",
+    "inchi": "InChI=1S/ClHO3/c2-1(3)4/h(H,2,3,4)/p-1",
+    "inchiKey": "InChIKey=XTEGARKTQYYJKE-UHFFFAOYSA-M",
+    "smiles": "O=Cl(=O)[O-]"
+  },
+  "148735-91-5": {
+    "MW": 25.011581999999997,
+    "Name": "be2\u00a0O3"
+  },
+  "14874-70-5": {
+    "Alternate CAS": [
+      "162213-97-0"
+    ],
+    "Deleted CAS": [
+      "61996-26-7",
+      "81835-39-4",
+      "89179-36-2",
+      "109521-76-8",
+      "112062-66-5",
+      "119048-59-8",
+      "120168-72-1",
+      "120226-80-4",
+      "120317-01-3",
+      "122832-97-7",
+      "125338-64-9",
+      "136499-62-2",
+      "136916-07-9",
+      "152912-84-0",
+      "153578-53-1",
+      "153850-16-9",
+      "156340-37-3",
+      "156972-78-0",
+      "157496-88-3",
+      "157768-75-7",
+      "158581-31-8",
+      "159624-00-7",
+      "161231-01-2",
+      "795217-88-8",
+      "1056929-50-0",
+      "1198328-35-6"
+    ],
+    "MW": 86.8046128,
+    "Name": "tetrafluoroborate",
+    "Other Names": [
+      "Borate(1-), tetrafluoro-",
+      "Fluoborate",
+      "Fluoroborate",
+      "Tetrafluoborate",
+      "Tetrafluoroborate",
+      "Tetrafluoroborate (BF41-)",
+      "Tetrafluoroborate anion",
+      "Tetrafluoroborate(1-)",
+      "borate(1-), tetrafluoro-"
+    ],
+    "formula": "BF4",
+    "inchi": "InChI=1S/BF4/c2-1(3,4)5/q-1",
+    "inchiKey": "InChIKey=ODGCEQLVLXJUCC-UHFFFAOYSA-N",
+    "smiles": "[F-][B+3]([F-])([F-])[F-]"
+  },
+  "14897-04-2": {
+    "Deleted CAS": [
+      "741995-47-1",
+      "807260-78-2"
+    ],
+    "MW": 215.0376,
+    "Name": "hexacyanocobaltate(3-)",
+    "Other Names": [
+      "(OC-6-11)-Hexakis(cyano-\u03baC)cobaltate(3-)",
+      "Cobaltate(3-), hexacyano-",
+      "Cobaltate(3-), hexakis(cyano-C)-, (OC-6-11)-",
+      "Cobaltate(3-), hexakis(cyano-\u03baC)-, (OC-6-11)-",
+      "Cobaltate(3-),\u00a0hexacyano-\u00a0(8CI)",
+      "Cobaltate(3-),\u00a0hexakis(cyano-C)-,\u00a0(OC-6-11)-",
+      "Cobalticyanide",
+      "Cyanocobaltate(III)",
+      "Hexacyanocobalt(3-)",
+      "Hexacyanocobaltate(3-)",
+      "Hexacyanocobaltate(III)",
+      "cobaltate(3-),\u00a0hexakis(cyano-\u03baC)-,\u00a0(OC-6-11)-"
+    ],
+    "formula": "C6CoN6",
+    "inchi": "InChI=1S/6CN.Co/c6*1-2;/q6*-1;+3",
+    "inchiKey": "InChIKey=SZAVHWMCBDFDCM-UHFFFAOYSA-N",
+    "smiles": "N#[C-][Co+3]([C-]#N)([C-]#N)([C-]#N)([C-]#N)[C-]#N"
+  },
+  "14900-04-0": {
+    "Deleted CAS": [
+      "43732-74-7",
+      "58238-87-2",
+      "63443-32-3",
+      "65219-61-6",
+      "65436-42-2",
+      "68277-87-2",
+      "78414-31-0",
+      "91117-61-2",
+      "721396-52-7",
+      "1141929-98-7"
+    ],
+    "MW": 380.71341,
+    "Name": "triiodide",
+    "Other Names": [
+      "Iodide (I31-)",
+      "Iodine triatomic anion(1-)",
+      "Iodine, ion (I31-)",
+      "Periodide",
+      "Triatomic iodide (I3-)",
+      "Triatomic iodide anion(1-)",
+      "Triiodide",
+      "Triiodide (I31-)",
+      "Triiodide ion",
+      "Triiodide ion (I31-)",
+      "Triiodide ion(1-)",
+      "Triiodide(1-)",
+      "iodide (I31-)"
+    ],
+    "formula": "I3",
+    "inchi": "InChI=1S/I3/c1-3-2/q-1",
+    "inchiKey": "InChIKey=WRTMQOHKMFDUKX-UHFFFAOYSA-N",
+    "smiles": "I[I-]I"
+  },
+  "14915-07-2": {
+    "Deleted CAS": [
+      "12596-76-8"
+    ],
+    "MW": 31.9988,
+    "Name": "peroxide (O22-) (8CI,9CI)",
+    "Other Names": [
+      "Diatomic oxygen ion(2-)",
+      "Dioxygen ion(2-)",
+      "Oxygen ion(O22-)",
+      "Oxygen molecule(2-)",
+      "Peroxide",
+      "Peroxide ion",
+      "Peroxide ion(2-)",
+      "Peroxide(2-)"
+    ]
+  },
+  "14950-87-9": {
+    "MW": 249.00135,
+    "Name": "dicyanoaurate(1-)",
+    "Other Names": [
+      "Aurate(1-), bis(cyano-C)-",
+      "Aurate(1-), bis(cyano-\u03baC)-",
+      "Aurate(1-), dicyano-",
+      "Aurate(1-), dicyano- (8CI)",
+      "Bis(cyano)aurate(1-)",
+      "Dicyanoaurate(1-)",
+      "Dicyanoaurate(I)",
+      "Dicyanogold",
+      "Gold dicyanide",
+      "[Au(CN)2]-",
+      "aurate(1-),\u00a0bis(cyano-\u03baC)-\u00a0(9CI)"
+    ],
+    "formula": "C2AuN2",
+    "inchi": "InChI=1S/2CN.Au/c2*1-2;/q2*-1;+1",
+    "inchiKey": "InChIKey=QGIPNVHDSSGMAA-UHFFFAOYSA-N",
+    "smiles": "N#[C-][Au+][C-]#N"
+  },
+  "14996-02-2": {
+    "Deleted CAS": [
+      "55467-87-3",
+      "155023-20-4"
+    ],
+    "MW": 97.07054,
+    "Name": "hydrogen sulfate",
+    "Other Names": [
+      "Bisulfate",
+      "Bisulfate (HSO41-)",
+      "Bisulfate anion",
+      "Bisulfate ion",
+      "Bisulfate ion(1-)",
+      "Bisulfate(1-)",
+      "Hydrogen sulfate",
+      "Hydrogen sulfate (HSO41-)",
+      "Hydrogen sulfate ion",
+      "Hydrogen sulfate ion (HSO4-)",
+      "Hydrogen sulfate ion(1-)",
+      "Hydrogen sulfate(1-)",
+      "Hydrogen sulfate(HSO41-)",
+      "Monohydrogen sulfate",
+      "Sulfate (HSO41-)",
+      "Sulfate ion (HSO4-)",
+      "Sulfate, hydrogen",
+      "Sulfuric acid, ion(1-)",
+      "sulfate, hydrogen (8CI,9CI)"
+    ],
+    "formula": "HO4S",
+    "inchi": "InChI=1S/H2O4S/c1-5(2,3)4/h(H2,1,2,3,4)/p-1",
+    "inchiKey": "InChIKey=QAOWNCQODCNURD-UHFFFAOYSA-M",
+    "smiles": "O=S(=O)([O-])O"
+  },
+  "14998-27-7": {
+    "MW": 67.4518,
+    "Name": "chlorite",
+    "Other Names": [
+      "Chlorine dioxide ion(1-)",
+      "Chlorite",
+      "Chlorite (ClO2-)",
+      "Chlorite ion",
+      "Chlorite(1-)",
+      "Chlorous acid, ion(1-)",
+      "chlorite (8CI,9CI)"
+    ],
+    "formula": "ClO2",
+    "inchi": "InChI=1S/ClHO2/c2-1-3/h(H,2,3)/p-1",
+    "inchiKey": "InChIKey=QBWCMBCROVPCKQ-UHFFFAOYSA-M",
+    "smiles": "O=Cl[O-]"
+  },
+  "14998-57-3": {
+    "MW": 143.96553999999998,
+    "Name": "selenate, hydrogen (9CI)",
+    "Other Names": [
+      "Selenate (SeO42-), hydrogen (8CI)"
+    ]
+  },
+  "15035-72-0": {
+    "MW": 33.072939999999996,
+    "Name": "hydrosulfide",
+    "Other Names": [
+      "Bisulfide",
+      "Hydrogen sulfide (HS-)",
+      "Hydrogen sulfide (HS1-)",
+      "Hydrogen sulfide anion",
+      "Hydrogen sulfide anion(1-)",
+      "Hydrogen sulfide conjugate base",
+      "Hydrogen sulfide ion (HS-1)",
+      "Hydrogen sulfideconjugate base",
+      "Hydrosulfide",
+      "Hydrosulfide (SH-)",
+      "Hydrosulfide (SH1-)",
+      "Hydrosulfide anion",
+      "Hydrosulfide ion",
+      "Hydrosulfide ion (HS-)",
+      "Hydrosulfideion (HS-)",
+      "Mercaptide",
+      "Mercaptide(1-)",
+      "Monohydrogen sulfide (HS-)",
+      "Sulfide (HS1-)",
+      "Sulfide (SH-)",
+      "Sulfide (SH1-)",
+      "Sulfur monohydride ion(1-)",
+      "sulfide (HS1-)"
+    ],
+    "formula": "HS",
+    "inchi": "InChI=1S/H2S/h1H2/p-1",
+    "inchiKey": "InChIKey=RWSOTUBLDIXVET-UHFFFAOYSA-M",
+    "smiles": "[SH-]"
+  },
+  "150381-43-4": {
+    "MW": 73.86028,
+    "Name": "ferrate(1-), hydrohydroxy- (9CI)"
+  },
+  "150393-25-2": {
+    "MW": 123.87436,
+    "Name": "ferrate (Fe(OH)43-) (9CI)"
+  },
+  "15056-35-6": {
+    "MW": 190.90207,
+    "Name": "periodate",
+    "Other Names": [
+      "Iodate (IO4-)",
+      "Iodate (IO41-)",
+      "Metaperiodate",
+      "Periodate",
+      "Periodate (IO41-)",
+      "Periodate ion",
+      "Periodate(1-)",
+      "periodate (IO41-) (8CI,9CI)"
+    ],
+    "formula": "IO4",
+    "inchi": "InChI=1S/HIO4/c2-1(3,4)5/h(H,2,3,4,5)/p-1",
+    "inchiKey": "InChIKey=KHIWWQKSHDUIBK-UHFFFAOYSA-M",
+    "smiles": "O=I(=O)(=O)[O-]"
+  },
+  "15065-65-3": {
+    "MW": 142.90387,
+    "Name": "hypoiodite (8CI,9CI)",
+    "Other Names": [
+      "Hypoiodite anion",
+      "Hypoiodous acid, ion(1-)"
+    ]
+  },
+  "15092-81-6": {
+    "MW": 192.1252,
+    "Name": "peroxydisulfate ((SO3)2O22-)",
+    "Other Names": [
+      "Peroxydisulfate (8CI)",
+      "Peroxodisulfate",
+      "Peroxydisulfate (S2O82-)",
+      "Peroxydisulfate(2-)",
+      "Peroxydisulfuric acid ([(HO)S(O)2]2O2), ion(2-)",
+      "Persulfate ((SO3)2O22-)",
+      "Persulfate (S2O82-)",
+      "Persulfate dianion",
+      "Persulfate ion",
+      "Persulfate ion (S2O8-2)"
+    ]
+  },
+  "151111-42-1": {
+    "MW": 169.7582,
+    "Name": "antimonate (SbO33-)",
+    "Other Names": [
+      "Antimonate(3-), trioxo-"
+    ]
+  },
+  "15181-43-8": {
+    "MW": 97.97036419999999,
+    "Name": "phosphorofluoridate",
+    "Other Names": [
+      "Fluorophosphate",
+      "Fluorophosphate (FPO32-)",
+      "Fluorophosphate ion (PFO32-)",
+      "Fluorophosphate ion (PO3F2-)",
+      "Fluorotrioxophosphate(2-)",
+      "Monofluorophosphate (PO3F2-)",
+      "Monofluorophosphate(2-)",
+      "Phosphorofluoridate",
+      "Phosphorofluoridate(2-)",
+      "phosphorofluoridate (8CI,9CI)"
+    ],
+    "formula": "FO3P",
+    "inchi": "InChI=1S/FH2O3P/c1-5(2,3)4/h(H2,2,3,4)/p-2",
+    "inchiKey": "InChIKey=DWYMPOCYEZONEA-UHFFFAOYSA-L",
+    "smiles": "O=P([O-])([O-])F"
+  },
+  "15181-46-1": {
+    "Deleted CAS": [
+      "12795-58-3",
+      "15980-07-1",
+      "60789-29-9",
+      "67376-97-0",
+      "69755-54-0",
+      "72179-69-2",
+      "74976-86-6",
+      "77758-77-1",
+      "88389-74-6",
+      "93798-33-5",
+      "102091-99-6",
+      "162718-67-4"
+    ],
+    "MW": 81.07113999999999,
+    "Name": "bisulfite",
+    "Other Names": [
+      "Bisulfite",
+      "Bisulphite",
+      "Hydrogen sulfite",
+      "Hydrogen sulfite(1-)",
+      "Hydrosulfite anion",
+      "Sulfate(2-), hydroxydioxo-",
+      "Sulfite (HSO3-)",
+      "Sulfite (HSO31-)",
+      "Sulfite(HSO31-)",
+      "Sulfite, hydrogen",
+      "Sulfurous acid, ion(1-)",
+      "sulfite, hydrogen (8CI,9CI)"
+    ],
+    "formula": "HO3S",
+    "inchi": "InChI=1S/H2O3S/c1-4(2)3/h(H2,1,2,3)/p-1",
+    "inchiKey": "InChIKey=LSNNMFCWUKXFEE-UHFFFAOYSA-M",
+    "smiles": "O=S([O-])O"
+  },
+  "15181-47-2": {
+    "Deleted CAS": [
+      "67853-44-5",
+      "69937-19-5",
+      "86860-25-5",
+      "945254-37-5"
+    ],
+    "MW": 99.0616032,
+    "Name": "fluorosulfate",
+    "Other Names": [
+      "Fluorosulfate",
+      "Fluorosulfate (FSO3-)",
+      "Fluorosulfate (SO3F1-)",
+      "Fluorosulfate anion",
+      "Fluorosulfonate (FSO31-)",
+      "Monofluorosulfate(1-) ion",
+      "fluorosulfate (8CI,9CI)"
+    ],
+    "formula": "FO3S",
+    "inchi": "InChI=1S/FHO3S/c1-5(2,3)4/h(H,2,3,4)/p-1",
+    "inchiKey": "InChIKey=UQSQSQZYBQSBJZ-UHFFFAOYSA-M",
+    "smiles": "O=S(=O)([O-])F"
+  },
+  "15181-48-3": {
+    "Deleted CAS": [
+      "73292-27-0"
+    ],
+    "MW": 115.5162,
+    "Name": "chlorosulfate (8CI,9CI)",
+    "Other Names": [
+      "Chlorosulfate (ClSO3-)"
+    ]
+  },
+  "15251-42-0": {
+    "Deleted CAS": [
+      "84376-16-9",
+      "1620086-78-3"
+    ],
+    "MW": 175.959202,
+    "Name": "diphosphate, dihydrogen",
+    "Other Names": [
+      "Pyrophosphate, dihydrogen (8CI)",
+      "Dihydrogen pyrophosphate",
+      "Diphosphate (H2P2O72-)",
+      "Pyrophosphate H2P2O72-",
+      "Pyrophosphateion (H2P2O72-)"
+    ]
+  },
+  "15389-19-2": {
+    "MW": 78.971961,
+    "Name": "metaphosphate (PO31-) (8CI,9CI)",
+    "Other Names": [
+      "Metaphosphate ion",
+      "Metaphosphate(1-)",
+      "Metaphosphoric acid (HPO3), ion(1-)",
+      "Phosphate (PO3-)",
+      "Phosphate (PO31-)",
+      "Phosphorustrioxide monoanion"
+    ]
+  },
+  "15390-83-7": {
+    "MW": 78.84036,
+    "Name": "tetrahydroxyborate(1-)",
+    "Other Names": [
+      "Borate (B(OH)41-)",
+      "Borate (BO45-), tetrahydrogen",
+      "Borate (BO45-), tetrahydrogen (8CI)",
+      "Borate(1-), tetrahydroxy-",
+      "Tetrahydroxoborate(1-)",
+      "Tetrahydroxyborate(1-)",
+      "borate(1-), tetrahydroxy- (9CI)"
+    ],
+    "formula": "BH4O4",
+    "inchi": "InChI=1S/BH4O4/c2-1(3,4)5/h2-5H/q-1",
+    "inchiKey": "InChIKey=KCFLOKKYWBPKFN-UHFFFAOYSA-N",
+    "smiles": "[OH-][B+3]([OH-])([OH-])[OH-]"
+  },
+  "15391-88-5": {
+    "Deleted CAS": [
+      "768296-31-7"
+    ],
+    "MW": 159.903,
+    "Name": "argentate(1-),\u00a0bis(cyano-\u03baC)-\u00a0(9CI)",
+    "Other Names": [
+      "Argentate(1-), bis(cyano-C)-",
+      "Argentate(1-), dicyano- (8CI)",
+      "Bis(cyano)argentate(1-)",
+      "Dicyanoargentate(1-)"
+    ]
+  },
+  "15435-66-2": {
+    "Deleted CAS": [
+      "92138-61-9"
+    ],
+    "MW": 60.0122,
+    "Name": "hyponitrite (8CI,9CI)",
+    "Other Names": [
+      "Hyponitrous acid, ion(2-)"
+    ]
+  },
+  "15454-31-6": {
+    "Deleted CAS": [
+      "37249-89-1"
+    ],
+    "MW": 174.90267,
+    "Name": "iodate",
+    "Other Names": [
+      "Iodate",
+      "Iodate (I2O62-)",
+      "Iodate (IO31-)",
+      "Iodate anion",
+      "Iodate ion",
+      "Iodate ion (IO31-)",
+      "Iodate(1-)",
+      "Iodic acid (HIO3), ion(1-)",
+      "iodate (IO31-) (8CI,9CI)"
+    ],
+    "formula": "IO3",
+    "inchi": "InChI=1S/HIO3/c2-1(3)4/h(H,2,3,4)/p-1",
+    "inchiKey": "InChIKey=ICIWUVCWSCSTAQ-UHFFFAOYSA-M",
+    "smiles": "O=I(=O)[O-]"
+  },
+  "15460-68-1": {
+    "Deleted CAS": [
+      "21578-16-5",
+      "89713-32-6",
+      "1800212-13-8"
+    ],
+    "MW": 64.988441,
+    "Name": "phosphinic acid, ion(1-) (9CI)",
+    "Other Names": [
+      "Phosphinate (8CI)",
+      "Hypophosphite",
+      "Hypophosphite ion (H2PO2-)",
+      "Hypophosphite(1-)",
+      "Hypophosphite(1-) ion",
+      "Phosphinate (H2PO21-)",
+      "Phosphonite, hydrogen"
+    ]
+  },
+  "15477-76-6": {
+    "Deleted CAS": [
+      "15181-42-7",
+      "69824-89-1",
+      "98844-66-7",
+      "136800-56-1",
+      "180093-97-4",
+      "1224049-77-7"
+    ],
+    "MW": 79.979901,
+    "Name": "phosphonic acid, ion(2-) (8CI,9CI)",
+    "Other Names": [
+      "Hydrogen phosphite (HPO32-)",
+      "Monohydrogen phosphite",
+      "Phosphite (HPO32-)",
+      "Phosphonate",
+      "Phosphonate (HPO32-)",
+      "Phosphonatedianion",
+      "Phosphonate(2-)"
+    ]
+  },
+  "15502-74-6": {
+    "Deleted CAS": [
+      "11118-55-1"
+    ],
+    "MW": 122.9198,
+    "Name": "arsenite",
+    "Other Names": [
+      "Arsenite",
+      "Arsenite (AsO33-)",
+      "Arsenous acid, ion(3-)",
+      "arsenite (8CI,9CI)"
+    ],
+    "formula": "AsO3",
+    "inchi": "InChI=1S/AsO3/c2-1(3)4/q-3",
+    "inchiKey": "InChIKey=OWTFKEBRIAXSMO-UHFFFAOYSA-N",
+    "smiles": "[O-][As]([O-])[O-]"
+  },
+  "15536-54-6": {
+    "MW": 224.25639999999999,
+    "Name": "tetrathionate",
+    "Other Names": [
+      "Tetrathionate",
+      "Tetrathionate (S4O62-)",
+      "Tetrathionate ion",
+      "Tetrathionate ion(2-)",
+      "tetrathionate"
+    ],
+    "formula": "O6S4",
+    "inchi": "InChI=1S/H2O6S4/c1-9(2,3)7-8-10(4,5)6/h(H,1,2,3)(H,4,5,6)/p-2",
+    "inchiKey": "InChIKey=HPQYKCJIWQFJMS-UHFFFAOYSA-L",
+    "smiles": "O=S(=O)([O-])SSS(=O)(=O)[O-]"
+  },
+  "15541-45-4": {
+    "Deleted CAS": [
+      "29674-07-5"
+    ],
+    "MW": 127.9022,
+    "Name": "bromate",
+    "Other Names": [
+      "Bromate",
+      "Bromate (BrO3(1-))",
+      "Bromate (BrO3-)",
+      "Bromate (BrO31-)",
+      "Bromate ion",
+      "Bromate ion (BrO3-)",
+      "Bromate ion (BrO31-)",
+      "Bromate(1-)",
+      "Bromic acid, ion(1-)",
+      "bromate (8CI,9CI)"
+    ],
+    "formula": "BrO3",
+    "inchi": "InChI=1S/BrHO3/c2-1(3)4/h(H,2,3,4)/p-1",
+    "inchiKey": "InChIKey=SXDBWCPKPHAZSM-UHFFFAOYSA-M",
+    "smiles": "O=Br(=O)[O-]"
+  },
+  "15584-04-0": {
+    "Deleted CAS": [
+      "11126-32-2",
+      "25537-06-8"
+    ],
+    "MW": 138.9192,
+    "Name": "arsenate",
+    "Other Names": [
+      "Arsenate",
+      "Arsenate (AsO43-)",
+      "Arsenate ion",
+      "Arsenic acid (H3AsO4), ion(3-)",
+      "Orthoarsenate(V)",
+      "arsenate (AsO43-) (8CI,9CI)"
+    ],
+    "formula": "AsO4",
+    "inchi": "InChI=1S/AsH3O4/c2-1(3,4)5/h(H3,2,3,4,5)/p-3",
+    "inchiKey": "InChIKey=DJHGAFSJWGLOIV-UHFFFAOYSA-K",
+    "smiles": "O=[As]([O-])([O-])[O-]"
+  },
+  "15593-90-5": {
+    "Deleted CAS": [
+      "12363-20-1"
+    ],
+    "MW": 76.0837,
+    "Name": "silicate (SiO32-) (8CI,9CI)",
+    "Other Names": [
+      "Metasilicate",
+      "Silicate (SiO3)(2-)",
+      "Silicate ion (SiO32-)"
+    ]
+  },
+  "15596-54-0": {
+    "MW": 117.00164,
+    "Name": "chromate (CrO42-), hydrogen (8CI,9CI)",
+    "Other Names": [
+      "Chromate (CrO42-), monohydrogen",
+      "Chromate (HCrO41-)",
+      "Chromate ion (HCrO4-)",
+      "Chromate ion (HCrO41-)",
+      "Chromic acid (H2CrO4),ion(1-)",
+      "Hydrochromate",
+      "Hydrochromate (HCrO4-)",
+      "Hydrogen chromate",
+      "Hydrogen chromate (HCrO41-)",
+      "Hydroxytrioxochromate(1-)",
+      "Monohydrogenchromate (HCrO4-)"
+    ]
+  },
+  "15705-55-2": {
+    "MW": 236.915883,
+    "Name": "metaphosphate (P3O93-)",
+    "Other Names": [
+      "Cyclotriphosphate",
+      "Trimetaphosphate",
+      "Trimetaphosphate trianion"
+    ]
+  },
+  "15845-23-5": {
+    "MW": 191.5976,
+    "Name": "tellurate (TeO42-) (8CI,9CI)"
+  },
+  "15852-22-9": {
+    "MW": 175.5982,
+    "Name": "tellurite (TeO32-)",
+    "Other Names": [
+      "Tellurate (TeO32-)",
+      "Tellurite",
+      "Tellurite (TeO32-)",
+      "Tellurite (anion)",
+      "Tellurite ion",
+      "tellurate (TeO32-) (8CI,9CI)"
+    ],
+    "formula": "O3Te",
+    "inchi": "InChI=1S/H2O3Te/c1-4(2)3/h(H2,1,2,3)/p-2",
+    "inchiKey": "InChIKey=SITVSCPRJNYAGV-UHFFFAOYSA-L",
+    "smiles": "O=[Te]([O-])[O-]"
+  },
+  "15853-39-1": {
+    "MW": 96.08578,
+    "Name": "sulfamic acid, ion(1-) (9CI)",
+    "Other Names": [
+      "Sulfamate (8CI)",
+      "Amidosulfate",
+      "Sulfamate anion",
+      "Sulfamate ion",
+      "Sulfaminate",
+      "Sulphamidate"
+    ]
+  },
+  "16053-58-0": {
+    "Deleted CAS": [
+      "24319-06-0"
+    ],
+    "MW": 95.09772,
+    "Name": "methanesulfonic acid, ion(1-) (8CI,9CI)",
+    "Other Names": [
+      "Mesylate anion",
+      "Methanesulfonate anion"
+    ]
+  },
+  "16408-25-6": {
+    "MW": 133.40936,
+    "Name": "zincate (Zn(OH)42-), (T-4)- (9CI)",
+    "Other Names": [
+      "Zincate ([Zn(OH)4]2-) (8CI)",
+      "Tetrahydroxyzincate(2-)",
+      "Zinc hydroxide (Zn(OH)42-)"
+    ]
+  },
+  "16474-32-1": {
+    "MW": 143.9016,
+    "Name": "perbromate (8CI,9CI)",
+    "Other Names": [
+      "Bromate (BrO41-)",
+      "Perbromate (BrO41-)",
+      "Perbromate(1-)"
+    ]
+  },
+  "16518-47-1": {
+    "MW": 140.93508,
+    "Name": "arsenate (AsO43-), dihydrogen (8CI,9CI)",
+    "Other Names": [
+      "Arsenate (H2AsO41-)",
+      "Arsenic acid ion (H2AsO4-)",
+      "Dihydrogen arsenate"
+    ]
+  },
+  "16661-43-1": {
+    "MW": 79.96794,
+    "Name": "selenide (HSe1-)",
+    "Other Names": [
+      "Hydrogen selenide (HSe1-)",
+      "Selenide (HSe-)",
+      "Selenide (SeH1-)",
+      "Selenium monohydride ion(1-)"
+    ]
+  },
+  "16734-12-6": {
+    "Deleted CAS": [
+      "12597-01-2"
+    ],
+    "MW": 64.13,
+    "Name": "sulfide (S22-) (8CI,9CI)",
+    "Other Names": [
+      "Diatomic sulfur ion(2-)",
+      "Disulfide",
+      "Disulfide (S22-)",
+      "Disulfide dianion",
+      "Disulfide ion (S22-)",
+      "Disulfide(2-)",
+      "Disulfur ion(2-)",
+      "Sulfide ion(S22-)",
+      "Sulfur ion (S22-)"
+    ]
+  },
+  "16833-27-5": {
+    "MW": 15.9994,
+    "Name": "oxide",
+    "Other Names": [
+      "Atomic oxygen(2-)",
+      "Oxide (O2-)",
+      "Oxide anion",
+      "Oxide ion",
+      "Oxygen (O2-)",
+      "Oxygen ion(2-)",
+      "Oxygen(2-)",
+      "Oxygen, ion (O2-)"
+    ]
+  },
+  "16844-87-4": {
+    "MW": 139.92714,
+    "Name": "arsenate (AsO43-), monohydrogen (8CI,9CI)",
+    "Other Names": [
+      "Arsenate (HAsO42-)",
+      "Arsenic acid ion (HAsO42-)",
+      "Hydrogen arsenate (HAsO42-)",
+      "Monohydrogen arsenate",
+      "Monohydrogen arsenatedianion",
+      "Monohydrogen orthoarsenate"
+    ]
+  },
+  "16871-48-0": {
+    "MW": 331.419,
+    "Name": "stannate(2-), hexachloro-, (OC-6-11)-",
+    "Other Names": [
+      "Stannate(2-), hexachloro- (8CI)",
+      "Hexachlorostannate (IV)",
+      "Hexachlorostannate(2-)"
+    ]
+  },
+  "16871-50-4": {
+    "MW": 398.925,
+    "Name": "rhenate(2-), hexachloro-, (OC-6-11)-",
+    "Other Names": [
+      "Rhenate(2-), hexachloro- (8CI)",
+      "Hexachlororhenate(2-)",
+      "Hexachlororhenate(IV)"
+    ]
+  },
+  "16871-54-8": {
+    "Deleted CAS": [
+      "44464-81-5"
+    ],
+    "MW": 407.79600000000005,
+    "Name": "platinate(2-), hexachloro-, (OC-6-11)-",
+    "Other Names": [
+      "Platinate(2-), hexachloro- (8CI)",
+      "Chloroplatinate(IV)",
+      "Hexachloroplatinate",
+      "Hexachloroplatinate(2-)",
+      "Hexachloroplatinate(2-) ion",
+      "Hexachloroplatinate(IV)"
+    ]
+  },
+  "16871-55-9": {
+    "MW": 674.502,
+    "Name": "platinate(2-), hexabromo-, (OC-6-11)-",
+    "Other Names": [
+      "Platinate(2-), hexabromo- (8CI)",
+      "Hexabromoplatinate(2-)"
+    ]
+  },
+  "16887-00-6": {
+    "Deleted CAS": [
+      "405267-46-1"
+    ],
+    "MW": 35.453,
+    "Name": "chloride",
+    "Other Names": [
+      "Bio-Chlor",
+      "Chloride",
+      "Chloride (Cl-)",
+      "Chloride anion",
+      "Chloride ion",
+      "Chloride ion (1-)",
+      "Chloride(1-)",
+      "Chlorine ion",
+      "Chlorine ion(1-)",
+      "Chlorine(1-)",
+      "Chlorine, ion (Cl1-)",
+      "Cl",
+      "Hydrochloric acid, ion(1-)",
+      "Perchloride",
+      "chloride"
+    ],
+    "formula": "Cl",
+    "inchi": "InChI=1S/ClH/h1H/p-1",
+    "inchiKey": "InChIKey=VEXZGXHMUGYJMC-UHFFFAOYSA-M",
+    "smiles": "[Cl-]"
+  },
+  "16919-18-9": {
+    "Deleted CAS": [
+      "62796-00-3",
+      "145425-92-9",
+      "153334-76-0",
+      "156644-39-2",
+      "243458-68-6",
+      "366821-59-2",
+      "856583-90-9",
+      "878792-95-1",
+      "898264-67-0",
+      "934691-99-3",
+      "1257647-65-6",
+      "1357446-26-4",
+      "1392277-22-3",
+      "1610514-91-4",
+      "1798250-77-7"
+    ],
+    "MW": 144.9641802,
+    "Name": "hexafluorophosphate",
+    "Other Names": [
+      "Hexafluorophosphate",
+      "Hexafluorophosphate ion",
+      "Hexafluorophosphate(1-)",
+      "Hexafluorophosphate(1-) ion",
+      "Phosphate(1-), hexafluoro-",
+      "Phosphorus fluoride (PF6-)",
+      "phosphate(1-), hexafluoro-"
+    ],
+    "formula": "F6P",
+    "inchi": "InChI=1S/F6P/c1-7(2,3,4,5)6/q-1",
+    "inchiKey": "InChIKey=LJQLCJWAZJINEB-UHFFFAOYSA-N",
+    "smiles": "[F-][P+5]([F-])([F-])([F-])([F-])[F-]"
+  },
+  "16971-29-2": {
+    "Deleted CAS": [
+      "54217-79-7",
+      "879648-78-9"
+    ],
+    "MW": 14.84276,
+    "Name": "borohydride",
+    "Other Names": [
+      "Borate(1-), tetrahydro-",
+      "Borohydride",
+      "Borohydride (BH4-)",
+      "Borohydride anion",
+      "Borohydride ion",
+      "Boron tetrahydride ion(1-)",
+      "Hydroborate",
+      "Tetrahydroborate",
+      "Tetrahydroborate(1-)",
+      "Tetrahydroborate(1-) ion",
+      "borate(1-), tetrahydro- (8CI,9CI)"
+    ],
+    "formula": "BH4",
+    "inchi": "InChI=1S/BH4/h1H4/q-1",
+    "inchiKey": "InChIKey=CROBTXVXNQNKKO-UHFFFAOYSA-N",
+    "smiles": "[H-][B+3]([H-])([H-])[H-]"
+  },
+  "16973-45-8": {
+    "Deleted CAS": [
+      "59634-19-4",
+      "62301-23-9",
+      "66482-75-5",
+      "66986-69-4",
+      "70114-27-1",
+      "77392-69-9"
+    ],
+    "MW": 188.91201919999997,
+    "Name": "arsenate(1-), hexafluoro-",
+    "Other Names": [
+      "Hexafluoroarsenate(1-)",
+      "Hexafluoroarsenate",
+      "Hexafluoroarsenate (AsF61-)"
+    ]
+  },
+  "16984-48-8": {
+    "Deleted CAS": [
+      "405267-45-0"
+    ],
+    "MW": 18.9984032,
+    "Name": "fluoride",
+    "Other Names": [
+      "Fluoride",
+      "Fluoride ion",
+      "Fluoride ion (F-)",
+      "Fluoride ion(1-)",
+      "Fluoride(1-)",
+      "Fluorine ion(1-)",
+      "Fluorine ion(F1-)",
+      "Fluorine, ion",
+      "Hydrofluoric acid, ion(1-)",
+      "Perfluoride",
+      "fluoride"
+    ],
+    "formula": "F",
+    "inchi": "InChI=1S/FH/h1H/p-1",
+    "inchiKey": "InChIKey=KRHYYFGTRYWZRS-UHFFFAOYSA-M",
+    "smiles": "[F-]"
+  },
+  "17084-08-1": {
+    "Deleted CAS": [
+      "39374-67-9"
+    ],
+    "MW": 142.0759192,
+    "Name": "fluorosilicate",
+    "Other Names": [
+      "Fluorosilicate",
+      "Fluorosilicate (SiF62-)",
+      "Fluosilicate",
+      "Hexafluorosilicate",
+      "Hexafluorosilicate (SiF62-)",
+      "Hexafluorosilicate(2-)",
+      "Hexafluorosilicate(2-) ion",
+      "Silicate(2-), hexafluoro-",
+      "Silicofluoride",
+      "Silicon hexafluoride ion",
+      "silicate(2-), hexafluoro-"
+    ],
+    "formula": "F6Si",
+    "inchi": "InChI=1S/F6Si/c1-7(2,3,4,5)6/q-2",
+    "inchiKey": "InChIKey=OHORFAFFMDIQRR-UHFFFAOYSA-N",
+    "smiles": "[F-][Si+4]([F-])([F-])([F-])([F-])[F-]"
+  },
+  "17111-95-4": {
+    "Deleted CAS": [
+      "22359-88-2",
+      "77392-72-4",
+      "1597405-69-0"
+    ],
+    "MW": 235.7504192,
+    "Name": "antimonate(1-), hexafluoro-, (OC-6-11)-",
+    "Other Names": [
+      "Antimonate(1-), hexafluoro- (8CI)",
+      "(OC-6-11)-Hexafluoroantimonate(1-)",
+      "Antimony fluoride (SbF6)",
+      "Hexafluoroantimonate (SbF6-)",
+      "Hexafluoroantimonate (SbF61-)",
+      "Hexafluoroantimonate(1-)"
+    ]
+  },
+  "17141-41-2": {
+    "MW": 319.13800000000003,
+    "Name": "palladate(2-), hexachloro-, (OC-6-11)-",
+    "Other Names": [
+      "Palladate(2-), hexachloro- (8CI)",
+      "Hexachloropalladate(2-)"
+    ]
+  },
+  "17181-37-2": {
+    "Deleted CAS": [
+      "17638-21-0",
+      "434903-92-1"
+    ],
+    "MW": 92.0831,
+    "Name": "silicate (SiO44-)",
+    "Other Names": [
+      "Monosilicate ion (SiO44-)",
+      "Orthosilicate",
+      "Orthosilicate (SiO44-)",
+      "Orthosilicate ion",
+      "Silicate (SiO44-)",
+      "Silicic acid (H4SiO4) ion(4-)",
+      "Tetraoxosilicate(2-)",
+      "silicate (SiO44-) (8CI,9CI)"
+    ],
+    "formula": "O4Si",
+    "inchi": "InChI=1S/O4Si/c1-5(2,3)4/q-4",
+    "inchiKey": "InChIKey=BPQQTUXANYXVAA-UHFFFAOYSA-N",
+    "smiles": "[O-][Si]([O-])([O-])[O-]"
+  },
+  "17306-35-3": {
+    "MW": 106.9204,
+    "Name": "arsenenite",
+    "Other Names": [
+      "Arsenate(III)",
+      "Arsenenite",
+      "Arsenic dioxide monoanion",
+      "Arsenite (AsO21-)",
+      "Arsenite (AsO21-) (8CI)",
+      "arsenenite (9CI)"
+    ],
+    "formula": "AsO2",
+    "inchi": "InChI=1S/AsHO2/c2-1-3/h(H,2,3)/p-1",
+    "inchiKey": "InChIKey=XHTRYVMKFMUJLU-UHFFFAOYSA-M",
+    "smiles": "O=[As][O-]"
+  },
+  "17655-31-1": {
+    "MW": 16.02258,
+    "Name": "amide anion",
+    "Other Names": [
+      "Amide",
+      "Amide anion",
+      "Amide ion",
+      "Amide ion (NH21-)",
+      "Amide ion(1-)",
+      "Ammonia, ion(NH21-)",
+      "Nitrogen dihydride ion(1-)",
+      "amide"
+    ],
+    "formula": "H2N",
+    "inchi": "InChI=1S/H2N/h1H2/q-1",
+    "inchiKey": "InChIKey=HYGWNUKOUCZBND-UHFFFAOYSA-N",
+    "smiles": "[NH2-]"
+  },
+  "17923-49-8": {
+    "Deleted CAS": [
+      "105764-97-4"
+    ],
+    "MW": 304.0992,
+    "Name": "molybdate(4-),\u00a0octakis(cyano-\u03baC)-,\u00a0(SA-8-11111111)-",
+    "Other Names": [
+      "Molybdate(4-), octacyano- (8CI)",
+      "Molybdate(4-), octakis(cyano-C)-, (SA-8-11111111)-",
+      "Octacyanomolybdate(4-)"
+    ]
+  },
+  "17997-40-9": {
+    "Deleted CAS": [
+      "933994-15-1"
+    ],
+    "MW": 66.0415,
+    "Name": "cyanamide,\u00a0N-cyano-, ion(1-)",
+    "Other Names": [
+      "Cyanamide, cyano-, ion(1-) (9CI)",
+      "Dicyanamide, ion(1-) (8CI)",
+      "Dicyanamide anion"
+    ]
+  },
+  "18130-74-0": {
+    "Deleted CAS": [
+      "21088-77-7",
+      "31242-64-5",
+      "105102-28-1",
+      "140406-36-6",
+      "156458-38-7",
+      "1449322-42-2"
+    ],
+    "MW": 39.004746399999995,
+    "Name": "fluoride (HF21-)",
+    "Other Names": [
+      "Bifluoride",
+      "Bifluoride (HF2-)",
+      "Bifluoride (HF21-)",
+      "Bifluoride anion (HF21-)",
+      "Fluoride (HF2-)",
+      "Fluoride (HF21-)",
+      "Hydrogen bifluoride ion(1-)",
+      "Hydrogen difluoride (HF21-)",
+      "Hydrogen difluoride anion",
+      "Hydrogen difluoride ion(1-)",
+      "Hydrogen difluoride(1-)",
+      "Hydrogen fluoride (HF21-)",
+      "Hydrogen fluoride ion (HF21-)",
+      "Hydrogen fluoride ion(HF21-)",
+      "Hydrogendifluoride (HF21-)",
+      "fluoride (HF21-) (8CI,9CI)"
+    ],
+    "formula": "F2H",
+    "inchi": "InChI=1S/F2H/c1-3-2/q-1",
+    "inchiKey": "InChIKey=LJRMFMQHZAVYNS-UHFFFAOYSA-N",
+    "smiles": "[F-][H+][F-]"
+  },
+  "18282-39-8": {
+    "MW": 128.60793999999999,
+    "Name": "telluride (HTe1-)",
+    "Other Names": [
+      "Hydrogen telluride ion (HTe1-)",
+      "Hydrotelluride (HTe1-)",
+      "Telluride (TeH1-)"
+    ]
+  },
+  "18496-25-8": {
+    "MW": 32.065,
+    "Name": "sulfide",
+    "Other Names": [
+      "Sulfide",
+      "Sulfide (S2-)",
+      "Sulfide ion",
+      "Sulfide ion (S2-)",
+      "Sulfide ion(2-)",
+      "Sulfide(2-)",
+      "Sulfur(2-)",
+      "Sulfur, ion (S2-)",
+      "Sulphide",
+      "sulfide"
+    ],
+    "formula": "S",
+    "inchi": "InChI=1S/S/q-2",
+    "inchiKey": "InChIKey=UCKMPCXJQFINFW-UHFFFAOYSA-N",
+    "smiles": "[S-2]"
+  },
+  "18851-77-9": {
+    "MW": 14.0067,
+    "Name": "nitride",
+    "Other Names": [
+      "Ammonia, ion (N3-)",
+      "Nitride(3-)",
+      "Nitrogen(3-)",
+      "Nitrogen, ion (N3-)"
+    ]
+  },
+  "18973-62-1": {
+    "MW": 115.5808,
+    "Name": "cuprate(1-), bis(cyano-\u03baC)-",
+    "Other Names": [
+      "Bis(cyano-C)cuprate(1-)",
+      "Cuprate(1-), bis(cyano-C)-",
+      "Cuprate(1-), bis(cyano-\u03baC)-",
+      "Cuprate(1-), dicyano-",
+      "Cuprate(1-), dicyano- (8CI)",
+      "Dicyanocopper(1-)",
+      "Dicyanocuprate(1-)",
+      "cuprate(1-),\u00a0bis(cyano-\u03baC)-\u00a0(9CI)"
+    ],
+    "formula": "C2CuN2",
+    "inchi": "InChI=1S/2CN.Cu/c2*1-2;/q2*-1;+1",
+    "inchiKey": "InChIKey=FKUKJMKUXQUDHB-UHFFFAOYSA-N",
+    "smiles": "N#[C-][Cu+][C-]#N"
+  },
+  "19426-03-0": {
+    "MW": 304.6596,
+    "Name": "mercurate(2-),\u00a0tetrakis(cyano-\u03baC)-,\u00a0(T-4)-",
+    "Other Names": [
+      "Mercurate(2-), tetracyano- (8CI)",
+      "Mercurate(2-), tetrakis(cyano-C)-, (T-4)-",
+      "Tetracyanomercurate(2-)"
+    ]
+  },
+  "19469-81-9": {
+    "MW": 31.013298,
+    "Name": "aluminate(1-), tetrahydro-, (T-4)-",
+    "Other Names": [
+      "Aluminate(1-), tetrahydro-",
+      "Aluminate(1-), tetrahydro- (8CI)",
+      "Aluminate(1-), tetrahydro-, (T-4)-",
+      "Aluminum hydride ion (AlH41-)",
+      "Aluminum tetrahydride ion(1-)",
+      "Tetrahydroaluminate(1-)",
+      "aluminate(1-), tetrahydro-, (T-4)- (9CI)"
+    ],
+    "formula": "AlH4",
+    "inchi": "InChI=1S/Al.4H/q-1;;;;",
+    "inchiKey": "InChIKey=WVZWSVHLGBNEIG-UHFFFAOYSA-N",
+    "smiles": "[H-][Al+3]([H-])([H-])[H-]"
+  },
+  "195071-87-5": {
+    "MW": 238.39798,
+    "Name": "thallate (Tl(OH)21-) (9CI)"
+  },
+  "20057-70-9": {
+    "MW": 350.79240000000004,
+    "Name": "bismuthate(1-), tetrachloro-, (T-4)- (9CI)",
+    "Other Names": [
+      "Bismuthate(1-), tetrachloro- (8CI)",
+      "Tetrachlorobismuthate(1-)"
+    ]
+  },
+  "20175-28-4": {
+    "MW": 185.7576,
+    "Name": "antimonate (SbO43-), (T-4)- (9CI)",
+    "Other Names": [
+      "Antimonate (SbO43-) (8CI)"
+    ]
+  },
+  "20461-54-5": {
+    "MW": 126.90447,
+    "Name": "iodide",
+    "Other Names": [
+      "Ba 2796",
+      "Hydriodic acid, ion(1-)",
+      "Iodide",
+      "Iodide anion",
+      "Iodide ion",
+      "Iodide ion(1-)",
+      "Iodide(1-)",
+      "Iodine(1-)",
+      "Iodine, ion (I1-)",
+      "iodide"
+    ],
+    "formula": "I",
+    "inchi": "InChI=1S/HI/h1H/p-1",
+    "inchiKey": "InChIKey=XMBWDFGMSWQBCA-UHFFFAOYSA-M",
+    "smiles": "[I-]"
+  },
+  "20561-39-1": {
+    "MW": 210,
+    "Name": "astatide",
+    "Other Names": [
+      "Astatine ion (At1-)",
+      "Astatine ion(1-)",
+      "Astatine(1-)"
+    ]
+  },
+  "20638-10-2": {
+    "Deleted CAS": [
+      "107573-90-0"
+    ],
+    "MW": 127.96614,
+    "Name": "selenite, hydrogen",
+    "Other Names": [
+      "Hydrogen selenite",
+      "Hydrogen selenite (HSeO31-)",
+      "Selenite (HSeO31-)",
+      "Selenite (SeO32-), hydrogen",
+      "Selenite (SeO32-), hydrogen (8CI)",
+      "Selenite, hydrogen",
+      "selenite, hydrogen (9CI)"
+    ],
+    "formula": "HO3Se",
+    "inchi": "InChI=1S/H2O3Se/c1-4(2)3/h(H2,1,2,3)/p-1",
+    "inchiKey": "InChIKey=MCAHWIHFGHIESP-UHFFFAOYSA-M",
+    "smiles": "O=[Se]([O-])O"
+  },
+  "20653-98-9": {
+    "Deleted CAS": [
+      "37233-68-4",
+      "65588-83-2"
+    ],
+    "MW": 58.980338,
+    "Name": "aluminate (AlO21-) (8CI,9CI)",
+    "Other Names": [
+      "Aluminate (AlO2-)",
+      "Aluminum dioxide ion(1-)",
+      "Aluminum oxide (AlO21-)"
+    ]
+  },
+  "21029-33-4": {
+    "MW": 257.1744,
+    "Name": "ruthenate(4-),\u00a0hexakis(cyano-\u03baC)-,\u00a0(OC-6-11)-",
+    "Other Names": [
+      "Ruthenate(4-),\u00a0hexacyano-\u00a0(8CI)",
+      "Ruthenate(4-),\u00a0hexakis(cyano-C)-,\u00a0(OC-6-11)-",
+      "(OC-6-11)-Hexakis(cyano-\u03baC)ruthenate(4-)",
+      "Hexacyanoruthenate\u00a0ion(4-)",
+      "Hexacyanoruthenate(4-)",
+      "Hexacyanoruthenate(II)",
+      "Hexacyanoruthenium(4-)"
+    ]
+  },
+  "21172-59-8": {
+    "Deleted CAS": [
+      "50798-76-0"
+    ],
+    "MW": 220.74504,
+    "Name": "stannate (Sn(OH)62-), (OC-6-11)-",
+    "Other Names": [
+      "Stannate(2-), hexahydroxy- (8CI)",
+      "Hexahydroxostannate(2-)",
+      "Hexahydroxystannate(2-)",
+      "Hexahydroxystannate(IV)"
+    ]
+  },
+  "21340-03-4": {
+    "Deleted CAS": [
+      "703396-43-4",
+      "725204-47-7",
+      "741609-37-0"
+    ],
+    "MW": 140.9719572,
+    "Name": "(OC-6-11)-Hexafluoroaluminate(3-)",
+    "Other Names": [
+      "(OC-6-11)-Hexafluoroaluminate(3-)",
+      "Aluminate(3-), hexafluoro-",
+      "Aluminate(3-), hexafluoro- (8CI)",
+      "Aluminate(3-), hexafluoro-, (OC-6-11)-",
+      "Aluminum fluoride anion (AlF63-)",
+      "Hexafluoroaluminate",
+      "Hexafluoroaluminate ion",
+      "Hexafluoroaluminate(3-)",
+      "Hexafluoroaluminate(3-) ion",
+      "aluminate(3-), hexafluoro-, (OC-6-11)-"
+    ],
+    "formula": "AlF6",
+    "inchi": "InChI=1S/Al.6FH/h;6*1H/q+3;;;;;;/p-6",
+    "inchiKey": "InChIKey=SEGUCIUJQMRTGG-UHFFFAOYSA-H",
+    "smiles": "[F-][Al+3]([F-])([F-])([F-])([F-])[F-]"
+  },
+  "21374-25-4": {
+    "MW": 257.1744,
+    "Name": "ruthenate(2-),\u00a0hexakis(cyano-\u03baC)-,\u00a0(OC-6-11)-",
+    "Other Names": [
+      "Ruthenate(2-),\u00a0hexacyano-\u00a0(8CI)",
+      "Ruthenate(2-),\u00a0hexakis(cyano-C)-,\u00a0(OC-6-11)-",
+      "(OC-6-11)-Hexakis(cyano-\u03baC)ruthenate(2-)",
+      "Hexacyanoruthenate(2-)"
+    ]
+  },
+  "21412-00-0": {
+    "MW": 315.62350000000004,
+    "Name": "rhodate(3-), hexachloro-, (OC-6-11)-",
+    "Other Names": [
+      "Rhodate(3-), hexachloro- (8CI)",
+      "Hexachlororhodate(3-)",
+      "Hexachlororhodate(III)",
+      "Hexachlororhodium(3-)"
+    ]
+  },
+  "22541-48-6": {
+    "MW": 78.96,
+    "Name": "selenide",
+    "Other Names": [
+      "Selenide",
+      "Selenide (Se2-)",
+      "Selenium ion(2-)",
+      "Selenium(2-)",
+      "Selenium, ion (Se2-)",
+      "selenide"
+    ],
+    "formula": "Se",
+    "inchi": "InChI=1S/Se/q-2",
+    "inchiKey": "InChIKey=HMUBNCUQSSTAIB-UHFFFAOYSA-N",
+    "smiles": "[Se-2]"
+  },
+  "22541-49-7": {
+    "MW": 127.6,
+    "Name": "telluride",
+    "Other Names": [
+      "Telluride (Te2-)",
+      "Tellurium ion(2-)",
+      "Tellurium(2-)",
+      "Tellurium, ion (Te2-)"
+    ]
+  },
+  "22806-79-7": {
+    "MW": 301.03615,
+    "Name": "aurate(1-),\u00a0tetrakis(cyano-\u03baC)-,\u00a0(SP-4-1)-",
+    "Other Names": [
+      "Aurate(1-),\u00a0tetracyano-\u00a0(8CI)",
+      "Aurate(1-),\u00a0tetrakis(cyano-C)-,\u00a0(SP-4-1)-",
+      "(SP-4-1)-Tetrakis(cyano-\u03baC)aurate(1-)",
+      "Tetracyanoaurate(1-)"
+    ]
+  },
+  "22853-17-4": {
+    "MW": 76.995618,
+    "Name": "aluminate (Al(OH)2O1-) (8CI,9CI)"
+  },
+  "23134-05-6": {
+    "Deleted CAS": [
+      "11098-80-9",
+      "22604-31-5",
+      "56217-92-6",
+      "87742-18-5",
+      "208053-40-1"
+    ],
+    "MW": 144.127,
+    "Name": "disulfite",
+    "Other Names": [
+      "Disulfite",
+      "Disulfite (S2O52-)",
+      "Disulfite ion",
+      "Disulfurous acid, ion(2-)",
+      "Metabisulfite",
+      "Metasulfite (S2O52-)",
+      "Pyrosulfite",
+      "Pyrosulfite (8CI)",
+      "Pyrosulfite (S2O52-)",
+      "disulfite"
+    ],
+    "formula": "O5S2",
+    "inchi": "InChI=1S/H2O5S2/c1-6(2)7(3,4)5/h(H,1,2)(H,3,4,5)/p-2",
+    "inchiKey": "InChIKey=WBZKQQHYRPRKNJ-UHFFFAOYSA-L",
+    "smiles": "O=S([O-])S(=O)(=O)[O-]"
+  },
+  "23209-26-9": {
+    "MW": 215.0376,
+    "Name": "hexacyanocobaltate(4-)",
+    "Other Names": [
+      "(OC-6-11)-Hexakis(cyano-\u03baC)cobaltate(4-)",
+      "Cobaltate(4-), hexacyano-",
+      "Cobaltate(4-), hexakis(cyano-C)-, (OC-6-11)-",
+      "Cobaltate(4-), hexakis(cyano-\u03baC)-, (OC-6-11)-",
+      "Cobaltate(4-),\u00a0hexacyano-\u00a0(8CI)",
+      "Cobaltate(4-),\u00a0hexakis(cyano-C)-,\u00a0(OC-6-11)-",
+      "Cobaltocyanide",
+      "Hexacyanocobaltate(4-)",
+      "cobaltate(4-),\u00a0hexakis(cyano-\u03baC)-,\u00a0(OC-6-11)-"
+    ],
+    "formula": "C6CoN6",
+    "inchi": "InChI=1S/6CN.Co/c6*1-2;/q6*-1;+2",
+    "inchiKey": "InChIKey=LKQISFNYOXPCNP-UHFFFAOYSA-N",
+    "smiles": "N#[C-][Co+2]([C-]#N)([C-]#N)([C-]#N)([C-]#N)[C-]#N"
+  },
+  "24203-21-2": {
+    "MW": 186.207,
+    "Name": "rhenium, ion (Re1-)",
+    "Other Names": [
+      "Rhenium(1-)"
+    ]
+  },
+  "24959-67-9": {
+    "Deleted CAS": [
+      "405267-47-2"
+    ],
+    "MW": 79.904,
+    "Name": "bromide",
+    "Other Names": [
+      "Bromide",
+      "Bromide (Br-)",
+      "Bromide anion",
+      "Bromide ion",
+      "Bromide ion (Br1-)",
+      "Bromide ion(1-)",
+      "Bromide(1-)",
+      "Bromine ion",
+      "Bromine ion(1-)",
+      "Bromine(1-)",
+      "Bromine, ion (Br1-)",
+      "Hydrobromic acid, ion(1-)",
+      "bromide"
+    ],
+    "formula": "Br",
+    "inchi": "InChI=1S/BrH/h1H/p-1",
+    "inchiKey": "InChIKey=CPELXLSAUQHCOX-UHFFFAOYSA-M",
+    "smiles": "[Br-]"
+  },
+  "26214-93-7": {
+    "MW": 180.44036,
+    "Name": "cadmate (Cd(OH)42-), (T-4)- (9CI)",
+    "Other Names": [
+      "Cadmate ([Cd(OH)4]2-) (8CI)"
+    ]
+  },
+  "26450-38-4": {
+    "MW": 115.94703999999999,
+    "Name": "vanadate (V(OH)O32-), (T-4)- (9CI)",
+    "Other Names": [
+      "Vanadate (VO43-), monohydrogen (8CI)",
+      "Vanadate (HVO42-)"
+    ]
+  },
+  "265644-20-0": {
+    "MW": 128.96674,
+    "Name": "h3\u00a0Mo7\u00a0O24"
+  },
+  "28486-22-8": {
+    "MW": 97.97036419999999,
+    "Name": "phosphate(1-), fluorotrioxo-, (T-4)- (9CI)",
+    "Other Names": [
+      "Phosphate(1-), fluorotrioxo- (8CI)"
+    ]
+  },
+  "29145-79-7": {
+    "MW": 123.87436,
+    "Name": "ferrate (Fe(OH)41-), (T-4)- (9CI)",
+    "Other Names": [
+      "Ferrate ([Fe(OH)4]1-) (8CI)",
+      "Tetrahydroxoferrate(1-)",
+      "Tetrahydroxyferrate(1-)"
+    ]
+  },
+  "29703-19-3": {
+    "Deleted CAS": [
+      "797805-88-0"
+    ],
+    "MW": 187.77348,
+    "Name": "antimonate (Sb(OH)2O21-), (T-4)- (9CI)",
+    "Other Names": [
+      "Antimonate (SbO43-), dihydrogen (8CI)"
+    ]
+  },
+  "29872-00-2": {
+    "MW": 223.80404,
+    "Name": "antimonate (Sb(OH)61-), (OC-6-11)-",
+    "Other Names": [
+      "Antimonate (Sb(OH)61-)",
+      "Antimonate (SbO67-), hexahydrogen (8CI)",
+      "Hexahydroxoantimonate(1-)",
+      "Hexahydroxyantimonate(1-)"
+    ]
+  },
+  "302-04-5": {
+    "Alternate CAS": [
+      "71048-69-6"
+    ],
+    "Deleted CAS": [
+      "1111-68-8",
+      "37223-05-5",
+      "60168-45-8",
+      "60773-55-9",
+      "62476-95-3",
+      "69924-38-5",
+      "70874-95-2",
+      "81210-01-7"
+    ],
+    "MW": 58.0824,
+    "Name": "thiocyanate",
+    "Other Names": [
+      "Isothiocyanic acid, ion(1-)",
+      "Rhodanide",
+      "Thiocyanate",
+      "Thiocyanate (NCS1-)",
+      "Thiocyanate anion",
+      "Thiocyanate ion",
+      "Thiocyanic acid, ion(1-)",
+      "Thiocyanic acid, ion(1-) (8CI)",
+      "Thiocyanide",
+      "thiocyanate"
+    ],
+    "formula": "CNS",
+    "inchi": "InChI=1S/CHNS/c2-1-3/h3H/p-1",
+    "inchiKey": "InChIKey=ZMZDMBWJUHKJPS-UHFFFAOYSA-M",
+    "smiles": "N#C[S-]"
+  },
+  "30291-68-0": {
+    "MW": 317.35494,
+    "Name": "cuprate(1-), diiodo- (8CI,9CI)",
+    "Other Names": [
+      "Diiodocuprate(1-)"
+    ]
+  },
+  "3198-32-1": {
+    "Deleted CAS": [
+      "115464-96-5",
+      "291768-01-9",
+      "468094-23-7"
+    ],
+    "MW": 157.1671,
+    "Name": "benzenesulfonate (1-)",
+    "Other Names": [
+      "Benzenesulfonate",
+      "Benzenesulfonate (1-)",
+      "Benzenesulfonate anion",
+      "Benzenesulfonate ion",
+      "Benzenesulfonic acid, ion(1-)",
+      "benzenesulfonic acid, ion(1-)"
+    ],
+    "formula": "C6H5O3S",
+    "inchi": "InChI=1S/C6H6O3S/c7-10(8,9)6-4-2-1-3-5-6/h1-5H,(H,7,8,9)/p-1",
+    "inchiKey": "InChIKey=SRSXLGNVWSONIS-UHFFFAOYSA-M",
+    "smiles": "O=S(=O)([O-])C=1C=CC=CC1"
+  },
+  "322470-97-3": {
+    "MW": 97.3788,
+    "Name": "zincate (ZnO21-) (9CI)"
+  },
+  "338-70-5": {
+    "MW": 88.019,
+    "Name": "oxalate(2-)",
+    "Other Names": [
+      "Ethanedioic acid, ion(2-)",
+      "Oxalate (C2O42-)",
+      "Oxalate dianion",
+      "Oxalate ion (C2O42-)",
+      "Oxalate ion(2-)",
+      "Oxalate(2-)",
+      "Oxalic acid, ion(2-)",
+      "Oxalic acid, ion(2-) (8CI)",
+      "ethanedioic acid, ion(2-)"
+    ],
+    "formula": "C2O4",
+    "inchi": "InChI=1S/C2H2O4/c3-1(4)2(5)6/h(H,3,4)(H,5,6)/p-2",
+    "inchiKey": "InChIKey=MUBZPKHOEPUJKR-UHFFFAOYSA-L",
+    "smiles": "O=C([O-])C(=O)[O-]"
+  },
+  "34175-11-6": {
+    "MW": 129.13554,
+    "Name": "dithionite, hydrogen",
+    "Other Names": [
+      "Dithionous acid, ion(1-)",
+      "Hydrogen dithionite"
+    ]
+  },
+  "34786-97-5": {
+    "Deleted CAS": [
+      "33309-45-4",
+      "41884-53-1"
+    ],
+    "MW": 116.95498,
+    "Name": "vanadate (V(OH)2O21-), (T-4)- (9CI)",
+    "Other Names": [
+      "Vanadate (VO43-), dihydrogen (8CI)",
+      "Dihydroxodioxovanadate(1-)",
+      "Vanadate (H2VO4-)",
+      "Vanadate (H2VO41-)"
+    ]
+  },
+  "36121-95-6": {
+    "MW": 169.7582,
+    "Name": "antimonate (SbO31-) (9CI)"
+  },
+  "37181-39-8": {
+    "Deleted CAS": [
+      "85695-84-7",
+      "460315-00-8",
+      "627050-95-7",
+      "886757-21-7",
+      "1375612-01-3",
+      "1425793-85-6",
+      "1429219-49-7",
+      "1610340-80-1",
+      "1830311-12-0"
+    ],
+    "MW": 149.0691096,
+    "Name": "trifluoromethanesulfonate",
+    "Other Names": [
+      "Ethanesulfonic acid, 1,1-difluoro-, ion(1-)",
+      "Methanesulfonic acid, 1,1,1-trifluoro-, ion(1-)",
+      "Methanesulfonic acid, trifluoro-, ion(1-)",
+      "Methanesulfonic acid, trifluoro-, ion(1-) (9CI)",
+      "Triflate",
+      "Triflate anion",
+      "Triflate ion ((CF3SO3)-)",
+      "Trifluoromethanesulfonate",
+      "Trifluoromethanesulfonate ion",
+      "Trifluoromethanesulfonate(1-)",
+      "Trifluoromethanesulfonic acid ion(1-)",
+      "Trifluoromethylsulfonate",
+      "methanesulfonic acid, 1,1,1-trifluoro-, ion(1-)"
+    ],
+    "formula": "CF3O3S",
+    "inchi": "InChI=1S/CHF3O3S/c2-1(3,4)8(5,6)7/h(H,5,6,7)/p-1",
+    "inchiKey": "InChIKey=ITMCEJHCFYSIIV-UHFFFAOYSA-M",
+    "smiles": "O=S(=O)([O-])C(F)(F)F"
+  },
+  "3812-32-6": {
+    "Deleted CAS": [
+      "878893-89-1"
+    ],
+    "MW": 60.0089,
+    "Name": "carbonate",
+    "Other Names": [
+      "Carbonate",
+      "Carbonate anion (CO32-)",
+      "Carbonate anion(2-)",
+      "Carbonate dianion",
+      "Carbonate ion",
+      "Carbonate ion(2-)",
+      "Carbonate(2-)",
+      "Carbonate(2-) ion",
+      "Carbonate(2-)ion",
+      "Carbonic acid, ion(2-)",
+      "carbonate (8CI,9CI)"
+    ],
+    "formula": "CO3",
+    "inchi": "InChI=1S/CH2O3/c2-1(3)4/h(H2,2,3,4)/p-2",
+    "inchiKey": "InChIKey=BVKZGUZCCUSVTD-UHFFFAOYSA-L",
+    "smiles": "O=C([O-])[O-]"
+  },
+  "39051-24-6": {
+    "Deleted CAS": [
+      "39282-27-4",
+      "40211-90-3"
+    ],
+    "MW": 97.3788,
+    "Name": "zincate (ZnO22-) (9CI)",
+    "Other Names": [
+      "Zincate(2-), dioxo-"
+    ]
+  },
+  "39201-27-9": {
+    "MW": 60.82508,
+    "Name": "borate (BO33-), dihydrogen (9CI)",
+    "Other Names": [
+      "Borate (H2BO3-)",
+      "Borate (H2BO31-)",
+      "Borate anion"
+    ]
+  },
+  "41650-26-4": {
+    "MW": 257.1744,
+    "Name": "ruthenate(5-), hexakis(cyano-C)-, (OC-6-11)- (9CI)"
+  },
+  "42499-21-8": {
+    "Deleted CAS": [
+      "51053-84-0",
+      "65597-52-6"
+    ],
+    "MW": 174.951262,
+    "Name": "diphosphate, hydrogen",
+    "Other Names": [
+      "Diphosphate (HP2O73-)",
+      "Monohydrogen diphosphate"
+    ]
+  },
+  "4358-26-3": {
+    "Alternate CAS": [
+      "163709-59-9"
+    ],
+    "Deleted CAS": [
+      "14971-66-5",
+      "28263-70-9",
+      "47394-91-2",
+      "68447-97-2",
+      "82864-98-0",
+      "96226-12-9",
+      "105515-06-8",
+      "110232-12-7",
+      "117802-40-1",
+      "123574-59-4",
+      "123886-74-8",
+      "131267-15-7"
+    ],
+    "MW": 319.22659999999996,
+    "Name": "tetraphenylborate",
+    "Other Names": [
+      "Borate(1-), tetraphenyl-",
+      "Tetraphenylborate",
+      "Tetraphenylborate (III)",
+      "Tetraphenylborate(1-)",
+      "Tetraphenylboride ion",
+      "Tetraphenylboron anion",
+      "borate(1-), tetraphenyl-"
+    ],
+    "formula": "C24H20B",
+    "inchi": "InChI=1S/C24H20B/c1-5-13-21(14-6-1)25(22-15-7-2-8-16-22,23-17-9-3-10-18-23)24-19-11-4-12-20-24/h1-20H/q-1",
+    "inchiKey": "InChIKey=SVHQOIWIRUVWII-UHFFFAOYSA-N",
+    "smiles": "C=1C=C[C-](=CC1)[B+3]([C-]=2C=CC=CC2)([C-]=3C=CC=CC3)[C-]=4C=CC=CC4"
+  },
+  "44030-61-7": {
+    "MW": 98.9783042,
+    "Name": "phosphorofluoridate, hydrogen (9CI)",
+    "Other Names": [
+      "Fluorophosphate ion (HPFO31-)"
+    ]
+  },
+  "48042-08-6": {
+    "Deleted CAS": [
+      "52201-83-9",
+      "57395-29-6"
+    ],
+    "MW": 162.763,
+    "Name": "tetracyanonickelate",
+    "Other Names": [
+      "(SP-4-1)-Tetrakis(cyano-\u03baC)nickelate(2-)",
+      "Nickelate(2-), tetrakis(cyano-C)-, (SP-4-1)-",
+      "Nickelate(2-), tetrakis(cyano-\u03baC)-, (SP-4-1)-",
+      "Nickelate(2-),\u00a0tetrakis(cyano-C)-,\u00a0(SP-4-1)-",
+      "Tetracyanonickelate",
+      "Tetracyanonickelate(2-)",
+      "nickelate(2-),\u00a0tetrakis(cyano-\u03baC)-,\u00a0(SP-4-1)-"
+    ],
+    "formula": "C4N4Ni",
+    "inchi": "InChI=1S/4CN.Ni/c4*1-2;/q4*-1;+2",
+    "inchiKey": "InChIKey=BYMZQQLCZDLNKW-UHFFFAOYSA-N",
+    "smiles": "N#[C-][Ni+2]([C-]#N)([C-]#N)[C-]#N"
+  },
+  "53293-42-8": {
+    "Deleted CAS": [
+      "64911-50-8"
+    ],
+    "MW": 83.9949,
+    "Name": "chromate (CrO21-) (9CI)",
+    "Other Names": [
+      "Chromate(1-), dioxo-",
+      "Chromite (anion)"
+    ]
+  },
+  "54692-27-2": {
+    "MW": 257.1744,
+    "Name": "ruthenate(3-), hexakis(cyano-C)-, (OC-6-11)-",
+    "Other Names": [
+      "(OC-6-11)-Hexakis(cyano-C)ruthenate(3-)",
+      "Hexacyanoruthenate(3-)"
+    ]
+  },
+  "54923-07-8": {
+    "MW": 168.93421,
+    "Name": "thulium, ion (Tm1-)",
+    "Other Names": [
+      "Tm1-"
+    ]
+  },
+  "57-12-5": {
+    "Deleted CAS": [
+      "373-51-3"
+    ],
+    "MW": 26.017400000000002,
+    "Name": "cyanide",
+    "Other Names": [
+      "Carbon nitride ion (CN1-)",
+      "Cyanide",
+      "Cyanide (CN1-)",
+      "Cyanide anion",
+      "Cyanide ion",
+      "Cyanide ion (CN(1-))",
+      "Cyanide ion(1-)",
+      "Cyanide(1-)",
+      "Cyanide(1-) ion",
+      "Hydrocyanic acid, ion(1-)",
+      "Isocyanide",
+      "Nitrile anion",
+      "cyanide"
+    ],
+    "formula": "CN",
+    "inchi": "InChI=1S/CN/c1-2/q-1",
+    "inchiKey": "InChIKey=XFXPMWWXUTWYJX-UHFFFAOYSA-N",
+    "smiles": "[C-]#N"
+  },
+  "5749-48-4": {
+    "MW": 104.97739999999999,
+    "Name": "selenocyanate",
+    "Other Names": [
+      "Selenocyanate",
+      "Selenocyanate ion",
+      "Selenocyanate(1-)",
+      "Selenocyanic acid, ion(1-)",
+      "Selenocyanic acid, ion(1-) (8CI)",
+      "selenocyanate (9CI)"
+    ],
+    "formula": "CNSe",
+    "inchi": "InChI=1S/CHNSe/c2-1-3/h3H/p-1",
+    "inchiKey": "InChIKey=CRDYSYOERSZTHZ-UHFFFAOYSA-M",
+    "smiles": "N#C[Se-]"
+  },
+  "60818-94-2": {
+    "MW": 404.93500000000006,
+    "Name": "iridate(4-), hexachloro-, (OC-6-11)-",
+    "Other Names": [
+      "Hexachloroiridate(4-)"
+    ]
+  },
+  "661-20-1": {
+    "Alternate CAS": [
+      "71000-82-3"
+    ],
+    "Deleted CAS": [
+      "16610-28-9",
+      "1400575-13-4"
+    ],
+    "MW": 42.0168,
+    "Name": "cyanate",
+    "Other Names": [
+      "Cyanate",
+      "Cyanate ion",
+      "Cyanate ion(1-)",
+      "Cyanate(1-)",
+      "Cyanic acid, ion(1-)",
+      "Cyanic acid, ion(1-) (8CI)",
+      "Isocyanate",
+      "Isocyanate ion(1-)",
+      "Isocyanic acid, ion(1-)",
+      "cyanate (9CI)"
+    ],
+    "formula": "CNO",
+    "inchi": "InChI=1S/CHNO/c2-1-3/h3H/p-1",
+    "inchiKey": "InChIKey=XLJMAIOERFSOGZ-UHFFFAOYSA-M",
+    "smiles": "N#C[O-]"
+  },
+  "68111-10-4": {
+    "MW": 356.77455,
+    "Name": "aurate(1-), dibromo- (8CI,9CI)",
+    "Other Names": [
+      "Dibromoaurate(1-)",
+      "Gold dibromide ion (1-)"
+    ]
+  },
+  "683737-82-8": {
+    "Deleted CAS": [
+      "27264-01-3"
+    ],
+    "MW": 153.7588,
+    "Name": "antimonate (SbO21-) (9CI)",
+    "Other Names": [
+      "Antimony dioxide monoanion"
+    ]
+  },
+  "687620-85-5": {
+    "MW": 182.84736,
+    "Name": "indate (In(OH)41-), (T-4)- (9CI)"
+  },
+  "70756-39-7": {
+    "MW": 106.86702,
+    "Name": "ferrate (Fe(OH)31-) (9CI)",
+    "Other Names": [
+      "Trihydroxoferrate(1-)",
+      "Trihydroxyferrate(1-)"
+    ]
+  },
+  "71-47-6": {
+    "Deleted CAS": [
+      "66856-89-1",
+      "1648921-15-6",
+      "1857353-99-1"
+    ],
+    "MW": 45.01744,
+    "Name": "formate(1-)",
+    "Other Names": [
+      "Formate",
+      "Formate (HCOO-)",
+      "Formate (HCOO1-)",
+      "Formate ion",
+      "Formate ion(1-)",
+      "Formate(1-)",
+      "Formic acid, ion(1-)",
+      "Methanol, 1-oxo-, ion(1-)",
+      "formic acid, ion(1-) (8CI,9CI)"
+    ],
+    "formula": "CHO2",
+    "inchi": "InChI=1S/CH2O2/c2-1-3/h1H,(H,2,3)/p-1",
+    "inchiKey": "InChIKey=BDAGIHXWWSANSR-UHFFFAOYSA-M",
+    "smiles": "O=C[O-]"
+  },
+  "71-50-1": {
+    "Deleted CAS": [
+      "124-51-6"
+    ],
+    "MW": 59.04402,
+    "Name": "acetate ion",
+    "Other Names": [
+      "Acetate",
+      "Acetate anion",
+      "Acetate ion",
+      "Acetate ion (1-)",
+      "Acetic acid anion",
+      "Acetic acid, ion(1-)",
+      "Acetoxy ion",
+      "acetic acid, ion(1-) (8CI,9CI)"
+    ],
+    "formula": "C2H3O2",
+    "inchi": "InChI=1S/C2H4O2/c1-2(3)4/h1H3,(H,3,4)/p-1",
+    "inchiKey": "InChIKey=QTBSBXVTEAMEQO-UHFFFAOYSA-M",
+    "smiles": "O=C([O-])C"
+  },
+  "71-52-3": {
+    "Deleted CAS": [
+      "942603-92-1"
+    ],
+    "MW": 61.016839999999995,
+    "Name": "bicarbonate",
+    "Other Names": [
+      "Bicarbonate",
+      "Bicarbonate (HCO3-)",
+      "Bicarbonate anion",
+      "Bicarbonate ion",
+      "Bicarbonate ion (HCO31-)",
+      "Carbonate (HCO31-)",
+      "Carbonate ion (HCO31-)",
+      "Carbonate, hydrogen",
+      "Carbonateion (HCO31-)",
+      "Carbonic acid, ion(1-)",
+      "Hydrocarbonate(1-)",
+      "Hydrogen carbonate",
+      "Hydrogen carbonate (HCO3-)",
+      "Hydrogen carbonate anion",
+      "Hydrogen carbonate ion",
+      "Hydrogen carbonate ion (HCO3-)",
+      "Hydrogencarbonate ion",
+      "Monohydrogen carbonate",
+      "carbonate, hydrogen (8CI,9CI)"
+    ],
+    "formula": "CHO3",
+    "inchi": "InChI=1S/CH2O3/c2-1(3)4/h(H2,2,3,4)/p-1",
+    "inchiKey": "InChIKey=BVKZGUZCCUSVTD-UHFFFAOYSA-M",
+    "smiles": "O=C([O-])O"
+  },
+  "72-03-7": {
+    "MW": 73.0706,
+    "Name": "propionate ion",
+    "Other Names": [
+      "Propanoate",
+      "Propanoate anion",
+      "Propanoate ion",
+      "Propanoic acid anion",
+      "Propanoic acid, ion(1-)",
+      "Propionate",
+      "Propionate anion",
+      "Propionate ion",
+      "Propionate(1-)",
+      "Propionic acid, ion(1-)",
+      "Propionic acid, ion(1-) (8CI)",
+      "propanoic acid, ion(1-) (9CI)"
+    ],
+    "formula": "C3H5O2",
+    "inchi": "InChI=1S/C3H6O2/c1-2-3(4)5/h2H2,1H3,(H,4,5)/p-1",
+    "inchiKey": "InChIKey=XBDQKXXYIPTUBI-UHFFFAOYSA-M",
+    "smiles": "O=C([O-])CC"
+  },
+  "73128-36-6": {
+    "MW": 123.87436,
+    "Name": "ferrate (Fe(OH)42-), (SP-4-1)-"
+  },
+  "747350-06-7": {
+    "MW": 165.0676,
+    "Name": "ruthenate (RuO43-), (T-4)- (9CI)"
+  },
+  "754122-47-9": {
+    "MW": 301.03615,
+    "Name": "aurate(3-), tetrakis(cyano-C)-, (SP-4-1)- (9CI)"
+  },
+  "756789-51-2": {
+    "MW": 301.03615,
+    "Name": "aurate(2-), tetrakis(cyano-C)-, (SP-4-1)- (9CI)"
+  },
+  "766-76-7": {
+    "Deleted CAS": [
+      "21049-51-4"
+    ],
+    "MW": 121.1134,
+    "Name": "benzoate anion",
+    "Other Names": [
+      "Benzoate",
+      "Benzoate anion",
+      "Benzoate ion",
+      "Benzoic acid anion",
+      "Benzoic acid conjugate base",
+      "Benzoic acid, ion(1-)",
+      "benzoic acid, ion(1-)"
+    ],
+    "formula": "C7H5O2",
+    "inchi": "InChI=1S/C7H6O2/c8-7(9)6-4-2-1-3-5-6/h1-5H,(H,8,9)/p-1",
+    "inchiKey": "InChIKey=WPYMKLBDIGXBTP-UHFFFAOYSA-M",
+    "smiles": "O=C([O-])C=1C=CC=CC1"
+  },
+  "79799-72-7": {
+    "MW": 109.71542,
+    "Name": "nickelate (Ni(OH)31-) (9CI)"
+  },
+  "79949-96-5": {
+    "MW": 220.74504,
+    "Name": "stannate (Sn(OH)63-), (OC-6-11)- (9CI)"
+  },
+  "81736-04-1": {
+    "MW": 133.40936,
+    "Name": "zincate (Zn(OH)41-), (T-4)- (9CI)"
+  },
+  "87965-36-4": {
+    "MW": 79.979901,
+    "Name": "phosphate(1-), hydrotrioxo- (9CI)"
+  },
+  "920-52-5": {
+    "Deleted CAS": [
+      "51410-24-3"
+    ],
+    "MW": 89.02694,
+    "Name": "hydrogen oxalate",
+    "Other Names": [
+      "Ethanedioic acid, ion(1-)",
+      "Hydrogen oxalate",
+      "Hydrogen oxalate anion",
+      "Hydrogen oxalate monoanion",
+      "Oxalic acid, ion(1-)",
+      "Oxalic acid, ion(1-) (8CI)",
+      "ethanedioic acid, ion(1-)"
+    ],
+    "formula": "C2HO4",
+    "inchi": "InChI=1S/C2H2O4/c3-1(4)2(5)6/h(H,3,4)(H,5,6)/p-1",
+    "inchiKey": "InChIKey=MUBZPKHOEPUJKR-UHFFFAOYSA-M",
+    "smiles": "O=C([O-])C(=O)O"
+  },
+  "94492-00-9": {
+    "MW": 209,
+    "Name": "polonium, ion (Po1-)",
+    "Other Names": [
+      "Po1-",
+      "Polonium(1-)"
+    ]
+  },
+  "97775-49-0": {
+    "MW": 120.02546,
+    "Name": "chromate (Cr(OH)41-), (T-4)- (9CI)"
+  }
+}

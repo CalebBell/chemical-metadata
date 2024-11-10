@@ -1,0 +1,8 @@
+Silicon, ion (Si1+)
+Si
+14067-07-3 Copyright (C) 2024 ACS
+  1  0  0  0  0  0  0  0  0  0999 V2000
+    0.0000    0.0000    0.0000 Si  0  3  0  0  0 15  0  0  0  0  0  0
+M  CHG  1   1   1
+M  RAD  1   1   2
+M  END

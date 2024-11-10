@@ -1,0 +1,30 @@
+
+ ---------------------------------------------
+             ===  CHEMSEP 2  ===
+ Copyright 1992 Harry Kooijman and Ross Taylor
+    Polynomial Liquid/Vapour Enthalpy (LIB)
+ ---------------------------------------------
+ Example file
+ ---------------------------------------------
+ Data: ID1 A, B, C, D, E comments
+ Units: Enthalpy=(J/kmol), Temperature=(K)
+ ---------------------------------------------
+
+[LIB]
+Comment=Example file. NO DATA !
+#
+# This is how you enter the data.
+#
+# ComponentID=1, A=2, B=3, C=4, D=5 and E=6:
+#
+1 2 3 4 5 6 ComponentName
+# 
+# Everything before the [LIB] is skipped.
+# After [LIB] you will have to put the
+# 'Comment=' with a description of the
+# data. After that any data can come as
+# in the order as above. Numbers etc. must
+# be separated by *spaces* not by tabs or
+# anything else. Any line starting with 
+# a '#' is comment,just as this line is.
+# Remember to use the correct units !
