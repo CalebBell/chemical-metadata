@@ -22,6 +22,8 @@ for CAS, d in db.CAS_index.items():
         good_syns[CAS]['synonyms'] = []
 
 
+good_syns['502-52-3']['synonyms'].extend(['dipalmitin']) # There may be other chemicals with this name but biosteam was expecting this answer
+
 good_syns['74-82-8']['synonyms'].extend(['C1', 'nC1', 'n-C1'])
 good_syns['74-84-0']['synonyms'].extend(['C2', 'nC2', 'n-C2'])
 good_syns['74-98-6']['synonyms'].extend(['C3', 'nC3', 'n-C3'])
