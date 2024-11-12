@@ -4,7 +4,7 @@ date := datetime("%Y_%m_%d")
 chemicals-dir := `python3 -c "import chemicals; print(chemicals.identifiers.folder)"`
 
 default:
-    @echo "Commands for changing chemical metadata:"
+    @just --list --verbose
 
 # Anions
 # Remove cache for anions
