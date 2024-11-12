@@ -56,6 +56,7 @@ MnF2 = {'pubchem': 24528, 'name': 'manganese difluoride'}
 CsO3P = {'pubchem': 23674445, 'name': 'cesium metaphosphate'}
 Br2Ga =  {'pubchem': 6394124, 'name': 'gallium(I,III) bromide'}
 
+
 custom_compounds = {'13536-95-3': D2Se, '16919-19-0': ammonium_hexafluorosilicate,
                '13454-75-6': CsBromate, '10097-32-2': Br, '2099990000-00-0': NaAlO4H4,
                '7558-79-4': Na2HPO4, '7558-80-7': NaH2PO4, '18939-61-2': CuH2O4S,

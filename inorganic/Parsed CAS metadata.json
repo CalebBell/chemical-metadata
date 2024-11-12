@@ -16435,6 +16435,27 @@
     "inchiKey": "InChIKey=DHRRIBDTHFBPNG-UHFFFAOYSA-L",
     "smiles": "Cl[Mg]Cl.O"
   },
+  "7791-26-6": {
+    "MW": 340.93371,
+    "Name": "uranyl chloride",
+    "Other Names": [
+      "(T-4)-Dichlorodioxouranium",
+      "Dichlorodioxouranium",
+      "Uranium chloride oxide (UCl2O2)",
+      "Uranium chloride oxide (UO2Cl2)",
+      "Uranium dioxide dichloride",
+      "Uranium oxychloride (UO2Cl2)",
+      "Uranium, dichlorodioxo-",
+      "Uranium, dichlorodioxo-, (T-4)-",
+      "Uranyl chloride",
+      "Uranyl chloride (UO2Cl2)",
+      "Uranyl dichloride"
+    ],
+    "formula": "Cl2O2U",
+    "inchi": "InChI=1S/2ClH.2O.U/h2*1H;;;/q;;;;+2/p-2",
+    "inchiKey": "InChIKey=NSVNKDBYTHQPAS-UHFFFAOYSA-L",
+    "smiles": "O=[U](=O)(Cl)Cl"
+  },
   "7803-51-2": {
     "Deleted CAS": [
       "167076-44-0"
