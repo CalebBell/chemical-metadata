@@ -513,6 +513,30 @@
   "12325-59-6": {
     "synonyms": []
   },
+  "12385-13-6": {
+    "formula": "H",
+    "hardcoded_synonyms": true,
+    "inchi": "H",
+    "inchikey": "YZCKVEUIGOORGS-UHFFFAOYSA-N",
+    "iupac_name": "atomic hydrogen",
+    "name": "atomic hydrogen",
+    "pubchem": 5362549,
+    "smiles": "[H]",
+    "synonyms": [
+      "hydrogen (atomic)",
+      "hydrogen monatomic",
+      "hydrogen atom",
+      "1H",
+      "H-1",
+      "protium",
+      "atomic hydrogen",
+      "hydrogen radical",
+      "hydrogen (H1)",
+      "monatomic hydrogen",
+      "atomic protium",
+      "protium (atomic hydrogen)"
+    ]
+  },
   "12401-56-8": {
     "synonyms": []
   },
@@ -634,6 +658,55 @@
   },
   "13327-32-7": {
     "synonyms": []
+  },
+  "1333-74-0": {
+    "hardcoded_synonyms": true,
+    "pubchem": 783,
+    "synonyms": [
+      "dihydrogen",
+      "molecular hydrogen",
+      "hydrogen (normal)",
+      "hydrogen gas",
+      "hydrogen molecule",
+      "hydrogen-molecule",
+      "hydrogen (H2)",
+      "mol. hydrogen",
+      "h-h",
+      "hydrogen [HSDB]",
+      "hydrogen [MI]",
+      "hydrogen [WHO-DD]",
+      "hydrogen, >=99.99%",
+      "hydrogen, >=99.999%",
+      "hydrogen, messer(r) cangas, 99.999%",
+      "UN 1049",
+      "UN 1966",
+      "E949",
+      "e 949",
+      "e-949",
+      "hidrogeno",
+      "hydrogene",
+      "wasserstoff",
+      "DTXSID9029643",
+      "CHEBI:18276",
+      "C00282",
+      "Q3027893",
+      "equilibrium hydrogen",
+      "e-H2",
+      "eH2",
+      "e-hydrogen",
+      "equilibrium-H2",
+      "equilibrium form of hydrogen",
+      "equilibrium modification of hydrogen",
+      "equilibrium spin isomer of hydrogen",
+      "equilibrium nuclear spin isomer of molecular hydrogen",
+      "thermal equilibrium hydrogen",
+      "temperature-equilibrated hydrogen",
+      "thermally equilibrated hydrogen",
+      "equilibrated hydrogen mixture",
+      "temperature-dependent hydrogen mixture",
+      "equilibrium ortho-para mixture",
+      "equilibrium o/p hydrogen"
+    ]
   },
   "1335-31-5": {
     "synonyms": []
@@ -1005,6 +1078,16 @@
   "13842-88-1": {
     "synonyms": []
   },
+  "13845-24-4": {
+    "name": "dihydrogen pentasulfide",
+    "pubchem": 448216,
+    "synonyms": []
+  },
+  "13845-25-5": {
+    "name": "dihydrogen tetrasulfide",
+    "pubchem": 82836,
+    "synonyms": []
+  },
   "13847-66-0": {
     "synonyms": []
   },
@@ -1285,6 +1368,75 @@
   },
   "20768-68-7": {
     "synonyms": []
+  },
+  "2099474000-00-0": {
+    "formula": "H2",
+    "hardcoded_synonyms": true,
+    "inchi": "",
+    "inchikey": "",
+    "iupac_name": "normal hydrogen",
+    "name": "normal hydrogen",
+    "pubchem": null,
+    "smiles": "",
+    "synonyms": [
+      "nH2",
+      "n-H2",
+      "normal-hydrogen",
+      "n-hydrogen",
+      "normal-H2",
+      "normal form of hydrogen",
+      "800000-51-5",
+      "normal form of hydrogen",
+      "normal modification of hydrogen",
+      "room temperature hydrogen mixture",
+      "standard hydrogen mixture",
+      "3:1 ortho:para hydrogen mixture",
+      "75:25 ortho:para hydrogen mixture"
+    ]
+  },
+  "2099479000-00-0": {
+    "formula": "H2",
+    "hardcoded_synonyms": true,
+    "inchi": "",
+    "inchikey": "",
+    "iupac_name": "orthohydrogen",
+    "name": "orthohydrogen",
+    "pubchem": null,
+    "smiles": "",
+    "synonyms": [
+      "oH2",
+      "o-H2",
+      "ortho-hydrogen",
+      "o-hydrogen",
+      "ortho-H2",
+      "ortho form of hydrogen",
+      "ortho modification of hydrogen",
+      "ortho spin isomer of hydrogen",
+      "ortho nuclear spin isomer of molecular hydrogen",
+      "800000-50-4"
+    ]
+  },
+  "2099490000-00-0": {
+    "formula": "H2",
+    "hardcoded_synonyms": true,
+    "inchi": "",
+    "inchikey": "",
+    "iupac_name": "parahydrogen",
+    "name": "parahydrogen",
+    "pubchem": null,
+    "smiles": "",
+    "synonyms": [
+      "pH2",
+      "p-H2",
+      "para-hydrogen",
+      "p-hydrogen",
+      "para-H2",
+      "para form of hydrogen",
+      "para modification of hydrogen",
+      "para spin isomer of hydrogen",
+      "para nuclear spin isomer of molecular hydrogen",
+      "800000-49-1"
+    ]
   },
   "2099990000-00-0": {
     "pubchem": 166673,

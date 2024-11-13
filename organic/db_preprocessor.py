@@ -79,20 +79,6 @@ good_syns['75-28-5']['synonyms'].extend(['isobutane', 'i-butane', 'ibutane', 'iC
 good_syns['107-83-5']['synonyms'].extend(['isohexane', 'i-hexane', 'ihexane', 'iC6', 'i-C6'])
 good_syns['9005-53-2']['synonyms'].extend(['lignin'])
 
-
-#D2Se = {'formula': 'D2Se', 'MW': molecular_weight(nested_formula_parser('D2Se'))}
-#ammonium_hexafluorosilicate = {'pubchem': 28145}
-#CsBromate = {'pubchem': 23685550}
-#Br = {'pubchem': 5360770}
-#NaAlO4H4 = {'pubchem': 166673}
-#Na2HPO4 = {'pubchem': 24203}
-#NaH2PO4 = {'pubchem': 24204}
-#CuH2O4S = {'pubchem': 6536471}
-#
-#
-#custom_ions = {'13536-95-3': D2Se, '16919-19-0': ammonium_hexafluorosilicate,
-#               '13454-75-6': CsBromate, '10097-32-2': Br, '2099990000-00-0': NaAlO4H4,
-#               '7558-79-4': Na2HPO4, '7558-80-7': NaH2PO4, '18939-61-2': CuH2O4S}
 custom_chemicals = {}
 
 
@@ -103,6 +89,19 @@ custom_chemicals['65460-51-7'] = {'formula': "C64H138O10P2Ti", 'pubchem': 105197
 
 
 custom_chemicals['74-86-2'] = {'iupac_name': 'ethyne'}
+
+# refprop names
+custom_chemicals['112-63-0'] = {'synonyms': ['methyl (Z,Z)-9,12-octadecadienoate']}
+custom_chemicals['301-00-8'] = {'synonyms': ['methyl (Z,Z,Z)-9,12,15-octadecatrienoate']}
+custom_chemicals['616-38-6'] = {'synonyms': ['dimethyl ester carbonic acid']}
+custom_chemicals['1885-48-9'] = {'synonyms': ['2,2,2-trifluoroethyl-difluoromethyl-ether']}
+custom_chemicals['22410-44-2'] = {'synonyms': ['methyl-pentafluoroethyl-ether']}
+
+# this is a trimer, its synonyms point to the actual chemical and replace it :(
+custom_chemicals['26472-00-4'] = {'synonyms': ['3a,4,7,7a-tetrahydrodimethyl-4,7-methano-1h-indene',
+'4,7-methano-1h-indene, 3a,4,7,7a-tetrahydrodimethyl-',
+'4,7-methanoindene, 3a,4,7,7a-tetrahydrodimethyl-',
+'methylcyclopentadienedimer'], 'hardcoded_synonyms': True}
 
 for CAS, d in custom_chemicals.items():
     if CAS in good_syns:

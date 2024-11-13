@@ -3064,6 +3064,25 @@
     "inchiKey": "InChIKey=TUDWSEQKKUSFNR-UHFFFAOYSA-N",
     "smiles": "P#[Hf]"
   },
+  "12385-13-6": {
+    "MW": 1.00794,
+    "Name": "atomic hydrogen",
+    "Other Names": [
+      "Atomic hydrogen",
+      "Atomic protium",
+      "Hydrogen (H1)",
+      "Hydrogen atom",
+      "Hydrogen radical",
+      "Hydrogen, atomic",
+      "Monatomic hydrogen",
+      "Protium",
+      "Protium (atomic hydrogen)"
+    ],
+    "formula": "H",
+    "inchi": "InChI=1S/H2/h1H",
+    "inchiKey": "InChIKey=UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+    "smiles": "[H][H]"
+  },
   "12401-56-8": {
     "MW": 234.661,
     "Name": "hafnium silicide (HfSi2)",
@@ -5799,6 +5818,26 @@
     "inchi": "InChI=1S/Be.2H2O/h;2*1H2/q+2;;/p-2",
     "inchiKey": "InChIKey=WPJWIROQQFWMMK-UHFFFAOYSA-L",
     "smiles": "O[Be]O"
+  },
+  "1333-74-0": {
+    "MW": 2.01588,
+    "Name": "hydrogen",
+    "Other Names": [
+      "Dihydrogen",
+      "Hydrogen",
+      "Hydrogen (H2)",
+      "Hydrogen element",
+      "Hydrogen gas",
+      "Hydrogen molecule",
+      "Mol. hydrogen",
+      "Molecular hydrogen",
+      "Orthohydrogen",
+      "Parahydrogen"
+    ],
+    "formula": "H2",
+    "inchi": "InChI=1S/H2/h1H",
+    "inchiKey": "InChIKey=UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+    "smiles": "[H][H]"
   },
   "1335-31-5": {
     "MW": 469.2142,

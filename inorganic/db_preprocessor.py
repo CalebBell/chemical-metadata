@@ -56,6 +56,56 @@ MnF2 = {'pubchem': 24528, 'name': 'manganese difluoride'}
 CsO3P = {'pubchem': 23674445, 'name': 'cesium metaphosphate'}
 Br2Ga =  {'pubchem': 6394124, 'name': 'gallium(I,III) bromide'}
 
+H2 = {'pubchem': 783, 'synonyms': ['dihydrogen', 'molecular hydrogen', 'hydrogen (normal)', 'hydrogen gas', 'hydrogen molecule', 'hydrogen-molecule', 'hydrogen (H2)', 
+                                    'mol. hydrogen', 'h-h', 'hydrogen [HSDB]', 'hydrogen [MI]', 'hydrogen [WHO-DD]', 'hydrogen, >=99.99%', 
+                                    'hydrogen, >=99.999%', 'hydrogen, messer(r) cangas, 99.999%', 'UN 1049', 'UN 1966', 'E949', 'e 949', 'e-949', 
+                                    'hidrogeno', 'hydrogene', 'wasserstoff', 'DTXSID9029643', 'CHEBI:18276', 'C00282', 'Q3027893',
+                                    'equilibrium hydrogen', 'e-H2', 'eH2', 'e-hydrogen', 'equilibrium-H2', 'equilibrium form of hydrogen', 
+                                    'equilibrium modification of hydrogen', 'equilibrium spin isomer of hydrogen', 
+                                    'equilibrium nuclear spin isomer of molecular hydrogen', 'thermal equilibrium hydrogen',
+                                    'temperature-equilibrated hydrogen', 'thermally equilibrated hydrogen', 'equilibrated hydrogen mixture', 
+                                    'temperature-dependent hydrogen mixture', 'equilibrium ortho-para mixture', 'equilibrium o/p hydrogen'], 
+                                    'hardcoded_synonyms': True}
+
+H2S4 = {'pubchem': 82836, 'name': 'dihydrogen tetrasulfide'}
+H2S5 = {'pubchem': 448216, 'name': 'dihydrogen pentasulfide'}
+
+parahydrogen = {'pubchem': None, 'name': 'parahydrogen', 'iupac_name': 'parahydrogen', 'formula': 'H2','synonyms': ['pH2', 'p-H2', 'para-hydrogen', 'p-hydrogen', 
+                        'para-H2','para form of hydrogen','para modification of hydrogen', 'para spin isomer of hydrogen',
+                         'para nuclear spin isomer of molecular hydrogen', '800000-49-1'], 'smiles': '', 'inchi': '', 'inchikey': '',
+                         'hardcoded_synonyms': True}
+orthohydrogen = {'pubchem': None, 'name': 'orthohydrogen', 'iupac_name': 'orthohydrogen', 'formula': 'H2','synonyms': ['oH2', 'o-H2', 'ortho-hydrogen', 'o-hydrogen', 
+                        'ortho-H2','ortho form of hydrogen','ortho modification of hydrogen', 'ortho spin isomer of hydrogen',
+                         'ortho nuclear spin isomer of molecular hydrogen', '800000-50-4'], 'smiles': '', 'inchi': '', 'inchikey': '',
+                         'hardcoded_synonyms': True}
+normal_hydrogen =  {'pubchem': None, 'name': 'normal hydrogen', 'iupac_name': 'normal hydrogen', 'formula': 'H2','synonyms': ['nH2', 'n-H2', 'normal-hydrogen', 'n-hydrogen', 
+                        'normal-H2','normal form of hydrogen', '800000-51-5',
+                        'normal form of hydrogen', 'normal modification of hydrogen', 'room temperature hydrogen mixture',
+                         'standard hydrogen mixture', '3:1 ortho:para hydrogen mixture', '75:25 ortho:para hydrogen mixture'], 
+                         'smiles': '', 'inchi': '', 'inchikey': '',
+                         'hardcoded_synonyms': True}
+
+H = {'pubchem': 5362549,
+    'formula': 'H',
+    'smiles': '[H]',
+    'inchi': 'H',
+    'inchikey': 'YZCKVEUIGOORGS-UHFFFAOYSA-N',
+    'iupac_name': 'atomic hydrogen',
+    'name': 'atomic hydrogen',
+    'synonyms': ['hydrogen (atomic)',
+    'hydrogen monatomic',
+    'hydrogen atom',
+    '1H',
+    'H-1',
+    'protium',
+    'atomic hydrogen',
+    'hydrogen radical',
+    'hydrogen (H1)',
+    'monatomic hydrogen',
+    'atomic protium',
+    'protium (atomic hydrogen)'],
+    'hardcoded_synonyms': True
+    }
 
 custom_compounds = {'13536-95-3': D2Se, '16919-19-0': ammonium_hexafluorosilicate,
                '13454-75-6': CsBromate, '10097-32-2': Br, '2099990000-00-0': NaAlO4H4,
@@ -78,6 +128,15 @@ custom_compounds = {'13536-95-3': D2Se, '16919-19-0': ammonium_hexafluorosilicat
                '7782-64-1': MnF2,
                '13783-11-4': CsO3P,
                '18933-31-8': Br2Ga,
+
+                '1333-74-0': H2,
+                '13845-25-5': H2S4,
+                '13845-24-4': H2S5,
+
+                '2099490000-00-0': parahydrogen,
+                '2099479000-00-0': orthohydrogen,
+                '2099474000-00-0': normal_hydrogen,
+                '12385-13-6': H,
                }
 
 for CAS, d in custom_compounds.items():

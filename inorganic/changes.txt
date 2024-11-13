@@ -1,0 +1,16 @@
+Chemical Metadata Difference Report
+=================================
+
+Summary:
+- Compounds removed: 0
+- Compounds added: 0
+- Compounds with property changes: 0
+- Compounds with synonym changes: 1
+
+
+Synonym Changes:
+---------------
+CAS: 2099479000-00-0 (orthohydrogen)
+  - 800000-54-8
+  + 800000-50-4
+

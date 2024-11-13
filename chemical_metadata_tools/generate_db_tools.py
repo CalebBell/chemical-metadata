@@ -293,7 +293,7 @@ class ChemicalMetadataProcessor:
             return None
             
         d = self.syn_data[CAS]
-        if 'pubchem' in d:
+        if 'pubchem' in d and d['pubchem'] is not None:
             return self._get_pubchem_data(d['pubchem'])
         else:
             return ChemicalData(
@@ -427,6 +427,8 @@ class ChemicalMetadataProcessor:
                 if n not in synonyms:
                     synonyms.append(n)
 
+        if 'hardcoded_synonyms' in syn_dict and syn_dict['hardcoded_synonyms']:
+            synonyms = syn_dict['synonyms']
         synonyms = [i for i in synonyms if i]
         synonyms = deduplicate_names(synonyms)
         synonyms = remove_inchikeys(synonyms)
@@ -448,6 +450,10 @@ class ChemicalMetadataProcessor:
         inchikey = syn_dict.get('inchikey', mol_data.inchikey)
 
         iupac_name = syn_dict.get('iupac_name', iupac_name)
+        if 'pubchem' in syn_dict:
+            cid = syn_dict['pubchem']
+            if cid is None:
+                cid = -1
 
         if inchi_val in synonyms:
             synonyms.remove(inchi_val)
@@ -504,9 +510,12 @@ class ChemicalMetadataProcessor:
             return None
 
     def remove_unwanted_compounds_after_processing(self, combined_data):
-        if ((combined_data.name is not None and 'polymer' in combined_data.name)
-            or (combined_data.iupac_name is not None and 'polymer' in combined_data.iupac_name)):
-            return None
+        bad_terms = ('dimer', 'trimer', 'tetramer', 'pentamer', 'hexamer', 'heptamer', 'octamer', 'nonamer', 'decamer', 'undecamer', 'dodecamer', 'tridecamer', 'tetradecamer', 'pentadecamer', 'hexadecamer', 'heptadecamer', 'octadecamer', 'nonadecamer', 'icosamer', 'triacontamer', 'tetracontamer', 'pentacontamer', 'hectomer', 'oligomer', 'polymer', 'protomer')
+        bad_terms = ('polymer',)
+        for bad_term in bad_terms:
+            if ((combined_data.name is not None and bad_term in combined_data.name.lower())
+                or (combined_data.iupac_name is not None and bad_term in combined_data.iupac_name.lower())):
+                return None
         return combined_data
 
 
