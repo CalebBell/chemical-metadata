@@ -97,6 +97,27 @@ custom_chemicals['616-38-6'] = {'synonyms': ['dimethyl ester carbonic acid']}
 custom_chemicals['1885-48-9'] = {'synonyms': ['2,2,2-trifluoroethyl-difluoromethyl-ether']}
 custom_chemicals['22410-44-2'] = {'synonyms': ['methyl-pentafluoroethyl-ether']}
 
+custom_chemicals['75-69-4'] = {'synonyms': ['R-11']}
+custom_chemicals['76-19-7'] = {'synonyms': ['R-218']}
+custom_chemicals['359-35-3'] = {'synonyms': ['R-134']}
+custom_chemicals['420-46-2'] = {'synonyms': ['R-143a']}
+custom_chemicals['430-66-0'] = {'synonyms': ['R-143']}
+custom_chemicals['431-89-0'] = {'synonyms': ['R-227ea']}
+
+
+custom_chemicals['306-83-2'] = {'synonyms': ['R-123']}
+custom_chemicals['354-23-4'] = {'synonyms': ['R-123a']}
+
+# while adding Poling full table of names checks
+custom_chemicals['92-52-4'] = {'synonyms': ['1,1`-biphenyl']}
+custom_chemicals['355-25-9'] = {'synonyms': ['decafluoro-2-methylpropane']}
+custom_chemicals['2207-04-7'] = {'synonyms': ['t-1,4-dimethylcyclohexane']}
+custom_chemicals['75-31-0'] = {'synonyms': ['2-propanamine', 'methyl ethyl amine']}
+custom_chemicals['95-65-8'] = {'synonyms': ['3,4-dimethylphenol', '3,4 xylenol']}
+custom_chemicals['98-82-8'] = {'synonyms': ['1-methylethylbenzene', 'cumene']}
+custom_chemicals['583-61-9'] = {'synonyms': ['2,3 lutidine']}
+custom_chemicals['108-68-9'] = {'synonyms': ['3,5-dimethylphenol', '3,5 xylenol']}
+
 # this is a trimer, its synonyms point to the actual chemical and replace it :(
 custom_chemicals['26472-00-4'] = {'synonyms': ['3a,4,7,7a-tetrahydrodimethyl-4,7-methano-1h-indene',
 '4,7-methano-1h-indene, 3a,4,7,7a-tetrahydrodimethyl-',

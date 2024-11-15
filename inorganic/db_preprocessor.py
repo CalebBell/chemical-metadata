@@ -55,6 +55,8 @@ MnSiO3 = {'pubchem': 13932121, 'name': 'manganese silicate'}
 MnF2 = {'pubchem': 24528, 'name': 'manganese difluoride'}
 CsO3P = {'pubchem': 23674445, 'name': 'cesium metaphosphate'}
 Br2Ga =  {'pubchem': 6394124, 'name': 'gallium(I,III) bromide'}
+K2S5 = {'name': 'K2S5', 'iupac_name': 'K2S5'}
+K2S6 = {'name': 'K2S6', 'iupac_name': 'K2S6'}
 
 H2 = {'pubchem': 783, 'synonyms': ['dihydrogen', 'molecular hydrogen', 'hydrogen (normal)', 'hydrogen gas', 'hydrogen molecule', 'hydrogen-molecule', 'hydrogen (H2)', 
                                     'mol. hydrogen', 'h-h', 'hydrogen [HSDB]', 'hydrogen [MI]', 'hydrogen [WHO-DD]', 'hydrogen, >=99.99%', 
@@ -72,16 +74,17 @@ H2S5 = {'pubchem': 448216, 'name': 'dihydrogen pentasulfide'}
 
 parahydrogen = {'pubchem': None, 'name': 'parahydrogen', 'iupac_name': 'parahydrogen', 'formula': 'H2','synonyms': ['pH2', 'p-H2', 'para-hydrogen', 'p-hydrogen', 
                         'para-H2','para form of hydrogen','para modification of hydrogen', 'para spin isomer of hydrogen',
-                         'para nuclear spin isomer of molecular hydrogen', '800000-49-1'], 'smiles': '', 'inchi': '', 'inchikey': '',
+                         'para nuclear spin isomer of molecular hydrogen', '800000-49-1', '1333-74-0p'], 'smiles': '', 'inchi': '', 'inchikey': '',
                          'hardcoded_synonyms': True}
 orthohydrogen = {'pubchem': None, 'name': 'orthohydrogen', 'iupac_name': 'orthohydrogen', 'formula': 'H2','synonyms': ['oH2', 'o-H2', 'ortho-hydrogen', 'o-hydrogen', 
                         'ortho-H2','ortho form of hydrogen','ortho modification of hydrogen', 'ortho spin isomer of hydrogen',
-                         'ortho nuclear spin isomer of molecular hydrogen', '800000-50-4'], 'smiles': '', 'inchi': '', 'inchikey': '',
+                         'ortho nuclear spin isomer of molecular hydrogen', '800000-50-4', '1333-74-0o'], 'smiles': '', 'inchi': '', 'inchikey': '',
                          'hardcoded_synonyms': True}
 normal_hydrogen =  {'pubchem': None, 'name': 'normal hydrogen', 'iupac_name': 'normal hydrogen', 'formula': 'H2','synonyms': ['nH2', 'n-H2', 'normal-hydrogen', 'n-hydrogen', 
                         'normal-H2','normal form of hydrogen', '800000-51-5',
                         'normal form of hydrogen', 'normal modification of hydrogen', 'room temperature hydrogen mixture',
-                         'standard hydrogen mixture', '3:1 ortho:para hydrogen mixture', '75:25 ortho:para hydrogen mixture'], 
+                         'standard hydrogen mixture', '3:1 ortho:para hydrogen mixture', '75:25 ortho:para hydrogen mixture',
+                         'hydrogen, normal'], 
                          'smiles': '', 'inchi': '', 'inchikey': '',
                          'hardcoded_synonyms': True}
 
@@ -106,8 +109,59 @@ H = {'pubchem': 5362549,
     'protium (atomic hydrogen)'],
     'hardcoded_synonyms': True
     }
+paradeuterium = {
+    'pubchem': None, 
+    'name': 'paradeuterium', 
+    'iupac_name': 'paradeuterium', 
+    'formula': 'D2',
+    'synonyms': [
+        'pD2', 'p-D2', 'para-deuterium', 'p-deuterium',
+        'para-D2', 'para form of deuterium', 'para modification of deuterium', 
+        'para spin isomer of deuterium',
+        'para nuclear spin isomer of molecular deuterium', 
+    ],
+    'smiles': '', 
+    'inchi': '', 
+    'inchikey': '',
+    'hardcoded_synonyms': True
+}
 
-custom_compounds = {'13536-95-3': D2Se, '16919-19-0': ammonium_hexafluorosilicate,
+orthodeuterium = {
+    'pubchem': None, 
+    'name': 'orthodeuterium', 
+    'iupac_name': 'orthodeuterium', 
+    'formula': 'D2',
+    'synonyms': [
+        'oD2', 'o-D2', 'ortho-deuterium', 'o-deuterium',
+        'ortho-D2', 'ortho form of deuterium', 'ortho modification of deuterium', 
+        'ortho spin isomer of deuterium',
+        'ortho nuclear spin isomer of molecular deuterium', 
+    ],
+    'smiles': '', 
+    'inchi': '', 
+    'inchikey': '',
+    'hardcoded_synonyms': True
+}
+
+normal_deuterium = {
+    'pubchem': None, 
+    'name': 'normal deuterium', 
+    'iupac_name': 'normal deuterium', 
+    'formula': 'D2',
+    'synonyms': [
+        'nD2', 'n-D2', 'normal-deuterium', 'n-deuterium', 'deuterium, normal',
+        'normal-D2', 'normal form of deuterium',
+        'normal form of deuterium', 'normal modification of deuterium', 
+        'room temperature deuterium mixture',
+        'standard deuterium mixture', '2:1 ortho:para deuterium mixture', 
+    ],
+    'smiles': '', 
+    'inchi': '', 
+    'inchikey': '',
+    'hardcoded_synonyms': True
+}
+custom_compounds = {    
+    '13536-95-3': D2Se, '16919-19-0': ammonium_hexafluorosilicate,
                '13454-75-6': CsBromate, '10097-32-2': Br, '2099990000-00-0': NaAlO4H4,
                '7558-79-4': Na2HPO4, '7558-80-7': NaH2PO4, '18939-61-2': CuH2O4S,
                '145226-95-5': NaSesquisulfate, '16893-85-9': F6Na2Si,
@@ -129,6 +183,9 @@ custom_compounds = {'13536-95-3': D2Se, '16919-19-0': ammonium_hexafluorosilicat
                '13783-11-4': CsO3P,
                '18933-31-8': Br2Ga,
 
+               '12136-50-4': K2S5,
+               '37188-07-1': K2S6,
+
                 '1333-74-0': H2,
                 '13845-25-5': H2S4,
                 '13845-24-4': H2S5,
@@ -137,7 +194,17 @@ custom_compounds = {'13536-95-3': D2Se, '16919-19-0': ammonium_hexafluorosilicat
                 '2099479000-00-0': orthohydrogen,
                 '2099474000-00-0': normal_hydrogen,
                 '12385-13-6': H,
+
+                '2099458000-00-0': paradeuterium,
+                '2099453000-00-0': orthodeuterium,
+                '2099437000-00-0': normal_deuterium,
+    
                }
+
+custom_compounds['10022-50-1'] = {'synonyms': ['nitrogen dioxyfluoride']}
+custom_compounds['10544-72-6'] = {'synonyms': ['dinitrogen tetroxide']}
+custom_compounds['13536-59-9'] = {'synonyms': ['deuteriumbromide']}
+
 
 for CAS, d in custom_compounds.items():
     if CAS in good_syns:

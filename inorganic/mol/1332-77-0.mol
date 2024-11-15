@@ -1,0 +1,130 @@
+9816075
+  -OEChem-11142417002D
+
+ 13 12  0     0  0  0  0  0  0999 V2000
+    9.0294   -1.6693    0.0000 K   0  3  0  0  0  0  0  0  0  0  0  0
+    2.0000   -0.2849    0.0000 K   0  3  0  0  0  0  0  0  0  0  0  0
+    5.2780    1.6693    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9814    0.3756    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4463    0.4890    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5348   -1.1449    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0275   -1.0739    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7660   -0.9277    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    8.7706   -0.7034    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    6.0146    0.6867    0.0000 B   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7558   -0.2792    0.0000 B   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7057   -0.5857    0.0000 B   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8046   -0.4446    0.0000 B   0  0  0  0  0  0  0  0  0  0  0  0
+  3 10  1  0  0  0  0
+  3 11  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 12  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 13  1  0  0  0  0
+  6 11  1  0  0  0  0
+  6 12  1  0  0  0  0
+  7 11  1  0  0  0  0
+  7 13  1  0  0  0  0
+  8 12  1  0  0  0  0
+  9 13  1  0  0  0  0
+M  CHG  4   1   1   2   1   8  -1   9  -1
+M  END
+> <PUBCHEM_COMPOUND_CID>
+9816075
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+121
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+7
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+0
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADcQOAOAAAYAAAAAAAAAAAAAAAAAAAAAAkSAAAAAASAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+dipotassium;3,7-dioxido-2,4,6,8,9-pentaoxa-1,3,5,7-tetraborabicyclo[3.3.1]nonane
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+dipotassium;3,7-dioxido-2,4,6,8,9-pentaoxa-1,3,5,7-tetraborabicyclo[3.3.1]nonane
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+dipotassium;3,7-dioxido-2,4,6,8,9-pentaoxa-1,3,5,7-tetraborabicyclo[3.3.1]nonane
+
+> <PUBCHEM_IUPAC_NAME>
+dipotassium;3,7-dioxido-2,4,6,8,9-pentaoxa-1,3,5,7-tetraborabicyclo[3.3.1]nonane
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+dipotassium;3,7-bis(oxidanidyl)-2,4,6,8,9-pentaoxa-1,3,5,7-tetraborabicyclo[3.3.1]nonane
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+dipotassium;3,7-dioxido-2,4,6,8,9-pentaoxa-1,3,5,7-tetraborabicyclo[3.3.1]nonane
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/B4O7.2K/c5-1-7-3-9-2(6)10-4(8-1)11-3;;/q-2;2*+1
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+FZQSLXQPHPOTHG-UHFFFAOYSA-N
+
+> <PUBCHEM_EXACT_MASS>
+233.9290360
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+B4K2O7
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+233.4
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+B1(OB2OB(OB(O1)O2)[O-])[O-].[K+].[K+]
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+B1(OB2OB(OB(O1)O2)[O-])[O-].[K+].[K+]
+
+> <PUBCHEM_CACTVS_TPSA>
+92.3
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+233.9290360
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+13
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+3
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+$$$$

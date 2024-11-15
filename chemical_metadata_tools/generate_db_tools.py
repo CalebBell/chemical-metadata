@@ -509,12 +509,15 @@ class ChemicalMetadataProcessor:
             logger.error(f"Failed to process {filepath}: {str(e)}")
             return None
 
-    def remove_unwanted_compounds_after_processing(self, combined_data):
+    def remove_unwanted_compounds_after_processing(self, combined_data, CAS):
         bad_terms = ('dimer', 'trimer', 'tetramer', 'pentamer', 'hexamer', 'heptamer', 'octamer', 'nonamer', 'decamer', 'undecamer', 'dodecamer', 'tridecamer', 'tetradecamer', 'pentadecamer', 'hexadecamer', 'heptadecamer', 'octadecamer', 'nonadecamer', 'icosamer', 'triacontamer', 'tetracontamer', 'pentacontamer', 'hectomer', 'oligomer', 'polymer', 'protomer')
-        bad_terms = ('polymer',)
+        bad_terms = ('polymer','poly')
         for bad_term in bad_terms:
             if ((combined_data.name is not None and bad_term in combined_data.name.lower())
                 or (combined_data.iupac_name is not None and bad_term in combined_data.iupac_name.lower())):
+                # exceptions
+                if CAS in ('7758-29-4',):
+                    return combined_data
                 return None
         return combined_data
 
@@ -528,7 +531,7 @@ class ChemicalMetadataProcessor:
                 
             pubchem_data = self._get_pubchem_additional_data(mol_data)
             combined_data = self._combine_with_scifinder(CAS, mol_data, pubchem_data)
-            combined_data = self.remove_unwanted_compounds_after_processing(combined_data)
+            combined_data = self.remove_unwanted_compounds_after_processing(combined_data, CAS)
             if combined_data is None:
                 return None
             return self._format_output(combined_data, CAS)

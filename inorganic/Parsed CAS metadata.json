@@ -1,4 +1,18 @@
 {
+  "10022-50-1": {
+    "MW": 65.0039032,
+    "Name": "nitryl fluoride",
+    "Other Names": [
+      "Fluorine nitrite (FNO2)",
+      "Nitrogen oxyfluoride",
+      "Nitryl fluoride",
+      "Nitryl fluoride ((NO2)F)"
+    ],
+    "formula": "FNO2",
+    "inchi": "InChI=1S/FNO2/c1-2(3)4",
+    "inchiKey": "InChIKey=JVJQPDTXIALXOG-UHFFFAOYSA-N",
+    "smiles": "O=N(=O)F"
+  },
   "10022-68-1": {
     "MW": 113.19300000000001,
     "Name": "cadmium nitrate tetrahydrate",
@@ -188,6 +202,22 @@
     "inchi": "InChI=1S/Co.2FH/h;2*1H/q+2;;/p-2",
     "inchiKey": "InChIKey=YCYBZKSMUPTWEE-UHFFFAOYSA-L",
     "smiles": "F[Co]F"
+  },
+  "10028-17-8": {
+    "MW": 6.0320984,
+    "Name": "tritium",
+    "Other Names": [
+      "3H",
+      "Ditritium",
+      "Hydrogen, isotope of mass 3",
+      "Hydrogen-3",
+      "Molecular tritium",
+      "Tritium"
+    ],
+    "formula": "T2",
+    "inchi": "InChI=1S/H2/h1H/i1+2T",
+    "inchiKey": "InChIKey=UFHFLCQGNIYNRP-JMRXTUGHSA-N",
+    "smiles": "[H][H]"
   },
   "10031-13-7": {
     "MW": 350.32702,
@@ -660,6 +690,29 @@
     "inchiKey": "InChIKey=BXSPBCPKXAWLNL-UHFFFAOYSA-N",
     "smiles": "[Li].O=[Si](O)O"
   },
+  "10102-43-9": {
+    "MW": 30.0061,
+    "Name": "nitric oxide",
+    "Other Names": [
+      "Amidogen, oxo-",
+      "INOmax",
+      "INOvent",
+      "Nitric oxide",
+      "Nitric oxide (NO)",
+      "Nitric oxide trimer",
+      "Nitrogen monooxide",
+      "Nitrogen monoxide",
+      "Nitrogen oxide (N4O4)",
+      "Nitrogen oxide (NO)",
+      "Nitrogen(II) oxide",
+      "Nitrosyl radical",
+      "OHM 11771"
+    ],
+    "formula": "NO",
+    "inchi": "InChI=1S/NO/c1-2",
+    "inchiKey": "InChIKey=MWUXSHHQAYIFBG-UHFFFAOYSA-N",
+    "smiles": "[N]=O"
+  },
   "10102-44-0": {
     "Deleted CAS": [
       "50443-93-1",
@@ -1036,6 +1089,21 @@
     "inchi": "InChI=1S/3ClH.Co.6H3N/h3*1H;;6*1H3/q;;;+3;;;;;;/p-3",
     "inchiKey": "InChIKey=JXBGZYGSWFSYFI-UHFFFAOYSA-K",
     "smiles": "[Cl-].[NH3][Co+3]([NH3])([NH3])([NH3])([NH3])[NH3]"
+  },
+  "10544-72-6": {
+    "MW": 92.011,
+    "Name": "nitrogen oxide (N2O4)",
+    "Other Names": [
+      "Dinitrogen tetraoxide",
+      "Dinitrogen tetroxide",
+      "Nitrogen oxide (N2O4)",
+      "Nitrogen tetraoxide",
+      "Nitrogen tetroxide"
+    ],
+    "formula": "N2O4",
+    "inchi": "InChI=1S/N2O4/c3-1(4)2(5)6",
+    "inchiKey": "InChIKey=WFPZPJSADLPSON-UHFFFAOYSA-N",
+    "smiles": "O=N(=O)N(=O)=O"
   },
   "10546-01-7": {
     "MW": 127.05701599999999,
@@ -5806,6 +5874,23 @@
     ],
     "formula": "B4Na2O7"
   },
+  "1332-77-0": {
+    "MW": 65.9087,
+    "Name": "potassium tetraborate",
+    "Other Names": [
+      "Boric acid (H2B4O7), dipotassium salt",
+      "Boron potassium oxide (B4K2O7)",
+      "Dipotassium tetraborate",
+      "Potassium borate",
+      "Potassium borate (K2B4O7)",
+      "Potassium tetraborate",
+      "Potassium tetraborate (K2B4O7)"
+    ],
+    "formula": "B.K.O",
+    "inchi": "InChI=1S/B.K.O",
+    "inchiKey": "InChIKey=JCCUHNMSCNCTHU-UHFFFAOYSA-N",
+    "smiles": "[B].[O].[K]"
+  },
   "13327-32-7": {
     "MW": 43.026861999999994,
     "Name": "beryllium hydroxide",
@@ -6504,6 +6589,23 @@
     "inchiKey": "InChIKey=LPWRMIDZYQRIKR-UHFFFAOYSA-N",
     "smiles": "O=N(=O)O[U](=O)(=O)ON(=O)=O.O"
   },
+  "13536-59-9": {
+    "MW": 81.91810199999999,
+    "Name": "hydrobromic acid-d",
+    "Other Names": [
+      "Deuteriobromic acid",
+      "Deuterium bromide",
+      "Deuterium bromide (DBr)",
+      "Deuterium monobromide",
+      "Hydrobromic acid-d",
+      "Hydrogen bromide-d",
+      "Hydrogen-d bromide"
+    ],
+    "formula": "BrD",
+    "inchi": "InChI=1S/BrH/h1H/i/hD",
+    "inchiKey": "InChIKey=CPELXLSAUQHCOX-DYCDLGHISA-N",
+    "smiles": "Br"
+  },
   "13536-61-3": {
     "MW": 162.9662032,
     "Name": "sulfuryl bromide fluoride",
@@ -6616,6 +6718,24 @@
     "inchi": "InChI=1S/BrHO3.Li/c2-1(3)4;/h(H,2,3,4);",
     "inchiKey": "InChIKey=LQKIVWDJCSFXAO-UHFFFAOYSA-N",
     "smiles": "[Li].O=Br(=O)O"
+  },
+  "13550-49-7": {
+    "MW": 20.049006,
+    "Name": "ammonia-d3",
+    "Other Names": [
+      "Ammonia (ND3)",
+      "Ammonia-d3",
+      "Perdeuterated ammonia",
+      "Perdeuterioammonia",
+      "Perdeuteroammonia",
+      "Trideuterated ammonia",
+      "Trideuterioammonia",
+      "Trideuteroammonia"
+    ],
+    "formula": "D3N",
+    "inchi": "InChI=1S/H3N/h1H3/i/hD3",
+    "inchiKey": "InChIKey=QGZKDVFQNNGYKY-ZRLBSURWSA-N",
+    "smiles": "N"
   },
   "13565-96-3": {
     "MW": 320.9398,
@@ -7662,6 +7782,25 @@
     "inchiKey": "InChIKey=NUZIUQUIUFXLAH-UHFFFAOYSA-N",
     "smiles": "[Ba+2].N#[C-][Fe+2]([C-]#N)([C-]#N)([C-]#N)([C-]#N)[C-]#N"
   },
+  "13821-20-0": {
+    "MW": 153.61247816,
+    "Name": "aluminate(3-), hexafluoro-, lithium (1:3), (OC-6-11)-",
+    "Other Names": [
+      "Aluminate(3-), hexafluoro-, lithium (1:3), (OC-6-11)-",
+      "Aluminate(3-), hexafluoro-, trilithium",
+      "Aluminate(3-), hexafluoro-, trilithium, (OC-6-11)-",
+      "Aluminum lithium fluoride (AlLi3F4)",
+      "Aluminum lithium fluoride (AlLi3F6)",
+      "Lithium hexafluoroaluminate",
+      "Lithium hexafluoroaluminate(3-)",
+      "Trilithium hexafluoroaluminate",
+      "Trilithium hexafluoroaluminum(3-)"
+    ],
+    "formula": "AlF6.3Li",
+    "inchi": "InChI=1S/Al.6FH.3Li/h;6*1H;;;/q+3;;;;;;;3*+1/p-6",
+    "inchiKey": "InChIKey=VRSRNLHMYUACMN-UHFFFAOYSA-H",
+    "smiles": "[Li+].[F-][Al+3]([F-])([F-])([F-])([F-])[F-]"
+  },
   "13825-25-7": {
     "Deleted CAS": [
       "15796-95-9"
@@ -8196,6 +8335,21 @@
     "inchi": "InChI=1S/Ca/q+1",
     "inchiKey": "InChIKey=JDMNMMCDWTVNSP-UHFFFAOYSA-N",
     "smiles": "[Ca+]"
+  },
+  "14104-45-1": {
+    "MW": 128.918572,
+    "Name": "hydriodic acid-d",
+    "Other Names": [
+      "Deuterium iodide",
+      "Deuterium iodide (DI)",
+      "Hydriodic acid-d",
+      "Hydrogen iodide-d",
+      "Hydrogen-d iodide"
+    ],
+    "formula": "DI",
+    "inchi": "InChI=1S/HI/h1H/i/hD",
+    "inchiKey": "InChIKey=XMBWDFGMSWQBCA-DYCDLGHISA-N",
+    "smiles": "I"
   },
   "142-47-2": {
     "MW": 170.11902999999998,
@@ -13972,6 +14126,25 @@
     "inchiKey": "InChIKey=IGJWHVUMEJASKV-UHFFFAOYSA-N",
     "smiles": "[Cl+]"
   },
+  "24597-12-4": {
+    "MW": 281.25800000000004,
+    "Name": "gallate(1-), tetrachloro-, gallium(1+) (1:1), (T-4)-",
+    "Other Names": [
+      "Digallium tetrachloride",
+      "Gallate(1-), tetrachloro-, gallium(1+)",
+      "Gallate(1-), tetrachloro-, gallium(1+) (1:1), (T-4)-",
+      "Gallate(1-), tetrachloro-, gallium(1+), (T-4)-",
+      "Gallium chloride (Ga2Cl4)",
+      "Gallium tetrachlorogallate",
+      "Gallium tetrachlorogallate(1-)",
+      "Gallium(1+) tetrachlorogallate(1-)",
+      "NSC 93998"
+    ],
+    "formula": "Cl4Ga.Ga",
+    "inchi": "InChI=1S/4ClH.2Ga/h4*1H;;/q;;;;+1;+3/p-4",
+    "inchiKey": "InChIKey=MYDQAUWTAUNBJC-UHFFFAOYSA-J",
+    "smiles": "[Ga+].[Cl-][Ga+3]([Cl-])([Cl-])[Cl-]"
+  },
   "2487-90-3": {
     "MW": 122.1952,
     "Name": "trimethoxysilane",
@@ -14194,6 +14367,19 @@
     "inchi": "InChI=1S/Ba.O.W.Y",
     "inchiKey": "InChIKey=LSNSSRBFBNWYGI-UHFFFAOYSA-N",
     "smiles": "[O].[Y].[Ba].[W]"
+  },
+  "37488-75-8": {
+    "MW": 174.39159999999998,
+    "Name": "potassium sulfide (K2(S3))",
+    "Other Names": [
+      "Dipotassium trisulfide",
+      "Potassium sulfide (K2(S3))",
+      "Potassium sulfide (K2S3)"
+    ],
+    "formula": "K2S3",
+    "inchi": "InChI=1S/2K.H2S3/c;;1-3-2/h;;1-2H/q2*+1;/p-2",
+    "inchiKey": "InChIKey=YJGLJZCJQQYDRF-UHFFFAOYSA-L",
+    "smiles": "[K]SSS[K]"
   },
   "37501-24-9": {
     "MW": 268.21061280000004,
@@ -15305,6 +15491,26 @@
     "inchi": "InChI=1S/BHO2.Na/c2-1-3;/h2H;",
     "inchiKey": "InChIKey=LJKPPVHAMRFFOZ-UHFFFAOYSA-N",
     "smiles": "[Na].O=BO"
+  },
+  "7782-39-0": {
+    "MW": 4.028204,
+    "Name": "deuterium",
+    "Other Names": [
+      "2H",
+      "Deuterium",
+      "Deuterium (D2)",
+      "Deuterium mol.",
+      "Deuterium molecule",
+      "Dideuterium",
+      "Diplogen",
+      "Hydrogen, isotope of mass 2",
+      "Hydrogen-2",
+      "Hydrogen-d2"
+    ],
+    "formula": "D2",
+    "inchi": "InChI=1S/H2/h1H/i1+1D",
+    "inchiKey": "InChIKey=UFHFLCQGNIYNRP-VVKOMZTBSA-N",
+    "smiles": "[H][H]"
   },
   "7782-64-1": {
     "MW": 92.9348554,

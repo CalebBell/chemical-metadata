@@ -1,4 +1,9 @@
 {
+  "10022-50-1": {
+    "synonyms": [
+      "nitrogen dioxyfluoride"
+    ]
+  },
   "10022-68-1": {
     "synonyms": []
   },
@@ -30,6 +35,9 @@
     "synonyms": []
   },
   "10026-17-2": {
+    "synonyms": []
+  },
+  "10028-17-8": {
     "synonyms": []
   },
   "10031-13-7": {
@@ -100,6 +108,9 @@
   "10102-24-6": {
     "synonyms": []
   },
+  "10102-43-9": {
+    "synonyms": []
+  },
   "10102-44-0": {
     "synonyms": []
   },
@@ -153,6 +164,11 @@
   },
   "10381-37-0": {
     "synonyms": []
+  },
+  "10544-72-6": {
+    "synonyms": [
+      "dinitrogen tetroxide"
+    ]
   },
   "10546-01-7": {
     "synonyms": []
@@ -441,6 +457,11 @@
   "12136-45-7": {
     "synonyms": []
   },
+  "12136-50-4": {
+    "iupac_name": "K2S5",
+    "name": "K2S5",
+    "synonyms": []
+  },
   "12136-58-2": {
     "synonyms": []
   },
@@ -656,6 +677,9 @@
     "pubchem": 10219853,
     "synonyms": []
   },
+  "1332-77-0": {
+    "synonyms": []
+  },
   "13327-32-7": {
     "synonyms": []
   },
@@ -835,6 +859,11 @@
   "13520-83-7": {
     "synonyms": []
   },
+  "13536-59-9": {
+    "synonyms": [
+      "deuteriumbromide"
+    ]
+  },
   "13536-61-3": {
     "synonyms": []
   },
@@ -856,6 +885,9 @@
     "synonyms": []
   },
   "13537-16-1": {
+    "synonyms": []
+  },
+  "13550-49-7": {
     "synonyms": []
   },
   "13565-96-3": {
@@ -1061,6 +1093,9 @@
   "13814-76-1": {
     "synonyms": []
   },
+  "13821-20-0": {
+    "synonyms": []
+  },
   "13825-25-7": {
     "synonyms": []
   },
@@ -1146,6 +1181,9 @@
     "synonyms": []
   },
   "14059-33-7": {
+    "synonyms": []
+  },
+  "14104-45-1": {
     "synonyms": []
   },
   "142-47-2": {
@@ -1369,6 +1407,72 @@
   "20768-68-7": {
     "synonyms": []
   },
+  "2099437000-00-0": {
+    "formula": "D2",
+    "hardcoded_synonyms": true,
+    "inchi": "",
+    "inchikey": "",
+    "iupac_name": "normal deuterium",
+    "name": "normal deuterium",
+    "pubchem": null,
+    "smiles": "",
+    "synonyms": [
+      "nD2",
+      "n-D2",
+      "normal-deuterium",
+      "n-deuterium",
+      "deuterium, normal",
+      "normal-D2",
+      "normal form of deuterium",
+      "normal form of deuterium",
+      "normal modification of deuterium",
+      "room temperature deuterium mixture",
+      "standard deuterium mixture",
+      "2:1 ortho:para deuterium mixture"
+    ]
+  },
+  "2099453000-00-0": {
+    "formula": "D2",
+    "hardcoded_synonyms": true,
+    "inchi": "",
+    "inchikey": "",
+    "iupac_name": "orthodeuterium",
+    "name": "orthodeuterium",
+    "pubchem": null,
+    "smiles": "",
+    "synonyms": [
+      "oD2",
+      "o-D2",
+      "ortho-deuterium",
+      "o-deuterium",
+      "ortho-D2",
+      "ortho form of deuterium",
+      "ortho modification of deuterium",
+      "ortho spin isomer of deuterium",
+      "ortho nuclear spin isomer of molecular deuterium"
+    ]
+  },
+  "2099458000-00-0": {
+    "formula": "D2",
+    "hardcoded_synonyms": true,
+    "inchi": "",
+    "inchikey": "",
+    "iupac_name": "paradeuterium",
+    "name": "paradeuterium",
+    "pubchem": null,
+    "smiles": "",
+    "synonyms": [
+      "pD2",
+      "p-D2",
+      "para-deuterium",
+      "p-deuterium",
+      "para-D2",
+      "para form of deuterium",
+      "para modification of deuterium",
+      "para spin isomer of deuterium",
+      "para nuclear spin isomer of molecular deuterium"
+    ]
+  },
   "2099474000-00-0": {
     "formula": "H2",
     "hardcoded_synonyms": true,
@@ -1391,7 +1495,8 @@
       "room temperature hydrogen mixture",
       "standard hydrogen mixture",
       "3:1 ortho:para hydrogen mixture",
-      "75:25 ortho:para hydrogen mixture"
+      "75:25 ortho:para hydrogen mixture",
+      "hydrogen, normal"
     ]
   },
   "2099479000-00-0": {
@@ -1413,7 +1518,8 @@
       "ortho modification of hydrogen",
       "ortho spin isomer of hydrogen",
       "ortho nuclear spin isomer of molecular hydrogen",
-      "800000-50-4"
+      "800000-50-4",
+      "1333-74-0o"
     ]
   },
   "2099490000-00-0": {
@@ -1435,7 +1541,8 @@
       "para modification of hydrogen",
       "para spin isomer of hydrogen",
       "para nuclear spin isomer of molecular hydrogen",
-      "800000-49-1"
+      "800000-49-1",
+      "1333-74-0p"
     ]
   },
   "2099990000-00-0": {
@@ -1464,6 +1571,9 @@
     "synonyms": []
   },
   "2406-52-2": {
+    "synonyms": []
+  },
+  "24597-12-4": {
     "synonyms": []
   },
   "2487-90-3": {
@@ -1505,7 +1615,15 @@
   "360-89-4": {
     "synonyms": []
   },
+  "37188-07-1": {
+    "iupac_name": "K2S6",
+    "name": "K2S6",
+    "synonyms": []
+  },
   "37265-86-4": {
+    "synonyms": []
+  },
+  "37488-75-8": {
     "synonyms": []
   },
   "37501-24-9": {
@@ -1657,6 +1775,9 @@
     "synonyms": []
   },
   "7775-19-1": {
+    "synonyms": []
+  },
+  "7782-39-0": {
     "synonyms": []
   },
   "7782-64-1": {
