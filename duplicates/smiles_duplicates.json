@@ -1,172 +1,30 @@
 {
-  "[Al+].[OH-].[O]": [
+  "N.O.O=S(=O)(O)O.[Fe]": [
     {
       "entry": {
-        "pubchemid": -1,
-        "CAS": 14457842,
-        "formula": "AlHO2",
-        "MW": 59.988278,
-        "smiles": "[Al+].[OH-].[O]",
-        "InChI": "Al.H2O.O/h;1H2;/q+1;;/p-1",
-        "InChI_key": "FAHBNUUHRFUEAI-UHFFFAOYSA-M",
-        "iupac_name": "hydroxy(oxo)alumane",
-        "common_name": "diaspore"
+        "CAS": 7783837,
+        "InChI": "Fe.H3N.H2O4S.H2O/c;;1-5(2,3)4;/h;1H3;(H2,1,2,3,4);1H2",
+        "InChI_key": "JXXBNTIWCIJSHO-UHFFFAOYSA-N",
+        "MW": 188.96928,
+        "common_name": "ammonium ferric sulfate dodecahydrate",
+        "formula": "FeH7NO5S",
+        "iupac_name": "azane;iron;sulfuric acid;hydrate",
+        "pubchemid": 43835009,
+        "smiles": "N.O.O=S(=O)(O)O.[Fe]"
       },
       "source_file": "Inorganic db.tsv"
     },
     {
       "entry": {
-        "pubchemid": 32524,
-        "CAS": 1318236,
-        "formula": "AlHO2",
-        "MW": 59.988278,
-        "smiles": "[Al+].[OH-].[O]",
-        "InChI": "Al.H2O.O/h;1H2;/q+1;;/p-1",
-        "InChI_key": "FAHBNUUHRFUEAI-UHFFFAOYSA-M",
-        "iupac_name": "hydroxy(oxo)alumane",
-        "common_name": "boehmite (Al(OH)O)"
-      },
-      "source_file": "Inorganic db.tsv"
-    },
-    {
-      "entry": {
-        "pubchemid": 32524,
-        "CAS": 1318236,
-        "formula": "AlHO2",
-        "MW": 59.988278,
-        "smiles": "[Al+].[OH-].[O]",
-        "InChI": "Al.H2O.O/h;1H2;/q+1;;/p-1",
-        "InChI_key": "FAHBNUUHRFUEAI-UHFFFAOYSA-M",
-        "iupac_name": "hydroxy(oxo)alumane",
-        "common_name": "boehmite (Al(OH)O)"
-      },
-      "source_file": "Inorganic db.tsv"
-    },
-    {
-      "entry": {
-        "pubchemid": 32524,
-        "CAS": 1318236,
-        "formula": "AlHO2",
-        "MW": 59.988278,
-        "smiles": "[Al+].[OH-].[O]",
-        "InChI": "Al.H2O.O/h;1H2;/q+1;;/p-1",
-        "InChI_key": "FAHBNUUHRFUEAI-UHFFFAOYSA-M",
-        "iupac_name": "hydroxy(oxo)alumane",
-        "common_name": "boehmite (Al(OH)O)"
-      },
-      "source_file": "Inorganic db.tsv"
-    },
-    {
-      "entry": {
-        "pubchemid": 32524,
-        "CAS": 1318236,
-        "formula": "AlHO2",
-        "MW": 59.988278,
-        "smiles": "[Al+].[OH-].[O]",
-        "InChI": "Al.H2O.O/h;1H2;/q+1;;/p-1",
-        "InChI_key": "FAHBNUUHRFUEAI-UHFFFAOYSA-M",
-        "iupac_name": "hydroxy(oxo)alumane",
-        "common_name": "boehmite (Al(OH)O)"
-      },
-      "source_file": "Inorganic db.tsv"
-    },
-    {
-      "entry": {
-        "pubchemid": 32524,
-        "CAS": 1318236,
-        "formula": "AlHO2",
-        "MW": 59.988278,
-        "smiles": "[Al+].[OH-].[O]",
-        "InChI": "Al.H2O.O/h;1H2;/q+1;;/p-1",
-        "InChI_key": "FAHBNUUHRFUEAI-UHFFFAOYSA-M",
-        "iupac_name": "hydroxy(oxo)alumane",
-        "common_name": "boehmite (Al(OH)O)"
-      },
-      "source_file": "Inorganic db.tsv"
-    }
-  ],
-  "[Mg+2].[OH-].[OH-]": [
-    {
-      "entry": {
-        "pubchemid": 14791,
-        "CAS": 1317437,
-        "formula": "H2MgO2",
-        "MW": 58.31968,
-        "smiles": "[Mg+2].[OH-].[OH-]",
-        "InChI": "Mg.2H2O/h;2*1H2/q+2;;/p-2",
-        "InChI_key": "VTHJTEIRLNZDEV-UHFFFAOYSA-L",
-        "iupac_name": "magnesium;dihydroxide",
-        "common_name": "brucite (Mg(OH)2)"
-      },
-      "source_file": "Inorganic db.tsv"
-    },
-    {
-      "entry": {
-        "pubchemid": 73981,
-        "CAS": 1309428,
-        "formula": "H2MgO2",
-        "MW": 58.31968,
-        "smiles": "[Mg+2].[OH-].[OH-]",
-        "InChI": "Mg.2H2O/h;2*1H2/q+2;;/p-2",
-        "InChI_key": "VTHJTEIRLNZDEV-UHFFFAOYSA-L",
-        "iupac_name": "magnesium;dihydroxide",
-        "common_name": "magnesium hydroxide"
-      },
-      "source_file": "Inorganic db.tsv"
-    },
-    {
-      "entry": {
-        "pubchemid": 73981,
-        "CAS": 1309428,
-        "formula": "H2MgO2",
-        "MW": 58.31968,
-        "smiles": "[Mg+2].[OH-].[OH-]",
-        "InChI": "Mg.2H2O/h;2*1H2/q+2;;/p-2",
-        "InChI_key": "VTHJTEIRLNZDEV-UHFFFAOYSA-L",
-        "iupac_name": "magnesium;dihydroxide",
-        "common_name": "magnesium hydroxide"
-      },
-      "source_file": "Inorganic db.tsv"
-    },
-    {
-      "entry": {
-        "pubchemid": 73981,
-        "CAS": 1309428,
-        "formula": "H2MgO2",
-        "MW": 58.31968,
-        "smiles": "[Mg+2].[OH-].[OH-]",
-        "InChI": "Mg.2H2O/h;2*1H2/q+2;;/p-2",
-        "InChI_key": "VTHJTEIRLNZDEV-UHFFFAOYSA-L",
-        "iupac_name": "magnesium;dihydroxide",
-        "common_name": "magnesium hydroxide"
-      },
-      "source_file": "Inorganic db.tsv"
-    },
-    {
-      "entry": {
-        "pubchemid": 73981,
-        "CAS": 1309428,
-        "formula": "H2MgO2",
-        "MW": 58.31968,
-        "smiles": "[Mg+2].[OH-].[OH-]",
-        "InChI": "Mg.2H2O/h;2*1H2/q+2;;/p-2",
-        "InChI_key": "VTHJTEIRLNZDEV-UHFFFAOYSA-L",
-        "iupac_name": "magnesium;dihydroxide",
-        "common_name": "magnesium hydroxide"
-      },
-      "source_file": "Inorganic db.tsv"
-    },
-    {
-      "entry": {
-        "pubchemid": 73981,
-        "CAS": 1309428,
-        "formula": "H2MgO2",
-        "MW": 58.31968,
-        "smiles": "[Mg+2].[OH-].[OH-]",
-        "InChI": "Mg.2H2O/h;2*1H2/q+2;;/p-2",
-        "InChI_key": "VTHJTEIRLNZDEV-UHFFFAOYSA-L",
-        "iupac_name": "magnesium;dihydroxide",
-        "common_name": "magnesium hydroxide"
+        "CAS": 7783859,
+        "InChI": "Fe.H3N.H2O4S.H2O/c;;1-5(2,3)4;/h;1H3;(H2,1,2,3,4);1H2",
+        "InChI_key": "JXXBNTIWCIJSHO-UHFFFAOYSA-N",
+        "MW": 188.96928,
+        "common_name": "ferrous ammonium sulfate hexahydrate",
+        "formula": "FeH7NO5S",
+        "iupac_name": "azane;iron;sulfuric acid;hydrate",
+        "pubchemid": 43835009,
+        "smiles": "N.O.O=S(=O)(O)O.[Fe]"
       },
       "source_file": "Inorganic db.tsv"
     }
@@ -174,171 +32,89 @@
   "O.[Cl-].[Cl-].[Fe+2]": [
     {
       "entry": {
-        "pubchemid": 23144794,
         "CAS": 13478109,
-        "formula": "Cl2FeH2O",
-        "MW": 144.76628,
-        "smiles": "O.[Cl-].[Cl-].[Fe+2]",
         "InChI": "2ClH.Fe.H2O/h2*1H;;1H2/q;;+2;/p-2",
         "InChI_key": "WQKHTJFZNMYFQC-UHFFFAOYSA-L",
+        "MW": 144.76628,
+        "common_name": "ferrous chloride tetrahydrate",
+        "formula": "Cl2FeH2O",
         "iupac_name": "iron(2+);dichloride;hydrate",
-        "common_name": "ferrous chloride tetrahydrate"
+        "pubchemid": 23144794,
+        "smiles": "O.[Cl-].[Cl-].[Fe+2]"
       },
       "source_file": "Inorganic db.tsv"
     },
     {
       "entry": {
-        "pubchemid": 23144794,
         "CAS": 16399772,
-        "formula": "Cl2FeH2O",
-        "MW": 144.76628,
-        "smiles": "O.[Cl-].[Cl-].[Fe+2]",
         "InChI": "2ClH.Fe.H2O/h2*1H;;1H2/q;;+2;/p-2",
         "InChI_key": "WQKHTJFZNMYFQC-UHFFFAOYSA-L",
-        "iupac_name": "iron(2+);dichloride;hydrate",
-        "common_name": "ferrous chloride dihydrate"
-      },
-      "source_file": "Inorganic db.tsv"
-    },
-    {
-      "entry": {
-        "pubchemid": 23144794,
-        "CAS": 16399772,
-        "formula": "Cl2FeH2O",
         "MW": 144.76628,
-        "smiles": "O.[Cl-].[Cl-].[Fe+2]",
-        "InChI": "2ClH.Fe.H2O/h2*1H;;1H2/q;;+2;/p-2",
-        "InChI_key": "WQKHTJFZNMYFQC-UHFFFAOYSA-L",
-        "iupac_name": "iron(2+);dichloride;hydrate",
-        "common_name": "ferrous chloride dihydrate"
-      },
-      "source_file": "Inorganic db.tsv"
-    },
-    {
-      "entry": {
-        "pubchemid": 23144794,
-        "CAS": 16399772,
+        "common_name": "ferrous chloride dihydrate",
         "formula": "Cl2FeH2O",
-        "MW": 144.76628,
-        "smiles": "O.[Cl-].[Cl-].[Fe+2]",
-        "InChI": "2ClH.Fe.H2O/h2*1H;;1H2/q;;+2;/p-2",
-        "InChI_key": "WQKHTJFZNMYFQC-UHFFFAOYSA-L",
         "iupac_name": "iron(2+);dichloride;hydrate",
-        "common_name": "ferrous chloride dihydrate"
-      },
-      "source_file": "Inorganic db.tsv"
-    },
-    {
-      "entry": {
         "pubchemid": 23144794,
-        "CAS": 16399772,
-        "formula": "Cl2FeH2O",
-        "MW": 144.76628,
-        "smiles": "O.[Cl-].[Cl-].[Fe+2]",
-        "InChI": "2ClH.Fe.H2O/h2*1H;;1H2/q;;+2;/p-2",
-        "InChI_key": "WQKHTJFZNMYFQC-UHFFFAOYSA-L",
-        "iupac_name": "iron(2+);dichloride;hydrate",
-        "common_name": "ferrous chloride dihydrate"
-      },
-      "source_file": "Inorganic db.tsv"
-    },
-    {
-      "entry": {
-        "pubchemid": 23144794,
-        "CAS": 16399772,
-        "formula": "Cl2FeH2O",
-        "MW": 144.76628,
-        "smiles": "O.[Cl-].[Cl-].[Fe+2]",
-        "InChI": "2ClH.Fe.H2O/h2*1H;;1H2/q;;+2;/p-2",
-        "InChI_key": "WQKHTJFZNMYFQC-UHFFFAOYSA-L",
-        "iupac_name": "iron(2+);dichloride;hydrate",
-        "common_name": "ferrous chloride dihydrate"
+        "smiles": "O.[Cl-].[Cl-].[Fe+2]"
       },
       "source_file": "Inorganic db.tsv"
     }
   ],
-  "N.O.O=S(=O)(O)O.[Fe]": [
+  "[Al+].[OH-].[O]": [
     {
       "entry": {
-        "pubchemid": 43835009,
-        "CAS": 7783837,
-        "formula": "FeH7NO5S",
-        "MW": 188.96928,
-        "smiles": "N.O.O=S(=O)(O)O.[Fe]",
-        "InChI": "Fe.H3N.H2O4S.H2O/c;;1-5(2,3)4;/h;1H3;(H2,1,2,3,4);1H2",
-        "InChI_key": "JXXBNTIWCIJSHO-UHFFFAOYSA-N",
-        "iupac_name": "azane;iron;sulfuric acid;hydrate",
-        "common_name": "ammonium ferric sulfate dodecahydrate"
+        "CAS": 14457842,
+        "InChI": "Al.H2O.O/h;1H2;/q+1;;/p-1",
+        "InChI_key": "FAHBNUUHRFUEAI-UHFFFAOYSA-M",
+        "MW": 59.988278,
+        "common_name": "diaspore",
+        "formula": "AlHO2",
+        "iupac_name": "hydroxy(oxo)alumane",
+        "pubchemid": -1,
+        "smiles": "[Al+].[OH-].[O]"
       },
       "source_file": "Inorganic db.tsv"
     },
     {
       "entry": {
-        "pubchemid": 43835009,
-        "CAS": 7783859,
-        "formula": "FeH7NO5S",
-        "MW": 188.96928,
-        "smiles": "N.O.O=S(=O)(O)O.[Fe]",
-        "InChI": "Fe.H3N.H2O4S.H2O/c;;1-5(2,3)4;/h;1H3;(H2,1,2,3,4);1H2",
-        "InChI_key": "JXXBNTIWCIJSHO-UHFFFAOYSA-N",
-        "iupac_name": "azane;iron;sulfuric acid;hydrate",
-        "common_name": "ferrous ammonium sulfate hexahydrate"
+        "CAS": 1318236,
+        "InChI": "Al.H2O.O/h;1H2;/q+1;;/p-1",
+        "InChI_key": "FAHBNUUHRFUEAI-UHFFFAOYSA-M",
+        "MW": 59.988278,
+        "common_name": "boehmite (Al(OH)O)",
+        "formula": "AlHO2",
+        "iupac_name": "hydroxy(oxo)alumane",
+        "pubchemid": 32524,
+        "smiles": "[Al+].[OH-].[O]"
+      },
+      "source_file": "Inorganic db.tsv"
+    }
+  ],
+  "[Mg+2].[OH-].[OH-]": [
+    {
+      "entry": {
+        "CAS": 1317437,
+        "InChI": "Mg.2H2O/h;2*1H2/q+2;;/p-2",
+        "InChI_key": "VTHJTEIRLNZDEV-UHFFFAOYSA-L",
+        "MW": 58.31968,
+        "common_name": "brucite (Mg(OH)2)",
+        "formula": "H2MgO2",
+        "iupac_name": "magnesium;dihydroxide",
+        "pubchemid": 14791,
+        "smiles": "[Mg+2].[OH-].[OH-]"
       },
       "source_file": "Inorganic db.tsv"
     },
     {
       "entry": {
-        "pubchemid": 43835009,
-        "CAS": 7783859,
-        "formula": "FeH7NO5S",
-        "MW": 188.96928,
-        "smiles": "N.O.O=S(=O)(O)O.[Fe]",
-        "InChI": "Fe.H3N.H2O4S.H2O/c;;1-5(2,3)4;/h;1H3;(H2,1,2,3,4);1H2",
-        "InChI_key": "JXXBNTIWCIJSHO-UHFFFAOYSA-N",
-        "iupac_name": "azane;iron;sulfuric acid;hydrate",
-        "common_name": "ferrous ammonium sulfate hexahydrate"
-      },
-      "source_file": "Inorganic db.tsv"
-    },
-    {
-      "entry": {
-        "pubchemid": 43835009,
-        "CAS": 7783859,
-        "formula": "FeH7NO5S",
-        "MW": 188.96928,
-        "smiles": "N.O.O=S(=O)(O)O.[Fe]",
-        "InChI": "Fe.H3N.H2O4S.H2O/c;;1-5(2,3)4;/h;1H3;(H2,1,2,3,4);1H2",
-        "InChI_key": "JXXBNTIWCIJSHO-UHFFFAOYSA-N",
-        "iupac_name": "azane;iron;sulfuric acid;hydrate",
-        "common_name": "ferrous ammonium sulfate hexahydrate"
-      },
-      "source_file": "Inorganic db.tsv"
-    },
-    {
-      "entry": {
-        "pubchemid": 43835009,
-        "CAS": 7783859,
-        "formula": "FeH7NO5S",
-        "MW": 188.96928,
-        "smiles": "N.O.O=S(=O)(O)O.[Fe]",
-        "InChI": "Fe.H3N.H2O4S.H2O/c;;1-5(2,3)4;/h;1H3;(H2,1,2,3,4);1H2",
-        "InChI_key": "JXXBNTIWCIJSHO-UHFFFAOYSA-N",
-        "iupac_name": "azane;iron;sulfuric acid;hydrate",
-        "common_name": "ferrous ammonium sulfate hexahydrate"
-      },
-      "source_file": "Inorganic db.tsv"
-    },
-    {
-      "entry": {
-        "pubchemid": 43835009,
-        "CAS": 7783859,
-        "formula": "FeH7NO5S",
-        "MW": 188.96928,
-        "smiles": "N.O.O=S(=O)(O)O.[Fe]",
-        "InChI": "Fe.H3N.H2O4S.H2O/c;;1-5(2,3)4;/h;1H3;(H2,1,2,3,4);1H2",
-        "InChI_key": "JXXBNTIWCIJSHO-UHFFFAOYSA-N",
-        "iupac_name": "azane;iron;sulfuric acid;hydrate",
-        "common_name": "ferrous ammonium sulfate hexahydrate"
+        "CAS": 1309428,
+        "InChI": "Mg.2H2O/h;2*1H2/q+2;;/p-2",
+        "InChI_key": "VTHJTEIRLNZDEV-UHFFFAOYSA-L",
+        "MW": 58.31968,
+        "common_name": "magnesium hydroxide",
+        "formula": "H2MgO2",
+        "iupac_name": "magnesium;dihydroxide",
+        "pubchemid": 73981,
+        "smiles": "[Mg+2].[OH-].[OH-]"
       },
       "source_file": "Inorganic db.tsv"
     }

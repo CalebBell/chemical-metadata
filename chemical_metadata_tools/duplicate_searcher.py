@@ -11,7 +11,7 @@ import sys
 from datetime import datetime
 from pathlib import Path
 from typing import List, Optional
-
+from collections import OrderedDict
 from chemicals.identifiers import ChemicalMetadata
 
 FOLDER = chemicals.identifiers.folder
@@ -99,17 +99,20 @@ class ChemicalDatabaseValidator:
         """Load existing duplicate records or create new ones"""
         records = {}
         for key, file_path in self.duplicate_files.items():
-            if file_path.exists():
-                with open(file_path, 'r') as f:
-                    records[key] = json.load(f)
-            else:
-                records[key] = {}
+            # if file_path.exists():
+            #     with open(file_path, 'r') as f:
+            #         records[key] = json.load(f)
+            # else:
+            records[key] = {}
         return records
     
     def _save_duplicate_record(self, identifier_type: str):
         """Save a specific duplicate record file"""
         with open(self.duplicate_files[identifier_type], 'w') as f:
-            json.dump(self.duplicates[identifier_type], f, indent=2)
+            # Sort dictionary by keys before saving
+            sorted_data = OrderedDict(sorted(self.duplicates[identifier_type].items()))
+            # Ensure consistent JSON formatting
+            json.dump(sorted_data, f, indent=2, sort_keys=True)
 
     def _create_entry(self, obj: 'ChemicalMetadata') -> ChemicalEntry:
         """Create a simplified entry from a ChemicalMetadata object"""

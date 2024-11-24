@@ -2,85 +2,29 @@
   "23144794": [
     {
       "entry": {
-        "pubchemid": 23144794,
         "CAS": 13478109,
-        "formula": "Cl2FeH2O",
-        "MW": 144.76628,
-        "smiles": "O.[Cl-].[Cl-].[Fe+2]",
         "InChI": "2ClH.Fe.H2O/h2*1H;;1H2/q;;+2;/p-2",
         "InChI_key": "WQKHTJFZNMYFQC-UHFFFAOYSA-L",
+        "MW": 144.76628,
+        "common_name": "ferrous chloride tetrahydrate",
+        "formula": "Cl2FeH2O",
         "iupac_name": "iron(2+);dichloride;hydrate",
-        "common_name": "ferrous chloride tetrahydrate"
+        "pubchemid": 23144794,
+        "smiles": "O.[Cl-].[Cl-].[Fe+2]"
       },
       "source_file": "Inorganic db.tsv"
     },
     {
       "entry": {
-        "pubchemid": 23144794,
         "CAS": 16399772,
-        "formula": "Cl2FeH2O",
-        "MW": 144.76628,
-        "smiles": "O.[Cl-].[Cl-].[Fe+2]",
         "InChI": "2ClH.Fe.H2O/h2*1H;;1H2/q;;+2;/p-2",
         "InChI_key": "WQKHTJFZNMYFQC-UHFFFAOYSA-L",
-        "iupac_name": "iron(2+);dichloride;hydrate",
-        "common_name": "ferrous chloride dihydrate"
-      },
-      "source_file": "Inorganic db.tsv"
-    },
-    {
-      "entry": {
-        "pubchemid": 23144794,
-        "CAS": 16399772,
-        "formula": "Cl2FeH2O",
         "MW": 144.76628,
-        "smiles": "O.[Cl-].[Cl-].[Fe+2]",
-        "InChI": "2ClH.Fe.H2O/h2*1H;;1H2/q;;+2;/p-2",
-        "InChI_key": "WQKHTJFZNMYFQC-UHFFFAOYSA-L",
-        "iupac_name": "iron(2+);dichloride;hydrate",
-        "common_name": "ferrous chloride dihydrate"
-      },
-      "source_file": "Inorganic db.tsv"
-    },
-    {
-      "entry": {
-        "pubchemid": 23144794,
-        "CAS": 16399772,
+        "common_name": "ferrous chloride dihydrate",
         "formula": "Cl2FeH2O",
-        "MW": 144.76628,
-        "smiles": "O.[Cl-].[Cl-].[Fe+2]",
-        "InChI": "2ClH.Fe.H2O/h2*1H;;1H2/q;;+2;/p-2",
-        "InChI_key": "WQKHTJFZNMYFQC-UHFFFAOYSA-L",
         "iupac_name": "iron(2+);dichloride;hydrate",
-        "common_name": "ferrous chloride dihydrate"
-      },
-      "source_file": "Inorganic db.tsv"
-    },
-    {
-      "entry": {
         "pubchemid": 23144794,
-        "CAS": 16399772,
-        "formula": "Cl2FeH2O",
-        "MW": 144.76628,
-        "smiles": "O.[Cl-].[Cl-].[Fe+2]",
-        "InChI": "2ClH.Fe.H2O/h2*1H;;1H2/q;;+2;/p-2",
-        "InChI_key": "WQKHTJFZNMYFQC-UHFFFAOYSA-L",
-        "iupac_name": "iron(2+);dichloride;hydrate",
-        "common_name": "ferrous chloride dihydrate"
-      },
-      "source_file": "Inorganic db.tsv"
-    },
-    {
-      "entry": {
-        "pubchemid": 23144794,
-        "CAS": 16399772,
-        "formula": "Cl2FeH2O",
-        "MW": 144.76628,
-        "smiles": "O.[Cl-].[Cl-].[Fe+2]",
-        "InChI": "2ClH.Fe.H2O/h2*1H;;1H2/q;;+2;/p-2",
-        "InChI_key": "WQKHTJFZNMYFQC-UHFFFAOYSA-L",
-        "iupac_name": "iron(2+);dichloride;hydrate",
-        "common_name": "ferrous chloride dihydrate"
+        "smiles": "O.[Cl-].[Cl-].[Fe+2]"
       },
       "source_file": "Inorganic db.tsv"
     }
@@ -88,85 +32,29 @@
   "43835009": [
     {
       "entry": {
-        "pubchemid": 43835009,
         "CAS": 7783837,
-        "formula": "FeH7NO5S",
-        "MW": 188.96928,
-        "smiles": "N.O.O=S(=O)(O)O.[Fe]",
         "InChI": "Fe.H3N.H2O4S.H2O/c;;1-5(2,3)4;/h;1H3;(H2,1,2,3,4);1H2",
         "InChI_key": "JXXBNTIWCIJSHO-UHFFFAOYSA-N",
+        "MW": 188.96928,
+        "common_name": "ammonium ferric sulfate dodecahydrate",
+        "formula": "FeH7NO5S",
         "iupac_name": "azane;iron;sulfuric acid;hydrate",
-        "common_name": "ammonium ferric sulfate dodecahydrate"
+        "pubchemid": 43835009,
+        "smiles": "N.O.O=S(=O)(O)O.[Fe]"
       },
       "source_file": "Inorganic db.tsv"
     },
     {
       "entry": {
-        "pubchemid": 43835009,
         "CAS": 7783859,
-        "formula": "FeH7NO5S",
-        "MW": 188.96928,
-        "smiles": "N.O.O=S(=O)(O)O.[Fe]",
         "InChI": "Fe.H3N.H2O4S.H2O/c;;1-5(2,3)4;/h;1H3;(H2,1,2,3,4);1H2",
         "InChI_key": "JXXBNTIWCIJSHO-UHFFFAOYSA-N",
-        "iupac_name": "azane;iron;sulfuric acid;hydrate",
-        "common_name": "ferrous ammonium sulfate hexahydrate"
-      },
-      "source_file": "Inorganic db.tsv"
-    },
-    {
-      "entry": {
-        "pubchemid": 43835009,
-        "CAS": 7783859,
-        "formula": "FeH7NO5S",
         "MW": 188.96928,
-        "smiles": "N.O.O=S(=O)(O)O.[Fe]",
-        "InChI": "Fe.H3N.H2O4S.H2O/c;;1-5(2,3)4;/h;1H3;(H2,1,2,3,4);1H2",
-        "InChI_key": "JXXBNTIWCIJSHO-UHFFFAOYSA-N",
-        "iupac_name": "azane;iron;sulfuric acid;hydrate",
-        "common_name": "ferrous ammonium sulfate hexahydrate"
-      },
-      "source_file": "Inorganic db.tsv"
-    },
-    {
-      "entry": {
-        "pubchemid": 43835009,
-        "CAS": 7783859,
+        "common_name": "ferrous ammonium sulfate hexahydrate",
         "formula": "FeH7NO5S",
-        "MW": 188.96928,
-        "smiles": "N.O.O=S(=O)(O)O.[Fe]",
-        "InChI": "Fe.H3N.H2O4S.H2O/c;;1-5(2,3)4;/h;1H3;(H2,1,2,3,4);1H2",
-        "InChI_key": "JXXBNTIWCIJSHO-UHFFFAOYSA-N",
         "iupac_name": "azane;iron;sulfuric acid;hydrate",
-        "common_name": "ferrous ammonium sulfate hexahydrate"
-      },
-      "source_file": "Inorganic db.tsv"
-    },
-    {
-      "entry": {
         "pubchemid": 43835009,
-        "CAS": 7783859,
-        "formula": "FeH7NO5S",
-        "MW": 188.96928,
-        "smiles": "N.O.O=S(=O)(O)O.[Fe]",
-        "InChI": "Fe.H3N.H2O4S.H2O/c;;1-5(2,3)4;/h;1H3;(H2,1,2,3,4);1H2",
-        "InChI_key": "JXXBNTIWCIJSHO-UHFFFAOYSA-N",
-        "iupac_name": "azane;iron;sulfuric acid;hydrate",
-        "common_name": "ferrous ammonium sulfate hexahydrate"
-      },
-      "source_file": "Inorganic db.tsv"
-    },
-    {
-      "entry": {
-        "pubchemid": 43835009,
-        "CAS": 7783859,
-        "formula": "FeH7NO5S",
-        "MW": 188.96928,
-        "smiles": "N.O.O=S(=O)(O)O.[Fe]",
-        "InChI": "Fe.H3N.H2O4S.H2O/c;;1-5(2,3)4;/h;1H3;(H2,1,2,3,4);1H2",
-        "InChI_key": "JXXBNTIWCIJSHO-UHFFFAOYSA-N",
-        "iupac_name": "azane;iron;sulfuric acid;hydrate",
-        "common_name": "ferrous ammonium sulfate hexahydrate"
+        "smiles": "N.O.O=S(=O)(O)O.[Fe]"
       },
       "source_file": "Inorganic db.tsv"
     }
