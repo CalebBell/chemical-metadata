@@ -69,6 +69,20 @@
         "common_name": "polonium, ion (Po3+)"
       },
       "source_file": "Cation db.tsv"
+    },
+    {
+      "entry": {
+        "pubchemid": -1,
+        "CAS": 74143309,
+        "formula": "Po+",
+        "MW": 209.0,
+        "smiles": "[Po+3]",
+        "InChI": "Po/q+3",
+        "InChI_key": "ZSSHWJWIXFXOQH-UHFFFAOYSA-N",
+        "iupac_name": "polonium, ion (Po3+)",
+        "common_name": "polonium, ion (Po3+)"
+      },
+      "source_file": "Cation db.tsv"
     }
   ],
   "C20H44N+": [
@@ -141,6 +155,20 @@
         "common_name": "1-Butanaminium, 3-methyl-N,N,N-tris(3-methylbutyl)-"
       },
       "source_file": "Cation db.tsv"
+    },
+    {
+      "entry": {
+        "pubchemid": 21542,
+        "CAS": 37841171,
+        "formula": "C20H44N+",
+        "MW": 298.57006,
+        "smiles": "CC(C)CC[N+](CCC(C)C)(CCC(C)C)CCC(C)C",
+        "InChI": "C20H44N/c1-17(2)9-13-21(14-10-18(3)4,15-11-19(5)6)16-12-20(7)8/h17-20H,9-16H2,1-8H3/q+1",
+        "InChI_key": "VPYHKSUKMGPRIN-UHFFFAOYSA-N",
+        "iupac_name": "tetrakis(3-methylbutyl)azanium",
+        "common_name": "1-Butanaminium, 3-methyl-N,N,N-tris(3-methylbutyl)-"
+      },
+      "source_file": "Cation db.tsv"
     }
   ],
   "D2": [
@@ -155,6 +183,48 @@
         "InChI_key": "",
         "iupac_name": "normal deuterium",
         "common_name": "normal deuterium"
+      },
+      "source_file": "Inorganic db.tsv"
+    },
+    {
+      "entry": {
+        "pubchemid": -1,
+        "CAS": 2099453000000,
+        "formula": "D2",
+        "MW": 4.028204,
+        "smiles": "",
+        "InChI": "",
+        "InChI_key": "",
+        "iupac_name": "orthodeuterium",
+        "common_name": "orthodeuterium"
+      },
+      "source_file": "Inorganic db.tsv"
+    },
+    {
+      "entry": {
+        "pubchemid": -1,
+        "CAS": 2099458000000,
+        "formula": "D2",
+        "MW": 4.028204,
+        "smiles": "",
+        "InChI": "",
+        "InChI_key": "",
+        "iupac_name": "paradeuterium",
+        "common_name": "paradeuterium"
+      },
+      "source_file": "Inorganic db.tsv"
+    },
+    {
+      "entry": {
+        "pubchemid": 24523,
+        "CAS": 7782390,
+        "formula": "D2",
+        "MW": 4.028204,
+        "smiles": "[2H][2H]",
+        "InChI": "H2/h1H/i1+1D",
+        "InChI_key": "UFHFLCQGNIYNRP-VVKOMZTBSA-N",
+        "iupac_name": "deuterium",
+        "common_name": "deuterium"
       },
       "source_file": "Inorganic db.tsv"
     },
@@ -509,6 +579,48 @@
         "common_name": "hydrogen"
       },
       "source_file": "Inorganic db.tsv"
+    },
+    {
+      "entry": {
+        "pubchemid": -1,
+        "CAS": 2099479000000,
+        "formula": "H2",
+        "MW": 2.01588,
+        "smiles": "",
+        "InChI": "",
+        "InChI_key": "",
+        "iupac_name": "orthohydrogen",
+        "common_name": "orthohydrogen"
+      },
+      "source_file": "Inorganic db.tsv"
+    },
+    {
+      "entry": {
+        "pubchemid": -1,
+        "CAS": 2099490000000,
+        "formula": "H2",
+        "MW": 2.01588,
+        "smiles": "",
+        "InChI": "",
+        "InChI_key": "",
+        "iupac_name": "parahydrogen",
+        "common_name": "parahydrogen"
+      },
+      "source_file": "Inorganic db.tsv"
+    },
+    {
+      "entry": {
+        "pubchemid": 783,
+        "CAS": 1333740,
+        "formula": "H2",
+        "MW": 2.01588,
+        "smiles": "[HH]",
+        "InChI": "H2/h1H",
+        "InChI_key": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+        "iupac_name": "molecular hydrogen",
+        "common_name": "hydrogen"
+      },
+      "source_file": "Inorganic db.tsv"
     }
   ],
   "AlHO2": [
@@ -581,6 +693,20 @@
         "common_name": "boehmite (Al(OH)O)"
       },
       "source_file": "Inorganic db.tsv"
+    },
+    {
+      "entry": {
+        "pubchemid": 32524,
+        "CAS": 1318236,
+        "formula": "AlHO2",
+        "MW": 59.988278,
+        "smiles": "[Al+].[OH-].[O]",
+        "InChI": "Al.H2O.O/h;1H2;/q+1;;/p-1",
+        "InChI_key": "FAHBNUUHRFUEAI-UHFFFAOYSA-M",
+        "iupac_name": "hydroxy(oxo)alumane",
+        "common_name": "boehmite (Al(OH)O)"
+      },
+      "source_file": "Inorganic db.tsv"
     }
   ],
   "H2MgO2": [
@@ -595,6 +721,20 @@
         "InChI_key": "VTHJTEIRLNZDEV-UHFFFAOYSA-L",
         "iupac_name": "magnesium;dihydroxide",
         "common_name": "brucite (Mg(OH)2)"
+      },
+      "source_file": "Inorganic db.tsv"
+    },
+    {
+      "entry": {
+        "pubchemid": 73981,
+        "CAS": 1309428,
+        "formula": "H2MgO2",
+        "MW": 58.31968,
+        "smiles": "[Mg+2].[OH-].[OH-]",
+        "InChI": "Mg.2H2O/h;2*1H2/q+2;;/p-2",
+        "InChI_key": "VTHJTEIRLNZDEV-UHFFFAOYSA-L",
+        "iupac_name": "magnesium;dihydroxide",
+        "common_name": "magnesium hydroxide"
       },
       "source_file": "Inorganic db.tsv"
     },
@@ -781,6 +921,34 @@
         "common_name": "nitrogen fluoride (N2F2), [N(E)]- (9CI)"
       },
       "source_file": "Inorganic db.tsv"
+    },
+    {
+      "entry": {
+        "pubchemid": 5364290,
+        "CAS": 13812436,
+        "formula": "F2N2",
+        "MW": 66.010206,
+        "smiles": "F/N=N\\F",
+        "InChI": "F2N2/c1-3-4-2/b4-3-",
+        "InChI_key": "DUQAODNTUBJRGF-ARJAWSKDSA-N",
+        "iupac_name": "(Z)-difluorodiazene",
+        "common_name": "nitrogen fluoride (N2F2), (Z)-"
+      },
+      "source_file": "Inorganic db.tsv"
+    },
+    {
+      "entry": {
+        "pubchemid": 5462838,
+        "CAS": 13776620,
+        "formula": "F2N2",
+        "MW": 66.010206,
+        "smiles": "F/N=N/F",
+        "InChI": "F2N2/c1-3-4-2/b4-3+",
+        "InChI_key": "DUQAODNTUBJRGF-ONEGZZNKSA-N",
+        "iupac_name": "(E)-difluorodiazene",
+        "common_name": "nitrogen fluoride (N2F2), [N(E)]- (9CI)"
+      },
+      "source_file": "Inorganic db.tsv"
     }
   ],
   "Cl2FeH2O": [
@@ -853,6 +1021,20 @@
         "common_name": "ferrous chloride dihydrate"
       },
       "source_file": "Inorganic db.tsv"
+    },
+    {
+      "entry": {
+        "pubchemid": 23144794,
+        "CAS": 16399772,
+        "formula": "Cl2FeH2O",
+        "MW": 144.76628,
+        "smiles": "O.[Cl-].[Cl-].[Fe+2]",
+        "InChI": "2ClH.Fe.H2O/h2*1H;;1H2/q;;+2;/p-2",
+        "InChI_key": "WQKHTJFZNMYFQC-UHFFFAOYSA-L",
+        "iupac_name": "iron(2+);dichloride;hydrate",
+        "common_name": "ferrous chloride dihydrate"
+      },
+      "source_file": "Inorganic db.tsv"
     }
   ],
   "FeH7NO5S": [
@@ -867,6 +1049,20 @@
         "InChI_key": "JXXBNTIWCIJSHO-UHFFFAOYSA-N",
         "iupac_name": "azane;iron;sulfuric acid;hydrate",
         "common_name": "ammonium ferric sulfate dodecahydrate"
+      },
+      "source_file": "Inorganic db.tsv"
+    },
+    {
+      "entry": {
+        "pubchemid": 43835009,
+        "CAS": 7783859,
+        "formula": "FeH7NO5S",
+        "MW": 188.96928,
+        "smiles": "N.O.O=S(=O)(O)O.[Fe]",
+        "InChI": "Fe.H3N.H2O4S.H2O/c;;1-5(2,3)4;/h;1H3;(H2,1,2,3,4);1H2",
+        "InChI_key": "JXXBNTIWCIJSHO-UHFFFAOYSA-N",
+        "iupac_name": "azane;iron;sulfuric acid;hydrate",
+        "common_name": "ferrous ammonium sulfate hexahydrate"
       },
       "source_file": "Inorganic db.tsv"
     },
