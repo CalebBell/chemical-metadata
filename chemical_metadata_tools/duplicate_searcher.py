@@ -12,14 +12,10 @@ from datetime import datetime
 from pathlib import Path
 from typing import List, Optional
 from collections import OrderedDict
-from chemicals.identifiers import ChemicalMetadata
+from chemicals.identifiers import (ChemicalMetadata, PUBCHEM_LARGE_DB_NAME, PUBCHEM_SMALL_DB_NAME, PUBCHEM_EXAMPLE_DB_NAME, PUBCHEM_CATION_DB_NAME, PUBCHEM_ANION_DB_NAME, PUBCHEM_IONORGANIC_DB_NAME)
 
 FOLDER = chemicals.identifiers.folder
 
-PUBCHEM_CATION_DB_NAME = 'Cation db.tsv'
-PUBCHEM_ANION_DB_NAME = 'Anion db.tsv'
-PUBCHEM_IONORGANIC_DB_NAME = 'Inorganic db.tsv'
-PUBCHEM_EXAMPLE_DB_NAME = 'chemical identifiers example user db.tsv'
 
 
 def load_chemical_file(filepath: str) -> List[ChemicalMetadata]:
@@ -139,7 +135,7 @@ class ChemicalDatabaseValidator:
             'entry': entry_dict,
             'source_file': source_file
         }
-        is_example_db = "example user db.tsv" in source_file
+        is_example_db = PUBCHEM_EXAMPLE_DB_NAME in source_file or PUBCHEM_SMALL_DB_NAME in source_file
         # Check each identifier
         checks = {
             'pubchem': (obj.pubchemid, entry.pubchemid != -1),
@@ -218,7 +214,8 @@ def main():
         PUBCHEM_CATION_DB_NAME,
         PUBCHEM_ANION_DB_NAME,
         PUBCHEM_IONORGANIC_DB_NAME,
-        PUBCHEM_EXAMPLE_DB_NAME
+        PUBCHEM_EXAMPLE_DB_NAME,
+        # PUBCHEM_SMALL_DB_NAME
     ]
     
     total_chemicals = 0
