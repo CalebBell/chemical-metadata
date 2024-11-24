@@ -133,3 +133,6 @@ install-all: install-anions install-cations install-inorganic install-organic
 
 remove-redundant:
     python3 -m chemical_metadata_tools.remove_redundant_from_pubchem_db
+
+duplicate-check:
+    python3 -m chemical_metadata_tools.duplicate_searcher
