@@ -54,11 +54,8 @@ def main():
             cas_to_remove.update(db_cas)
     
     # Filter and overwrite the small and large databases
-    if os.path.exists(small_db):
-        write_filtered_db(small_db, small_db, cas_to_remove)
-    
-    if os.path.exists(large_db):
-        write_filtered_db(large_db, large_db, cas_to_remove)
+    write_filtered_db(small_db, small_db, cas_to_remove)
+    write_filtered_db(large_db, large_db, cas_to_remove)
 
 if __name__ == '__main__':
     main()
