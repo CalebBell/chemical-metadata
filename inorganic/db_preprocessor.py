@@ -212,6 +212,11 @@ custom_compounds['10022-50-1'] = {'synonyms': ['nitrogen dioxyfluoride']}
 custom_compounds['10544-72-6'] = {'synonyms': ['dinitrogen tetroxide']}
 custom_compounds['13536-59-9'] = {'synonyms': ['deuteriumbromide']}
 
+custom_compounds['13537-15-0'] = {
+    'pubchem': -1,
+    'smiles': '[Eu+3].[Eu+3].[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-]',
+}
+
 
 for CAS, d in custom_compounds.items():
     if CAS in good_syns:
