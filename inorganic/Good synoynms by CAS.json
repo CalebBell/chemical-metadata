@@ -604,6 +604,8 @@
     "synonyms": []
   },
   "1309-42-8": {
+    "name": "magnesium hydroxide",
+    "pubchem": 73981,
     "synonyms": []
   },
   "1312-73-8": {
@@ -658,6 +660,7 @@
     "synonyms": []
   },
   "1317-43-7": {
+    "pubchem": 14791,
     "synonyms": []
   },
   "1318-23-6": {
@@ -1214,6 +1217,7 @@
     "synonyms": []
   },
   "14457-84-2": {
+    "pubchem": -1,
     "synonyms": []
   },
   "14457-87-5": {

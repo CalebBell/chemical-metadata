@@ -72,6 +72,9 @@ H2 = {'pubchem': 783, 'synonyms': ['dihydrogen', 'molecular hydrogen', 'hydrogen
 H2S4 = {'pubchem': 82836, 'name': 'dihydrogen tetrasulfide'}
 H2S5 = {'pubchem': 448216, 'name': 'dihydrogen pentasulfide'}
 
+
+Magnesium_Hydroxide = {'pubchem': 73981, 'name': 'magnesium hydroxide'}
+
 parahydrogen = {'pubchem': None, 'name': 'parahydrogen', 'iupac_name': 'parahydrogen', 'formula': 'H2','synonyms': ['pH2', 'p-H2', 'para-hydrogen', 'p-hydrogen', 
                         'para-H2','para form of hydrogen','para modification of hydrogen', 'para spin isomer of hydrogen',
                          'para nuclear spin isomer of molecular hydrogen', '800000-49-1', '1333-74-0p'], 'smiles': '', 'inchi': '', 'inchikey': '',
@@ -198,6 +201,10 @@ custom_compounds = {
                 '2099458000-00-0': paradeuterium,
                 '2099453000-00-0': orthodeuterium,
                 '2099437000-00-0': normal_deuterium,
+
+                '1309-42-8': Magnesium_Hydroxide,
+                '1317-43-7': {'pubchem': 14791},
+                '14457-84-2': {'pubchem': -1}, # none
     
                }
 
