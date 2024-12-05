@@ -75,7 +75,7 @@ class ChemicalDatabaseValidator:
             'smiles': self.duplicate_dir / 'smiles_duplicates.json',
             'inchi': self.duplicate_dir / 'inchi_duplicates.json',
             'inchi_key': self.duplicate_dir / 'inchi_key_duplicates.json',
-            'formula': self.duplicate_dir / 'formula_duplicates.json',
+            # 'formula': self.duplicate_dir / 'formula_duplicates.json',
             'common_name': self.duplicate_dir / 'common_name_duplicates.json',
         }
         
@@ -86,7 +86,7 @@ class ChemicalDatabaseValidator:
             'smiles': {},
             'inchi': {},
             'inchi_key': {},
-            'formula': {},
+            # 'formula': {},
             'common_name': {},
         }
         
@@ -143,7 +143,7 @@ class ChemicalDatabaseValidator:
             'smiles': (obj.smiles, obj.smiles != ''),
             'inchi': (obj.InChI, obj.InChI != ''),
             'inchi_key': (obj.InChI_key, obj.InChI_key != ''),
-            'formula': (obj.formula, not is_example_db),
+            # 'formula': (obj.formula, not is_example_db),
             'common_name': (obj.common_name, obj.common_name != ''),
         }
         

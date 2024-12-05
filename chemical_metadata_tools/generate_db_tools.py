@@ -4,6 +4,7 @@ import sys
 from pathlib import Path
 from typing import Dict, List, Set, Tuple, Optional, Any
 import logging
+import joblib
 from chemicals.elements import molecular_weight, nested_formula_parser
 from dataclasses import dataclass
 
@@ -15,7 +16,7 @@ from pubchempy import get_compounds, Compound, get_json
 import json
 from collections import Counter
 from thermo import serialize_formula
-from fcache.cache import FileCache
+from diskcache import Cache
 from chemical_metadata_tools.iupac_names import iupac_standard_names
 from chemical_metadata_tools.parse_CAS_data import lower_case_first_letter_name
 from chemical_metadata_tools.synonym_utils import fix_synonym_case
@@ -174,8 +175,7 @@ class ChemicalData:
 
 class ChemicalMetadataProcessor:
     def __init__(self, cache_dir: Path, workdir_path: Path, require_charge=None, require_not_charge=None, ignore_CASs=set()):
-        self.cache = FileCache('myapp', flag='cs', serialize=True, 
-                             app_cache_dir=str(cache_dir))
+        self.cache = Cache(directory=str(cache_dir))
         
         # List of CAS numbers that are problematic
         self.ignored_CASs = ignore_CASs
@@ -312,10 +312,10 @@ class ChemicalMetadataProcessor:
         """Fetch and cache PubChem data"""
         cache_key = str(compound_id)
         
-        if cache_key in self.cache:
-            data = self.cache[cache_key]
-            return ChemicalData(*data)
-        
+        # Try to get from cache first
+        cached_data = self.cache.get(cache_key)
+        if cached_data is not None:
+            return ChemicalData(*cached_data)        
         try:
             pc = Compound.from_cid(compound_id)
             data = ChemicalData(
@@ -348,9 +348,11 @@ class ChemicalMetadataProcessor:
             else:
                 cache_key = str(mol_data.inchikey)
                 known_cid = False
-            if cache_key in self.cache:
-                return self.cache[cache_key]
-            
+            # Try to get from cache first
+            cached_data = self.cache.get(cache_key)
+            if cached_data is not None: #  and (cached_data[0] != -1)
+                return cached_data
+                        
             if known_cid:
                 compounds = get_compounds(mol_data.cid, 'cid')
             else:
@@ -561,3 +563,28 @@ class ChemicalMetadataProcessor:
             f.write('\n'.join(sorted_lines) + '\n')
         
         temp_output.unlink()
+
+    # def process_files(self, input_files: List[Path], output_file: Path, n_jobs: int = -1):
+    #     """Process multiple input files in parallel and generate sorted output
+        
+    #     Args:
+    #         input_files: List of input file paths
+    #         output_file: Path to write final sorted output
+    #         n_jobs: Number of parallel jobs (-1 for all cores)
+    #     """
+    #     # Process files in parallel and collect results in memory
+    #     results = joblib.Parallel(n_jobs=16)(
+    #         joblib.delayed(self.process_mol_file)(filepath)
+    #         for filepath in input_files
+    #     )
+        
+    #     # Filter out None results and sort
+    #     valid_results = [r for r in results if r is not None]
+    #     sorted_results = sorted(
+    #         valid_results,
+    #         key=lambda x: int(x.split('\t')[0]) if x.split('\t')[0].isdigit() else -1
+    #     )
+        
+    #     # Write final output
+    #     with open(output_file, 'w', encoding='utf-8') as f:
+    #         f.write('\n'.join(sorted_results) + '\n')

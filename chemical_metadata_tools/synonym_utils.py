@@ -55,8 +55,7 @@ def has_element_charge(t):
             
         # Check parenthesized patterns (Fe(+) etc)
         if rest.startswith('(') and rest.endswith(')'):
-            inner = rest[1:-1]
-            if inner in charge_patterns:
+            if rest[1:-1] in charge_patterns:
                 return True
                 
     return False
@@ -353,6 +352,27 @@ class ElementChargeChecker(CaseChecker):
             # High confidence to override other checkers
             return [CaseEdit(span, 'preserve', 0.94)]
         return []
+
+# Common scientific units and measurements that should preserve case
+SCIENTIFIC_UNITS = {
+    'pH',
+    '°C', '°F',              # temperature
+    'mg/mL', 'µg/mL',        # concentrations
+    'mg/L', 'µg/L',          # concentrations
+    'mL', 'µL', 'L',         # volumes
+    'kg', 'mg', 'µg', 'g',   # masses 
+    'mM', 'µM', 'nM',        # molar concentrations
+    'kDa', 'Da',             # molecular weights
+    'microg/mL',             # alternative notation
+}
+
+# Pre-compile the regex patterns for each term
+UNIT_PATTERNS = {
+    term: re.compile(
+        r'(?:^|[\s([{])(' + re.escape(term) + r')(?=$|[\s)\]}]|[.,;:])'
+    ) for term in SCIENTIFIC_UNITS
+}
+
 class ScientificUnitChecker(CaseChecker):
     """Checker for scientific units and measurements like °C, mg/mL etc"""
     
@@ -373,7 +393,7 @@ class ScientificUnitChecker(CaseChecker):
         text = span.text.strip()
         
         # Look for units at the end of the text or after a space
-        for term in self.special_terms:
+        for pattern in UNIT_PATTERNS.values():
             # Match if unit:
             # - is at start of string (^)
             # - follows whitespace (\s)
@@ -382,7 +402,6 @@ class ScientificUnitChecker(CaseChecker):
             # - end of string
             # - whitespace
             # - punctuation
-            pattern = r'(?:^|[\s([{])(' + re.escape(term) + r')(?=$|[\s)\]}]|[.,;:])'
             for match in re.finditer(pattern, text):
                 unit = match.group(1)
                 unit_start = match.start(1) + span.start
@@ -395,6 +414,8 @@ class ScientificUnitChecker(CaseChecker):
                 )]
                     
         return []
+
+CI_RE = re.compile(r'^\s*\(\s*\d+\s*CI(?:\s*,\s*\d+\s*CI)*\s*\)\s*$')
 class CINomenclatureChecker(CaseChecker):
     """Checker for Chemical Index nomenclature like (8CI,9CI) or (8CI, 9CI)"""
     def __init__(self):
@@ -410,7 +431,7 @@ class CINomenclatureChecker(CaseChecker):
         # \s*         - Optional whitespace before closing parenthesis
         # \)          - Closing parenthesis
         # \s*$        - Optional whitespace, end of string
-        self.ci_pattern = re.compile(r'^\s*\(\s*\d+\s*CI(?:\s*,\s*\d+\s*CI)*\s*\)\s*$')
+        self.ci_pattern = CI_RE
         
     def check(self, span: Span, full_text: str) -> List[CaseEdit]:
         # Check if this span matches our CI pattern

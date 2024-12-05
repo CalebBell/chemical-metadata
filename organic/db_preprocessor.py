@@ -124,6 +124,10 @@ custom_chemicals['26472-00-4'] = {'synonyms': ['3a,4,7,7a-tetrahydrodimethyl-4,7
 '4,7-methanoindene, 3a,4,7,7a-tetrahydrodimethyl-',
 'methylcyclopentadienedimer'], 'hardcoded_synonyms': True}
 
+# https://en.wikipedia.org/wiki/Pyrithione
+custom_chemicals['15922-78-8'] = {'name': 'sodium 2-thioxo-1(2H)-pyridinolate'}
+custom_chemicals['3811-73-2'] = {'name': 'sodium 2-pyridinethiolate 1-oxide'}
+
 for CAS, d in custom_chemicals.items():
     if CAS in good_syns:
         good_syns[CAS].update(d)

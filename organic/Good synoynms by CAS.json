@@ -1154,7 +1154,7 @@
     "synonyms": []
   },
   "15922-78-8": {
-    "pubchem": 44782648,
+    "name": "sodium 2-thioxo-1(2H)-pyridinolate",
     "synonyms": []
   },
   "1595-04-6": {
@@ -3466,6 +3466,7 @@
     "synonyms": []
   },
   "3811-73-2": {
+    "name": "sodium 2-pyridinethiolate 1-oxide",
     "synonyms": []
   },
   "38118-83-1": {
@@ -6599,9 +6600,6 @@
     "synonyms": []
   },
   "7776-48-9": {
-    "synonyms": []
-  },
-  "7784-30-7": {
     "synonyms": []
   },
   "78-04-6": {

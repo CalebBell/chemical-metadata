@@ -13,7 +13,6 @@ from pubchempy import get_compounds, Compound
 import json
 from collections import Counter
 from thermo import serialize_formula
-from fcache.cache import FileCache
 from chemical_metadata_tools import parse_CAS_data
 from chemical_metadata_tools.parse_CAS_data import lower_case_first_letter_name
 from chemical_metadata_tools import generate_db_tools

@@ -13,7 +13,6 @@ from pubchempy import get_compounds, Compound
 import json
 from collections import Counter
 from thermo import serialize_formula
-from fcache.cache import FileCache
 from chemical_metadata_tools import parse_CAS_data
 from chemical_metadata_tools import generate_db_tools
 import appdirs
@@ -54,7 +53,7 @@ def main():
     
     output_file = Path(args.pop()) if args else workdir_path /'cations-tmp.tsv'
     input_files = [Path(f) for f in args]
-    # input_files = [Path(workdir_path) / 'mol' / '14464-47-2.mol']
+    # input_files = [Path(workdir_path) / 'mol' / '16065-91-1.mol']
 
     # Include all files from syn_data if INCLUDE_EVERYTHING is True
     INCLUDE_EVERYTHING = True

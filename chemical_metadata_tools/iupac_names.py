@@ -48,7 +48,7 @@ def standardize_chemical_names(tsv_file):
     return standardized
 
 file_path = os.path.join(os.path.dirname(__file__), '..', 'opsin_2.7.0_name_to_smiles_mapping_from_chemicals_metadata.tsv')
-if is_debugger_active():
+if is_debugger_active() or 1:
     iupac_standard_names = {}
 else:
     iupac_standard_names = standardize_chemical_names(file_path)
