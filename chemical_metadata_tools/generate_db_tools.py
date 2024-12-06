@@ -20,6 +20,7 @@ from diskcache import Cache
 from chemical_metadata_tools.iupac_names import iupac_standard_names
 from chemical_metadata_tools.parse_CAS_data import lower_case_first_letter_name
 from chemical_metadata_tools.synonym_utils import fix_synonym_case
+import time
 
 from collections import defaultdict
 
@@ -352,7 +353,7 @@ class ChemicalMetadataProcessor:
             cached_data = self.cache.get(cache_key)
             if cached_data is not None: #  and (cached_data[0] != -1)
                 return cached_data
-                        
+            time.sleep(0.5)
             if known_cid:
                 compounds = get_compounds(mol_data.cid, 'cid')
             else:

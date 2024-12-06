@@ -37,7 +37,7 @@ def main():
     
     output_file = Path(args.pop()) if args else workdir_path /'organic-tmp.tsv'
     input_files = [Path(f) for f in args]
-    input_files = [Path(workdir_path) / 'mol' / '73463-39-5.mol']
+    # input_files = [Path(workdir_path) / 'mol' / '73463-39-5.mol']
 
     # Include all files from syn_data if INCLUDE_EVERYTHING is True
     INCLUDE_EVERYTHING = True
