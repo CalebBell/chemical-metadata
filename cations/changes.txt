@@ -1,0 +1,20 @@
+Chemical Metadata Difference Report
+=================================
+
+Summary:
+- Compounds removed: 0
+- Compounds added: 0
+- Compounds with property changes: 1
+- Compounds with synonym changes: 0
+
+
+Property Changes:
+----------------
+CAS: 2099995000-00-0
+  iupac_name:
+    - Old: 
+    + New: yttrium(III) hydroxide
+  common_name:
+    - Old: 
+    + New: yttrium hydroxide
+

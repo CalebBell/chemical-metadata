@@ -1,11 +1,50 @@
-Ferrous chloride dihydrate
-Cl2Fe.2H2O
-16399-77-2 Copyright (C) 2024 ACS
-  4  2  0  0  0  0  0  0  0  0999 V2000
-    1.5400    1.5400    0.0000 Fe  0  0  0  0  0  0  0  0  0  0  0  0
-    0.0000    1.5400    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
-    3.0800    1.5400    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
-    1.5400    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-  1  2  1  0  0  0  0
-  1  3  1  0  0  0  0
+490088895
+  -OEChem-12092411262D
+
+  5  2  0     0  0  0  0  0  0999 V2000
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 Fe  0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
 M  END
+> <PUBCHEM_COMPOUND_ID_TYPE>
+0
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_SUBSTANCE_ID>
+490088895
+
+> <PUBCHEM_SUBSTANCE_VERSION>
+1
+
+> <PUBCHEM_EXT_DATASOURCE_NAME>
+4427
+
+> <PUBCHEM_EXT_DATASOURCE_REGID>
+DB-187513
+
+> <PUBCHEM_SUBSTANCE_SYNONYM>
+16399-77-2
+Ferrous chloride dihydrate
+DB-187513
+
+> <PUBCHEM_GENERIC_REGISTRY_NAME>
+16399-77-2
+
+> <PUBCHEM_XREF_EXT_ID>
+DB-187513
+
+> <PUBCHEM_EXT_SUBSTANCE_URL>
+https://www.debyesci.com/cas_16399-77-2.html
+
+> <PUBCHEM_CID_ASSOCIATIONS>
+129694154  1
+962  2
+24458  2
+
+$$$$

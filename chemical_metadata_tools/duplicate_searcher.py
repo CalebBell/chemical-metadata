@@ -47,6 +47,38 @@ def load_chemical_file(filepath: str) -> List[ChemicalMetadata]:
                 
     return chemicals
 
+def load_all_preferences() -> Dict:
+    """Load and combine all preference files from various locations"""
+    preferences = {
+        "preferred_cas": set(),
+        "unpreferred_cas": set()
+    }
+    
+    # Locations to check for preference files
+    preference_locations = [
+        Path(FOLDER) / "inorganic_preferences.json",
+        Path(FOLDER) / "anion_preferences.json",
+        Path(FOLDER) / "cation_preferences.json",
+        # Path(FOLDER) / "organic_preferences.json",
+        # Add other potential locations
+    ]
+    
+    for pref_file in preference_locations:
+        if pref_file.exists():
+            try:
+                with open(pref_file) as f:
+                    data = json.load(f)
+                    # Convert CAS numbers to standard format (no hyphens) for comparison
+                    preferences["preferred_cas"].update(
+                        int(cas.replace('-', '')) for cas in data.get("preferred_cas", [])
+                    )
+                    preferences["unpreferred_cas"].update(
+                        int(cas.replace('-', '')) for cas in data.get("unpreferred_cas", [])
+                    )
+            except Exception as e:
+                print(f"Error loading preferences from {pref_file}: {e}")
+    
+    return preferences
 
 @dataclass
 class ChemicalEntry:
@@ -75,7 +107,7 @@ class ChemicalDatabaseValidator:
             'smiles': self.duplicate_dir / 'smiles_duplicates.json',
             'inchi': self.duplicate_dir / 'inchi_duplicates.json',
             'inchi_key': self.duplicate_dir / 'inchi_key_duplicates.json',
-            # 'formula': self.duplicate_dir / 'formula_duplicates.json',
+            'formula': self.duplicate_dir / 'formula_duplicates.json',
             'common_name': self.duplicate_dir / 'common_name_duplicates.json',
         }
         
@@ -86,7 +118,7 @@ class ChemicalDatabaseValidator:
             'smiles': {},
             'inchi': {},
             'inchi_key': {},
-            # 'formula': {},
+            'formula': {},
             'common_name': {},
         }
         
@@ -94,23 +126,36 @@ class ChemicalDatabaseValidator:
         self.duplicates = self._load_duplicate_records()
     
     def _load_duplicate_records(self) -> Dict[str, Dict]:
-        """Load existing duplicate records or create new ones"""
+        """Load empty records dicts"""
         records = {}
-        for key, file_path in self.duplicate_files.items():
-            # if file_path.exists():
-            #     with open(file_path, 'r') as f:
-            #         records[key] = json.load(f)
-            # else:
+        for key in self.duplicate_files.keys():
             records[key] = {}
         return records
     
     def _save_duplicate_record(self, identifier_type: str):
         """Save a specific duplicate record file"""
+        preferences = load_all_preferences()
         with open(self.duplicate_files[identifier_type], 'w') as f:
             # Sort dictionary by keys before saving
-            sorted_data = OrderedDict(sorted(self.duplicates[identifier_type].items()))
+            to_save = sorted(self.duplicates[identifier_type].items())
+            sorted_data = OrderedDict(to_save)
+
+            # Create new dict excluding preference-handled duplicates
+            filtered_data = OrderedDict()
+            for entry, entry_data in sorted_data.items():
+                # Count how many preferred/unpreferred CAS numbers we have
+                preferred_count = sum(1 for item in entry_data 
+                                if item['entry']['CAS'] in preferences['preferred_cas'])
+                unpreferred_count = sum(1 for item in entry_data 
+                                    if item['entry']['CAS'] in preferences['unpreferred_cas'])
+                # Keep entry if it's not explained by preferences
+                # (should have exactly one preferred and rest unpreferred)
+                if not (preferred_count == 1 and 
+                    unpreferred_count == len(entry_data) - 1):
+                    filtered_data[entry] = entry_data
+
             # Ensure consistent JSON formatting
-            json.dump(sorted_data, f, indent=2, sort_keys=True)
+            json.dump(filtered_data, f, indent=2, sort_keys=True)
 
     def _create_entry(self, obj: 'ChemicalMetadata') -> ChemicalEntry:
         """Create a simplified entry from a ChemicalMetadata object"""
@@ -135,15 +180,16 @@ class ChemicalDatabaseValidator:
             'entry': entry_dict,
             'source_file': source_file
         }
-        is_example_db = PUBCHEM_EXAMPLE_DB_NAME in source_file or PUBCHEM_SMALL_DB_NAME in source_file
+        is_example_db = PUBCHEM_EXAMPLE_DB_NAME in source_file or PUBCHEM_SMALL_DB_NAME in source_file or PUBCHEM_LARGE_DB_NAME in source_file
         # Check each identifier
+        # Note that formulas are only checked for inorganic/ion db as organics match all the time for obvious reasons
         checks = {
             'pubchem': (obj.pubchemid, entry.pubchemid != -1),
             'cas': (obj.CAS, True),
             'smiles': (obj.smiles, obj.smiles != ''),
             'inchi': (obj.InChI, obj.InChI != ''),
             'inchi_key': (obj.InChI_key, obj.InChI_key != ''),
-            # 'formula': (obj.formula, not is_example_db),
+            'formula': (obj.formula, not is_example_db),
             'common_name': (obj.common_name, obj.common_name != ''),
         }
         
@@ -159,11 +205,9 @@ class ChemicalDatabaseValidator:
                             self.current_values[key][str_value],
                             entry_with_source
                         ]
-                        self._save_duplicate_record(key)
                     else:
                         # Additional duplicate - append to existing list
                         self.duplicates[key][str_value].append(entry_with_source)
-                        self._save_duplicate_record(key)
                     
                     conflicts.append(f"Found duplicate {key}: {value} in {source_file}")
                 else:
@@ -215,7 +259,8 @@ def main():
         PUBCHEM_ANION_DB_NAME,
         PUBCHEM_IONORGANIC_DB_NAME,
         PUBCHEM_EXAMPLE_DB_NAME,
-        # PUBCHEM_SMALL_DB_NAME
+        PUBCHEM_SMALL_DB_NAME,
+        # PUBCHEM_LARGE_DB_NAME # 400-800 conflicts to sort out, also failing to remove some redundant data automatically
     ]
     
     total_chemicals = 0
@@ -239,7 +284,10 @@ def main():
                 file_conflicts += len(conflicts)
                 
         total_conflicts += file_conflicts
-        print(f"Found {file_conflicts} conflicts in {len(chemicals)} entries")
+        # print(f"Found {file_conflicts} conflicts in {len(chemicals)} entries")
+    for key in validator.duplicate_files.keys():
+        validator._save_duplicate_record(key)
+
     
     # Generate summary report
     # summary_path = output_dir / "analysis_summary.txt"

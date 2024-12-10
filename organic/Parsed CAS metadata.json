@@ -42384,6 +42384,29 @@
     "inchiKey": "InChIKey=HHKZCCWKTZRCCL-UHFFFAOYSA-N",
     "smiles": "OCC(NCCCNC(CO)(CO)CO)(CO)CO"
   },
+  "645-49-8": {
+    "MW": 180.24508,
+    "Name": "cis-Stilbene",
+    "Other Names": [
+      "(Z)-1,2-Diphenylethene",
+      "(Z)-1,2-Diphenylethylene",
+      "(Z)-Stilbene",
+      "1,1\u2032-(1Z)-1,2-Ethenediylbis[benzene]",
+      "Benzene, 1,1\u2032-(1,2-ethenediyl)bis-, (Z)-",
+      "Benzene, 1,1\u2032-(1Z)-1,2-ethenediylbis-",
+      "Isostilbene",
+      "Stilbene, (Z)-",
+      "Stilbene, cis-",
+      "cis-1,2-Diphenylethene",
+      "cis-1,2-Diphenylethylene",
+      "cis-Diphenylethene",
+      "cis-Stilbene"
+    ],
+    "formula": "C14H12",
+    "inchi": "InChI=1S/C14H12/c1-3-7-13(8-4-1)11-12-14-9-5-2-6-10-14/h1-12H/b12-11-",
+    "inchiKey": "InChIKey=PJANXHGTPQOBST-QXMHVHEDSA-N",
+    "smiles": "C=1C=CC(=CC1)C=CC=2C=CC=CC2"
+  },
   "645-62-5": {
     "MW": 126.19615999999999,
     "Name": "2-Ethyl-2-hexenal",

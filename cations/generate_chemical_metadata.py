@@ -53,7 +53,7 @@ def main():
     
     output_file = Path(args.pop()) if args else workdir_path /'cations-tmp.tsv'
     input_files = [Path(f) for f in args]
-    # input_files = [Path(workdir_path) / 'mol' / '16065-91-1.mol']
+    # input_files = [Path(workdir_path) / 'mol' / '74143-30-9.mol']
 
     # Include all files from syn_data if INCLUDE_EVERYTHING is True
     INCLUDE_EVERYTHING = True
@@ -69,6 +69,7 @@ def main():
     
     # Process files
     processor.process_files(input_files, output_file)
+    processor.write_preferences(str(output_file)[0:-4] + '_preferences.json')
     logger.info(f"Processing complete. Output written to {output_file}")
 
 if __name__ == '__main__':

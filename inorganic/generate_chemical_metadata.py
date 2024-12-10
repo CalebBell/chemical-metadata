@@ -81,6 +81,7 @@ def main():
     
     # Process files
     processor.process_files(input_files, output_file)
+    processor.write_preferences(str(output_file)[0:-4] + '_preferences.json')
     logger.info(f"Processing complete. Output written to {output_file}")
 
 if __name__ == '__main__':

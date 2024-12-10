@@ -41,8 +41,24 @@ CsPO3 = {'pubchem': 23674445}
 B2O3 = {'pubchem': 518682}
 BeF2 = {'pubchem': 24589, 'name': 'beryllium fluoride'}
 NaBH4 = {'pubchem': 4311764}
-B2H6 = {'pubchem': 12544637}
-
+B2H6 = {
+    'pubchem': 12544637,
+    'name': 'diborane',
+    'iupac_name': 'diborane(6)',
+    'formula': 'B2H6',
+    'synonyms': [
+        'diborane(6)',
+        'diboron hexahydride',
+        'diborane (B2H6)',
+        'boron hydride (B2H6)',
+        'hydrogen boride (H6B2)',
+    ],
+    'smiles': '[BH2]1[H][BH2][H]1',
+    'inchi': 'InChI=1S/B2H6/c1-3-2-4-1/h1-2H2',
+    'inchikey': 'KLDBIFITUCWVCC-UHFFFAOYSA-N',
+    'hardcoded_synonyms': True,
+    'preferred': True
+}
 TlNO2 = {'pubchem': 19753737, 'name': 'thallium(I) nitrite'}
 
 SrP2O6 = {'pubchem': 16164193, 'name': 'strontium metaphosphate'}
@@ -67,7 +83,7 @@ H2 = {'pubchem': 783, 'synonyms': ['dihydrogen', 'molecular hydrogen', 'hydrogen
                                     'equilibrium nuclear spin isomer of molecular hydrogen', 'thermal equilibrium hydrogen',
                                     'temperature-equilibrated hydrogen', 'thermally equilibrated hydrogen', 'equilibrated hydrogen mixture', 
                                     'temperature-dependent hydrogen mixture', 'equilibrium ortho-para mixture', 'equilibrium o/p hydrogen'], 
-                                    'hardcoded_synonyms': True}
+                                    'hardcoded_synonyms': True, 'preferred': True}
 
 H2S4 = {'pubchem': 82836, 'name': 'dihydrogen tetrasulfide'}
 H2S5 = {'pubchem': 448216, 'name': 'dihydrogen pentasulfide'}
@@ -78,18 +94,18 @@ Magnesium_Hydroxide = {'pubchem': 73981, 'name': 'magnesium hydroxide'}
 parahydrogen = {'pubchem': None, 'name': 'parahydrogen', 'iupac_name': 'parahydrogen', 'formula': 'H2','synonyms': ['pH2', 'p-H2', 'para-hydrogen', 'p-hydrogen', 
                         'para-H2','para form of hydrogen','para modification of hydrogen', 'para spin isomer of hydrogen',
                          'para nuclear spin isomer of molecular hydrogen', '800000-49-1', '1333-74-0p'], 'smiles': '', 'inchi': '', 'inchikey': '',
-                         'hardcoded_synonyms': True}
+                         'hardcoded_synonyms': True, 'preferred': False}
 orthohydrogen = {'pubchem': None, 'name': 'orthohydrogen', 'iupac_name': 'orthohydrogen', 'formula': 'H2','synonyms': ['oH2', 'o-H2', 'ortho-hydrogen', 'o-hydrogen', 
                         'ortho-H2','ortho form of hydrogen','ortho modification of hydrogen', 'ortho spin isomer of hydrogen',
                          'ortho nuclear spin isomer of molecular hydrogen', '800000-50-4', '1333-74-0o'], 'smiles': '', 'inchi': '', 'inchikey': '',
-                         'hardcoded_synonyms': True}
+                         'hardcoded_synonyms': True, 'preferred': False}
 normal_hydrogen =  {'pubchem': None, 'name': 'normal hydrogen', 'iupac_name': 'normal hydrogen', 'formula': 'H2','synonyms': ['nH2', 'n-H2', 'normal-hydrogen', 'n-hydrogen', 
                         'normal-H2','normal form of hydrogen', '800000-51-5',
                         'normal form of hydrogen', 'normal modification of hydrogen', 'room temperature hydrogen mixture',
                          'standard hydrogen mixture', '3:1 ortho:para hydrogen mixture', '75:25 ortho:para hydrogen mixture',
                          'hydrogen, normal'], 
                          'smiles': '', 'inchi': '', 'inchikey': '',
-                         'hardcoded_synonyms': True}
+                         'hardcoded_synonyms': True, 'preferred': False}
 
 H = {'pubchem': 5362549,
     'formula': 'H',
@@ -126,7 +142,8 @@ paradeuterium = {
     'smiles': '', 
     'inchi': '', 
     'inchikey': '',
-    'hardcoded_synonyms': True
+    'hardcoded_synonyms': True,
+    'preferred': False,
 }
 
 orthodeuterium = {
@@ -143,7 +160,8 @@ orthodeuterium = {
     'smiles': '', 
     'inchi': '', 
     'inchikey': '',
-    'hardcoded_synonyms': True
+    'hardcoded_synonyms': True,
+    'preferred': False
 }
 
 normal_deuterium = {
@@ -161,8 +179,52 @@ normal_deuterium = {
     'smiles': '', 
     'inchi': '', 
     'inchikey': '',
+    'hardcoded_synonyms': True,
+    'preferred': False
+}
+
+V = {
+    'pubchem': 23990,
+    'name': 'vanadium',
+    'iupac_name': 'vanadium',
+    'formula': 'V',
+    'synonyms': [
+        'atomic vanadium',
+        'vanadium element',
+        'vanadium-51',
+        'elemental vanadium',
+        'vanadium atom',
+    ],
+    'hardcoded_synonyms': True,
+}
+# synonyms conflicting with Nitrosyl https://commonchemistry.cas.org/detail?cas_rn=14452-93-8
+NO = {
+        'synonyms': [
+        'nitric oxide',
+        'nitrogen monoxide',
+        'nitrogen oxide (NO)',
+        'nitrogen(II) oxide',
+        'mononitrogen monoxide',
+        'nitrogen monooxide',
+        'oxido nitrico',
+        'oxyde nitrique',
+        'Stickstoff(II)-oxid',
+        'EDRF',
+        'nitric oxide (NO)',
+        'nitrogen oxide',
+        'CCRIS 4319',
+        'CHEBI:16480',
+        'CHEMBL1200689',
+        'C00533',
+        'D00074',
+        'DB00435',
+        'DTXCID90938',
+        'HSDB 1246',
+        '31c4ky9esh'
+    ],
     'hardcoded_synonyms': True
 }
+
 custom_compounds = {    
     '13536-95-3': D2Se, '16919-19-0': ammonium_hexafluorosilicate,
                '13454-75-6': CsBromate, '10097-32-2': Br, '2099990000-00-0': NaAlO4H4,
@@ -176,6 +238,7 @@ custom_compounds = {
                '16940-66-2': NaBH4,
                '19287-45-7': B2H6,
                '13826-63-6': TlNO2,
+               '7440-62-2': V,
 
                '16090-25-8': SrP2O6,
                '14640-60-9': RbPO3,
@@ -188,16 +251,19 @@ custom_compounds = {
 
                '12136-50-4': K2S5,
                '37188-07-1': K2S6,
+               
+               '10102-43-9': NO,
 
-                '1333-74-0': H2,
                 '13845-25-5': H2S4,
                 '13845-24-4': H2S5,
 
+                '1333-74-0': H2,
                 '2099490000-00-0': parahydrogen,
                 '2099479000-00-0': orthohydrogen,
                 '2099474000-00-0': normal_hydrogen,
                 '12385-13-6': H,
 
+                '7782-39-0': {'preferred': True}, # Deuterium
                 '2099458000-00-0': paradeuterium,
                 '2099453000-00-0': orthodeuterium,
                 '2099437000-00-0': normal_deuterium,
@@ -205,6 +271,18 @@ custom_compounds = {
                 '1309-42-8': Magnesium_Hydroxide,
                 '1317-43-7': {'pubchem': 14791},
                 '14457-84-2': {'pubchem': -1}, # none
+
+
+                '1309-42-8': {'preferred': True}, # Magnesium hydroxide
+                '1317-43-7': {'preferred': False}, # Brucite (Mg(OH)2)
+
+                '1318-23-6': {'preferred': True}, #Boehmite (Al(OH)O)
+                '14457-84-2': {'preferred': False}, # Diaspore (AlHO2)
+
+                '13776-62-0': {'preferred': False}, #trans Dinitrogen difluoride F2N2
+                '13812-43-6': {'preferred': True}, #cis Dinitrogen difluoride F2N2 more stable
+                '10578-16-2': {'preferred': False}, # generic F2N2
+
     
                }
 
@@ -216,6 +294,21 @@ custom_compounds['13537-15-0'] = {
     'pubchem': -1,
     'smiles': '[Eu+3].[Eu+3].[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-]',
 }
+
+# Fe2O3 entries
+# Prefer the general iron(III) oxide over specific mineral forms
+custom_compounds['1309-37-1'] = {'preferred': True}  # Iron(III) oxide (Fe2O3)
+custom_compounds['1317-60-8'] = {'preferred': False}  # Hematite (α-Fe2O3)
+custom_compounds['12134-66-6'] = {'preferred': False}  # Maghemite (γ-Fe2O3)
+
+# Fe3O4 entries
+# Prefer the general iron(II,III) oxide over magnetite mineral form
+custom_compounds['1317-61-9'] = {'preferred': True}  # Iron(II,III) oxide (Fe3O4)
+custom_compounds['1309-38-2'] = {'preferred': False}  # Magnetite (Fe3O4)
+
+# FeO entry
+# Only one form so it's preferred by default
+custom_compounds['1345-25-1'] = {'preferred': True}  # Iron(II) oxide/Wüstite (FeO)
 
 
 for CAS, d in custom_compounds.items():

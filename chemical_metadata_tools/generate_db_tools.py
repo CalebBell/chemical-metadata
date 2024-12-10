@@ -198,6 +198,31 @@ class ChemicalMetadataProcessor:
         with open(filename, 'r', encoding='utf-8') as f:
             return json.load(f)
 
+    def write_preferences(self, path):
+        """Write out preferred and unpreferred CAS numbers from syn_data"""
+        preferred_cas = []
+        unpreferred_cas = []
+        
+        for CAS, d in self.syn_data.items():
+            if 'preferred' in d:
+                if d['preferred']:
+                    preferred_cas.append(CAS)
+                else:
+                    unpreferred_cas.append(CAS)
+        
+        # Sort for consistency
+        preferred_cas.sort()
+        unpreferred_cas.sort()
+        
+        preferences = {
+            "preferred_cas": preferred_cas,
+            "unpreferred_cas": unpreferred_cas
+        }
+        
+        # Write to JSON file
+        with open(path, 'w') as f:
+            json.dump(preferences, f, indent=2, sort_keys=True)
+    
     def _collect_user_names(self) -> Set[str]:
         """Collect all user-defined synonyms"""
         names = []
@@ -557,9 +582,19 @@ class ChemicalMetadataProcessor:
                     f.write(f"{result}\n")
         
         # Sort the output file
-        sorted_lines = sorted(temp_output.read_text().splitlines(), 
-                            key=lambda x: int(x.split('\t')[0]) if x.split('\t')[0].isdigit() else -1)
+        # sorted_lines = sorted(temp_output.read_text().splitlines(), 
+        #                     key=lambda x: int(x.split('\t')[0]) if x.split('\t')[0].isdigit() else -1)
+
+        def sort_key(line):
+            parts = line.split('\t')
+            pubchem_id = int(parts[0]) if parts[0].isdigit() else -1
+            # 0 for preferred (sorts last), 1 for not preferred (sorts first)
+            preferred_status = 1 if self.syn_data.get(parts[1], {}).get('preferred', False) else 0
+            return (preferred_status, pubchem_id)
         
+        # Sort using new key function
+        sorted_lines = sorted(temp_output.read_text().splitlines(), key=sort_key)
+
         with open(output_file, 'w', encoding='utf-8') as f:
             f.write('\n'.join(sorted_lines) + '\n')
         

@@ -109,7 +109,30 @@
     "synonyms": []
   },
   "10102-43-9": {
-    "synonyms": []
+    "hardcoded_synonyms": true,
+    "synonyms": [
+      "nitric oxide",
+      "nitrogen monoxide",
+      "nitrogen oxide (NO)",
+      "nitrogen(II) oxide",
+      "mononitrogen monoxide",
+      "nitrogen monooxide",
+      "oxido nitrico",
+      "oxyde nitrique",
+      "Stickstoff(II)-oxid",
+      "EDRF",
+      "nitric oxide (NO)",
+      "nitrogen oxide",
+      "CCRIS 4319",
+      "CHEBI:16480",
+      "CHEMBL1200689",
+      "C00533",
+      "D00074",
+      "DB00435",
+      "DTXCID90938",
+      "HSDB 1246",
+      "31c4ky9esh"
+    ]
   },
   "10102-44-0": {
     "synonyms": []
@@ -174,6 +197,7 @@
     "synonyms": []
   },
   "10578-16-2": {
+    "preferred": false,
     "synonyms": []
   },
   "1066-35-9": {
@@ -442,6 +466,9 @@
   "12134-02-0": {
     "synonyms": []
   },
+  "12134-66-6": {
+    "preferred": false
+  },
   "12134-77-9": {
     "synonyms": []
   },
@@ -598,14 +625,15 @@
     "synonyms": []
   },
   "1309-37-1": {
+    "preferred": true,
     "synonyms": []
   },
   "1309-38-2": {
+    "preferred": false,
     "synonyms": []
   },
   "1309-42-8": {
-    "name": "magnesium hydroxide",
-    "pubchem": 73981,
+    "preferred": true,
     "synonyms": []
   },
   "1312-73-8": {
@@ -660,10 +688,17 @@
     "synonyms": []
   },
   "1317-43-7": {
-    "pubchem": 14791,
+    "preferred": false,
     "synonyms": []
   },
+  "1317-60-8": {
+    "preferred": false
+  },
+  "1317-61-9": {
+    "preferred": true
+  },
   "1318-23-6": {
+    "preferred": true,
     "synonyms": []
   },
   "13268-42-3": {
@@ -688,6 +723,7 @@
   },
   "1333-74-0": {
     "hardcoded_synonyms": true,
+    "preferred": true,
     "pubchem": 783,
     "synonyms": [
       "dihydrogen",
@@ -755,6 +791,9 @@
   },
   "1345-04-6": {
     "synonyms": []
+  },
+  "1345-25-1": {
+    "preferred": true
   },
   "13451-05-3": {
     "synonyms": []
@@ -1046,6 +1085,7 @@
     "synonyms": []
   },
   "13776-62-0": {
+    "preferred": false,
     "synonyms": []
   },
   "13777-23-6": {
@@ -1072,6 +1112,7 @@
     "synonyms": []
   },
   "13812-43-6": {
+    "preferred": true,
     "synonyms": []
   },
   "13813-40-6": {
@@ -1219,7 +1260,7 @@
     "synonyms": []
   },
   "14457-84-2": {
-    "pubchem": -1,
+    "preferred": false,
     "synonyms": []
   },
   "14457-87-5": {
@@ -1377,8 +1418,22 @@
     "synonyms": []
   },
   "19287-45-7": {
+    "formula": "B2H6",
+    "hardcoded_synonyms": true,
+    "inchi": "InChI=1S/B2H6/c1-3-2-4-1/h1-2H2",
+    "inchikey": "KLDBIFITUCWVCC-UHFFFAOYSA-N",
+    "iupac_name": "diborane(6)",
+    "name": "diborane",
+    "preferred": true,
     "pubchem": 12544637,
-    "synonyms": []
+    "smiles": "[BH2]1[H][BH2][H]1",
+    "synonyms": [
+      "diborane(6)",
+      "diboron hexahydride",
+      "diborane (B2H6)",
+      "boron hydride (B2H6)",
+      "hydrogen boride (H6B2)"
+    ]
   },
   "19597-69-4": {
     "synonyms": []
@@ -1420,6 +1475,7 @@
     "inchikey": "",
     "iupac_name": "normal deuterium",
     "name": "normal deuterium",
+    "preferred": false,
     "pubchem": null,
     "smiles": "",
     "synonyms": [
@@ -1444,6 +1500,7 @@
     "inchikey": "",
     "iupac_name": "orthodeuterium",
     "name": "orthodeuterium",
+    "preferred": false,
     "pubchem": null,
     "smiles": "",
     "synonyms": [
@@ -1465,6 +1522,7 @@
     "inchikey": "",
     "iupac_name": "paradeuterium",
     "name": "paradeuterium",
+    "preferred": false,
     "pubchem": null,
     "smiles": "",
     "synonyms": [
@@ -1486,6 +1544,7 @@
     "inchikey": "",
     "iupac_name": "normal hydrogen",
     "name": "normal hydrogen",
+    "preferred": false,
     "pubchem": null,
     "smiles": "",
     "synonyms": [
@@ -1512,6 +1571,7 @@
     "inchikey": "",
     "iupac_name": "orthohydrogen",
     "name": "orthohydrogen",
+    "preferred": false,
     "pubchem": null,
     "smiles": "",
     "synonyms": [
@@ -1535,6 +1595,7 @@
     "inchikey": "",
     "iupac_name": "parahydrogen",
     "name": "parahydrogen",
+    "preferred": false,
     "pubchem": null,
     "smiles": "",
     "synonyms": [
@@ -1692,6 +1753,23 @@
   "6303-21-5": {
     "synonyms": []
   },
+  "7440-21-3": {
+    "synonyms": []
+  },
+  "7440-62-2": {
+    "formula": "V",
+    "hardcoded_synonyms": true,
+    "iupac_name": "vanadium",
+    "name": "vanadium",
+    "pubchem": 23990,
+    "synonyms": [
+      "atomic vanadium",
+      "vanadium element",
+      "vanadium-51",
+      "elemental vanadium",
+      "vanadium atom"
+    ]
+  },
   "7446-06-2": {
     "synonyms": []
   },
@@ -1757,6 +1835,9 @@
   "7722-88-5": {
     "synonyms": []
   },
+  "7723-14-0": {
+    "synonyms": []
+  },
   "7726-95-6": {
     "synonyms": []
   },
@@ -1784,6 +1865,7 @@
     "synonyms": []
   },
   "7782-39-0": {
+    "preferred": true,
     "synonyms": []
   },
   "7782-64-1": {

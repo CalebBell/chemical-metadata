@@ -27,7 +27,7 @@ update-anions:
     cat anions/changes.txt
 # Copy new anions database over old one and remove dated file
 copy-anions:
-    cd anions && [ -f anion_db_{{date}}.tsv ] && cp anion_db_{{date}}.tsv "Anion db.tsv" && rm anion_db_{{date}}.tsv || echo "New anion database not found"
+    cd anions && [ -f anion_db_{{date}}.tsv ] && mv -f anion_db_{{date}}.tsv "Anion db.tsv"  && mv -f anion_db_{{date}}_preferences.json "anion_preferences.json" || echo "New anion database not found"
 # Cations
 # Remove cache for cations
 clean-cache-cations:
@@ -49,7 +49,7 @@ update-cations:
     cat cations/changes.txt
 # Copy new cations database over old one and remove dated file
 copy-cations:
-    cd cations && [ -f cation_db_{{date}}.tsv ] && cp cation_db_{{date}}.tsv "Cation db.tsv" && rm cation_db_{{date}}.tsv || echo "New cation database not found"
+    cd cations && [ -f cation_db_{{date}}.tsv ] && mv -f cation_db_{{date}}.tsv "Cation db.tsv"  && mv -f cation_db_{{date}}_preferences.json "cation_preferences.json" || echo "New cation database not found"
 # Inorganic
 # Remove cache for inorganic
 clean-cache-inorganic:
@@ -73,7 +73,7 @@ update-inorganic:
 
 # Copy new inorganic database over old one and remove dated file
 copy-inorganic:
-    cd inorganic && [ -f inorganic_db_{{date}}.tsv ] && cp inorganic_db_{{date}}.tsv "Inorganic db.tsv" && rm inorganic_db_{{date}}.tsv || echo "New inorganic database not found"
+    cd inorganic && [ -f inorganic_db_{{date}}.tsv ] && mv -f inorganic_db_{{date}}.tsv "Inorganic db.tsv" && mv -f inorganic_db_{{date}}_preferences.json "inorganic_preferences.json"  || echo "New inorganic database not found"
 # Organic
 # Remove cache for organic
 clean-cache-organic:
@@ -118,12 +118,15 @@ copy-all: copy-anions copy-cations copy-inorganic copy-organic clean-all-changes
 # Install individual databases to chemicals package
 install-anions:
     cp anions/"Anion db.tsv" "{{chemicals-dir}}/Anion db.tsv"
+    cp anions/anion_preferences.json "{{chemicals-dir}}/anion_preferences.json"
 
 install-cations:
     cp cations/"Cation db.tsv" "{{chemicals-dir}}/Cation db.tsv"
+    cp cations/cation_preferences.json "{{chemicals-dir}}/cation_preferences.json"
 
 install-inorganic:
     cp inorganic/"Inorganic db.tsv" "{{chemicals-dir}}/Inorganic db.tsv"
+    cp inorganic/inorganic_preferences.json "{{chemicals-dir}}/inorganic_preferences.json"
 
 install-organic:
     cp organic/"chemical identifiers example user db.tsv" "{{chemicals-dir}}/chemical identifiers example user db.tsv"

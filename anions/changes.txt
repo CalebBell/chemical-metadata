@@ -1,0 +1,17 @@
+Chemical Metadata Difference Report
+=================================
+
+Summary:
+- Compounds removed: 0
+- Compounds added: 0
+- Compounds with property changes: 1
+- Compounds with synonym changes: 0
+
+
+Property Changes:
+----------------
+CAS: 12258-16-1
+  molecular_weight:
+    - Old: 124.8752
+    + New: 141.88288
+

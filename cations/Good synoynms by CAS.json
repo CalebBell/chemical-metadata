@@ -546,7 +546,8 @@
    "Pe4N(+1)",
    "Pe4N(1+)",
    "Pe4N(+)"
-  ]
+  ],
+  "preferred": true
  },
  "15969-58-1": {
   "synonyms": []
@@ -972,6 +973,8 @@
   ]
  },
  "2099995000-00-0": {
+  "name": "yttrium hydroxide",
+  "iupac_name": "yttrium(III) hydroxide",
   "synonyms": [
    "Yttrium dihydroxide ion"
   ]
@@ -1729,7 +1732,8 @@
    "iPe4N(+1)",
    "iPe4N(1+)",
    "iPe4N(+)"
-  ]
+  ],
+  "preferred": false
  },
  "41618-72-8": {
   "synonyms": [
@@ -1850,7 +1854,7 @@
   ]
  },
  "74143-30-9": {
-  "formula": "Po+",
+  "formula": "Po+3",
   "MW": 209,
   "smiles": "[Po+3]",
   "inchi": "InChI=1S/Po/q+3",
