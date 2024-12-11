@@ -1,1 +1,2550 @@
-{}
+{
+  "AHAREKHAZNPPMI-AATRIKPKSA-N": [
+    {
+      "entry": {
+        "CAS": 20237347,
+        "InChI": "C6H10/c1-3-5-6-4-2/h3,5-6H,1,4H2,2H3/b6-5+",
+        "InChI_key": "AHAREKHAZNPPMI-AATRIKPKSA-N",
+        "MW": 82.1436,
+        "common_name": "1,3-Hexadiene, (3E)-",
+        "formula": "C6H10",
+        "iupac_name": "(3E)-hexa-1,3-diene",
+        "pubchemid": 39175,
+        "smiles": "C=C/C=C/CC"
+      },
+      "source_file": "chemical identifiers example user db.tsv"
+    },
+    {
+      "entry": {
+        "CAS": 592483,
+        "InChI": "C6H10/c1-3-5-6-4-2/h3,5-6H,1,4H2,2H3/b6-5+",
+        "InChI_key": "AHAREKHAZNPPMI-AATRIKPKSA-N",
+        "MW": 82.1436,
+        "common_name": "1,3-hexadiene,c&t",
+        "formula": "C6H10",
+        "iupac_name": "(3e)-hexa-1,3-diene",
+        "pubchemid": 39175,
+        "smiles": "CC/C=C/C=C"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    }
+  ],
+  "AMDLMIANEBVNEY-UHFFFAOYSA-N": [
+    {
+      "entry": {
+        "CAS": 7403227,
+        "InChI": "C9H14O2/c10-9(11)8-5-4-6-2-1-3-7(6)8/h6-8H,1-5H2,(H,10,11)",
+        "InChI_key": "AMDLMIANEBVNEY-UHFFFAOYSA-N",
+        "MW": 154.20626,
+        "common_name": "1-Pentalenecarboxylic acid, octahydro-",
+        "formula": "C9H14O2",
+        "iupac_name": "1,2,3,3a,4,5,6,6a-octahydropentalene-1-carboxylic acid",
+        "pubchemid": 345452,
+        "smiles": "O=C(O)C1CCC2CCCC21"
+      },
+      "source_file": "chemical identifiers example user db.tsv"
+    },
+    {
+      "entry": {
+        "CAS": 18209433,
+        "InChI": "C9H14O2/c10-9(11)8-5-4-6-2-1-3-7(6)8/h6-8H,1-5H2,(H,10,11)",
+        "InChI_key": "AMDLMIANEBVNEY-UHFFFAOYSA-N",
+        "MW": 154.20626,
+        "common_name": "mls003171528",
+        "formula": "C9H14O2",
+        "iupac_name": "1,2,3,3a,4,5,6,6a-octahydropentalene-1-carboxylic acid",
+        "pubchemid": 345452,
+        "smiles": "C1CC2CCC(C2C1)C(=O)O"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    }
+  ],
+  "ANOBYBYXJXCGBS-UHFFFAOYSA-L": [
+    {
+      "entry": {
+        "CAS": 7783473,
+        "InChI": "2FH.Sn/h2*1H;/q;;+2/p-2",
+        "InChI_key": "ANOBYBYXJXCGBS-UHFFFAOYSA-L",
+        "MW": 156.697806,
+        "common_name": "stop",
+        "formula": "F2Sn",
+        "iupac_name": "difluorotin",
+        "pubchemid": 24550,
+        "smiles": "[F-].[F-].[Sn+2]"
+      },
+      "source_file": "Inorganic db.tsv"
+    },
+    {
+      "entry": {
+        "CAS": 12324560,
+        "InChI": "2FH.Sn/h2*1H;/q;;+2/p-2",
+        "InChI_key": "ANOBYBYXJXCGBS-UHFFFAOYSA-L",
+        "MW": 156.706806,
+        "common_name": "stannous fluoride",
+        "formula": "F2Sn",
+        "iupac_name": "bis(fluoranyl)tin",
+        "pubchemid": 24550,
+        "smiles": "F[Sn]F"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    }
+  ],
+  "AXZWODMDQAVCJE-UHFFFAOYSA-L": [
+    {
+      "entry": {
+        "CAS": 7772998,
+        "InChI": "2ClH.Sn/h2*1H;/q;;+2/p-2",
+        "InChI_key": "AXZWODMDQAVCJE-UHFFFAOYSA-L",
+        "MW": 189.607,
+        "common_name": "stannous chloride",
+        "formula": "Cl2Sn",
+        "iupac_name": "dichlorotin",
+        "pubchemid": 24479,
+        "smiles": "[Cl-].[Cl-].[Sn+2]"
+      },
+      "source_file": "Inorganic db.tsv"
+    },
+    {
+      "entry": {
+        "CAS": 12306284,
+        "InChI": "2ClH.Sn/h2*1H;/q;;+2/p-2",
+        "InChI_key": "AXZWODMDQAVCJE-UHFFFAOYSA-L",
+        "MW": 189.616,
+        "common_name": "tin dichloride",
+        "formula": "Cl2Sn",
+        "iupac_name": "bis(chloranyl)tin",
+        "pubchemid": 24479,
+        "smiles": "Cl[Sn]Cl"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    }
+  ],
+  "AZLNHMGSTZDDIY-UHFFFAOYSA-N": [
+    {
+      "entry": {
+        "CAS": 26438266,
+        "InChI": "C19H26/c1-2-3-4-5-6-7-8-12-17-14-11-15-18-13-9-10-16-19(17)18/h9-11,13-16H,2-8,12H2,1H3",
+        "InChI_key": "AZLNHMGSTZDDIY-UHFFFAOYSA-N",
+        "MW": 254.40974,
+        "common_name": "1-Nonylnaphthalene",
+        "formula": "C19H26",
+        "iupac_name": "1-nonylnaphthalene",
+        "pubchemid": 117797,
+        "smiles": "CCCCCCCCCc1cccc2ccccc12"
+      },
+      "source_file": "chemical identifiers example user db.tsv"
+    },
+    {
+      "entry": {
+        "CAS": 27193937,
+        "InChI": "C19H26/c1-2-3-4-5-6-7-8-12-17-14-11-15-18-13-9-10-16-19(17)18/h9-11,13-16H,2-8,12H2,1H3",
+        "InChI_key": "AZLNHMGSTZDDIY-UHFFFAOYSA-N",
+        "MW": 254.40974,
+        "common_name": "1-nonylnaphthalene",
+        "formula": "C19H26",
+        "iupac_name": "1-nonylnaphthalene",
+        "pubchemid": 117797,
+        "smiles": "CCCCCCCCCC1=CC=CC2=CC=CC=C21"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    }
+  ],
+  "BALXUFOVQVENIU-UHFFFAOYSA-N": [
+    {
+      "entry": {
+        "CAS": 134714,
+        "InChI": "C10H15NO.ClH/c1-8(11-2)10(12)9-6-4-3-5-7-9;/h3-8,10-12H,1-2H3;1H",
+        "InChI_key": "BALXUFOVQVENIU-UHFFFAOYSA-N",
+        "MW": 201.69314,
+        "common_name": "racephedrine hydrochloride",
+        "formula": "C10H16ClNO",
+        "iupac_name": "2-(methylamino)-1-phenyl-propan-1-ol;hydrochloride",
+        "pubchemid": 8648,
+        "smiles": "CC(C(C1=CC=CC=C1)O)NC.Cl"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    },
+    {
+      "entry": {
+        "CAS": 63991264,
+        "InChI": "C10H15NO.ClH/c1-8(11-2)10(12)9-6-4-3-5-7-9;/h3-8,10-12H,1-2H3;1H",
+        "InChI_key": "BALXUFOVQVENIU-UHFFFAOYSA-N",
+        "MW": 201.69314,
+        "common_name": "ephedrinhydrochlorid [german]",
+        "formula": "C10H16ClNO",
+        "iupac_name": "methyl-(1-oxidanyl-1-phenyl-propan-2-yl)azanium;chloride",
+        "pubchemid": 46256,
+        "smiles": "CC(C(C1=CC=CC=C1)O)[NH2+]C.[Cl-]"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    }
+  ],
+  "BAMWORSGQSUNSC-UHFFFAOYSA-N": [
+    {
+      "entry": {
+        "CAS": 61827869,
+        "InChI": "C11H16/c1-5-11-7-6-8(2)9(3)10(11)4/h6-7H,5H2,1-4H3",
+        "InChI_key": "BAMWORSGQSUNSC-UHFFFAOYSA-N",
+        "MW": 148.24474,
+        "common_name": "benzene, 1-ethyl-2,3,4-trimethyl-",
+        "formula": "C11H16",
+        "iupac_name": "1-ethyl-2,3,4-trimethylbenzene",
+        "pubchemid": 187815,
+        "smiles": "CCc1ccc(C)c(C)c1C"
+      },
+      "source_file": "chemical identifiers example user db.tsv"
+    },
+    {
+      "entry": {
+        "CAS": 41903417,
+        "InChI": "C11H16/c1-5-11-7-6-8(2)9(3)10(11)4/h6-7H,5H2,1-4H3",
+        "InChI_key": "BAMWORSGQSUNSC-UHFFFAOYSA-N",
+        "MW": 148.24474,
+        "common_name": "1,2,3-trimethyl-4-ethylbenzene",
+        "formula": "C11H16",
+        "iupac_name": "1-ethyl-2,3,4-trimethyl-benzene",
+        "pubchemid": 187815,
+        "smiles": "CCC1=C(C(=C(C=C1)C)C)C"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    }
+  ],
+  "BCBHDSLDGBIFIX-UHFFFAOYSA-N": [
+    {
+      "entry": {
+        "CAS": 1137991,
+        "InChI": "C10H10O5/c11-5-6-15-10(14)8-3-1-7(2-4-8)9(12)13/h1-4,11H,5-6H2,(H,12,13)",
+        "InChI_key": "BCBHDSLDGBIFIX-UHFFFAOYSA-N",
+        "MW": 210.1834,
+        "common_name": "1-(2-Hydroxyethyl) 1,4-benzenedicarboxylate",
+        "formula": "C10H10O5",
+        "iupac_name": "4-(2-hydroxyethoxycarbonyl)benzoic acid",
+        "pubchemid": 174073,
+        "smiles": "O=C(O)c1ccc(C(=O)OCCO)cc1"
+      },
+      "source_file": "chemical identifiers example user db.tsv"
+    },
+    {
+      "entry": {
+        "CAS": 71949296,
+        "InChI": "C10H10O5/c11-5-6-15-10(14)8-3-1-7(2-4-8)9(12)13/h1-4,11H,5-6H2,(H,12,13)",
+        "InChI_key": "BCBHDSLDGBIFIX-UHFFFAOYSA-N",
+        "MW": 210.1834,
+        "common_name": "ac1l5atf",
+        "formula": "C10H10O5",
+        "iupac_name": "4-(2-hydroxyethyloxycarbonyl)benzoic acid",
+        "pubchemid": 174073,
+        "smiles": "C1=CC(=CC=C1C(=O)O)C(=O)OCCO"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    }
+  ],
+  "BDEIYMXBPHSOSG-UHFFFAOYSA-N": [
+    {
+      "entry": {
+        "CAS": 7439158,
+        "InChI": "C16H18/c1-2-14-8-10-16(11-9-14)13-12-15-6-4-3-5-7-15/h3-11H,2,12-13H2,1H3",
+        "InChI_key": "BDEIYMXBPHSOSG-UHFFFAOYSA-N",
+        "MW": 210.31412,
+        "common_name": "benzene, 1-ethyl-4-(2-phenylethyl)-",
+        "formula": "C16H18",
+        "iupac_name": "1-ethyl-4-(2-phenylethyl)benzene",
+        "pubchemid": 92369,
+        "smiles": "CCc1ccc(CCc2ccccc2)cc1"
+      },
+      "source_file": "chemical identifiers example user db.tsv"
+    },
+    {
+      "entry": {
+        "CAS": 64800835,
+        "InChI": "C16H18/c1-2-14-8-10-16(11-9-14)13-12-15-6-4-3-5-7-15/h3-11H,2,12-13H2,1H3",
+        "InChI_key": "BDEIYMXBPHSOSG-UHFFFAOYSA-N",
+        "MW": 210.31412,
+        "common_name": "1-ethyl-4-(2-phenylethyl)benzene",
+        "formula": "C16H18",
+        "iupac_name": "1-ethyl-4-(2-phenylethyl)benzene",
+        "pubchemid": 92369,
+        "smiles": "CCC1=CC=C(C=C1)CCC2=CC=CC=C2"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    }
+  ],
+  "BIDDLDNGQCUOJQ-UHFFFAOYSA-N": [
+    {
+      "entry": {
+        "CAS": 3368169,
+        "InChI": "C15H12O2/c16-15(17)14(13-9-5-2-6-10-13)11-12-7-3-1-4-8-12/h1-11H,(H,16,17)",
+        "InChI_key": "BIDDLDNGQCUOJQ-UHFFFAOYSA-N",
+        "MW": 224.25458,
+        "common_name": "\u03b1-Phenylcinnamic acid",
+        "formula": "C15H12O2",
+        "iupac_name": "2,3-diphenylprop-2-enoic acid",
+        "pubchemid": 66677,
+        "smiles": "O=C(O)C(=Cc1ccccc1)c1ccccc1"
+      },
+      "source_file": "chemical identifiers example user db.tsv"
+    },
+    {
+      "entry": {
+        "CAS": 91485,
+        "InChI": "C15H12O2/c16-15(17)14(13-9-5-2-6-10-13)11-12-7-3-1-4-8-12/h1-11H,(H,16,17)",
+        "InChI_key": "BIDDLDNGQCUOJQ-UHFFFAOYSA-N",
+        "MW": 224.25458,
+        "common_name": "alpha-phenylcinnamic acid",
+        "formula": "C15H12O2",
+        "iupac_name": "2,3-diphenylprop-2-enoic acid",
+        "pubchemid": 66677,
+        "smiles": "C1=CC=C(C=C1)C=C(C2=CC=CC=C2)C(=O)O"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    }
+  ],
+  "BJHIKXHVCXFQLS-UYFOZJQFSA-N": [
+    {
+      "entry": {
+        "CAS": 57487,
+        "InChI": "C6H12O6/c7-1-3(9)5(11)6(12)4(10)2-8/h3,5-9,11-12H,1-2H2/t3-,5-,6-/m1/s1",
+        "InChI_key": "BJHIKXHVCXFQLS-UYFOZJQFSA-N",
+        "MW": 180.15588,
+        "common_name": "fructose",
+        "formula": "C6H12O6",
+        "iupac_name": "(3S,4R,5R)-1,3,4,5,6-pentahydroxyhexan-2-one",
+        "pubchemid": 5984,
+        "smiles": "O=C(CO)[C@@H](O)[C@H](O)[C@H](O)CO"
+      },
+      "source_file": "chemical identifiers example user db.tsv"
+    },
+    {
+      "entry": {
+        "CAS": 53188231,
+        "InChI": "C6H12O6/c7-1-3(9)5(11)6(12)4(10)2-8/h3,5-9,11-12H,1-2H2/t3-,5-,6-/m1/s1",
+        "InChI_key": "BJHIKXHVCXFQLS-UYFOZJQFSA-N",
+        "MW": 180.15588,
+        "common_name": "d(-)-fructose",
+        "formula": "C6H12O6",
+        "iupac_name": "(3s,4r,5r)-1,3,4,5,6-pentakis(oxidanyl)hexan-2-one",
+        "pubchemid": 5984,
+        "smiles": "C([C@H]([C@H]([C@@H](C(=O)CO)O)O)O)O"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    }
+  ],
+  "CAQYAZNFWDDMIT-UHFFFAOYSA-N": [
+    {
+      "entry": {
+        "CAS": 5137451,
+        "InChI": "C5H12O2/c1-3-7-5-4-6-2/h3-5H2,1-2H3",
+        "InChI_key": "CAQYAZNFWDDMIT-UHFFFAOYSA-N",
+        "MW": 104.14758,
+        "common_name": "1-Ethoxy-2-methoxyethane",
+        "formula": "C5H12O2",
+        "iupac_name": "1-ethoxy-2-methoxyethane",
+        "pubchemid": 123223,
+        "smiles": "CCOCCOC"
+      },
+      "source_file": "chemical identifiers example user db.tsv"
+    },
+    {
+      "entry": {
+        "CAS": 500005276,
+        "InChI": "C5H12O2/c1-3-7-5-4-6-2/h3-5H2,1-2H3",
+        "InChI_key": "CAQYAZNFWDDMIT-UHFFFAOYSA-N",
+        "MW": 104.14758,
+        "common_name": "2,5-dioxaheptane",
+        "formula": "C5H12O2",
+        "iupac_name": "1-ethoxy-2-methoxy-ethane",
+        "pubchemid": 123223,
+        "smiles": "CCOCCOC"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    }
+  ],
+  "CLMXSBZIYJITQU-UHFFFAOYSA-N": [
+    {
+      "entry": {
+        "CAS": 4151693,
+        "InChI": "C6H14S2/c1-5-7-8-6(2,3)4/h5H2,1-4H3",
+        "InChI_key": "CLMXSBZIYJITQU-UHFFFAOYSA-N",
+        "MW": 150.30536,
+        "common_name": "disulfide, 1,1-dimethylethyl ethyl",
+        "formula": "C6H14S2",
+        "iupac_name": "2-(ethyldisulfanyl)-2-methylpropane",
+        "pubchemid": 138136,
+        "smiles": "CCSSC(C)(C)C"
+      },
+      "source_file": "chemical identifiers example user db.tsv"
+    },
+    {
+      "entry": {
+        "CAS": 102107904,
+        "InChI": "C6H14S2/c1-5-7-8-6(2,3)4/h5H2,1-4H3",
+        "InChI_key": "CLMXSBZIYJITQU-UHFFFAOYSA-N",
+        "MW": 150.30536,
+        "common_name": "disulfide, tert-butyl ethyl",
+        "formula": "C6H14S2",
+        "iupac_name": "2-(ethyldisulfanyl)-2-methyl-propane",
+        "pubchemid": 138136,
+        "smiles": "CCSSC(C)(C)C"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    }
+  ],
+  "CMJCEVKJYRZMIA-UHFFFAOYSA-M": [
+    {
+      "entry": {
+        "CAS": 7790309,
+        "InChI": "HI.Tl/h1H;/q;+1/p-1",
+        "InChI_key": "CMJCEVKJYRZMIA-UHFFFAOYSA-M",
+        "MW": 331.28777,
+        "common_name": "thallium iodide",
+        "formula": "ITl",
+        "iupac_name": "iodanylthallium",
+        "pubchemid": 62679,
+        "smiles": "I[Tl]"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    },
+    {
+      "entry": {
+        "CAS": 57232834,
+        "InChI": "HI.Tl/h1H;/q;+1/p-1",
+        "InChI_key": "CMJCEVKJYRZMIA-UHFFFAOYSA-M",
+        "MW": 331.28777,
+        "common_name": "ag-h-12354",
+        "formula": "ITl",
+        "iupac_name": "thallium(1+);iodide",
+        "pubchemid": 6432721,
+        "smiles": "[I-].[Tl+]"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    }
+  ],
+  "CYEZJYAMLNTSKN-UHFFFAOYSA-N": [
+    {
+      "entry": {
+        "CAS": 17618767,
+        "InChI": "C8H16/c1-4-5-6-7-8(2)3/h6-8H,4-5H2,1-3H3",
+        "InChI_key": "CYEZJYAMLNTSKN-UHFFFAOYSA-N",
+        "MW": 112.21264,
+        "common_name": "2-Methyl-3-heptene",
+        "formula": "C8H16",
+        "iupac_name": "2-methylhept-3-ene",
+        "pubchemid": 69655,
+        "smiles": "CCCC=CC(C)C"
+      },
+      "source_file": "chemical identifiers example user db.tsv"
+    },
+    {
+      "entry": {
+        "CAS": 20488340,
+        "InChI": "C8H16/c1-4-5-6-7-8(2)3/h6-8H,4-5H2,1-3H3",
+        "InChI_key": "CYEZJYAMLNTSKN-UHFFFAOYSA-N",
+        "MW": 112.21264,
+        "common_name": "2-methylhept-3-ene",
+        "formula": "C8H16",
+        "iupac_name": "2-methylhept-3-ene",
+        "pubchemid": 69655,
+        "smiles": "CCCC=CC(C)C"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    }
+  ],
+  "DFVOXRAAHOJJBN-UHFFFAOYSA-N": [
+    {
+      "entry": {
+        "CAS": 5026766,
+        "InChI": "C8H16/c1-4-5-6-7-8(2)3/h4,8H,1,5-7H2,2-3H3",
+        "InChI_key": "DFVOXRAAHOJJBN-UHFFFAOYSA-N",
+        "MW": 112.21264,
+        "common_name": "6-Methyl-1-heptene",
+        "formula": "C8H16",
+        "iupac_name": "6-methylhept-1-ene",
+        "pubchemid": 21122,
+        "smiles": "C=CCCCC(C)C"
+      },
+      "source_file": "chemical identifiers example user db.tsv"
+    },
+    {
+      "entry": {
+        "CAS": 11071479,
+        "InChI": "C8H16/c1-4-5-6-7-8(2)3/h4,8H,1,5-7H2,2-3H3",
+        "InChI_key": "DFVOXRAAHOJJBN-UHFFFAOYSA-N",
+        "MW": 112.21264,
+        "common_name": "1-heptene, 6-methyl-",
+        "formula": "C8H16",
+        "iupac_name": "6-methylhept-1-ene",
+        "pubchemid": 21122,
+        "smiles": "CC(C)CCCC=C"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    }
+  ],
+  "DIZPMCHEQGEION-UHFFFAOYSA-H": [
+    {
+      "entry": {
+        "CAS": 10043013,
+        "InChI": "2Al.3H2O4S/c;;3*1-5(2,3)4/h;;3*(H2,1,2,3,4)/q2*+3;;;/p-6",
+        "InChI_key": "DIZPMCHEQGEION-UHFFFAOYSA-H",
+        "MW": 342.150876,
+        "common_name": "aluminum sulfate",
+        "formula": "Al2O12S3",
+        "iupac_name": "dialuminum;trisulfate",
+        "pubchemid": 24850,
+        "smiles": "O=S(=O)([O-])[O-].O=S(=O)([O-])[O-].O=S(=O)([O-])[O-].[Al+3].[Al+3]"
+      },
+      "source_file": "Inorganic db.tsv"
+    },
+    {
+      "entry": {
+        "CAS": 10124295,
+        "InChI": "2Al.3H2O4S/c;;3*1-5(2,3)4/h;;3*(H2,1,2,3,4)/q2*+3;;;/p-6",
+        "InChI_key": "DIZPMCHEQGEION-UHFFFAOYSA-H",
+        "MW": 342.150877,
+        "common_name": "aluminium sulfate",
+        "formula": "Al2O12S3",
+        "iupac_name": "dialuminum;trisulfate",
+        "pubchemid": 24850,
+        "smiles": "[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[Al+3].[Al+3]"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    }
+  ],
+  "DVMZCYSFPFUKKE-UHFFFAOYSA-K": [
+    {
+      "entry": {
+        "CAS": 10361849,
+        "InChI": "3ClH.Sc/h3*1H;/q;;;+3/p-3",
+        "InChI_key": "DVMZCYSFPFUKKE-UHFFFAOYSA-K",
+        "MW": 151.314912,
+        "common_name": "scandium trichloride",
+        "formula": "Cl3Sc",
+        "iupac_name": "tris(chloranyl)scandium",
+        "pubchemid": 82586,
+        "smiles": "Cl[Sc](Cl)Cl"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    },
+    {
+      "entry": {
+        "CAS": 17775461,
+        "InChI": "3ClH.Sc/h3*1H;/q;;;+3/p-3",
+        "InChI_key": "DVMZCYSFPFUKKE-UHFFFAOYSA-K",
+        "MW": 151.314912,
+        "common_name": "acmc-1bozk",
+        "formula": "Cl3Sc",
+        "iupac_name": "scandium(3+);trichloride",
+        "pubchemid": 10176216,
+        "smiles": "[Cl-].[Cl-].[Cl-].[Sc+3]"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    }
+  ],
+  "DWFFKGPZNGKUPH-UHFFFAOYSA-N": [
+    {
+      "entry": {
+        "CAS": 12504415,
+        "InChI": "SSi/c1-2",
+        "InChI_key": "DWFFKGPZNGKUPH-UHFFFAOYSA-N",
+        "MW": 60.1505,
+        "common_name": "silylene, thioxo-",
+        "formula": "SSi",
+        "iupac_name": "sulfanylidenesilicon",
+        "pubchemid": 21538250,
+        "smiles": "[Si-]#[S+]"
+      },
+      "source_file": "Inorganic db.tsv"
+    },
+    {
+      "entry": {
+        "CAS": 50927816,
+        "InChI": "SSi/c1-2",
+        "InChI_key": "DWFFKGPZNGKUPH-UHFFFAOYSA-N",
+        "MW": 60.1505,
+        "common_name": "silicon sulfide",
+        "formula": "SSi",
+        "iupac_name": "sulfanylidenesilicon",
+        "pubchemid": 21538250,
+        "smiles": "[Si]=S"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    }
+  ],
+  "FAHBNUUHRFUEAI-UHFFFAOYSA-M": [
+    {
+      "entry": {
+        "CAS": 14457842,
+        "InChI": "Al.H2O.O/h;1H2;/q+1;;/p-1",
+        "InChI_key": "FAHBNUUHRFUEAI-UHFFFAOYSA-M",
+        "MW": 59.988278,
+        "common_name": "diaspore",
+        "formula": "AlHO2",
+        "iupac_name": "hydroxy(oxo)alumane",
+        "pubchemid": 32524,
+        "smiles": "[Al+].[OH-].[O]"
+      },
+      "source_file": "Inorganic db.tsv"
+    },
+    {
+      "entry": {
+        "CAS": 1318236,
+        "InChI": "Al.H2O.O/h;1H2;/q+1;;/p-1",
+        "InChI_key": "FAHBNUUHRFUEAI-UHFFFAOYSA-M",
+        "MW": 59.988278,
+        "common_name": "boehmite (Al(OH)O)",
+        "formula": "AlHO2",
+        "iupac_name": "hydroxy(oxo)alumane",
+        "pubchemid": 32524,
+        "smiles": "[Al+].[OH-].[O]"
+      },
+      "source_file": "Inorganic db.tsv"
+    },
+    {
+      "entry": {
+        "CAS": 24623776,
+        "InChI": "Al.H2O.O/h;1H2;/q+1;;/p-1",
+        "InChI_key": "FAHBNUUHRFUEAI-UHFFFAOYSA-M",
+        "MW": 59.988279,
+        "common_name": "disperal",
+        "formula": "AlHO2",
+        "iupac_name": "oxidanyl(oxidanylidene)alumane",
+        "pubchemid": 32524,
+        "smiles": "O[Al]=O"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    }
+  ],
+  "FBMVFHKKLDGLJA-UHFFFAOYSA-N": [
+    {
+      "entry": {
+        "CAS": 86241909,
+        "InChI": "C6H13NS2/c1-4-7-5(2)9-6(3)8-4/h4-7H,1-3H3",
+        "InChI_key": "FBMVFHKKLDGLJA-UHFFFAOYSA-N",
+        "MW": 163.30412,
+        "common_name": "dihydro-2,4,6-trimethyl-4H-1,3,5-dithiazine",
+        "formula": "C6H13NS2",
+        "iupac_name": "2,4,6-trimethyl-1,3,5-dithiazinane",
+        "pubchemid": 12518,
+        "smiles": "CC1NC(C)SC(C)S1"
+      },
+      "source_file": "chemical identifiers example user db.tsv"
+    },
+    {
+      "entry": {
+        "CAS": 638175,
+        "InChI": "C6H13NS2/c1-4-7-5(2)9-6(3)8-4/h4-7H,1-3H3",
+        "InChI_key": "FBMVFHKKLDGLJA-UHFFFAOYSA-N",
+        "MW": 163.30412,
+        "common_name": "thialdine",
+        "formula": "C6H13NS2",
+        "iupac_name": "2,4,6-trimethyl-1,3,5-dithiazinane",
+        "pubchemid": 12518,
+        "smiles": "CC1NC(SC(S1)C)C"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    }
+  ],
+  "FJUIOMXPUOHENF-UHFFFAOYSA-N": [
+    {
+      "entry": {
+        "CAS": 68900856,
+        "InChI": "C4H7.2C2H5.Al/c1-3-4-2;2*1-2;/h1,3H,4H2,2H3;2*1H2,2H3;",
+        "InChI_key": "FJUIOMXPUOHENF-UHFFFAOYSA-N",
+        "MW": 140.202119,
+        "common_name": "(e)-but-1-enyldiethylaluminium",
+        "formula": "C8H17Al",
+        "iupac_name": "[(e)-but-1-enyl]-diethyl-alumane",
+        "pubchemid": 16684157,
+        "smiles": "CC/C=C/[Al](CC)CC"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    },
+    {
+      "entry": {
+        "CAS": 56095717,
+        "InChI": "C4H7.2C2H5.Al/c1-3-4-2;2*1-2;/h1,3H,4H2,2H3;2*1H2,2H3;",
+        "InChI_key": "FJUIOMXPUOHENF-UHFFFAOYSA-N",
+        "MW": 140.202119,
+        "common_name": "56095-71-7",
+        "formula": "C8H17Al",
+        "iupac_name": "but-1-enyl(diethyl)alumane",
+        "pubchemid": 57350978,
+        "smiles": "CCC=C[Al](CC)CC"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    }
+  ],
+  "FMSYTQMJOCCCQS-UHFFFAOYSA-L": [
+    {
+      "entry": {
+        "CAS": 7783393,
+        "InChI": "2FH.Hg/h2*1H;/q;;+2/p-2",
+        "InChI_key": "FMSYTQMJOCCCQS-UHFFFAOYSA-L",
+        "MW": 238.586806,
+        "common_name": "mercury fluoride (HgF2)",
+        "formula": "F2Hg",
+        "iupac_name": "difluoromercury",
+        "pubchemid": 82209,
+        "smiles": "[F-].[F-].[Hg+2]"
+      },
+      "source_file": "Inorganic db.tsv"
+    },
+    {
+      "entry": {
+        "CAS": 27575479,
+        "InChI": "2FH.Hg/h2*1H;/q;;+2/p-2",
+        "InChI_key": "FMSYTQMJOCCCQS-UHFFFAOYSA-L",
+        "MW": 238.586806,
+        "common_name": "mercury(ii) fluoride",
+        "formula": "F2Hg",
+        "iupac_name": "mercury(2+);difluoride",
+        "pubchemid": 161006,
+        "smiles": "[F-].[F-].[Hg+2]"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    }
+  ],
+  "GREARFRXIFVLGB-UHFFFAOYSA-N": [
+    {
+      "entry": {
+        "CAS": 2958761,
+        "InChI": "C11H20/c1-9-6-7-10-4-2-3-5-11(10)8-9/h9-11H,2-8H2,1H3",
+        "InChI_key": "GREARFRXIFVLGB-UHFFFAOYSA-N",
+        "MW": 152.2765,
+        "common_name": "2-Methyldecalin",
+        "formula": "C11H20",
+        "iupac_name": "2-methyl-1,2,3,4,4a,5,6,7,8,8a-decahydronaphthalene",
+        "pubchemid": 94249,
+        "smiles": "CC1CCC2CCCCC2C1"
+      },
+      "source_file": "chemical identifiers example user db.tsv"
+    },
+    {
+      "entry": {
+        "CAS": 14398711,
+        "InChI": "C11H20/c1-9-6-7-10-4-2-3-5-11(10)8-9/h9-11H,2-8H2,1H3",
+        "InChI_key": "GREARFRXIFVLGB-UHFFFAOYSA-N",
+        "MW": 152.2765,
+        "common_name": "2-methyldecalin",
+        "formula": "C11H20",
+        "iupac_name": "2-methyl-1,2,3,4,4a,5,6,7,8,8a-decahydronaphthalene",
+        "pubchemid": 94249,
+        "smiles": "CC1CCC2CCCCC2C1"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    }
+  ],
+  "GSRZWTOKFDGXLC-UHFFFAOYSA-K": [
+    {
+      "entry": {
+        "CAS": 79320904,
+        "InChI": "C12H18N3O.3ClH.Zn/c1-4-15(5-2)10-7-8-11(14-13)12(9-10)16-6-3;;;;/h7-9H,4-6H2,1-3H3;3*1H;/q+1;;;;+2/p-3",
+        "InChI_key": "GSRZWTOKFDGXLC-UHFFFAOYSA-K",
+        "MW": 392.02982,
+        "common_name": "4-diethylamino-2-ethoxybenzenediazonium zinc chloride",
+        "formula": "C12H18Cl3N3OZn",
+        "iupac_name": "zinc;4-(diethylamino)-2-ethoxy-benzenediazonium;trichloride",
+        "pubchemid": 169330,
+        "smiles": "CCN(CC)C1=CC(=C(C=C1)[N+]#N)OCC.[Cl-].[Cl-].[Cl-].[Zn+2]"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    },
+    {
+      "entry": {
+        "CAS": 6087532,
+        "InChI": "C12H18N3O.3ClH.Zn/c1-4-15(5-2)10-7-8-11(14-13)12(9-10)16-6-3;;;;/h7-9H,4-6H2,1-3H3;3*1H;/q+1;;;;+2/p-3",
+        "InChI_key": "GSRZWTOKFDGXLC-UHFFFAOYSA-K",
+        "MW": 392.02982,
+        "common_name": "benzenediazonium, 4-(diethylamino)-2-ethoxy-, trichlorozincate(1-)",
+        "formula": "C12H18Cl3N3OZn",
+        "iupac_name": "4-(diethylamino)-2-ethoxy-benzenediazonium;tris(chloranyl)zinc(1-)",
+        "pubchemid": 73555200,
+        "smiles": "CCN(CC)C1=CC(=C(C=C1)[N+]#N)OCC.Cl[Zn-](Cl)Cl"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    }
+  ],
+  "GZCGUPFRVQAUEE-SLPGGIOYSA-N": [
+    {
+      "entry": {
+        "CAS": 50997,
+        "InChI": "C6H12O6/c7-1-3(9)5(11)6(12)4(10)2-8/h1,3-6,8-12H,2H2/t3-,4+,5+,6+/m0/s1",
+        "InChI_key": "GZCGUPFRVQAUEE-SLPGGIOYSA-N",
+        "MW": 180.15588,
+        "common_name": "glucose",
+        "formula": "C6H12O6",
+        "iupac_name": "(2R,3S,4R,5R)-2,3,4,5,6-pentahydroxyhexanal",
+        "pubchemid": 107526,
+        "smiles": "O=C[C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO"
+      },
+      "source_file": "chemical identifiers example user db.tsv"
+    },
+    {
+      "entry": {
+        "CAS": 9050366,
+        "InChI": "C6H12O6/c7-1-3(9)5(11)6(12)4(10)2-8/h1,3-6,8-12H,2H2/t3-,4+,5+,6+/m0/s1",
+        "InChI_key": "GZCGUPFRVQAUEE-SLPGGIOYSA-N",
+        "MW": 180.15588,
+        "common_name": "glucosteril",
+        "formula": "C6H12O6",
+        "iupac_name": "(2r,3s,4r,5r)-2,3,4,5,6-pentakis(oxidanyl)hexanal",
+        "pubchemid": 107526,
+        "smiles": "C([C@H]([C@H]([C@@H]([C@H](C=O)O)O)O)O)O"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    }
+  ],
+  "HEBKCHPVOIAQTA-UHFFFAOYSA-N": [
+    {
+      "entry": {
+        "CAS": 87990,
+        "InChI": "C5H12O5/c6-1-3(8)5(10)4(9)2-7/h3-10H,1-2H2",
+        "InChI_key": "HEBKCHPVOIAQTA-UHFFFAOYSA-N",
+        "MW": 152.14578,
+        "common_name": "xylitol",
+        "formula": "C5H12O5",
+        "iupac_name": "pentane-1,2,3,4,5-pentol",
+        "pubchemid": 827,
+        "smiles": "OCC(O)C(O)C(O)CO"
+      },
+      "source_file": "chemical identifiers example user db.tsv"
+    },
+    {
+      "entry": {
+        "CAS": 488813,
+        "InChI": "C5H12O5/c6-1-3(8)5(10)4(9)2-7/h3-10H,1-2H2",
+        "InChI_key": "HEBKCHPVOIAQTA-UHFFFAOYSA-N",
+        "MW": 152.14578,
+        "common_name": "pentitol",
+        "formula": "C5H12O5",
+        "iupac_name": "pentane-1,2,3,4,5-pentol",
+        "pubchemid": 827,
+        "smiles": "C(C(C(C(CO)O)O)O)O"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    }
+  ],
+  "HPFDGTFXAVIVTH-UHFFFAOYSA-N": [
+    {
+      "entry": {
+        "CAS": 25498491,
+        "InChI": "C10H22O4/c1-8(11)5-13-10(3)7-14-9(2)6-12-4/h8-11H,5-7H2,1-4H3",
+        "InChI_key": "HPFDGTFXAVIVTH-UHFFFAOYSA-N",
+        "MW": 206.27928,
+        "common_name": "tripropylene glycol monomethyl ether",
+        "formula": "C10H22O4",
+        "iupac_name": "1-[1-(1-methoxypropan-2-yloxy)propan-2-yloxy]propan-2-ol",
+        "pubchemid": 30111,
+        "smiles": "COCC(C)OCC(C)OCC(C)O"
+      },
+      "source_file": "chemical identifiers example user db.tsv"
+    },
+    {
+      "entry": {
+        "CAS": 20324338,
+        "InChI": "C10H22O4/c1-8(11)5-13-10(3)7-14-9(2)6-12-4/h8-11H,5-7H2,1-4H3",
+        "InChI_key": "HPFDGTFXAVIVTH-UHFFFAOYSA-N",
+        "MW": 206.27928,
+        "common_name": "dowanol 62b",
+        "formula": "C10H22O4",
+        "iupac_name": "1-[1-(1-methoxypropan-2-yloxy)propan-2-yloxy]propan-2-ol",
+        "pubchemid": 30111,
+        "smiles": "CC(COC(C)COC(C)COC)O"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    }
+  ],
+  "ILUAAIDVFMVTAU-UHFFFAOYSA-N": [
+    {
+      "entry": {
+        "CAS": 88982,
+        "InChI": "C8H10O4/c9-7(10)5-3-1-2-4-6(5)8(11)12/h1-2,5-6H,3-4H2,(H,9,10)(H,11,12)",
+        "InChI_key": "ILUAAIDVFMVTAU-UHFFFAOYSA-N",
+        "MW": 170.1626,
+        "common_name": "tetrahydrophthalic acid",
+        "formula": "C8H10O4",
+        "iupac_name": "cyclohex-4-ene-1,2-dicarboxylic acid",
+        "pubchemid": 16823,
+        "smiles": "O=C(O)C1CC=CCC1C(=O)O"
+      },
+      "source_file": "chemical identifiers example user db.tsv"
+    },
+    {
+      "entry": {
+        "CAS": 68307926,
+        "InChI": "C8H10O4/c9-7(10)5-3-1-2-4-6(5)8(11)12/h1-2,5-6H,3-4H2,(H,9,10)(H,11,12)",
+        "InChI_key": "ILUAAIDVFMVTAU-UHFFFAOYSA-N",
+        "MW": 170.1626,
+        "common_name": "cyclohex-4-ene-1,2-dicarboxylic acid",
+        "formula": "C8H10O4",
+        "iupac_name": "cyclohex-4-ene-1,2-dicarboxylic acid",
+        "pubchemid": 16823,
+        "smiles": "C1C=CCC(C1C(=O)O)C(=O)O"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    }
+  ],
+  "ISHOGBQUWROIFC-UHFFFAOYSA-N": [
+    {
+      "entry": {
+        "CAS": 5892422,
+        "InChI": "C12H10.C6H3N3O7/c1-3-9-4-2-6-11-8-7-10(5-1)12(9)11;10-6-4(8(13)14)1-3(7(11)12)2-5(6)9(15)16/h1-6H,7-8H2;1-2,10H",
+        "InChI_key": "ISHOGBQUWROIFC-UHFFFAOYSA-N",
+        "MW": 383.31172,
+        "common_name": "acenaphthylene, 1,2-dihydro-, compd. with 2,4,6-trinitrophenol (1:1)",
+        "formula": "C18H13N3O7",
+        "iupac_name": "1,2-dihydroacenaphthylene;2,4,6-trinitrophenol",
+        "pubchemid": 253805,
+        "smiles": "O=[N+]([O-])c1cc([N+](=O)[O-])c(O)c([N+](=O)[O-])c1.c1cc2c3c(cccc3c1)CC2"
+      },
+      "source_file": "chemical identifiers example user db.tsv"
+    },
+    {
+      "entry": {
+        "CAS": 4599999,
+        "InChI": "C12H10.C6H3N3O7/c1-3-9-4-2-6-11-8-7-10(5-1)12(9)11;10-6-4(8(13)14)1-3(7(11)12)2-5(6)9(15)16/h1-6H,7-8H2;1-2,10H",
+        "InChI_key": "ISHOGBQUWROIFC-UHFFFAOYSA-N",
+        "MW": 383.31172,
+        "common_name": "acenaphthene compound with picric acid(1:1)",
+        "formula": "C18H13N3O7",
+        "iupac_name": "1,2-dihydroacenaphthylene;2,4,6-trinitrophenol",
+        "pubchemid": 253805,
+        "smiles": "C1CC2=CC=CC3=C2C1=CC=C3.C1=C(C=C(C(=C1[N+](=O)[O-])O)[N+](=O)[O-])[N+](=O)[O-]"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    }
+  ],
+  "JDIBGQFKXXXXPN-UHFFFAOYSA-N": [
+    {
+      "entry": {
+        "CAS": 23713464,
+        "InChI": "Bi/q+3",
+        "InChI_key": "JDIBGQFKXXXXPN-UHFFFAOYSA-N",
+        "MW": 208.9804,
+        "common_name": "bismuth, ion (Bi3+)",
+        "formula": "Bi+3",
+        "iupac_name": "bismuth(3+)",
+        "pubchemid": 105143,
+        "smiles": "[Bi+3]"
+      },
+      "source_file": "Cation db.tsv"
+    },
+    {
+      "entry": {
+        "CAS": 124687441,
+        "InChI": "Bi/q+3",
+        "InChI_key": "JDIBGQFKXXXXPN-UHFFFAOYSA-N",
+        "MW": 208.9804,
+        "common_name": "unii-zs9cd1i8ye",
+        "formula": "Bi+3",
+        "iupac_name": "bismuth(3+)",
+        "pubchemid": 105143,
+        "smiles": "[Bi+3]"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    }
+  ],
+  "JEPVJCOLPSALKN-UHFFFAOYSA-N": [
+    {
+      "entry": {
+        "CAS": 29736752,
+        "InChI": "3C2H4O2.2Sb/c3*3-1-2-4;;/h3*1-2H2;;/q3*-2;2*+3",
+        "InChI_key": "JEPVJCOLPSALKN-UHFFFAOYSA-N",
+        "MW": 423.67588,
+        "common_name": "2,5,7,10,11,14-hexaoxa-1,6-distibabicyclo[4.4.4]tetradecane",
+        "formula": "C6H12O6Sb2",
+        "iupac_name": "2,5,7,10,11,14-hexaoxa-1,6-distibabicyclo[4.4.4]tetradecane",
+        "pubchemid": 16684206,
+        "smiles": "C1CO[Sb]2OCCO[Sb](O1)OCCO2"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    },
+    {
+      "entry": {
+        "CAS": 51138284,
+        "InChI": "3C2H4O2.2Sb/c3*3-1-2-4;;/h3*1-2H2;;/q3*-2;2*+3",
+        "InChI_key": "JEPVJCOLPSALKN-UHFFFAOYSA-N",
+        "MW": 423.67588,
+        "common_name": "51138-28-4",
+        "formula": "C6H12O6Sb2",
+        "iupac_name": "2-[2-(1,3,2-dioxastibolan-2-yloxy)ethoxy]-1,3,2-dioxastibolane",
+        "pubchemid": 16684309,
+        "smiles": "C1CO[Sb](O1)OCCO[Sb]2OCCO2"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    }
+  ],
+  "KHMYONNPZWOTKW-UHFFFAOYSA-N": [
+    {
+      "entry": {
+        "CAS": 826186,
+        "InChI": "C11H14/c1-2-3-5-8-11-9-6-4-7-10-11/h4-10H,2-3H2,1H3",
+        "InChI_key": "KHMYONNPZWOTKW-UHFFFAOYSA-N",
+        "MW": 146.22886,
+        "common_name": "1-Penten-1-ylbenzene",
+        "formula": "C11H14",
+        "iupac_name": "pent-1-enylbenzene",
+        "pubchemid": 101872,
+        "smiles": "CCCC=Cc1ccccc1"
+      },
+      "source_file": "chemical identifiers example user db.tsv"
+    },
+    {
+      "entry": {
+        "CAS": 16002930,
+        "InChI": "C11H14/c1-2-3-5-8-11-9-6-4-7-10-11/h4-10H,2-3H2,1H3",
+        "InChI_key": "KHMYONNPZWOTKW-UHFFFAOYSA-N",
+        "MW": 146.22886,
+        "common_name": "pent-1-enylbenzene",
+        "formula": "C11H14",
+        "iupac_name": "pent-1-enylbenzene",
+        "pubchemid": 101872,
+        "smiles": "CCCC=CC1=CC=CC=C1"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    }
+  ],
+  "KJPRLNWUNMBNBZ-QPJJXVBHSA-N": [
+    {
+      "entry": {
+        "CAS": 14371109,
+        "InChI": "C9H8O/c10-8-4-7-9-5-2-1-3-6-9/h1-8H/b7-4+",
+        "InChI_key": "KJPRLNWUNMBNBZ-QPJJXVBHSA-N",
+        "MW": 132.15922,
+        "common_name": "trans-Cinnamaldehyde",
+        "formula": "C9H8O",
+        "iupac_name": "(E)-3-phenylprop-2-enal",
+        "pubchemid": 637511,
+        "smiles": "O=C/C=C/c1ccccc1"
+      },
+      "source_file": "chemical identifiers example user db.tsv"
+    },
+    {
+      "entry": {
+        "CAS": 104552,
+        "InChI": "C9H8O/c10-8-4-7-9-5-2-1-3-6-9/h1-8H/b7-4+",
+        "InChI_key": "KJPRLNWUNMBNBZ-QPJJXVBHSA-N",
+        "MW": 132.15922,
+        "common_name": "cinnamaldehyde",
+        "formula": "C9H8O",
+        "iupac_name": "(e)-3-phenylprop-2-enal",
+        "pubchemid": 637511,
+        "smiles": "C1=CC=C(C=C1)/C=C/C=O"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    }
+  ],
+  "KJRRTHHNKJBVBO-AATRIKPKSA-N": [
+    {
+      "entry": {
+        "CAS": 939582,
+        "InChI": "C9H7ClO2/c10-8-4-2-1-3-7(8)5-6-9(11)12/h1-6H,(H,11,12)/b6-5+",
+        "InChI_key": "KJRRTHHNKJBVBO-AATRIKPKSA-N",
+        "MW": 182.60368,
+        "common_name": "(2E)-3-(2-Chlorophenyl)-2-propenoic acid",
+        "formula": "C9H7ClO2",
+        "iupac_name": "(E)-3-(2-chlorophenyl)prop-2-enoic acid",
+        "pubchemid": 700642,
+        "smiles": "O=C(O)/C=C/c1ccccc1Cl"
+      },
+      "source_file": "chemical identifiers example user db.tsv"
+    },
+    {
+      "entry": {
+        "CAS": 3752258,
+        "InChI": "C9H7ClO2/c10-8-4-2-1-3-7(8)5-6-9(11)12/h1-6H,(H,11,12)/b6-5+",
+        "InChI_key": "KJRRTHHNKJBVBO-AATRIKPKSA-N",
+        "MW": 182.60368,
+        "common_name": "2-chlorocinnamic acid",
+        "formula": "C9H7ClO2",
+        "iupac_name": "(e)-3-(2-chlorophenyl)prop-2-enoic acid",
+        "pubchemid": 700642,
+        "smiles": "C1=CC=C(C(=C1)/C=C/C(=O)O)Cl"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    }
+  ],
+  "KLZUFWVZNOTSEM-UHFFFAOYSA-K": [
+    {
+      "entry": {
+        "CAS": 7784181,
+        "InChI": "Al.3FH/h;3*1H/q+3;;;/p-3",
+        "InChI_key": "KLZUFWVZNOTSEM-UHFFFAOYSA-K",
+        "MW": 83.976748,
+        "common_name": "aluminum fluoride",
+        "formula": "AlF3",
+        "iupac_name": "trifluoroalumane",
+        "pubchemid": 2124,
+        "smiles": "[Al+3].[F-].[F-].[F-]"
+      },
+      "source_file": "Inorganic db.tsv"
+    },
+    {
+      "entry": {
+        "CAS": 13595829,
+        "InChI": "Al.3FH/h;3*1H/q+3;;;/p-3",
+        "InChI_key": "KLZUFWVZNOTSEM-UHFFFAOYSA-K",
+        "MW": 83.976748,
+        "common_name": "aluminum fluoride",
+        "formula": "AlF3",
+        "iupac_name": "tris(fluoranyl)alumane",
+        "pubchemid": 2124,
+        "smiles": "F[Al](F)F"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    }
+  ],
+  "KORSJDCBLAPZEQ-UHFFFAOYSA-N": [
+    {
+      "entry": {
+        "CAS": 5124301,
+        "InChI": "C15H22N2O2/c18-10-16-14-5-1-12(2-6-14)9-13-3-7-15(8-4-13)17-11-19/h12-15H,1-9H2",
+        "InChI_key": "KORSJDCBLAPZEQ-UHFFFAOYSA-N",
+        "MW": 262.34738,
+        "common_name": "hydrogenated MDI",
+        "formula": "C15H22N2O2",
+        "iupac_name": "1-isocyanato-4-[(4-isocyanatocyclohexyl)methyl]cyclohexane",
+        "pubchemid": 21202,
+        "smiles": "O=C=NC1CCC(CC2CCC(N=C=O)CC2)CC1"
+      },
+      "source_file": "chemical identifiers example user db.tsv"
+    },
+    {
+      "entry": {
+        "CAS": 103072215,
+        "InChI": "C15H22N2O2/c18-10-16-14-5-1-12(2-6-14)9-13-3-7-15(8-4-13)17-11-19/h12-15H,1-9H2",
+        "InChI_key": "KORSJDCBLAPZEQ-UHFFFAOYSA-N",
+        "MW": 262.34738,
+        "common_name": "hydrogenated mdi",
+        "formula": "C15H22N2O2",
+        "iupac_name": "1-isocyanato-4-[(4-isocyanatocyclohexyl)methyl]cyclohexane",
+        "pubchemid": 21202,
+        "smiles": "C1CC(CCC1CC2CCC(CC2)N=C=O)N=C=O"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    }
+  ],
+  "KQDXBDSBTFZXIN-UHFFFAOYSA-N": [
+    {
+      "entry": {
+        "CAS": 68900801,
+        "InChI": "C8H15.2C6H13.Al/c1-3-5-7-8-6-4-2;2*1-3-5-6-4-2;/h1,3H,4-8H2,2H3;2*1,3-6H2,2H3;",
+        "InChI_key": "KQDXBDSBTFZXIN-UHFFFAOYSA-N",
+        "MW": 308.521079,
+        "common_name": "(e)-dihexyloct-1-enylaluminium",
+        "formula": "C20H41Al",
+        "iupac_name": "dihexyl-[(e)-oct-1-enyl]alumane",
+        "pubchemid": 16684152,
+        "smiles": "CCCCCC/C=C/[Al](CCCCCC)CCCCCC"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    },
+    {
+      "entry": {
+        "CAS": 56095740,
+        "InChI": "C8H15.2C6H13.Al/c1-3-5-7-8-6-4-2;2*1-3-5-6-4-2;/h1,3H,4-8H2,2H3;2*1,3-6H2,2H3;",
+        "InChI_key": "KQDXBDSBTFZXIN-UHFFFAOYSA-N",
+        "MW": 308.521079,
+        "common_name": "56095-74-0",
+        "formula": "C20H41Al",
+        "iupac_name": "dihexyl(oct-1-enyl)alumane",
+        "pubchemid": 57350981,
+        "smiles": "CCCCCCC=C[Al](CCCCCC)CCCCCC"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    }
+  ],
+  "KWBNSIPWTCSVDI-UHFFFAOYSA-N": [
+    {
+      "entry": {
+        "CAS": 68892240,
+        "InChI": "C5H9.2C3H7.Al/c1-3-5-4-2;2*1-3-2;/h1,3H,4-5H2,2H3;2*1,3H2,2H3;",
+        "InChI_key": "KWBNSIPWTCSVDI-UHFFFAOYSA-N",
+        "MW": 182.281859,
+        "common_name": "(z)-pent-1-enyldipropylaluminium",
+        "formula": "C11H23Al",
+        "iupac_name": "[(z)-pent-1-enyl]-dipropyl-alumane",
+        "pubchemid": 16684146,
+        "smiles": "CCC/C=C\\[Al](CCC)CCC"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    },
+    {
+      "entry": {
+        "CAS": 68900834,
+        "InChI": "C5H9.2C3H7.Al/c1-3-5-4-2;2*1-3-2;/h1,3H,4-5H2,2H3;2*1,3H2,2H3;",
+        "InChI_key": "KWBNSIPWTCSVDI-UHFFFAOYSA-N",
+        "MW": 182.281859,
+        "common_name": "(e)-pent-1-enyldipropylaluminium",
+        "formula": "C11H23Al",
+        "iupac_name": "[(e)-pent-1-enyl]-dipropyl-alumane",
+        "pubchemid": 16684155,
+        "smiles": "CCC/C=C/[Al](CCC)CCC"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    }
+  ],
+  "KWZMUCPHNCOJRP-UHFFFAOYSA-N": [
+    {
+      "entry": {
+        "CAS": 60981615,
+        "InChI": "C7H11.CH3.Hg/c1-2-7-4-3-6(1)5-7;;/h1,6-7H,2-5H2;1H3;",
+        "InChI_key": "KWZMUCPHNCOJRP-UHFFFAOYSA-N",
+        "MW": 310.78676,
+        "common_name": "mercury, methyl (norborn-2-yl)-, exo-",
+        "formula": "C8H14Hg",
+        "iupac_name": "3-bicyclo[2.2.1]heptanyl(methyl)mercury",
+        "pubchemid": 143755,
+        "smiles": "C[Hg]C1CC2CCC1C2"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    },
+    {
+      "entry": {
+        "CAS": 60981626,
+        "InChI": "C7H11.CH3.Hg/c1-2-7-4-3-6(1)5-7;;/h1,6-7H,2-5H2;1H3;",
+        "InChI_key": "KWZMUCPHNCOJRP-UHFFFAOYSA-N",
+        "MW": 310.78676,
+        "common_name": "mercury, methyl-(norborn-2-yl)-, endo-",
+        "formula": "C8H14Hg",
+        "iupac_name": "[(3r)-3-bicyclo[2.2.1]heptanyl]-methyl-mercury",
+        "pubchemid": 143756,
+        "smiles": "C[Hg][C@@H]1CC2CCC1C2"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    }
+  ],
+  "LCFKURIJYIJNRU-UHFFFAOYSA-N": [
+    {
+      "entry": {
+        "CAS": 624226,
+        "InChI": "C7H16O/c1-3-4-5-7(2)6-8/h7-8H,3-6H2,1-2H3",
+        "InChI_key": "LCFKURIJYIJNRU-UHFFFAOYSA-N",
+        "MW": 116.20134,
+        "common_name": "2-Methyl-1-hexanol",
+        "formula": "C7H16O",
+        "iupac_name": "2-methylhexan-1-ol",
+        "pubchemid": 43858,
+        "smiles": "CCCCC(C)CO"
+      },
+      "source_file": "chemical identifiers example user db.tsv"
+    },
+    {
+      "entry": {
+        "CAS": 61949266,
+        "InChI": "C7H16O/c1-3-4-5-7(2)6-8/h7-8H,3-6H2,1-2H3",
+        "InChI_key": "LCFKURIJYIJNRU-UHFFFAOYSA-N",
+        "MW": 116.20134,
+        "common_name": "1-hexanol, 2-methyl-",
+        "formula": "C7H16O",
+        "iupac_name": "2-methylhexan-1-ol",
+        "pubchemid": 43858,
+        "smiles": "CCCCC(C)CO"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    }
+  ],
+  "LIKBJVNGSGBSGK-UHFFFAOYSA-N": [
+    {
+      "entry": {
+        "CAS": 1317608,
+        "InChI": "2Fe.3O/q2*+3;3*-2",
+        "InChI_key": "LIKBJVNGSGBSGK-UHFFFAOYSA-N",
+        "MW": 159.6882,
+        "common_name": "hematite (Fe2O3)",
+        "formula": "Fe2O3",
+        "iupac_name": "iron(3+);oxygen(2-)",
+        "pubchemid": 14833,
+        "smiles": "[Fe+3].[Fe+3].[O-2].[O-2].[O-2]"
+      },
+      "source_file": "Inorganic db.tsv"
+    },
+    {
+      "entry": {
+        "CAS": 1309371,
+        "InChI": "2Fe.3O/q2*+3;3*-2",
+        "InChI_key": "LIKBJVNGSGBSGK-UHFFFAOYSA-N",
+        "MW": 159.6882,
+        "common_name": "iron oxide (Fe2O3)",
+        "formula": "Fe2O3",
+        "iupac_name": "iron(3+);oxygen(2-)",
+        "pubchemid": 14833,
+        "smiles": "[Fe+3].[Fe+3].[O-2].[O-2].[O-2]"
+      },
+      "source_file": "Inorganic db.tsv"
+    },
+    {
+      "entry": {
+        "CAS": 1332372,
+        "InChI": "2Fe.3O/q2*+3;3*-2",
+        "InChI_key": "LIKBJVNGSGBSGK-UHFFFAOYSA-N",
+        "MW": 159.6882,
+        "common_name": "raphisiderite",
+        "formula": "Fe2O3",
+        "iupac_name": "iron(3+);oxygen(2-)",
+        "pubchemid": 14833,
+        "smiles": "[O-2].[O-2].[O-2].[Fe+3].[Fe+3]"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    }
+  ],
+  "LNGAGQAGYITKCW-UHFFFAOYSA-N": [
+    {
+      "entry": {
+        "CAS": 94600,
+        "InChI": "C10H16O4/c1-13-9(11)7-3-5-8(6-4-7)10(12)14-2/h7-8H,3-6H2,1-2H3",
+        "InChI_key": "LNGAGQAGYITKCW-UHFFFAOYSA-N",
+        "MW": 200.23164,
+        "common_name": "dimethyl 1,4-cyclohexanedicarboxylate",
+        "formula": "C10H16O4",
+        "iupac_name": "dimethyl cyclohexane-1,4-dicarboxylate",
+        "pubchemid": 7198,
+        "smiles": "COC(=O)C1CCC(C(=O)OC)CC1"
+      },
+      "source_file": "chemical identifiers example user db.tsv"
+    },
+    {
+      "entry": {
+        "CAS": 3399222,
+        "InChI": "C10H16O4/c1-13-9(11)7-3-5-8(6-4-7)10(12)14-2/h7-8H,3-6H2,1-2H3",
+        "InChI_key": "LNGAGQAGYITKCW-UHFFFAOYSA-N",
+        "MW": 200.23164,
+        "common_name": "dimethyl 1,4-cyclohexanedicarboxylate",
+        "formula": "C10H16O4",
+        "iupac_name": "dimethyl cyclohexane-1,4-dicarboxylate",
+        "pubchemid": 7198,
+        "smiles": "COC(=O)C1CCC(CC1)C(=O)OC"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    }
+  ],
+  "MBDOYVRWFFCFHM-UHFFFAOYSA-N": [
+    {
+      "entry": {
+        "CAS": 505577,
+        "InChI": "C6H10O/c1-2-3-4-5-6-7/h4-6H,2-3H2,1H3",
+        "InChI_key": "MBDOYVRWFFCFHM-UHFFFAOYSA-N",
+        "MW": 98.143,
+        "common_name": "2-Hexenal",
+        "formula": "C6H10O",
+        "iupac_name": "hex-2-enal",
+        "pubchemid": 10460,
+        "smiles": "CCCC=CC=O"
+      },
+      "source_file": "chemical identifiers example user db.tsv"
+    },
+    {
+      "entry": {
+        "CAS": 6728263,
+        "InChI": "C6H10O/c1-2-3-4-5-6-7/h4-6H,2-3H2,1H3",
+        "InChI_key": "MBDOYVRWFFCFHM-UHFFFAOYSA-N",
+        "MW": 98.143,
+        "common_name": "hexenal",
+        "formula": "C6H10O",
+        "iupac_name": "hex-2-enal",
+        "pubchemid": 10460,
+        "smiles": "CCCC=CC=O"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    }
+  ],
+  "MJMDTFNVECGTEM-UHFFFAOYSA-L": [
+    {
+      "entry": {
+        "CAS": 7791186,
+        "InChI": "2ClH.Mg.H2O/h2*1H;;1H2/q;;+2;/p-2",
+        "InChI_key": "MJMDTFNVECGTEM-UHFFFAOYSA-L",
+        "MW": 113.22628,
+        "common_name": "magnesium chloride (MgCl2) hydrate (1:6)",
+        "formula": "Cl2H2MgO",
+        "iupac_name": "magnesium;dichloride;hydrate",
+        "pubchemid": 168060,
+        "smiles": "O.[Cl-].[Cl-].[Mg+2]"
+      },
+      "source_file": "Inorganic db.tsv"
+    },
+    {
+      "entry": {
+        "CAS": 22756145,
+        "InChI": "2ClH.Mg.H2O/h2*1H;;1H2/q;;+2;/p-2",
+        "InChI_key": "MJMDTFNVECGTEM-UHFFFAOYSA-L",
+        "MW": 113.22628,
+        "common_name": "22756-14-5",
+        "formula": "Cl2H2MgO",
+        "iupac_name": "magnesium;dichloride;hydrate",
+        "pubchemid": 168060,
+        "smiles": "O.[Mg+2].[Cl-].[Cl-]"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    }
+  ],
+  "MLUCVPSAIODCQM-NSCUHMNNSA-N": [
+    {
+      "entry": {
+        "CAS": 123739,
+        "InChI": "C4H6O/c1-2-3-4-5/h2-4H,1H3/b3-2+",
+        "InChI_key": "MLUCVPSAIODCQM-NSCUHMNNSA-N",
+        "MW": 70.08984,
+        "common_name": "trans-Crotonaldehyde",
+        "formula": "C4H6O",
+        "iupac_name": "(E)-but-2-enal",
+        "pubchemid": 447466,
+        "smiles": "C/C=C/C=O"
+      },
+      "source_file": "chemical identifiers example user db.tsv"
+    },
+    {
+      "entry": {
+        "CAS": 4170303,
+        "InChI": "C4H6O/c1-2-3-4-5/h2-4H,1H3/b3-2+",
+        "InChI_key": "MLUCVPSAIODCQM-NSCUHMNNSA-N",
+        "MW": 70.08984,
+        "common_name": "crotonaldehyde",
+        "formula": "C4H6O",
+        "iupac_name": "(e)-but-2-enal",
+        "pubchemid": 447466,
+        "smiles": "C/C=C/C=O"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    }
+  ],
+  "NVIFVTYDZMXWGX-UHFFFAOYSA-N": [
+    {
+      "entry": {
+        "CAS": 7775191,
+        "InChI": "BO2.Na/c2-1-3;/q-1;+1",
+        "InChI_key": "NVIFVTYDZMXWGX-UHFFFAOYSA-N",
+        "MW": 65.79957,
+        "common_name": "sodium metaborate",
+        "formula": "BNaO2",
+        "iupac_name": "sodium;oxido(oxo)borane",
+        "pubchemid": 145326,
+        "smiles": "O=B[O-].[Na+]"
+      },
+      "source_file": "Inorganic db.tsv"
+    },
+    {
+      "entry": {
+        "CAS": 161374818,
+        "InChI": "BO2.Na/c2-1-3;/q-1;+1",
+        "InChI_key": "NVIFVTYDZMXWGX-UHFFFAOYSA-N",
+        "MW": 65.799569,
+        "common_name": "borosoap",
+        "formula": "BNaO2",
+        "iupac_name": "sodium;oxidanidyl(oxidanylidene)borane",
+        "pubchemid": 145326,
+        "smiles": "B(=O)[O-].[Na+]"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    }
+  ],
+  "OGIDPMRJRNCKJF-UHFFFAOYSA-N": [
+    {
+      "entry": {
+        "CAS": 12065655,
+        "InChI": "O.Ti",
+        "InChI_key": "OGIDPMRJRNCKJF-UHFFFAOYSA-N",
+        "MW": 63.8664,
+        "common_name": "titanium oxide (Ti3O5)",
+        "formula": "OTi",
+        "iupac_name": "oxotitanium",
+        "pubchemid": 61685,
+        "smiles": "[O].[Ti]"
+      },
+      "source_file": "Inorganic db.tsv"
+    },
+    {
+      "entry": {
+        "CAS": 12137201,
+        "InChI": "O.Ti",
+        "InChI_key": "OGIDPMRJRNCKJF-UHFFFAOYSA-N",
+        "MW": 63.8664,
+        "common_name": "titanium monoxide",
+        "formula": "OTi",
+        "iupac_name": "oxidanylidenetitanium",
+        "pubchemid": 61685,
+        "smiles": "O=[Ti]"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    }
+  ],
+  "OGLDWXZKYODSOB-UHFFFAOYSA-N": [
+    {
+      "entry": {
+        "CAS": 99832,
+        "InChI": "C10H16/c1-8(2)10-6-4-9(3)5-7-10/h4-6,8,10H,7H2,1-3H3",
+        "InChI_key": "OGLDWXZKYODSOB-UHFFFAOYSA-N",
+        "MW": 136.23404,
+        "common_name": "alpha-Phellandrene",
+        "formula": "C10H16",
+        "iupac_name": "2-methyl-5-propan-2-ylcyclohexa-1,3-diene",
+        "pubchemid": 7460,
+        "smiles": "CC1=CCC(C(C)C)C=C1"
+      },
+      "source_file": "chemical identifiers example user db.tsv"
+    },
+    {
+      "entry": {
+        "CAS": 4221981,
+        "InChI": "C10H16/c1-8(2)10-6-4-9(3)5-7-10/h4-6,8,10H,7H2,1-3H3",
+        "InChI_key": "OGLDWXZKYODSOB-UHFFFAOYSA-N",
+        "MW": 136.23404,
+        "common_name": "alpha-phellandrene",
+        "formula": "C10H16",
+        "iupac_name": "2-methyl-5-propan-2-yl-cyclohexa-1,3-diene",
+        "pubchemid": 7460,
+        "smiles": "CC1=CCC(C=C1)C(C)C"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    }
+  ],
+  "ORBBVPFDROYXQS-UHFFFAOYSA-N": [
+    {
+      "entry": {
+        "CAS": 3658626,
+        "InChI": "C9HF17O2.H3N/c10-2(11,1(27)28)3(12,13)4(14,15)5(16,17)6(18,19)7(20,21)8(22,23)9(24,25)26;/h(H,27,28);1H3",
+        "InChI_key": "ORBBVPFDROYXQS-UHFFFAOYSA-N",
+        "MW": 481.106414,
+        "common_name": "ammonium tetradecafluoro-7-(trifluoromethyl)octanoate",
+        "formula": "C9H4F17NO2",
+        "iupac_name": "azane;2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,9-heptadecakis(fluoranyl)nonanoic acid",
+        "pubchemid": 77220,
+        "smiles": "C(=O)(C(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)O.N"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    },
+    {
+      "entry": {
+        "CAS": 4149604,
+        "InChI": "C9HF17O2.H3N/c10-2(11,1(27)28)3(12,13)4(14,15)5(16,17)6(18,19)7(20,21)8(22,23)9(24,25)26;/h(H,27,28);1H3",
+        "InChI_key": "ORBBVPFDROYXQS-UHFFFAOYSA-N",
+        "MW": 481.106414,
+        "common_name": "ammonium perfluorononanoate",
+        "formula": "C9H4F17NO2",
+        "iupac_name": "azanium;2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,9-heptadecakis(fluoranyl)nonanoate",
+        "pubchemid": 160734,
+        "smiles": "C(=O)(C(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)[O-].[NH4+]"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    }
+  ],
+  "OUUYBRCCFUEMLH-UHFFFAOYSA-N": [
+    {
+      "entry": {
+        "CAS": 13469528,
+        "InChI": "C13H18Cl2N2O2.ClH/c14-5-7-17(8-6-15)11-3-1-10(2-4-11)9-12(16)13(18)19;/h1-4,12H,5-9,16H2,(H,18,19);1H",
+        "InChI_key": "OUUYBRCCFUEMLH-UHFFFAOYSA-N",
+        "MW": 341.66116,
+        "common_name": "alkeran (russian)",
+        "formula": "C13H19Cl3N2O2",
+        "iupac_name": "[3-[4-[bis(2-chloroethyl)amino]phenyl]-1-oxidanyl-1-oxidanylidene-propan-2-yl]azanium;chloride",
+        "pubchemid": 15108,
+        "smiles": "C1=CC(=CC=C1CC(C(=O)O)[NH3+])N(CCCl)CCCl.[Cl-]"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    },
+    {
+      "entry": {
+        "CAS": 1465265,
+        "InChI": "C13H18Cl2N2O2.ClH/c14-5-7-17(8-6-15)11-3-1-10(2-4-11)9-12(16)13(18)19;/h1-4,12H,5-9,16H2,(H,18,19);1H",
+        "InChI_key": "OUUYBRCCFUEMLH-UHFFFAOYSA-N",
+        "MW": 341.66116,
+        "common_name": "sarkoklorin",
+        "formula": "C13H19Cl3N2O2",
+        "iupac_name": "2-azanyl-3-[4-[bis(2-chloroethyl)amino]phenyl]propanoic acid;hydrochloride",
+        "pubchemid": 12312742,
+        "smiles": "C1=CC(=CC=C1CC(C(=O)O)N)N(CCCl)CCCl.Cl"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    }
+  ],
+  "PBKYCFJFZMEFRS-UHFFFAOYSA-L": [
+    {
+      "entry": {
+        "CAS": 7787464,
+        "InChI": "Be.2BrH/h;2*1H/q+2;;/p-2",
+        "InChI_key": "PBKYCFJFZMEFRS-UHFFFAOYSA-L",
+        "MW": 168.820182,
+        "common_name": "beryllium bromide",
+        "formula": "BeBr2",
+        "iupac_name": "beryllium;dibromide",
+        "pubchemid": 82230,
+        "smiles": "[Be+2].[Br-].[Br-]"
+      },
+      "source_file": "Inorganic db.tsv"
+    },
+    {
+      "entry": {
+        "CAS": 13814498,
+        "InChI": "Be.2BrH/h;2*1H/q+2;;/p-2",
+        "InChI_key": "PBKYCFJFZMEFRS-UHFFFAOYSA-L",
+        "MW": 168.820182,
+        "common_name": "beryllium bromide",
+        "formula": "BeBr2",
+        "iupac_name": "beryllium;dibromide",
+        "pubchemid": 82230,
+        "smiles": "[Be+2].[Br-].[Br-]"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    }
+  ],
+  "PEFYPPIJKJOXDY-UHFFFAOYSA-J": [
+    {
+      "entry": {
+        "CAS": 13821131,
+        "InChI": "Al.4ClH.K/h;4*1H;/q+3;;;;;+1/p-4",
+        "InChI_key": "PEFYPPIJKJOXDY-UHFFFAOYSA-J",
+        "MW": 207.891839,
+        "common_name": "potassium tetrachloroaluminate",
+        "formula": "AlCl4K",
+        "iupac_name": "potassium;tetrakis(chloranyl)alumanuide",
+        "pubchemid": 16699759,
+        "smiles": "[Al-](Cl)(Cl)(Cl)Cl.[K+]"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    },
+    {
+      "entry": {
+        "CAS": 74978204,
+        "InChI": "Al.4ClH.K/h;4*1H;/q+3;;;;;+1/p-4",
+        "InChI_key": "PEFYPPIJKJOXDY-UHFFFAOYSA-J",
+        "MW": 207.891839,
+        "common_name": "potassium aluminium chloride",
+        "formula": "AlCl4K",
+        "iupac_name": "aluminum;potassium;tetrachloride",
+        "pubchemid": 53471571,
+        "smiles": "[Al+3].[Cl-].[Cl-].[Cl-].[Cl-].[K+]"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    }
+  ],
+  "PMJHHCWVYXUKFD-SNAWJCMRSA-N": [
+    {
+      "entry": {
+        "CAS": 2004708,
+        "InChI": "C5H8/c1-3-5-4-2/h3-5H,1H2,2H3/b5-4+",
+        "InChI_key": "PMJHHCWVYXUKFD-SNAWJCMRSA-N",
+        "MW": 68.11702,
+        "common_name": "trans-1,3-Pentadiene",
+        "formula": "C5H8",
+        "iupac_name": "(3E)-penta-1,3-diene",
+        "pubchemid": 62204,
+        "smiles": "C=C/C=C/C"
+      },
+      "source_file": "chemical identifiers example user db.tsv"
+    },
+    {
+      "entry": {
+        "CAS": 504609,
+        "InChI": "C5H8/c1-3-5-4-2/h3-5H,1H2,2H3/b5-4+",
+        "InChI_key": "PMJHHCWVYXUKFD-SNAWJCMRSA-N",
+        "MW": 68.11702,
+        "common_name": "trans-piperylene",
+        "formula": "C5H8",
+        "iupac_name": "(3e)-penta-1,3-diene",
+        "pubchemid": 62204,
+        "smiles": "C/C=C/C=C"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    }
+  ],
+  "PRKQVKDSMLBJBJ-UHFFFAOYSA-N": [
+    {
+      "entry": {
+        "CAS": 10361292,
+        "InChI": "CH2O3.2H3N/c2-1(3)4;;/h(H2,2,3,4);2*1H3",
+        "InChI_key": "PRKQVKDSMLBJBJ-UHFFFAOYSA-N",
+        "MW": 96.08582,
+        "common_name": "hartshorn salt",
+        "formula": "CH8N2O3",
+        "iupac_name": "azane;carbonic acid",
+        "pubchemid": 10480,
+        "smiles": "C(=O)(O)O.N.N"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    },
+    {
+      "entry": {
+        "CAS": 506876,
+        "InChI": "CH2O3.2H3N/c2-1(3)4;;/h(H2,2,3,4);2*1H3",
+        "InChI_key": "PRKQVKDSMLBJBJ-UHFFFAOYSA-N",
+        "MW": 96.08582,
+        "common_name": "ammonium carbonate",
+        "formula": "CH8N2O3",
+        "iupac_name": "diazanium;carbonate",
+        "pubchemid": 517111,
+        "smiles": "C(=O)([O-])[O-].[NH4+].[NH4+]"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    }
+  ],
+  "PWEVMPIIOJUPRI-UHFFFAOYSA-N": [
+    {
+      "entry": {
+        "CAS": 2067767,
+        "InChI": "2CH3.Sn/h2*1H3;",
+        "InChI_key": "PWEVMPIIOJUPRI-UHFFFAOYSA-N",
+        "MW": 148.77004,
+        "common_name": "dimethylstannane",
+        "formula": "C2H6Sn",
+        "iupac_name": "dimethyltin",
+        "pubchemid": 31651,
+        "smiles": "[CH3].[CH3].[Sn]"
+      },
+      "source_file": "chemical identifiers example user db.tsv"
+    },
+    {
+      "entry": {
+        "CAS": 23120992,
+        "InChI": "2CH3.Sn/h2*1H3;",
+        "InChI_key": "PWEVMPIIOJUPRI-UHFFFAOYSA-N",
+        "MW": 148.77904,
+        "common_name": "dimethylstannylene",
+        "formula": "C2H6Sn",
+        "iupac_name": "dimethyltin",
+        "pubchemid": 31651,
+        "smiles": "C[Sn]C"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    }
+  ],
+  "PZPGRFITIJYNEJ-UHFFFAOYSA-N": [
+    {
+      "entry": {
+        "CAS": 1590870,
+        "InChI": "H6Si2/c1-2/h1-2H3",
+        "InChI_key": "PZPGRFITIJYNEJ-UHFFFAOYSA-N",
+        "MW": 62.21864,
+        "common_name": "disilane",
+        "formula": "H6Si2",
+        "iupac_name": "silylsilane",
+        "pubchemid": 74123,
+        "smiles": "[SiH3][SiH3]"
+      },
+      "source_file": "Inorganic db.tsv"
+    },
+    {
+      "entry": {
+        "CAS": 36835582,
+        "InChI": "H6Si2/c1-2/h1-2H3",
+        "InChI_key": "PZPGRFITIJYNEJ-UHFFFAOYSA-N",
+        "MW": 62.21864,
+        "common_name": "silylsilane",
+        "formula": "H6Si2",
+        "iupac_name": "silanylsilane",
+        "pubchemid": 74123,
+        "smiles": "[SiH3][SiH3]"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    }
+  ],
+  "QUZPNFFHZPRKJD-UHFFFAOYSA-N": [
+    {
+      "entry": {
+        "CAS": 7782652,
+        "InChI": "GeH4/h1H4",
+        "InChI_key": "QUZPNFFHZPRKJD-UHFFFAOYSA-N",
+        "MW": 76.67176,
+        "common_name": "germane",
+        "formula": "GeH4",
+        "iupac_name": "germane",
+        "pubchemid": 23984,
+        "smiles": "[GeH4]"
+      },
+      "source_file": "Inorganic db.tsv"
+    },
+    {
+      "entry": {
+        "CAS": 13765452,
+        "InChI": "GeH4/h1H4",
+        "InChI_key": "QUZPNFFHZPRKJD-UHFFFAOYSA-N",
+        "MW": 76.67176,
+        "common_name": "germane",
+        "formula": "GeH4",
+        "iupac_name": "germane",
+        "pubchemid": 23984,
+        "smiles": "[GeH4]"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    }
+  ],
+  "REHXRBDMVPYGJX-UHFFFAOYSA-H": [
+    {
+      "entry": {
+        "CAS": 13775536,
+        "InChI": "Al.6FH.3Na/h;6*1H;;;/q+3;;;;;;;3*+1/p-6",
+        "InChI_key": "REHXRBDMVPYGJX-UHFFFAOYSA-H",
+        "MW": 209.941267,
+        "common_name": "trisodium hexafluoroaluminate",
+        "formula": "AlF6Na3",
+        "iupac_name": "aluminum;trisodium;hexafluoride",
+        "pubchemid": 159692,
+        "smiles": "[Al+3].[F-].[F-].[F-].[F-].[F-].[F-].[Na+].[Na+].[Na+]"
+      },
+      "source_file": "Inorganic db.tsv"
+    },
+    {
+      "entry": {
+        "CAS": 15096523,
+        "InChI": "Al.6FH.3Na/h;6*1H;;;/q+3;;;;;;;3*+1/p-6",
+        "InChI_key": "REHXRBDMVPYGJX-UHFFFAOYSA-H",
+        "MW": 209.941266,
+        "common_name": "cryolite",
+        "formula": "AlF6Na3",
+        "iupac_name": "trisodium;hexakis(fluoranyl)aluminum(3-)",
+        "pubchemid": 16693908,
+        "smiles": "F[Al-3](F)(F)(F)(F)F.[Na+].[Na+].[Na+]"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    }
+  ],
+  "RMIOHTPMSWCRSO-UHFFFAOYSA-N": [
+    {
+      "entry": {
+        "CAS": 6283278,
+        "InChI": "C4H6O5.H3N/c5-2(4(8)9)1-3(6)7;/h2,5H,1H2,(H,6,7)(H,8,9);1H3",
+        "InChI_key": "RMIOHTPMSWCRSO-UHFFFAOYSA-N",
+        "MW": 151.11796,
+        "common_name": "diammonium malate",
+        "formula": "C4H9NO5",
+        "iupac_name": "azane;2-oxidanylbutanedioic acid",
+        "pubchemid": 3083952,
+        "smiles": "C(C(C(=O)O)O)C(=O)O.N"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    },
+    {
+      "entry": {
+        "CAS": 5972714,
+        "InChI": "C4H6O5.H3N/c5-2(4(8)9)1-3(6)7;/h2,5H,1H2,(H,6,7)(H,8,9);1H3",
+        "InChI_key": "RMIOHTPMSWCRSO-UHFFFAOYSA-N",
+        "MW": 151.11796,
+        "common_name": "ammonium bimalate",
+        "formula": "C4H9NO5",
+        "iupac_name": "azanium;3,4-bis(oxidanyl)-4-oxidanylidene-butanoate",
+        "pubchemid": 6453845,
+        "smiles": "C(C(C(=O)O)O)C(=O)[O-].[NH4+]"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    }
+  ],
+  "SDAPCJALHMXUGR-UHFFFAOYSA-K": [
+    {
+      "entry": {
+        "CAS": 70969696,
+        "InChI": "3C2H6OS.Sb/c3*3-1-2-4;/h3*3-4H,1-2H2;/q;;;+3/p-3",
+        "InChI_key": "SDAPCJALHMXUGR-UHFFFAOYSA-K",
+        "MW": 353.1365,
+        "common_name": "70969-69-6",
+        "formula": "C6H15O3S3Sb",
+        "iupac_name": "2-[bis(2-hydroxyethylsulfanyl)stibanylsulfanyl]ethanol",
+        "pubchemid": 116971,
+        "smiles": "C(CS[Sb](SCCO)SCCO)O"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    },
+    {
+      "entry": {
+        "CAS": 71215720,
+        "InChI": "3C2H6OS.Sb/c3*3-1-2-4;/h3*3-4H,1-2H2;/q;;;+3/p-3",
+        "InChI_key": "SDAPCJALHMXUGR-UHFFFAOYSA-K",
+        "MW": 353.1365,
+        "common_name": "antimony tris(2-hydroxyethylmercaptide)",
+        "formula": "C6H15O3S3Sb",
+        "iupac_name": "antimony(3+);2-oxidanylethanethiolate",
+        "pubchemid": 172753,
+        "smiles": "C(C[S-])O.C(C[S-])O.C(C[S-])O.[Sb+3]"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    }
+  ],
+  "SJRXWMQZUAOMRJ-UHFFFAOYSA-N": [
+    {
+      "entry": {
+        "CAS": 1552676,
+        "InChI": "C8H14O2/c1-3-5-6-7-8(9)10-4-2/h6-7H,3-5H2,1-2H3",
+        "InChI_key": "SJRXWMQZUAOMRJ-UHFFFAOYSA-N",
+        "MW": 142.19556,
+        "common_name": "ethyl 2-hexenoate",
+        "formula": "C8H14O2",
+        "iupac_name": "ethyl hex-2-enoate",
+        "pubchemid": 519129,
+        "smiles": "CCCC=CC(=O)OCC"
+      },
+      "source_file": "chemical identifiers example user db.tsv"
+    },
+    {
+      "entry": {
+        "CAS": 27829727,
+        "InChI": "C8H14O2/c1-3-5-6-7-8(9)10-4-2/h6-7H,3-5H2,1-2H3",
+        "InChI_key": "SJRXWMQZUAOMRJ-UHFFFAOYSA-N",
+        "MW": 142.19556,
+        "common_name": "ethyl (e)-hex-2-enoate",
+        "formula": "C8H14O2",
+        "iupac_name": "ethyl hex-2-enoate",
+        "pubchemid": 519129,
+        "smiles": "CCCC=CC(=O)OCC"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    }
+  ],
+  "TUFZVLHKHTYNTN-UHFFFAOYSA-N": [
+    {
+      "entry": {
+        "CAS": 12035528,
+        "InChI": "Ni.Sb",
+        "InChI_key": "TUFZVLHKHTYNTN-UHFFFAOYSA-N",
+        "MW": 180.4534,
+        "common_name": "antimony, compd. with nickel (1:1)",
+        "formula": "NiSb",
+        "iupac_name": "stibanylidynenickel",
+        "pubchemid": 61553,
+        "smiles": "[Ni].[Sb]"
+      },
+      "source_file": "Inorganic db.tsv"
+    },
+    {
+      "entry": {
+        "CAS": 12125610,
+        "InChI": "Ni.Sb",
+        "InChI_key": "TUFZVLHKHTYNTN-UHFFFAOYSA-N",
+        "MW": 180.4534,
+        "common_name": "breithauptite",
+        "formula": "NiSb",
+        "iupac_name": "stibanylidynenickel",
+        "pubchemid": 61553,
+        "smiles": "[Ni]#[Sb]"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    }
+  ],
+  "UEUDBBQFZIMOQJ-UHFFFAOYSA-K": [
+    {
+      "entry": {
+        "CAS": 14221477,
+        "InChI": "3C2H2O4.Fe.3H3N/c3*3-1(4)2(5)6;;;;/h3*(H,3,4)(H,5,6);;3*1H3/q;;;+3;;;/p-3",
+        "InChI_key": "UEUDBBQFZIMOQJ-UHFFFAOYSA-K",
+        "MW": 374.01738,
+        "common_name": "ammonium ferrioxalate",
+        "formula": "C6H12FeN3O12",
+        "iupac_name": "triazanium;ethanedioate;iron(3+)",
+        "pubchemid": 26580,
+        "smiles": "C(=O)(C(=O)[O-])[O-].C(=O)(C(=O)[O-])[O-].C(=O)(C(=O)[O-])[O-].[NH4+].[NH4+].[NH4+].[Fe+3]"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    },
+    {
+      "entry": {
+        "CAS": 2944674,
+        "InChI": "3C2H2O4.Fe.3H3N/c3*3-1(4)2(5)6;;;;/h3*(H,3,4)(H,5,6);;3*1H3/q;;;+3;;;/p-3",
+        "InChI_key": "UEUDBBQFZIMOQJ-UHFFFAOYSA-K",
+        "MW": 374.01738,
+        "common_name": "ethanedioic acid, ammonium iron(3+) salt (3:3:1)",
+        "formula": "C6H12FeN3O12",
+        "iupac_name": "azane;iron(3+);2-oxidanyl-2-oxidanylidene-ethanoate",
+        "pubchemid": 62468,
+        "smiles": "C(=O)(C(=O)[O-])O.C(=O)(C(=O)[O-])O.C(=O)(C(=O)[O-])O.N.N.N.[Fe+3]"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    }
+  ],
+  "UPWPDUACHOATKO-UHFFFAOYSA-K": [
+    {
+      "entry": {
+        "CAS": 13450903,
+        "InChI": "3ClH.Ga/h3*1H;/q;;;+3/p-3",
+        "InChI_key": "UPWPDUACHOATKO-UHFFFAOYSA-K",
+        "MW": 176.082,
+        "common_name": "trichlorogallium",
+        "formula": "Cl3Ga",
+        "iupac_name": "tris(chloranyl)gallane",
+        "pubchemid": 26010,
+        "smiles": "Cl[Ga](Cl)Cl"
+      },
+      "source_file": "chemical identifiers pubchem small.tsv"
+    },
+    {
+      "entry": {
+        "CAS": 17108859,
+        "InChI": "3ClH.Ga/h3*1H;/q;;;+3/p-3",
+        "InChI_key": "UPWPDUACHOATKO-UHFFFAOYSA-K",
+        "MW": 176.082,
+        "common_name": "ac1l4hys",
+        "formula": "Cl3Ga",
+        "iupac_name": "gallium;trichloride",
+        "pubchemid": 186022,
+        "smiles": "[Cl-].[Cl-].[Cl-].[Ga+3]"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    }
+  ],
+  "USJRLGNYCQWLPF-UHFFFAOYSA-N": [
+    {
+      "entry": {
+        "CAS": 12265144,
+        "InChI": "ClH2P/c1-2/h2H2",
+        "InChI_key": "USJRLGNYCQWLPF-UHFFFAOYSA-N",
+        "MW": 68.442641,
+        "common_name": "phosphonium chloride",
+        "formula": "ClH2P",
+        "iupac_name": "chlorophosphane",
+        "pubchemid": 161938,
+        "smiles": "PCl"
+      },
+      "source_file": "Inorganic db.tsv"
+    },
+    {
+      "entry": {
+        "CAS": 24567531,
+        "InChI": "ClH2P/c1-2/h2H2",
+        "InChI_key": "USJRLGNYCQWLPF-UHFFFAOYSA-N",
+        "MW": 68.442642,
+        "common_name": "chlorophosphane",
+        "formula": "ClH2P",
+        "iupac_name": "chloranylphosphane",
+        "pubchemid": 161938,
+        "smiles": "PCl"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    }
+  ],
+  "UWJGEOKDDWFZCQ-UHFFFAOYSA-N": [
+    {
+      "entry": {
+        "CAS": 68900776,
+        "InChI": "C10H19.2C8H17.Al/c1-3-5-7-9-10-8-6-4-2;2*1-3-5-7-8-6-4-2;/h1,3H,4-10H2,2H3;2*1,3-8H2,2H3;",
+        "InChI_key": "UWJGEOKDDWFZCQ-UHFFFAOYSA-N",
+        "MW": 392.680559,
+        "common_name": "(e)-dec-1-enyldioctylaluminium",
+        "formula": "C26H53Al",
+        "iupac_name": "[(e)-dec-1-enyl]-dioctyl-alumane",
+        "pubchemid": 16684149,
+        "smiles": "CCCCCCCC/C=C/[Al](CCCCCCCC)CCCCCCCC"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    },
+    {
+      "entry": {
+        "CAS": 62493327,
+        "InChI": "C10H19.2C8H17.Al/c1-3-5-7-9-10-8-6-4-2;2*1-3-5-7-8-6-4-2;/h1,3H,4-10H2,2H3;2*1,3-8H2,2H3;",
+        "InChI_key": "UWJGEOKDDWFZCQ-UHFFFAOYSA-N",
+        "MW": 392.680559,
+        "common_name": "62493-32-7",
+        "formula": "C26H53Al",
+        "iupac_name": "dec-1-enyl(dioctyl)alumane",
+        "pubchemid": 57351634,
+        "smiles": "CCCCCCCCC=C[Al](CCCCCCCC)CCCCCCCC"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    }
+  ],
+  "UXKUODQYLDZXDL-UHFFFAOYSA-N": [
+    {
+      "entry": {
+        "CAS": 506854,
+        "InChI": "CHNO/c1-2-3/h1H",
+        "InChI_key": "UXKUODQYLDZXDL-UHFFFAOYSA-N",
+        "MW": 43.02474,
+        "common_name": "fulminic acid",
+        "formula": "CHNO",
+        "iupac_name": "formonitrile oxide",
+        "pubchemid": 521293,
+        "smiles": "C#[N+][O-]"
+      },
+      "source_file": "chemical identifiers example user db.tsv"
+    },
+    {
+      "entry": {
+        "CAS": 51060050,
+        "InChI": "CHNO/c1-2-3/h1H",
+        "InChI_key": "UXKUODQYLDZXDL-UHFFFAOYSA-N",
+        "MW": 43.02474,
+        "common_name": "fulminic acid",
+        "formula": "CHNO",
+        "iupac_name": "methanenitrile oxide",
+        "pubchemid": 521293,
+        "smiles": "C#[N+][O-]"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    }
+  ],
+  "VCQBYNRFLHNSKA-UHFFFAOYSA-N": [
+    {
+      "entry": {
+        "CAS": 89583120,
+        "InChI": "C6H12Br2/c1-3-5(7)6(8)4-2/h5-6H,3-4H2,1-2H3",
+        "InChI_key": "VCQBYNRFLHNSKA-UHFFFAOYSA-N",
+        "MW": 243.96748,
+        "common_name": "3,4-Dibromohexane",
+        "formula": "C6H12Br2",
+        "iupac_name": "3,4-dibromohexane",
+        "pubchemid": 5046330,
+        "smiles": "CCC(Br)C(Br)CC"
+      },
+      "source_file": "chemical identifiers example user db.tsv"
+    },
+    {
+      "entry": {
+        "CAS": 16230287,
+        "InChI": "C6H12Br2/c1-3-5(7)6(8)4-2/h5-6H,3-4H2,1-2H3",
+        "InChI_key": "VCQBYNRFLHNSKA-UHFFFAOYSA-N",
+        "MW": 243.96748,
+        "common_name": "3,4-dibromohexane",
+        "formula": "C6H12Br2",
+        "iupac_name": "3,4-bis(bromanyl)hexane",
+        "pubchemid": 5046330,
+        "smiles": "CCC(C(CC)Br)Br"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    }
+  ],
+  "VHSHLMUCYSAUQU-UHFFFAOYSA-N": [
+    {
+      "entry": {
+        "CAS": 923262,
+        "InChI": "C7H12O3/c1-5(2)7(9)10-4-6(3)8/h6,8H,1,4H2,2-3H3",
+        "InChI_key": "VHSHLMUCYSAUQU-UHFFFAOYSA-N",
+        "MW": 144.16838,
+        "common_name": "2-Hydroxypropyl methacrylate",
+        "formula": "C7H12O3",
+        "iupac_name": "2-hydroxypropyl 2-methylprop-2-enoate",
+        "pubchemid": 13539,
+        "smiles": "C=C(C)C(=O)OCC(C)O"
+      },
+      "source_file": "chemical identifiers example user db.tsv"
+    },
+    {
+      "entry": {
+        "CAS": 27813021,
+        "InChI": "C7H12O3/c1-5(2)7(9)10-4-6(3)8/h6,8H,1,4H2,2-3H3",
+        "InChI_key": "VHSHLMUCYSAUQU-UHFFFAOYSA-N",
+        "MW": 144.16838,
+        "common_name": "2-hydroxypropyl methacrylate",
+        "formula": "C7H12O3",
+        "iupac_name": "2-oxidanylpropyl 2-methylprop-2-enoate",
+        "pubchemid": 13539,
+        "smiles": "CC(COC(=O)C(=C)C)O"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    }
+  ],
+  "VYPSYNLAJGMNEJ-UHFFFAOYSA-N": [
+    {
+      "entry": {
+        "CAS": 14808607,
+        "InChI": "O2Si/c1-3-2",
+        "InChI_key": "VYPSYNLAJGMNEJ-UHFFFAOYSA-N",
+        "MW": 60.0843,
+        "common_name": "quartz (SiO2)",
+        "formula": "O2Si",
+        "iupac_name": "dioxosilane",
+        "pubchemid": 24261,
+        "smiles": "O=[Si]=O"
+      },
+      "source_file": "Inorganic db.tsv"
+    },
+    {
+      "entry": {
+        "CAS": 7631869,
+        "InChI": "O2Si/c1-3-2",
+        "InChI_key": "VYPSYNLAJGMNEJ-UHFFFAOYSA-N",
+        "MW": 60.0843,
+        "common_name": "silica",
+        "formula": "O2Si",
+        "iupac_name": "bis(oxidanylidene)silane",
+        "pubchemid": 24261,
+        "smiles": "O=[Si]=O"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    }
+  ],
+  "WIMBRKMSNRCNMP-UHFFFAOYSA-N": [
+    {
+      "entry": {
+        "CAS": 25346321,
+        "InChI": "C6H13Cl/c1-5(2)4-6(3)7/h5-6H,4H2,1-3H3",
+        "InChI_key": "WIMBRKMSNRCNMP-UHFFFAOYSA-N",
+        "MW": 120.62042,
+        "common_name": "2-Chloro-4-methylpentane",
+        "formula": "C6H13Cl",
+        "iupac_name": "2-chloro-4-methylpentane",
+        "pubchemid": 91415,
+        "smiles": "CC(C)CC(C)Cl"
+      },
+      "source_file": "chemical identifiers example user db.tsv"
+    },
+    {
+      "entry": {
+        "CAS": 128399304,
+        "InChI": "C6H13Cl/c1-5(2)4-6(3)7/h5-6H,4H2,1-3H3",
+        "InChI_key": "WIMBRKMSNRCNMP-UHFFFAOYSA-N",
+        "MW": 120.62042,
+        "common_name": "2-chloro-4-methylpentane",
+        "formula": "C6H13Cl",
+        "iupac_name": "2-chloranyl-4-methyl-pentane",
+        "pubchemid": 91415,
+        "smiles": "CC(C)CC(C)Cl"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    }
+  ],
+  "WPIPUXPRJZVKFN-UHFFFAOYSA-N": [
+    {
+      "entry": {
+        "CAS": 68900823,
+        "InChI": "C6H11.2C4H9.Al/c1-4-5-6(2)3;2*1-4(2)3;/h1,4,6H,5H2,2-3H3;2*4H,1H2,2-3H3;",
+        "InChI_key": "WPIPUXPRJZVKFN-UHFFFAOYSA-N",
+        "MW": 224.361599,
+        "common_name": "(e)-diisobutyl(4-methylpent-1-enyl)aluminium",
+        "formula": "C14H29Al",
+        "iupac_name": "[(e)-4-methylpent-1-enyl]-bis(2-methylpropyl)alumane",
+        "pubchemid": 16684154,
+        "smiles": "CC(C)C/C=C/[Al](CC(C)C)CC(C)C"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    },
+    {
+      "entry": {
+        "CAS": 56095739,
+        "InChI": "C6H11.2C4H9.Al/c1-4-5-6(2)3;2*1-4(2)3;/h1,4,6H,5H2,2-3H3;2*4H,1H2,2-3H3;",
+        "InChI_key": "WPIPUXPRJZVKFN-UHFFFAOYSA-N",
+        "MW": 224.361599,
+        "common_name": "56095-73-9",
+        "formula": "C14H29Al",
+        "iupac_name": "4-methylpent-1-enyl-bis(2-methylpropyl)alumane",
+        "pubchemid": 57350980,
+        "smiles": "CC(C)CC=C[Al](CC(C)C)CC(C)C"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    }
+  ],
+  "WSJULBMCKQTTIG-UHFFFAOYSA-N": [
+    {
+      "entry": {
+        "CAS": 360894,
+        "InChI": "C4F8/c5-1(3(7,8)9)2(6)4(10,11)12",
+        "InChI_key": "WSJULBMCKQTTIG-UHFFFAOYSA-N",
+        "MW": 200.030026,
+        "common_name": "perfluoro-2-butene",
+        "formula": "C4F8",
+        "iupac_name": "1,1,1,2,3,4,4,4-octafluorobut-2-ene",
+        "pubchemid": 9678,
+        "smiles": "FC(=C(F)C(F)(F)F)C(F)(F)F"
+      },
+      "source_file": "Inorganic db.tsv"
+    },
+    {
+      "entry": {
+        "CAS": 1516649,
+        "InChI": "C4F8/c5-1(3(7,8)9)2(6)4(10,11)12",
+        "InChI_key": "WSJULBMCKQTTIG-UHFFFAOYSA-N",
+        "MW": 200.030026,
+        "common_name": "1516-64-9",
+        "formula": "C4F8",
+        "iupac_name": "1,1,1,2,3,4,4,4-octakis(fluoranyl)but-2-ene",
+        "pubchemid": 9678,
+        "smiles": "C(=C(C(F)(F)F)F)(C(F)(F)F)F"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    }
+  ],
+  "WWNBZGLDODTKEM-UHFFFAOYSA-N": [
+    {
+      "entry": {
+        "CAS": 12137121,
+        "InChI": "Ni.S",
+        "InChI_key": "WWNBZGLDODTKEM-UHFFFAOYSA-N",
+        "MW": 90.7584,
+        "common_name": "nickel sulfide (Ni3S4)",
+        "formula": "NiS",
+        "iupac_name": "sulfanylidenenickel",
+        "pubchemid": 28094,
+        "smiles": "[Ni].[S]"
+      },
+      "source_file": "Inorganic db.tsv"
+    },
+    {
+      "entry": {
+        "CAS": 16812547,
+        "InChI": "Ni.S",
+        "InChI_key": "WWNBZGLDODTKEM-UHFFFAOYSA-N",
+        "MW": 90.7584,
+        "common_name": "millerite",
+        "formula": "NiS",
+        "iupac_name": "sulfanylidenenickel",
+        "pubchemid": 28094,
+        "smiles": "S=[Ni]"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    }
+  ],
+  "XBDQKXXYIPTUBI-UHFFFAOYSA-M": [
+    {
+      "entry": {
+        "CAS": 72037,
+        "InChI": "C3H6O2/c1-2-3(4)5/h2H2,1H3,(H,4,5)/p-1",
+        "InChI_key": "XBDQKXXYIPTUBI-UHFFFAOYSA-M",
+        "MW": 73.0706,
+        "common_name": "propionate ion",
+        "formula": "C3H5O2-",
+        "iupac_name": "propanoate",
+        "pubchemid": 104745,
+        "smiles": "CCC(=O)[O-]"
+      },
+      "source_file": "Anion db.tsv"
+    },
+    {
+      "entry": {
+        "CAS": 28488348,
+        "InChI": "C3H6O2/c1-2-3(4)5/h2H2,1H3,(H,4,5)/p-1",
+        "InChI_key": "XBDQKXXYIPTUBI-UHFFFAOYSA-M",
+        "MW": 73.0706,
+        "common_name": "propionate",
+        "formula": "C3H5O2-",
+        "iupac_name": "propanoate",
+        "pubchemid": 104745,
+        "smiles": "CCC(=O)[O-]"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    }
+  ],
+  "XFDQLDNQZFOAFK-UHFFFAOYSA-N": [
+    {
+      "entry": {
+        "CAS": 94495,
+        "InChI": "C16H14O4/c17-15(13-7-3-1-4-8-13)19-11-12-20-16(18)14-9-5-2-6-10-14/h1-10H,11-12H2",
+        "InChI_key": "XFDQLDNQZFOAFK-UHFFFAOYSA-N",
+        "MW": 270.27996,
+        "common_name": "glycol dibenzoate",
+        "formula": "C16H14O4",
+        "iupac_name": "2-benzoyloxyethyl benzoate",
+        "pubchemid": 66750,
+        "smiles": "O=C(OCCOC(=O)c1ccccc1)c1ccccc1"
+      },
+      "source_file": "chemical identifiers example user db.tsv"
+    },
+    {
+      "entry": {
+        "CAS": 9004868,
+        "InChI": "C16H14O4/c17-15(13-7-3-1-4-8-13)19-11-12-20-16(18)14-9-5-2-6-10-14/h1-10H,11-12H2",
+        "InChI_key": "XFDQLDNQZFOAFK-UHFFFAOYSA-N",
+        "MW": 270.27996,
+        "common_name": "1,2-ethanediol, dibenzoate",
+        "formula": "C16H14O4",
+        "iupac_name": "2-(phenylcarbonyloxy)ethyl benzoate",
+        "pubchemid": 66750,
+        "smiles": "C1=CC=C(C=C1)C(=O)OCCOC(=O)C2=CC=CC=C2"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    }
+  ],
+  "XRUGBBIQLIVCSI-UHFFFAOYSA-N": [
+    {
+      "entry": {
+        "CAS": 526852,
+        "InChI": "C9H12O/c1-6-4-5-9(10)8(3)7(6)2/h4-5,10H,1-3H3",
+        "InChI_key": "XRUGBBIQLIVCSI-UHFFFAOYSA-N",
+        "MW": 136.19098,
+        "common_name": "2,3,4-Trimethylphenol",
+        "formula": "C9H12O",
+        "iupac_name": "2,3,4-trimethylphenol",
+        "pubchemid": 68237,
+        "smiles": "Cc1ccc(O)c(C)c1C"
+      },
+      "source_file": "chemical identifiers example user db.tsv"
+    },
+    {
+      "entry": {
+        "CAS": 26998801,
+        "InChI": "C9H12O/c1-6-4-5-9(10)8(3)7(6)2/h4-5,10H,1-3H3",
+        "InChI_key": "XRUGBBIQLIVCSI-UHFFFAOYSA-N",
+        "MW": 136.19098,
+        "common_name": "2,3,4-trimethylphenol",
+        "formula": "C9H12O",
+        "iupac_name": "2,3,4-trimethylphenol",
+        "pubchemid": 68237,
+        "smiles": "CC1=C(C(=C(C=C1)O)C)C"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    }
+  ],
+  "YEXPOXQUZXUXJW-UHFFFAOYSA-N": [
+    {
+      "entry": {
+        "CAS": 1314278,
+        "InChI": "O.Pb",
+        "InChI_key": "YEXPOXQUZXUXJW-UHFFFAOYSA-N",
+        "MW": 223.1994,
+        "common_name": "lead oxide (Pb2O3)",
+        "formula": "OPb",
+        "iupac_name": "oxolead",
+        "pubchemid": 14827,
+        "smiles": "[O].[Pb]"
+      },
+      "source_file": "Inorganic db.tsv"
+    },
+    {
+      "entry": {
+        "CAS": 1317368,
+        "InChI": "O.Pb",
+        "InChI_key": "YEXPOXQUZXUXJW-UHFFFAOYSA-N",
+        "MW": 223.1994,
+        "common_name": "lead monoxide",
+        "formula": "OPb",
+        "iupac_name": "oxidanylidenelead",
+        "pubchemid": 14827,
+        "smiles": "O=[Pb]"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    }
+  ],
+  "YKNMBTZOEVIJCM-HWKANZROSA-N": [
+    {
+      "entry": {
+        "CAS": 20063972,
+        "InChI": "C10H20/c1-3-5-7-9-10-8-6-4-2/h3,5H,4,6-10H2,1-2H3/b5-3+",
+        "InChI_key": "YKNMBTZOEVIJCM-HWKANZROSA-N",
+        "MW": 140.2658,
+        "common_name": "(2E)-2-Decene",
+        "formula": "C10H20",
+        "iupac_name": "(E)-dec-2-ene",
+        "pubchemid": 5364559,
+        "smiles": "C/C=C/CCCCCCC"
+      },
+      "source_file": "chemical identifiers example user db.tsv"
+    },
+    {
+      "entry": {
+        "CAS": 25339531,
+        "InChI": "C10H20/c1-3-5-7-9-10-8-6-4-2/h3,5H,4,6-10H2,1-2H3/b5-3+",
+        "InChI_key": "YKNMBTZOEVIJCM-HWKANZROSA-N",
+        "MW": 140.2658,
+        "common_name": "2-decene, (e)-",
+        "formula": "C10H20",
+        "iupac_name": "(e)-dec-2-ene",
+        "pubchemid": 5364559,
+        "smiles": "CCCCCCC/C=C/C"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    }
+  ],
+  "YQPZJBVEKZISEF-UHFFFAOYSA-N": [
+    {
+      "entry": {
+        "CAS": 61868186,
+        "InChI": "C40H80/c1-3-5-7-9-11-13-15-17-19-21-23-25-27-29-31-33-35-37-39-40-38-36-34-32-30-28-26-24-22-20-18-16-14-12-10-8-6-4-2/h3H,1,4-40H2,2H3",
+        "InChI_key": "YQPZJBVEKZISEF-UHFFFAOYSA-N",
+        "MW": 561.0632,
+        "common_name": "1-Tetracontene",
+        "formula": "C40H80",
+        "iupac_name": "tetracont-1-ene",
+        "pubchemid": 13829227,
+        "smiles": "C=CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC"
+      },
+      "source_file": "chemical identifiers example user db.tsv"
+    },
+    {
+      "entry": {
+        "CAS": 36731154,
+        "InChI": "C40H80/c1-3-5-7-9-11-13-15-17-19-21-23-25-27-29-31-33-35-37-39-40-38-36-34-32-30-28-26-24-22-20-18-16-14-12-10-8-6-4-2/h3H,1,4-40H2,2H3",
+        "InChI_key": "YQPZJBVEKZISEF-UHFFFAOYSA-N",
+        "MW": 561.0632,
+        "common_name": "1-tetracontene",
+        "formula": "C40H80",
+        "iupac_name": "tetracont-1-ene",
+        "pubchemid": 13829227,
+        "smiles": "CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC=C"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    }
+  ],
+  "ZFDNHUHPLXMMBR-UHFFFAOYSA-N": [
+    {
+      "entry": {
+        "CAS": 1315033,
+        "InChI": "S.V",
+        "InChI_key": "ZFDNHUHPLXMMBR-UHFFFAOYSA-N",
+        "MW": 83.0065,
+        "common_name": "vanadium sulfide (V2S3)",
+        "formula": "SV",
+        "iupac_name": "sulfanylidenevanadium",
+        "pubchemid": 82959,
+        "smiles": "[S].[V]"
+      },
+      "source_file": "Inorganic db.tsv"
+    },
+    {
+      "entry": {
+        "CAS": 12166277,
+        "InChI": "S.V",
+        "InChI_key": "ZFDNHUHPLXMMBR-UHFFFAOYSA-N",
+        "MW": 83.0065,
+        "common_name": "thioxovanadium",
+        "formula": "SV",
+        "iupac_name": "sulfanylidenevanadium",
+        "pubchemid": 82959,
+        "smiles": "S=[V]"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    }
+  ],
+  "ZOIVSVWBENBHNT-UHFFFAOYSA-N": [
+    {
+      "entry": {
+        "CAS": 14374777,
+        "InChI": "O4Si.2Zn/c1-5(2,3)4;;/q-4;2*+2",
+        "InChI_key": "ZOIVSVWBENBHNT-UHFFFAOYSA-N",
+        "MW": 222.8431,
+        "common_name": "willemite",
+        "formula": "O4SiZn2",
+        "iupac_name": "dizinc;silicate",
+        "pubchemid": 15763952,
+        "smiles": "[O-][Si]([O-])([O-])[O-].[Zn+2].[Zn+2]"
+      },
+      "source_file": "Inorganic db.tsv"
+    },
+    {
+      "entry": {
+        "CAS": 68611472,
+        "InChI": "O4Si.2Zn/c1-5(2,3)4;;/q-4;2*+2",
+        "InChI_key": "ZOIVSVWBENBHNT-UHFFFAOYSA-N",
+        "MW": 222.8431,
+        "common_name": "zinc silicate",
+        "formula": "O4SiZn2",
+        "iupac_name": "dizinc;silicate",
+        "pubchemid": 15763952,
+        "smiles": "[O-][Si]([O-])([O-])[O-].[Zn+2].[Zn+2]"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    }
+  ],
+  "ZZTURJAZCMUWEP-UHFFFAOYSA-N": [
+    {
+      "entry": {
+        "CAS": 594149,
+        "InChI": "CH5N3.H2O4S/c2-1(3)4;1-5(2,3)4/h(H5,2,3,4);(H2,1,2,3,4)",
+        "InChI_key": "ZZTURJAZCMUWEP-UHFFFAOYSA-N",
+        "MW": 157.14898,
+        "common_name": "guanidinium sulfate",
+        "formula": "CH7N3O4S",
+        "iupac_name": "guanidine;sulfuric acid",
+        "pubchemid": 499987,
+        "smiles": "N=C(N)N.O=S(=O)(O)O"
+      },
+      "source_file": "Inorganic db.tsv"
+    },
+    {
+      "entry": {
+        "CAS": 646344,
+        "InChI": "CH5N3.H2O4S/c2-1(3)4;1-5(2,3)4/h(H5,2,3,4);(H2,1,2,3,4)",
+        "InChI_key": "ZZTURJAZCMUWEP-UHFFFAOYSA-N",
+        "MW": 157.14898,
+        "common_name": "guanidine sulfate",
+        "formula": "CH7N3O4S",
+        "iupac_name": "guanidine;sulfuric acid",
+        "pubchemid": 499987,
+        "smiles": "C(=N)(N)N.OS(=O)(=O)O"
+      },
+      "source_file": "chemical identifiers pubchem large.tsv"
+    }
+  ]
+}

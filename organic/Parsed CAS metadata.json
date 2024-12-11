@@ -23375,6 +23375,16 @@
     "inchiKey": "InChIKey=MLCIKWISJBFZKS-UHFFFAOYSA-N",
     "smiles": "N=1C(=NC(=NC1N)CCCCCCCCCCC)N"
   },
+  "25339-17-7": {
+    "MW": 158.28108,
+    "Name": "isodecanol",
+    "Other Names": [
+      "Exxal 10",
+      "Isodecanol",
+      "Isodecyl alcohol"
+    ],
+    "formula": "C10H22O"
+  },
   "25346-32-1": {
     "MW": 120.62042,
     "Name": "2-Chloro-4-methylpentane",
@@ -36366,13 +36376,6 @@
     "inchi": "InChI=1S/C8H11BO2/c1-6-3-4-8(9(10)11)7(2)5-6/h3-5,10-11H,1-2H3",
     "inchiKey": "InChIKey=TYONHSPZXLFWKI-UHFFFAOYSA-N",
     "smiles": "OB(O)C1=CC=C(C=C1C)C"
-  },
-  "55505-26-5": {
-    "MW": 158.28108,
-    "Name": "1-Nonanol, 8-methyl-",
-    "Other Names": [
-      "8-Methyl-1-nonanol"
-    ]
   },
   "55690-60-3": {
     "MW": 197.27728,

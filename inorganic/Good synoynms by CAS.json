@@ -232,6 +232,10 @@
   "11138-49-1": {
     "synonyms": []
   },
+  "115-25-3": {
+    "preferred": true,
+    "synonyms": []
+  },
   "12005-69-5": {
     "synonyms": []
   },
@@ -305,6 +309,9 @@
     "synonyms": []
   },
   "12018-01-8": {
+    "synonyms": []
+  },
+  "12018-06-3": {
     "synonyms": []
   },
   "12018-09-6": {
@@ -1354,6 +1361,7 @@
     "synonyms": []
   },
   "14808-60-7": {
+    "preferred": false,
     "synonyms": []
   },
   "14884-42-5": {
@@ -1802,6 +1810,7 @@
     "synonyms": []
   },
   "360-89-4": {
+    "preferred": false,
     "synonyms": []
   },
   "37188-07-1": {
@@ -1955,6 +1964,31 @@
   },
   "75926-26-0": {
     "synonyms": []
+  },
+  "7631-86-9": {
+    "formula": "O2Si",
+    "hardcoded_synonyms": true,
+    "inchi": "O2Si/c1-3-2",
+    "inchikey": "VYPSYNLAJGMNEJ-UHFFFAOYSA-N",
+    "iupac_name": "dioxosilane",
+    "name": "silica",
+    "preferred": true,
+    "pubchem": 24261,
+    "smiles": "O=[Si]=O",
+    "synonyms": [
+      "silicon dioxide",
+      "silicon(IV) oxide",
+      "silica gel",
+      "dioxosilane",
+      "silicon oxide",
+      "silicic anhydride",
+      "silicon dioxide, amorphous",
+      "silica, amorphous",
+      "silica, colloidal",
+      "synthetic amorphous silica",
+      "silicon(IV) oxide (SiO2)",
+      "silicon dioxide (amorphous)"
+    ]
   },
   "7632-04-4": {
     "synonyms": []

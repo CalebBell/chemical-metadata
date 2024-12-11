@@ -260,7 +260,7 @@ def main():
         PUBCHEM_IONORGANIC_DB_NAME,
         PUBCHEM_EXAMPLE_DB_NAME,
         PUBCHEM_SMALL_DB_NAME,
-        # PUBCHEM_LARGE_DB_NAME # 400-800 conflicts to sort out, also failing to remove some redundant data automatically
+        PUBCHEM_LARGE_DB_NAME # 400-800 conflicts to sort out, also failing to remove some redundant data automatically
     ]
     
     total_chemicals = 0

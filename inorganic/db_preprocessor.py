@@ -555,6 +555,33 @@ Br2 = {
     ],
     'hardcoded_synonyms': True
 }
+O2Si = {
+    'pubchem': 24261,
+    'formula': 'O2Si',
+    'smiles': 'O=[Si]=O',
+    'inchi': 'O2Si/c1-3-2',
+    'inchikey': 'VYPSYNLAJGMNEJ-UHFFFAOYSA-N',
+    'iupac_name': 'dioxosilane',
+    'name': 'silica',
+    'synonyms': [
+        'silicon dioxide',
+        'silicon(IV) oxide',
+        'silica gel',
+        'dioxosilane',
+        'silicon oxide',
+        'silicic anhydride',
+        'silicon dioxide, amorphous',
+        'silica, amorphous',
+        'silica, colloidal',
+        'synthetic amorphous silica',
+        'silicon(IV) oxide (SiO2)',
+        'silicon dioxide (amorphous)'
+    ],
+    'hardcoded_synonyms': True,
+    'preferred': True,
+}
+
+# CAS number mapping
 
 custom_compounds = {    
     '13536-95-3': D2Se, '16919-19-0': ammonium_hexafluorosilicate,
@@ -624,6 +651,9 @@ custom_compounds = {
                 '14457-84-2': {'pubchem': -1}, # none
 
 
+                '115-25-3': {'preferred': True}, # Octafluorocyclobutane
+                '360-89-4': {'preferred': False}, # Perfluoro-2-butene
+
                 '1309-42-8': {'preferred': True}, # Magnesium hydroxide
                 '1317-43-7': {'preferred': False}, # Brucite (Mg(OH)2)
 
@@ -636,6 +666,10 @@ custom_compounds = {
 
                 '10294-56-1': {'preferred': True}, # Phosphorous acid
                 '13598-36-2': {'preferred': False}, # Phosphonic acid
+
+
+                '7631-86-9': O2Si,
+                '14808-60-7': {'preferred': False}, # quartz
     
                }
 

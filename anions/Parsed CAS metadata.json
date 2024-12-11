@@ -73,6 +73,30 @@
     "MW": 132.9037,
     "Name": "titanate (Ti(OH)51-)"
   },
+  "12143-45-2": {
+    "MW": 96.0626,
+    "Name": "sulfate radical ion(1-)",
+    "Other Names": [
+      "Sulfate (SO41-)",
+      "Sulfate ion (SO41-)",
+      "Sulfate ion radical(1-)",
+      "Sulfate ion(1-)",
+      "Sulfate radical anion (SO4-)",
+      "Sulfate radical ion (SO4-)",
+      "Sulfate radical ion (SO4\u00b7-)",
+      "Sulfate radical ion(1-)",
+      "Sulfate(1-), tetraoxo-",
+      "Sulfur oxide (SO4), ion(1-)",
+      "Sulfur oxide anion (SO4-)",
+      "Sulfur tetraoxide ion(1-)",
+      "Sulfur tetroxide ion(1-)",
+      "Tetraoxosulfate(1-)"
+    ],
+    "formula": "O4S",
+    "inchi": "InChI=1S/HO4S/c1-5(2,3)4/h(H,1,2,3)/p-1",
+    "inchiKey": "InChIKey=NIAGBSSWEZDNMT-UHFFFAOYSA-M",
+    "smiles": "[O]S(=O)(=O)[O-]"
+  },
   "12184-88-2": {
     "MW": 1.00794,
     "Name": "hydride",
