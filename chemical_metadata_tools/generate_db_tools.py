@@ -135,7 +135,10 @@ def remove_bad_synonyms(strings: list[str]) -> list[str]:
     # Common patterns that indicate a non-useful synonym
     bad_patterns = [
         'cas no.', '>=', '%, ', ' grade', ' reagent',
+        'atom %',
         'first grade', 'special grade', 'puriss', 'trace metals',
+
+        ' 99%', ' 98%'
         
         # File/batch numbers
         '.zip', '.sdf', '.mol', ' batch', ' lot ',
@@ -156,7 +159,27 @@ def remove_bad_synonyms(strings: list[str]) -> list[str]:
         # Commercial terms
         'index -', 'number -', 'substance -', 'solution -',
         # 'compressed', 'liquified', 'refrigerated'
-    ]
+
+
+        # Product specifications
+        'for injection', 'for irrigation', 'for inhalation',
+        'for hplc', 'for toc', 'for ion', 'for mass',
+        'sterile', 'purified', 'bacteriostatic', 'deionized',
+        
+        # Commercial product names
+        'eyewash', 'eye wash', 'eye-',
+        'ecolab', 
+        
+        # Technical specifications
+        'density:', 'conductivity', 'endotoxin-free',
+        'rnase', 'dnase', 'depc-treated',
+        
+        # Containers and packaging
+        'in plastic container', 'in containers',
+        
+        # Measurement units
+        'wt%', 'g/ml', 'megaohm',
+        ]
     
     def is_bad_synonym(s: str) -> bool:
         s = s.lower()
