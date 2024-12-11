@@ -582,7 +582,53 @@ O2Si = {
 }
 
 # CAS number mapping
+cas_1302_42_7 = {
+    'pubchem': 14766,
+    'formula': 'AlNaO2',
+    'smiles': '[Al-].[Na+].[O].[O]',
+    'inchi': 'Al.Na.2O/q-1;+1;;',
+    'inchikey': 'IYJYQHRNMMNLRH-UHFFFAOYSA-N',
+    'iupac_name': 'sodium;dioxoalumanuide',
+    'name': 'sodium metaaluminate',
+    'synonyms': [
+        'sodium metaaluminate',
+        'Aluminate (AlO21-), sodium (1:1)',
+        'sodium aluminate (NaAlO2)',
+        'aluminum sodium dioxide',
+        'kitakurito 10',
+        'fimar a 2527',
+        'p 100',
+        'sax 220'
+    ],
+    'hardcoded_synonyms': True,  # Using specific unique names to this CAS
+    'preferred': True,  # This is the defined 1:1 compound
+}
 
+cas_11138_49_1 = {
+    'pubchem': 14766,  # Same PubChem ID shows the database overlap issue
+    'formula': 'AlNaO2',  # Note: This is nominal, actually variable composition
+    'smiles': '[Al-].[Na+].[O].[O]',
+    'inchi': 'Al.Na.2O/q-1;+1;;',
+    'inchikey': 'IYJYQHRNMMNLRH-UHFFFAOYSA-N',
+    'iupac_name': 'sodium;dioxoalumanuide',
+    'name': 'sodium aluminate',
+    'synonyms': [
+        'sodium aluminate',
+        'β-Alumina',
+        'sodium β-alumina',
+        'sodium polyaluminate',
+        'Dynaflock L',
+        'Maxifloc 8010',
+        'Monofrax H',
+        'Nalco 680',
+        'VSA 45',
+        'NA 150',
+        'NA 170',
+        'torganit'
+    ],
+    'hardcoded_synonyms': True,  # Using specific unique names to this CAS
+    'preferred': False,  # This is the variable composition material
+}
 custom_compounds = {    
     '13536-95-3': D2Se, '16919-19-0': ammonium_hexafluorosilicate,
                '13454-75-6': CsBromate,  '2099990000-00-0': NaAlO4H4,
@@ -667,6 +713,8 @@ custom_compounds = {
                 '10294-56-1': {'preferred': True}, # Phosphorous acid
                 '13598-36-2': {'preferred': False}, # Phosphonic acid
 
+                '1302-42-7': cas_1302_42_7, # Sodium metaaluminate (defined 1:1 Na:Al ratio)
+                '11138-49-1': cas_11138_49_1, # Sodium aluminate (variable composition beta alumina)
 
                 '7631-86-9': O2Si,
                 '14808-60-7': {'preferred': False}, # quartz

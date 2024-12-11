@@ -3368,6 +3368,32 @@
     "inchiKey": "InChIKey=QMBQEXOLIRBNPN-UHFFFAOYSA-L",
     "smiles": "[Cl-][Zr+4]12345678([Cl-])([CH]=9[CH]4=[CH]3[CH-]2[CH]91)[CH]=%10[CH]8=[CH]7[CH-]6[CH]%105"
   },
+  "1302-42-7": {
+    "MW": 81.97010800000001,
+    "Name": "sodium metaaluminate",
+    "Other Names": [
+      "Aluminate (AlO21-), sodium",
+      "Aluminate (AlO21-), sodium (1:1)",
+      "Aluminum sodium dioxide",
+      "Aluminum sodium oxide (Al2Na2O4)",
+      "Aluminum sodium oxide (AlNaO2)",
+      "Fimar A 2527",
+      "Kitakurito 10",
+      "P 100",
+      "SAX 220",
+      "Sodium aluminate",
+      "Sodium aluminate (Na2Al2O4)",
+      "Sodium aluminate (NaAlO2)",
+      "Sodium aluminum dioxide",
+      "Sodium aluminum oxide (NaAlO2)",
+      "Sodium metaaluminate",
+      "Sodium metaaluminate (NaAlO2)"
+    ],
+    "formula": "AlO2.Na",
+    "inchi": "InChI=1S/Al.Na.2O/q-1;+1;;",
+    "inchiKey": "InChIKey=IYJYQHRNMMNLRH-UHFFFAOYSA-N",
+    "smiles": "[Na+].O=[Al-]=O"
+  },
   "1302-88-1": {
     "MW": 143.369638,
     "Name": "cordierite (Mg2[Al4O3(SiO3)5])",
@@ -14794,23 +14820,6 @@
     "inchi": "InChI=1S/CN.Cu/c1-2;",
     "inchiKey": "InChIKey=DULSAGLWMRMKCQ-UHFFFAOYSA-N",
     "smiles": "N#C[Cu]"
-  },
-  "5809-59-6": {
-    "MW": 83.08859999999999,
-    "Name": "2-Hydroxy-3-butenenitrile",
-    "Other Names": [
-      "1-Cyano-1-hydroxy-2-propene",
-      "2-Hydroxy-3-butenenitrile",
-      "2-Hydroxy-3-butenylnitrile",
-      "2-Propenal, cyanohydrin",
-      "3-Butenenitrile, 2-hydroxy-",
-      "Acrolein cyanohydrin",
-      "Vinylglycolonitrile"
-    ],
-    "formula": "C4H5NO",
-    "inchi": "InChI=1S/C4H5NO/c1-2-4(6)3-5/h2,4,6H,1H2",
-    "inchiKey": "InChIKey=WKFMHXZXCCJSJK-UHFFFAOYSA-N",
-    "smiles": "N#CC(O)C=C"
   },
   "590-55-6": {
     "MW": 141.019921,

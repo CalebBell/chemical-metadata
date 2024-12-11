@@ -2127,36 +2127,6 @@
       "source_file": "chemical identifiers pubchem large.tsv"
     }
   ],
-  "VYPSYNLAJGMNEJ-UHFFFAOYSA-N": [
-    {
-      "entry": {
-        "CAS": 14808607,
-        "InChI": "O2Si/c1-3-2",
-        "InChI_key": "VYPSYNLAJGMNEJ-UHFFFAOYSA-N",
-        "MW": 60.0843,
-        "common_name": "quartz (SiO2)",
-        "formula": "O2Si",
-        "iupac_name": "dioxosilane",
-        "pubchemid": 24261,
-        "smiles": "O=[Si]=O"
-      },
-      "source_file": "Inorganic db.tsv"
-    },
-    {
-      "entry": {
-        "CAS": 7631869,
-        "InChI": "O2Si/c1-3-2",
-        "InChI_key": "VYPSYNLAJGMNEJ-UHFFFAOYSA-N",
-        "MW": 60.0843,
-        "common_name": "silica",
-        "formula": "O2Si",
-        "iupac_name": "bis(oxidanylidene)silane",
-        "pubchemid": 24261,
-        "smiles": "O=[Si]=O"
-      },
-      "source_file": "chemical identifiers pubchem large.tsv"
-    }
-  ],
   "WIMBRKMSNRCNMP-UHFFFAOYSA-N": [
     {
       "entry": {

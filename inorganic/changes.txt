@@ -1,0 +1,99 @@
+Chemical Metadata Difference Report
+=================================
+
+Summary:
+- Compounds removed: 0
+- Compounds added: 0
+- Compounds with property changes: 0
+- Compounds with synonym changes: 2
+
+
+Synonym Changes:
+---------------
+CAS: 11138-49-1 (sodium aluminate)
+  - 11108-58-0
+  - 11137-64-7
+  - 157482-60-5
+  - 2vmt26903w
+  - ALUMINATE (ALO2(1-)), SODIUM
+  - Aluminate (alo21-), sodium
+  - DTXCID5021594
+  - DTXSID3051206
+  - Dynaflock L
+  - EC 215-100-1
+  - EC 234-391-6
+  - EINECS 215-100-1
+  - EINECS 234-391-6
+  - HSDB 5023
+  - NS00074454
+  - Q411155
+  - UN1819
+  - UN2812
+  - UNII-2VMT26903W
+  - alumina-c
+  - aluminate, sodium
+  - aluminium sodium dioxide
+  - aluminium sodium oxide
+  - aluminum sodium oxide
+  - aluminum sodium oxide (alnao4)
+  - aluminum sodium oxide and sodium aluminum oxide
+  - beta alumina
+  - j 242
+  - j 242
+  - maxifloc 8010
+  - monofrax h
+  - na 150 (oxide)
+  - nalco 680
+  - natriumaluminate
+  - na 150
+  - na 150 (oxide)
+  - na 170
+  - sodium aluminate, solid
+  - sodium aluminate, solid [UN2812]  [corrosive]
+  - sodium aluminium dioxide
+  - sodium aluminum oxide
+  - sodium beta alumina
+  - sodium β′′-alumina
+  - sodium aluminate
+  - sodium aluminum oxide
+  - sodium beta alumina
+  - sodium polyaluminate
+  - sodium β''-alumina
+  - sodium β-alumina
+  - vsa 45
+
+CAS: 1302-42-7 (sodium metaaluminate)
+  - 2vmt26903w
+  - ALUMINATE (ALO2(1-)), SODIUM
+  - Aluminate (alo21-), sodium
+  - DTXCID5021594
+  - DTXSID3051206
+  - EC 215-100-1
+  - EC 234-391-6
+  - EINECS 215-100-1
+  - EINECS 234-391-6
+  - HSDB 5023
+  - NS00074454
+  - Q411155
+  - UN1819
+  - UN2812
+  - UNII-2VMT26903W
+  - alumina-c
+  - aluminate, sodium
+  - aluminium sodium dioxide
+  - aluminium sodium oxide
+  - aluminum sodium oxide
+  - aluminum sodium oxide (Al2Na2O4)
+  - aluminum sodium oxide (AlNaO2)
+  - aluminum sodium oxide (alnao4)
+  - aluminum sodium oxide and sodium aluminum oxide
+  - natriumaluminate
+  - sodium aluminate
+  - sodium aluminate (Na2Al2O4)
+  - sodium aluminate, solid
+  - sodium aluminate, solid [UN2812]  [corrosive]
+  - sodium aluminium dioxide
+  - sodium aluminum dioxide
+  - sodium aluminum oxide (NaAlO2)
+  - sodium metaaluminate (NaAlO2)
+

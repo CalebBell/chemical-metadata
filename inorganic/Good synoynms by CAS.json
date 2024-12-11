@@ -230,7 +230,29 @@
     "synonyms": []
   },
   "11138-49-1": {
-    "synonyms": []
+    "formula": "AlNaO2",
+    "hardcoded_synonyms": true,
+    "inchi": "Al.Na.2O/q-1;+1;;",
+    "inchikey": "IYJYQHRNMMNLRH-UHFFFAOYSA-N",
+    "iupac_name": "sodium;dioxoalumanuide",
+    "name": "sodium aluminate",
+    "preferred": false,
+    "pubchem": 14766,
+    "smiles": "[Al-].[Na+].[O].[O]",
+    "synonyms": [
+      "sodium aluminate",
+      "\u03b2-Alumina",
+      "sodium \u03b2-alumina",
+      "sodium polyaluminate",
+      "Dynaflock L",
+      "Maxifloc 8010",
+      "Monofrax H",
+      "Nalco 680",
+      "VSA 45",
+      "NA 150",
+      "NA 170",
+      "torganit"
+    ]
   },
   "115-25-3": {
     "preferred": true,
@@ -633,6 +655,27 @@
   },
   "1291-32-3": {
     "synonyms": []
+  },
+  "1302-42-7": {
+    "formula": "AlNaO2",
+    "hardcoded_synonyms": true,
+    "inchi": "Al.Na.2O/q-1;+1;;",
+    "inchikey": "IYJYQHRNMMNLRH-UHFFFAOYSA-N",
+    "iupac_name": "sodium;dioxoalumanuide",
+    "name": "sodium metaaluminate",
+    "preferred": true,
+    "pubchem": 14766,
+    "smiles": "[Al-].[Na+].[O].[O]",
+    "synonyms": [
+      "sodium metaaluminate",
+      "Aluminate (AlO21-), sodium (1:1)",
+      "sodium aluminate (NaAlO2)",
+      "aluminum sodium dioxide",
+      "kitakurito 10",
+      "fimar a 2527",
+      "p 100",
+      "sax 220"
+    ]
   },
   "1303-86-2": {
     "synonyms": []
@@ -1855,9 +1898,6 @@
     "synonyms": []
   },
   "544-92-3": {
-    "synonyms": []
-  },
-  "5809-59-6": {
     "synonyms": []
   },
   "590-55-6": {
