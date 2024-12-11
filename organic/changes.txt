@@ -1,9 +1,0 @@
-Chemical Metadata Difference Report
-=================================
-
-Summary:
-- Compounds removed: 0
-- Compounds added: 0
-- Compounds with property changes: 0
-- Compounds with synonym changes: 0
-

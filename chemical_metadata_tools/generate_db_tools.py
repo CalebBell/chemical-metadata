@@ -120,6 +120,54 @@ def remove_inchikeys(strings: list[str]) -> list[str]:
         return any(is_inchikey(match) for match in potential_matches)
     
     return [s for s in strings if not contains_inchikey(s)]
+
+def remove_bad_synonyms(strings: list[str]) -> list[str]:
+    """
+    Returns a new list excluding strings that match common patterns for database IDs,
+    registry numbers, product codes, and other non-useful synonyms.
+    
+    Args:
+        strings: List of strings to filter
+        
+    Returns:
+        List of strings with problematic entries removed
+    """
+    # Common patterns that indicate a non-useful synonym
+    bad_patterns = [
+        'cas no.', '>=', '%, ', ' grade', ' reagent',
+        'first grade', 'special grade', 'puriss', 'trace metals',
+        
+        # File/batch numbers
+        '.zip', '.sdf', '.mol', ' batch', ' lot ',
+        
+        # # Bracketed annotations
+        # '[MART.]', '[HSDB]', '[WHO-DD]', '[MI]', '[VANDF]', 
+        # '[FCC]', '[JAN]', '[HPUS]', '[WHO]',
+        
+        # Purity specifications
+        'p.a.', ' acs', ' usp', ' nf', ' lr,', ' cp,',
+        
+        # # Numeric codes
+        # '-0000', '-000', '0000-', '000-',
+        
+        # # Registry numbers
+        # 'rcra', 'epa', 'ec no', 'ec number', 'usepa',
+        
+        # Commercial terms
+        'index -', 'number -', 'substance -', 'solution -',
+        # 'compressed', 'liquified', 'refrigerated'
+    ]
+    
+    def is_bad_synonym(s: str) -> bool:
+        s = s.lower()
+        
+        # Check for patterns
+        if any(pattern.lower() in s for pattern in bad_patterns):
+            return True            
+        return False
+    
+    return [s for s in strings if not is_bad_synonym(s)]
+    
 def deduplicate_names(names):
     """
     Deduplicate strings that differ only in capitalization, preferring versions with more lowercase letters.
@@ -457,8 +505,12 @@ class ChemicalMetadataProcessor:
 
         if 'hardcoded_synonyms' in syn_dict and syn_dict['hardcoded_synonyms']:
             synonyms = syn_dict['synonyms']
-        synonyms = [i for i in synonyms if i]
-        synonyms = deduplicate_names(synonyms)
+            synonyms = [i for i in synonyms if i]
+            synonyms = deduplicate_names(synonyms)
+        else:
+            synonyms = [i for i in synonyms if i]
+            synonyms = deduplicate_names(synonyms)
+            synonyms = remove_bad_synonyms(synonyms)
         synonyms = remove_inchikeys(synonyms)
 
         if name in synonyms:
