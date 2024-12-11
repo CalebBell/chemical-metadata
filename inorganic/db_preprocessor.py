@@ -26,7 +26,6 @@ for CAS, d in db.CAS_index.items():
 D2Se = {'formula': 'D2Se', 'MW': molecular_weight(nested_formula_parser('D2Se'))}
 ammonium_hexafluorosilicate = {'pubchem': 28145}
 CsBromate = {'pubchem': 23685550}
-Br = {'pubchem': 5360770}
 NaAlO4H4 = {'pubchem': 166673}
 Na2HPO4 = {'pubchem': 24203}
 NaH2PO4 = {'pubchem': 24204}
@@ -224,10 +223,342 @@ NO = {
     ],
     'hardcoded_synonyms': True
 }
+O = {
+    'pubchem': 159832,
+    'formula': 'O',
+    'smiles': '[O]',
+    'inchi': 'O',
+    'inchikey': 'QVGXLLKOCUKJST-UHFFFAOYSA-N',
+    'iupac_name': 'atomic oxygen',
+    'name': 'atomic oxygen',
+    'synonyms': [
+        'oxygen atom',
+        'monooxygen',
+        'singlet oxygen',
+        'atomic oxygen',
+        'oxidanediyl',
+        'O(3P)',
+        'ground state oxygen atom',
+        'CHEBI:29194',
+        'monatomic oxygen',
+    ],
+    'hardcoded_synonyms': True
+}
+
+O2 = {
+    'pubchem': 977,
+    'formula': 'O2',
+    'smiles': 'O=O',
+    'inchi': 'O2/c1-2',
+    'inchikey': 'MYMOFIZGZYHOMD-UHFFFAOYSA-N',
+    'iupac_name': 'molecular oxygen',
+    'name': 'oxygen',
+    'synonyms': [
+        'dioxygen',
+        'molecular oxygen',
+        'oxygen gas',
+        'oxygen molecule',
+        'pure oxygen',
+        'diatomic oxygen',
+        'triplet oxygen',
+        'ground state oxygen',
+        "oxygenium",
+        "liquid oxygen",
+        "oxygen-16",
+        "sauerstoff",
+        "oxigeno",
+        "compressed oxygen",
+        "CCRIS 1228",
+        "HSDB 5054",
+        "ins no.948",
+        "UNII-S88TT14065",
+        "CHEBI:15379",
+        "E948",
+        "oxygen 16",
+        "singlet dioxygen",
+        "triplet dioxygen",
+        "singlet molecular oxygen",
+        "triplet molecular oxygen",
+        "CHEMBL1234886",
+        "DTXCID0017681",
+        "CHEBI:26689",
+        "CHEBI:27140",
+        "DB09140",
+        "UN 1072",
+        "UN 1073",
+    ],
+    'hardcoded_synonyms': True
+}
+
+
+# Atomic Nitrogen (N)
+N = {
+    'pubchem': 57370662,
+    'formula': 'N',
+    'smiles': '[N]',
+    'inchi': 'N',
+    'inchikey': 'QJGQUHMNIGDVPM-UHFFFAOYSA-N',
+    'iupac_name': 'atomic nitrogen',
+    'name': 'atomic nitrogen',
+    'synonyms': [
+        'nitrogen atom',
+        'mononitrogen',
+        'nitrogen, atomic',
+        'nitrogen radical',
+        'singlet nitrogen',
+        'nitrogen(atom)',
+        'monatomic nitrogen',
+    ],
+    'hardcoded_synonyms': True
+}
+
+# Molecular Nitrogen (N2)
+N2 = {
+    'pubchem': 947,
+    'formula': 'N2',
+    'smiles': 'N#N',
+    'inchi': 'N2/c1-2',
+    'inchikey': 'IJGRMHOSHXDMSA-UHFFFAOYSA-N',
+    'iupac_name': 'molecular nitrogen',
+    'name': 'nitrogen',
+    'synonyms': [
+        'diatomic nitrogen',
+        'dinitrogen',
+        'molecular nitrogen',
+        'nitrogen gas',
+        'nitrogen molecule',
+    ],
+    'hardcoded_synonyms': True
+}
+
+# Atomic Fluorine (F)
+F = {
+    'pubchem': 5360525,
+    'formula': 'F',
+    'smiles': '[F]',
+    'inchi': 'F',
+    'inchikey': 'YCKRFDGAMUMZLT-UHFFFAOYSA-N',
+    'iupac_name': 'atomic fluorine',
+    'name': 'atomic fluorine',
+    'synonyms': [
+        'fluorine atom',
+        'monofluorine',
+        'fluorine, atomic',
+        'monatomic fluorine',
+        'CHEBI:30239'
+    ],
+    'hardcoded_synonyms': True
+}
+
+# Molecular Fluorine (F2)
+F2 = {
+    'pubchem': 24524,
+    'formula': 'F2',
+    'smiles': 'FF',
+    'inchi': 'F2/c1-2',
+    'inchikey': 'PXGOKWXKJXAPGV-UHFFFAOYSA-N',
+    'iupac_name': 'molecular fluorine',
+    'name': 'fluorine',
+    'synonyms': [
+        'diatomic fluorine',
+        'difluorine',
+        'molecular fluorine',
+        'fluorine gas',
+        'fluorine-19',
+        'mol. fluorine',
+        'F2',
+        'fluor',
+        'fluoro',
+        'fluorine-elemental',
+        'fluorine 19',
+        'fluorine, compressed',
+        'CHEBI:30236',
+        'CHEBI:36895',
+        'UN1045',
+    ],
+    'hardcoded_synonyms': True
+}
+# Atomic Chlorine (Cl)
+Cl = {
+    'pubchem': 5360523,
+    'formula': 'Cl',
+    'smiles': '[Cl]',
+    'inchi': 'Cl',
+    'inchikey': 'ZAMOUSCENKQFHK-UHFFFAOYSA-N',
+    'iupac_name': 'atomic chlorine',
+    'name': 'atomic chlorine',
+    'synonyms': [
+        'chlorine atom',
+        'monochlorine',
+        'chlorine, atomic',
+        'CHEBI:29311',
+        'atomic Cl',
+        'Cl atom',
+        'monatomic chlorine',
+    ],
+    'hardcoded_synonyms': True
+}
+
+# Molecular Chlorine (Cl2)
+Cl2 = {
+    'pubchem': 24526,
+    'formula': 'Cl2',
+    'smiles': 'ClCl',
+    'inchi': 'Cl2/c1-2',
+    'inchikey': 'KZBUYRJDOAKODT-UHFFFAOYSA-N',
+    'iupac_name': 'molecular chlorine',
+    'name': 'chlorine',
+    'synonyms': [
+        'diatomic chlorine',
+        'dichlorine',
+        'molecular chlorine',
+        'chlorine molecule',
+        'chlorine mol.',
+        'bertholite',
+        'chlorinum',
+        'chlore',
+        'chlor',
+        'cloro',
+        'chloor',
+        'liquid chlorine',
+        'CHEBI:29310',
+        'CHEBI:33432',
+        'UN1017',
+        'UNII-4R7X1O2820',
+        'EINECS 231-959-5',
+        'HSDB 206',
+        'DTXSID1020273',
+        'DB11109',
+        'CCRIS 2280',
+        'EC 231-959-5',
+        'NS00076171'
+    ],
+    'hardcoded_synonyms': True
+}
+I = {
+    'pubchem': 5360629,
+    'formula': 'I',
+    'smiles': '[I]',
+    'inchi': 'I',
+    'inchikey': 'ZCYVEMRRCGMTRW-UHFFFAOYSA-N',
+    'iupac_name': 'atomic iodine',
+    'name': 'atomic iodine',
+    'synonyms': [
+        'iodine atom',
+        'iodine, atomic',
+        'monoiodine',
+        'CHEBI:33115',
+        'AKOS024438077',
+        'monatomic iodine',
+    ],
+    'hardcoded_synonyms': True
+}
+
+I2 = {
+    'pubchem': 807,
+    'formula': 'I2',
+    'smiles': 'II',
+    'inchi': 'I2/c1-2',
+    'inchikey': 'PNDPGZBMCMUPRI-UHFFFAOYSA-N',
+    'iupac_name': 'molecular iodine',
+    'name': 'iodine',
+    'synonyms': [
+        'diatomic iodine',
+        'diiodine',
+        'molecular iodine',
+        'iodine molecule',
+        'iodine crystals',
+        'iodine sublimed',
+        'iodium',
+        'iodum',
+        'iode',
+        'jood',
+        'jod',
+        'iodine (II)',
+        'iodine [II]',
+        'iodio',
+        'iodine, crystalline',
+        'iodine, elemental',
+        'iodine, resublimed',
+        'CHEBI:17606',
+        'NSC 42355',
+        'EC 231-442-4',
+        'UNII-9679TC07X4',
+        'CHEMBL1201225',
+        'DB05382'
+    ],
+    'hardcoded_synonyms': True
+}
+
+# Atomic Bromine (Br)
+Br = {
+    'pubchem': 5360770,
+    'formula': 'Br',
+    'smiles': '[Br]',
+    'inchi': 'Br',
+    'inchikey': 'WKBOTKDWSSQWDR-UHFFFAOYSA-N',
+    'iupac_name': 'atomic bromine',
+    'name': 'atomic bromine',
+    'synonyms': [
+        'atomic bromine',
+        'bromine atom',
+        'bromine, atomic',
+        'monobromine',
+        'monatomic bromine',
+    ],
+    'hardcoded_synonyms': True
+}
+
+# Molecular Bromine (Br2)
+Br2 = {
+    'pubchem': 24408,
+    'formula': 'Br2',
+    'smiles': 'BrBr',
+    'inchi': 'Br2/c1-2',
+    'inchikey': 'GDTBXPJZTBHREO-UHFFFAOYSA-N',
+    'iupac_name': 'molecular bromine',
+    'name': 'bromine',
+    'synonyms': [
+        'diatomic bromine',
+        'dibromine',
+        'molecular bromine',
+        'bromine molecule',
+        'bromine element',
+        'dibromane',
+        'bromine liquid',
+        # Database identifiers
+        'CHEBI:29224',
+        'HSDB 514',
+        'EINECS 231-778-1',
+        'MFCD00010896',
+        'UNII-SBV4XY874G',
+        'DTXSID1035238',
+        'DTXCID9015238',
+        'EC 231-778-1',
+        'UN1744',
+        'UN 1744',
+        'AKOS015897100',
+        'BCP26202',
+        'NS00075687',
+        # Multilingual names
+        'brom',
+        'brome',
+        'bromo',
+        'broom',
+        'bromium',
+        # Product identifiers
+        'abws 20',
+        'bromitize plus',
+        'caswell no. 112',
+        'B2414',
+        'j-519936',
+    ],
+    'hardcoded_synonyms': True
+}
 
 custom_compounds = {    
     '13536-95-3': D2Se, '16919-19-0': ammonium_hexafluorosilicate,
-               '13454-75-6': CsBromate, '10097-32-2': Br, '2099990000-00-0': NaAlO4H4,
+               '13454-75-6': CsBromate,  '2099990000-00-0': NaAlO4H4,
                '7558-79-4': Na2HPO4, '7558-80-7': NaH2PO4, '18939-61-2': CuH2O4S,
                '145226-95-5': NaSesquisulfate, '16893-85-9': F6Na2Si,
                '7791-26-6': Cl2O2U, # https://commonchemistry.cas.org/detail?cas_rn=7791-26-6
@@ -238,7 +569,37 @@ custom_compounds = {
                '16940-66-2': NaBH4,
                '19287-45-7': B2H6,
                '13826-63-6': TlNO2,
+
                '7440-62-2': V,
+
+               '7782-44-7': O2,
+               '17778-80-2': O,
+
+                '17778-88-0': N,
+                '7727-37-9': N2,
+
+                '14762-94-8': F,
+                '7782-41-4': F2,
+
+                '22537-15-1': Cl,
+                '7782-50-5': Cl2,
+
+                '14362-44-8': I,
+                '7553-56-2': I2,
+
+                '10097-32-2': Br,
+                '7726-95-6': Br2,
+                
+                '1333-74-0': H2,
+                '2099490000-00-0': parahydrogen,
+                '2099479000-00-0': orthohydrogen,
+                '2099474000-00-0': normal_hydrogen,
+                '12385-13-6': H,
+
+                '7782-39-0': {'preferred': True}, # Deuterium
+                '2099458000-00-0': paradeuterium,
+                '2099453000-00-0': orthodeuterium,
+                '2099437000-00-0': normal_deuterium,
 
                '16090-25-8': SrP2O6,
                '14640-60-9': RbPO3,
@@ -257,16 +618,6 @@ custom_compounds = {
                 '13845-25-5': H2S4,
                 '13845-24-4': H2S5,
 
-                '1333-74-0': H2,
-                '2099490000-00-0': parahydrogen,
-                '2099479000-00-0': orthohydrogen,
-                '2099474000-00-0': normal_hydrogen,
-                '12385-13-6': H,
-
-                '7782-39-0': {'preferred': True}, # Deuterium
-                '2099458000-00-0': paradeuterium,
-                '2099453000-00-0': orthodeuterium,
-                '2099437000-00-0': normal_deuterium,
 
                 '1309-42-8': Magnesium_Hydroxide,
                 '1317-43-7': {'pubchem': 14791},

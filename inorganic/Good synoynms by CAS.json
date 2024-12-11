@@ -90,8 +90,21 @@
     "synonyms": []
   },
   "10097-32-2": {
+    "formula": "Br",
+    "hardcoded_synonyms": true,
+    "inchi": "Br",
+    "inchikey": "WKBOTKDWSSQWDR-UHFFFAOYSA-N",
+    "iupac_name": "atomic bromine",
+    "name": "atomic bromine",
     "pubchem": 5360770,
-    "synonyms": []
+    "smiles": "[Br]",
+    "synonyms": [
+      "atomic bromine",
+      "bromine atom",
+      "bromine, atomic",
+      "monobromine",
+      "monatomic bromine"
+    ]
   },
   "10099-58-8": {
     "synonyms": []
@@ -467,7 +480,8 @@
     "synonyms": []
   },
   "12134-66-6": {
-    "preferred": false
+    "preferred": false,
+    "synonyms": []
   },
   "12134-77-9": {
     "synonyms": []
@@ -692,10 +706,12 @@
     "synonyms": []
   },
   "1317-60-8": {
-    "preferred": false
+    "preferred": false,
+    "synonyms": []
   },
   "1317-61-9": {
-    "preferred": true
+    "preferred": true,
+    "synonyms": []
   },
   "1318-23-6": {
     "preferred": true,
@@ -793,7 +809,8 @@
     "synonyms": []
   },
   "1345-25-1": {
-    "preferred": true
+    "preferred": true,
+    "synonyms": []
   },
   "13451-05-3": {
     "synonyms": []
@@ -1247,6 +1264,24 @@
   "14335-40-1": {
     "synonyms": []
   },
+  "14362-44-8": {
+    "formula": "I",
+    "hardcoded_synonyms": true,
+    "inchi": "I",
+    "inchikey": "ZCYVEMRRCGMTRW-UHFFFAOYSA-N",
+    "iupac_name": "atomic iodine",
+    "name": "atomic iodine",
+    "pubchem": 5360629,
+    "smiles": "[I]",
+    "synonyms": [
+      "iodine atom",
+      "iodine, atomic",
+      "monoiodine",
+      "CHEBI:33115",
+      "AKOS024438077",
+      "monatomic iodine"
+    ]
+  },
   "14374-77-7": {
     "synonyms": []
   },
@@ -1286,6 +1321,23 @@
   },
   "14720-53-7": {
     "synonyms": []
+  },
+  "14762-94-8": {
+    "formula": "F",
+    "hardcoded_synonyms": true,
+    "inchi": "F",
+    "inchikey": "YCKRFDGAMUMZLT-UHFFFAOYSA-N",
+    "iupac_name": "atomic fluorine",
+    "name": "atomic fluorine",
+    "pubchem": 5360525,
+    "smiles": "[F]",
+    "synonyms": [
+      "fluorine atom",
+      "monofluorine",
+      "fluorine, atomic",
+      "monatomic fluorine",
+      "CHEBI:30239"
+    ]
   },
   "14779-70-5": {
     "synonyms": []
@@ -1398,6 +1450,46 @@
   },
   "17599-81-4": {
     "synonyms": []
+  },
+  "17778-80-2": {
+    "formula": "O",
+    "hardcoded_synonyms": true,
+    "inchi": "O",
+    "inchikey": "QVGXLLKOCUKJST-UHFFFAOYSA-N",
+    "iupac_name": "atomic oxygen",
+    "name": "atomic oxygen",
+    "pubchem": 159832,
+    "smiles": "[O]",
+    "synonyms": [
+      "oxygen atom",
+      "monooxygen",
+      "singlet oxygen",
+      "atomic oxygen",
+      "oxidanediyl",
+      "O(3P)",
+      "ground state oxygen atom",
+      "CHEBI:29194",
+      "monatomic oxygen"
+    ]
+  },
+  "17778-88-0": {
+    "formula": "N",
+    "hardcoded_synonyms": true,
+    "inchi": "N",
+    "inchikey": "QJGQUHMNIGDVPM-UHFFFAOYSA-N",
+    "iupac_name": "atomic nitrogen",
+    "name": "atomic nitrogen",
+    "pubchem": 57370662,
+    "smiles": "[N]",
+    "synonyms": [
+      "nitrogen atom",
+      "mononitrogen",
+      "nitrogen, atomic",
+      "nitrogen radical",
+      "singlet nitrogen",
+      "nitrogen(atom)",
+      "monatomic nitrogen"
+    ]
   },
   "1794-86-1": {
     "synonyms": []
@@ -1628,6 +1720,25 @@
   "22205-45-4": {
     "synonyms": []
   },
+  "22537-15-1": {
+    "formula": "Cl",
+    "hardcoded_synonyms": true,
+    "inchi": "Cl",
+    "inchikey": "ZAMOUSCENKQFHK-UHFFFAOYSA-N",
+    "iupac_name": "atomic chlorine",
+    "name": "atomic chlorine",
+    "pubchem": 5360523,
+    "smiles": "[Cl]",
+    "synonyms": [
+      "chlorine atom",
+      "monochlorine",
+      "chlorine, atomic",
+      "CHEBI:29311",
+      "atomic Cl",
+      "Cl atom",
+      "monatomic chlorine"
+    ]
+  },
   "22750-57-8": {
     "synonyms": []
   },
@@ -1785,6 +1896,41 @@
   "7550-45-0": {
     "synonyms": []
   },
+  "7553-56-2": {
+    "formula": "I2",
+    "hardcoded_synonyms": true,
+    "inchi": "I2/c1-2",
+    "inchikey": "PNDPGZBMCMUPRI-UHFFFAOYSA-N",
+    "iupac_name": "molecular iodine",
+    "name": "iodine",
+    "pubchem": 807,
+    "smiles": "II",
+    "synonyms": [
+      "diatomic iodine",
+      "diiodine",
+      "molecular iodine",
+      "iodine molecule",
+      "iodine crystals",
+      "iodine sublimed",
+      "iodium",
+      "iodum",
+      "iode",
+      "jood",
+      "jod",
+      "iodine (II)",
+      "iodine [II]",
+      "iodio",
+      "iodine, crystalline",
+      "iodine, elemental",
+      "iodine, resublimed",
+      "CHEBI:17606",
+      "NSC 42355",
+      "EC 231-442-4",
+      "UNII-9679TC07X4",
+      "CHEMBL1201225",
+      "DB05382"
+    ]
+  },
   "7558-79-4": {
     "pubchem": 24203,
     "synonyms": []
@@ -1839,10 +1985,66 @@
     "synonyms": []
   },
   "7726-95-6": {
-    "synonyms": []
+    "formula": "Br2",
+    "hardcoded_synonyms": true,
+    "inchi": "Br2/c1-2",
+    "inchikey": "GDTBXPJZTBHREO-UHFFFAOYSA-N",
+    "iupac_name": "molecular bromine",
+    "name": "bromine",
+    "pubchem": 24408,
+    "smiles": "BrBr",
+    "synonyms": [
+      "diatomic bromine",
+      "dibromine",
+      "molecular bromine",
+      "bromine molecule",
+      "bromine element",
+      "dibromane",
+      "bromine liquid",
+      "CHEBI:29224",
+      "HSDB 514",
+      "EINECS 231-778-1",
+      "MFCD00010896",
+      "UNII-SBV4XY874G",
+      "DTXSID1035238",
+      "DTXCID9015238",
+      "EC 231-778-1",
+      "UN1744",
+      "UN 1744",
+      "AKOS015897100",
+      "BCP26202",
+      "NS00075687",
+      "brom",
+      "brome",
+      "bromo",
+      "broom",
+      "bromium",
+      "abws 20",
+      "bromitize plus",
+      "caswell no. 112",
+      "B2414",
+      "j-519936"
+    ]
   },
   "7727-18-6": {
     "synonyms": []
+  },
+  "7727-37-9": {
+    "formula": "N2",
+    "hardcoded_synonyms": true,
+    "inchi": "N2/c1-2",
+    "inchikey": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+    "iupac_name": "molecular nitrogen",
+    "name": "nitrogen",
+    "pubchem": 947,
+    "smiles": "N#N",
+    "synonyms": [
+      "diatomic nitrogen",
+      "dinitrogen",
+      "molecular nitrogen",
+      "nitrogen gas",
+      "nitrogen molecule"
+    ]
   },
   "7732-18-5": {
     "synonyms": []
@@ -1867,6 +2069,112 @@
   "7782-39-0": {
     "preferred": true,
     "synonyms": []
+  },
+  "7782-41-4": {
+    "formula": "F2",
+    "hardcoded_synonyms": true,
+    "inchi": "F2/c1-2",
+    "inchikey": "PXGOKWXKJXAPGV-UHFFFAOYSA-N",
+    "iupac_name": "molecular fluorine",
+    "name": "fluorine",
+    "pubchem": 24524,
+    "smiles": "FF",
+    "synonyms": [
+      "diatomic fluorine",
+      "difluorine",
+      "molecular fluorine",
+      "fluorine gas",
+      "fluorine-19",
+      "mol. fluorine",
+      "F2",
+      "fluor",
+      "fluoro",
+      "fluorine-elemental",
+      "fluorine 19",
+      "fluorine, compressed",
+      "CHEBI:30236",
+      "CHEBI:36895",
+      "UN1045"
+    ]
+  },
+  "7782-44-7": {
+    "formula": "O2",
+    "hardcoded_synonyms": true,
+    "inchi": "O2/c1-2",
+    "inchikey": "MYMOFIZGZYHOMD-UHFFFAOYSA-N",
+    "iupac_name": "molecular oxygen",
+    "name": "oxygen",
+    "pubchem": 977,
+    "smiles": "O=O",
+    "synonyms": [
+      "dioxygen",
+      "molecular oxygen",
+      "oxygen gas",
+      "oxygen molecule",
+      "pure oxygen",
+      "diatomic oxygen",
+      "triplet oxygen",
+      "ground state oxygen",
+      "oxygenium",
+      "liquid oxygen",
+      "oxygen-16",
+      "sauerstoff",
+      "oxigeno",
+      "compressed oxygen",
+      "CCRIS 1228",
+      "HSDB 5054",
+      "ins no.948",
+      "UNII-S88TT14065",
+      "CHEBI:15379",
+      "E948",
+      "oxygen 16",
+      "singlet dioxygen",
+      "triplet dioxygen",
+      "singlet molecular oxygen",
+      "triplet molecular oxygen",
+      "CHEMBL1234886",
+      "DTXCID0017681",
+      "CHEBI:26689",
+      "CHEBI:27140",
+      "DB09140",
+      "UN 1072",
+      "UN 1073"
+    ]
+  },
+  "7782-50-5": {
+    "formula": "Cl2",
+    "hardcoded_synonyms": true,
+    "inchi": "Cl2/c1-2",
+    "inchikey": "KZBUYRJDOAKODT-UHFFFAOYSA-N",
+    "iupac_name": "molecular chlorine",
+    "name": "chlorine",
+    "pubchem": 24526,
+    "smiles": "ClCl",
+    "synonyms": [
+      "diatomic chlorine",
+      "dichlorine",
+      "molecular chlorine",
+      "chlorine molecule",
+      "chlorine mol.",
+      "bertholite",
+      "chlorinum",
+      "chlore",
+      "chlor",
+      "cloro",
+      "chloor",
+      "liquid chlorine",
+      "CHEBI:29310",
+      "CHEBI:33432",
+      "UN1017",
+      "UNII-4R7X1O2820",
+      "EINECS 231-959-5",
+      "HSDB 206",
+      "DTXSID1020273",
+      "DB11109",
+      "CCRIS 2280",
+      "EC 231-959-5",
+      "NS00076171"
+    ]
   },
   "7782-64-1": {
     "name": "manganese difluoride",

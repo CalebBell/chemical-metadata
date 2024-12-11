@@ -8600,6 +8600,19 @@
     "inchiKey": "InChIKey=ARNUDCKQSCEIEX-UHFFFAOYSA-N",
     "smiles": "[S-]"
   },
+  "14362-44-8": {
+    "MW": 126.90447,
+    "Name": "atomic iodine",
+    "Other Names": [
+      "Atomic iodine",
+      "Iodine atom",
+      "Iodine, atomic"
+    ],
+    "formula": "I",
+    "inchi": "InChI=1S/I",
+    "inchiKey": "InChIKey=ZCYVEMRRCGMTRW-UHFFFAOYSA-N",
+    "smiles": "[I]"
+  },
   "14374-77-7": {
     "MW": 139.02646,
     "Name": "willemite",
@@ -10460,6 +10473,23 @@
     "inchi": "InChI=1S/BHO2.Pb/c2-1-3;/h2H;",
     "inchiKey": "InChIKey=ZUXLGZONMLGJSR-UHFFFAOYSA-N",
     "smiles": "[Pb].O=BO"
+  },
+  "14762-94-8": {
+    "MW": 18.9984032,
+    "Name": "atomic fluorine",
+    "Other Names": [
+      "19F",
+      "Atomic fluorine",
+      "Fluorine atom",
+      "Fluorine radical",
+      "Fluorine, atomic",
+      "Fluorine-19 atom",
+      "Monofluorine"
+    ],
+    "formula": "F",
+    "inchi": "InChI=1S/F",
+    "inchiKey": "InChIKey=YCKRFDGAMUMZLT-UHFFFAOYSA-N",
+    "smiles": "[F]"
   },
   "14779-70-5": {
     "MW": 313.35994,
@@ -12871,6 +12901,36 @@
     "inchiKey": "InChIKey=VPIWAQWPCVLVBX-UHFFFAOYSA-N",
     "smiles": "[Cu].O=S(=O)(O)O"
   },
+  "17778-80-2": {
+    "MW": 15.9994,
+    "Name": "atomic oxygen",
+    "Other Names": [
+      "Atomic oxygen",
+      "Monooxygen",
+      "Oxygen atom",
+      "Oxygen radical",
+      "Oxygen, atomic"
+    ],
+    "formula": "O",
+    "inchi": "InChI=1S/O",
+    "inchiKey": "InChIKey=QVGXLLKOCUKJST-UHFFFAOYSA-N",
+    "smiles": "[O]"
+  },
+  "17778-88-0": {
+    "MW": 14.0067,
+    "Name": "atomic nitrogen",
+    "Other Names": [
+      "Atomic nitrogen",
+      "Mononitrogen",
+      "Nitrogen atom",
+      "Nitrogen, active",
+      "Nitrogen, atomic"
+    ],
+    "formula": "N",
+    "inchi": "InChI=1S/N",
+    "inchiKey": "InChIKey=QJGQUHMNIGDVPM-UHFFFAOYSA-N",
+    "smiles": "[N]"
+  },
   "1794-86-1": {
     "MW": 113.93074,
     "Name": "carbonimidic dichloride, hydroxy-",
@@ -14071,6 +14131,21 @@
     "inchiKey": "InChIKey=SBLSYFIUPXRQRY-UHFFFAOYSA-N",
     "smiles": "[Al-]"
   },
+  "22537-15-1": {
+    "MW": 35.453,
+    "Name": "atomic chlorine",
+    "Other Names": [
+      "Atomic chlorine",
+      "Chlorine atom",
+      "Chlorine radical",
+      "Chlorine, atomic",
+      "Chloro radical"
+    ],
+    "formula": "Cl",
+    "inchi": "InChI=1S/Cl",
+    "inchiKey": "InChIKey=ZAMOUSCENKQFHK-UHFFFAOYSA-N",
+    "smiles": "[Cl]"
+  },
   "22541-56-6": {
     "MW": 79.904,
     "Name": "bromine(1+)",
@@ -14970,6 +15045,37 @@
     "inchiKey": "InChIKey=XJDNKRIXUMDJCW-UHFFFAOYSA-J",
     "smiles": "Cl[Ti](Cl)(Cl)Cl"
   },
+  "7553-56-2": {
+    "MW": 253.80894,
+    "Name": "iodine",
+    "Other Names": [
+      "Actomar",
+      "Biojodis",
+      "DentaPure DP 90",
+      "Diatomic iodine",
+      "Diiodine",
+      "Eranol",
+      "Iodel FD",
+      "Iodine",
+      "Iodine (127I2)",
+      "Iodine colloidal",
+      "Iodine crystals",
+      "Iodine molecule (I2)",
+      "Iodine sublimed",
+      "Iodosteryl",
+      "Iosan Superdip",
+      "Jodosan",
+      "Molecular iodine",
+      "NSC 42355",
+      "Tegodyne",
+      "Yoddar",
+      "eXIA 160"
+    ],
+    "formula": "I2",
+    "inchi": "InChI=1S/I2/c1-2",
+    "inchiKey": "InChIKey=PNDPGZBMCMUPRI-UHFFFAOYSA-N",
+    "smiles": "II"
+  },
   "7558-79-4": {
     "Deleted CAS": [
       "148560-76-3",
@@ -15584,6 +15690,24 @@
     "inchiKey": "InChIKey=JBIQAPKSNFTACH-UHFFFAOYSA-K",
     "smiles": "O=[V](Cl)(Cl)Cl"
   },
+  "7727-37-9": {
+    "MW": 28.0134,
+    "Name": "nitrogen",
+    "Other Names": [
+      "Diatomic nitrogen",
+      "Dinitrogen",
+      "Molecular nitrogen",
+      "Nitrogen",
+      "Nitrogen (N2)",
+      "Nitrogen gas",
+      "Nitrogen nutrition (plant)",
+      "Nitrogen-14"
+    ],
+    "formula": "N2",
+    "inchi": "InChI=1S/N2/c1-2",
+    "inchiKey": "InChIKey=IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+    "smiles": "N#N"
+  },
   "7732-18-5": {
     "MW": 18.01528,
     "Name": "water",
@@ -15788,6 +15912,55 @@
     "inchi": "InChI=1S/H2/h1H/i1+1D",
     "inchiKey": "InChIKey=UFHFLCQGNIYNRP-VVKOMZTBSA-N",
     "smiles": "[H][H]"
+  },
+  "7782-41-4": {
+    "MW": 37.9968064,
+    "Name": "fluorine",
+    "Other Names": [
+      "Diatomic fluorine",
+      "Difluorine",
+      "Fluorine",
+      "Fluorine-19",
+      "Mol. fluorine",
+      "Molecular fluorine"
+    ],
+    "formula": "F2",
+    "inchi": "InChI=1S/F2/c1-2",
+    "inchiKey": "InChIKey=PXGOKWXKJXAPGV-UHFFFAOYSA-N",
+    "smiles": "FF"
+  },
+  "7782-44-7": {
+    "MW": 31.9988,
+    "Name": "oxygen",
+    "Other Names": [
+      "Dioxygen",
+      "Medicinal Oxygen",
+      "Molecular oxygen",
+      "Oxygen",
+      "Oxygen gas",
+      "Oxygen molecule",
+      "Phoenix I 2 A 7"
+    ],
+    "formula": "O2",
+    "inchi": "InChI=1S/O2/c1-2",
+    "inchiKey": "InChIKey=MYMOFIZGZYHOMD-UHFFFAOYSA-N",
+    "smiles": "O=O"
+  },
+  "7782-50-5": {
+    "MW": 70.906,
+    "Name": "chlorine",
+    "Other Names": [
+      "Chlorine",
+      "Chlorine mol.",
+      "Chlorine molecule (Cl2)",
+      "Diatomic chlorine",
+      "Dichlorine",
+      "Molecular chlorine"
+    ],
+    "formula": "Cl2",
+    "inchi": "InChI=1S/Cl2/c1-2",
+    "inchiKey": "InChIKey=KZBUYRJDOAKODT-UHFFFAOYSA-N",
+    "smiles": "ClCl"
   },
   "7782-64-1": {
     "MW": 92.9348554,
