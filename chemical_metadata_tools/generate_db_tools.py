@@ -138,7 +138,22 @@ def remove_bad_synonyms(strings: list[str]) -> list[str]:
         'atom %',
         'first grade', 'special grade', 'puriss', 'trace metals',
 
-        ' 99%', ' 98%'
+        ' 99%', ' 98%' '99.98%',
+
+        'mmol/g',
+        'cross-linked',
+        ' mesh ',
+        'free base',
+        ' nutrients',
+        'in isopropanol',
+        ' bottle',
+        'first aid',
+        'in methanol',
+        '0.5m in',
+        '1.0m in',
+        'inhalant',
+        'in thf',
+        'or greater',
         
         # File/batch numbers
         '.zip', '.sdf', '.mol', ' batch', ' lot ',

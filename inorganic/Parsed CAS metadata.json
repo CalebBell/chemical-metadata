@@ -334,6 +334,22 @@
     "inchiKey": "InChIKey=WLYAEQLCCOGBPV-UHFFFAOYSA-N",
     "smiles": "[Eu].O=S(=O)(O)O"
   },
+  "10034-85-2": {
+    "MW": 127.91241000000001,
+    "Name": "hydrogen iodide",
+    "Other Names": [
+      "Anhydrous hydriodic acid",
+      "Hydriodic acid",
+      "Hydrogen iodide",
+      "Hydrogen iodide (HI)",
+      "Hydrogen monoiodide",
+      "Hydroiodic acid"
+    ],
+    "formula": "HI",
+    "inchi": "InChI=1S/HI/h1H",
+    "inchiKey": "InChIKey=XMBWDFGMSWQBCA-UHFFFAOYSA-N",
+    "smiles": "I"
+  },
   "10034-96-5": {
     "MW": 171.031809,
     "Name": "manganese sulfate monohydrate",
@@ -940,6 +956,17 @@
     "inchi": "InChI=1S/Ba.ClHO3.H2O/c;2-1(3)4;/h;(H,2,3,4);1H2",
     "inchiKey": "InChIKey=MGTQPPQWGMSTRB-UHFFFAOYSA-N",
     "smiles": "[Ba].O=Cl(=O)O.O"
+  },
+  "10294-56-1": {
+    "MW": 81.995781,
+    "Name": "phosphorous acid",
+    "Other Names": [
+      "Phosphorous acid"
+    ],
+    "formula": "H3O3P",
+    "inchi": "InChI=1S/H3O3P/c1-4(2)3/h1-3H",
+    "inchiKey": "InChIKey=OJMIONKXNSYLSR-UHFFFAOYSA-N",
+    "smiles": "OP(O)O"
   },
   "10326-28-0": {
     "MW": 150.55566,
@@ -14413,6 +14440,33 @@
     "inchiKey": "InChIKey=RFWLPKSDISVSGM-UHFFFAOYSA-I",
     "smiles": "F[Os](F)(F)(F)F"
   },
+  "3170-83-0": {
+    "MW": 33.00674,
+    "Name": "hydroperoxy",
+    "Other Names": [
+      "Hydrodioxyl radical",
+      "Hydrogen dioxide (HO2)",
+      "Hydrogen dioxide radical",
+      "Hydrogen oxide (HO2)",
+      "Hydrogen oxide radical (HO2)",
+      "Hydroperoxo",
+      "Hydroperoxo (HO2)",
+      "Hydroperoxo radical",
+      "Hydroperoxo radical (HO2)",
+      "Hydroperoxy",
+      "Hydroperoxy radical",
+      "Hydroperoxy radical (HO2)",
+      "Hydroperoxyl",
+      "Hydroperoxyl radical",
+      "Hydroperoxyl radical (HO2)",
+      "Perhydroxyl",
+      "Perhydroxyl radical"
+    ],
+    "formula": "HO2",
+    "inchi": "InChI=1S/HO2/c1-2/h1H",
+    "inchiKey": "InChIKey=OUUQCZGPVNCOIJ-UHFFFAOYSA-N",
+    "smiles": "[O]O"
+  },
   "32248-43-4": {
     "MW": 404.16894,
     "Name": "samarium iodide (SmI2)",
@@ -15301,6 +15355,26 @@
     "inchi": "InChI=1S/5ClH.Sb/h5*1H;/q;;;;;+5/p-5",
     "inchiKey": "InChIKey=VMPVEPPRYRXYNP-UHFFFAOYSA-I",
     "smiles": "Cl[Sb](Cl)(Cl)(Cl)Cl"
+  },
+  "7664-41-7": {
+    "MW": 17.03052,
+    "Name": "ammonia",
+    "Other Names": [
+      "Ammonia",
+      "Ammonia gas",
+      "Ammonia-14N",
+      "Busan 1474",
+      "Nitro-Sil",
+      "R 717",
+      "R 717 (ammonia)",
+      "Refrigerent R717",
+      "Spirit of Hartshorn",
+      "Spirits of hartshorn"
+    ],
+    "formula": "H3N",
+    "inchi": "InChI=1S/H3N/h1H3",
+    "inchiKey": "InChIKey=QGZKDVFQNNGYKY-UHFFFAOYSA-N",
+    "smiles": "N"
   },
   "7681-52-9": {
     "Deleted CAS": [

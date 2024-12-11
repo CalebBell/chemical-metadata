@@ -634,6 +634,8 @@ custom_compounds = {
                 '13812-43-6': {'preferred': True}, #cis Dinitrogen difluoride F2N2 more stable
                 '10578-16-2': {'preferred': False}, # generic F2N2
 
+                '10294-56-1': {'preferred': True}, # Phosphorous acid
+                '13598-36-2': {'preferred': False}, # Phosphonic acid
     
                }
 
