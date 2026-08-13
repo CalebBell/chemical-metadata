@@ -739,7 +739,19 @@ custom_compounds['12134-66-6'] = {'preferred': False}  # Maghemite (γ-Fe2O3)
 # Fe3O4 entries
 # Prefer the general iron(II,III) oxide over magnetite mineral form
 custom_compounds['1317-61-9'] = {'preferred': True}  # Iron(II,III) oxide (Fe3O4)
-custom_compounds['1309-38-2'] = {'preferred': False}  # Magnetite (Fe3O4)
+# Magnetite (Fe3O4): the source mol file (mol/1309-38-2.mol) only encodes 2 atoms
+# (Fe, O), i.e. it is actually FeO, not Fe3O4. Override with the same structure
+# used by the preferred Fe3O4 entry (1317-61-9) so regeneration doesn't collapse
+# this back onto ferrous oxide (1345-25-1) again.
+custom_compounds['1309-38-2'] = {
+    'pubchem': 9816051,
+    'formula': 'Fe3H8O4',
+    'smiles': 'O.O.O.O.[Fe].[Fe].[Fe]',
+    'inchi': 'InChI=1S/3Fe.4H2O/h;;;4*1H2',
+    'inchikey': 'IKHQQBKIDMRMEU-UHFFFAOYSA-N',
+    'iupac_name': 'iron;tetrahydrate',
+    'preferred': False,
+}
 
 # FeO entry
 # Only one form so it's preferred by default
