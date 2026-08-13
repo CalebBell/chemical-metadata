@@ -700,7 +700,14 @@
     "synonyms": []
   },
   "1309-38-2": {
+    "formula": "Fe3O4",
+    "hardcoded_synonyms": false,
+    "inchi": "InChI=1S/3Fe.4O/q+2;2*+3;4*-2",
+    "inchikey": "WTFXARWRTYJXII-UHFFFAOYSA-N",
+    "iupac_name": "iron(2+);iron(3+);oxygen(2-)",
     "preferred": false,
+    "pubchem": -1,
+    "smiles": "[Fe+2].[Fe+3].[Fe+3].[O-2].[O-2].[O-2].[O-2]",
     "synonyms": []
   },
   "1309-42-8": {
@@ -767,7 +774,14 @@
     "synonyms": []
   },
   "1317-61-9": {
+    "formula": "Fe3O4",
+    "hardcoded_synonyms": false,
+    "inchi": "InChI=1S/3Fe.4O/q+2;2*+3;4*-2",
+    "inchikey": "WTFXARWRTYJXII-UHFFFAOYSA-N",
+    "iupac_name": "iron(2+);iron(3+);oxygen(2-)",
     "preferred": true,
+    "pubchem": -1,
+    "smiles": "[Fe+2].[Fe+3].[Fe+3].[O-2].[O-2].[O-2].[O-2]",
     "synonyms": []
   },
   "1318-23-6": {
