@@ -293,4 +293,63 @@ check for a single compound is `python3 generate_db_from_cids.py <cid>`
   either row — both stay in the database, and `*_preferences.json` /
   `duplicate_searcher.py` use the flag to recognize the duplicate as
   intentional. Don't unilaterally delete a "duplicate-looking" row without
-  checking whether it's actually one of these designed pairs.
+  checking whether it's actually one of these designed pairs. **When both
+  members of such a pair share a structure, they should have byte-identical
+  `cid`/`formula`/`molecular_weight`/`smiles`/`inchi`/`inchikey`/`iupac_name`
+  fields** (only CAS, `common_name`, and the synonym list differ) — if they
+  don't, that's a strong signal one of them regressed (this is exactly how
+  the CAS 1309-38-2/1345-25-1 bug below was found: a duplicate-InChIKey scan
+  across `preferred`-pair CAS numbers turned up one pair that was actually a
+  copy-paste of an *unrelated* compound, not the intended structure-sharing
+  pair).
+- **Mixed-metal-oxide `formula` column is sometimes a reduced empirical
+  ratio, not the true stoichiometry.** For dozens of `inorganic/Inorganic
+  db.tsv` rows (e.g. CoTiO3, Li2MnO3, CuCr2O4, CdWO4, Bi2MoO6, B8K2O13...),
+  the `formula` column stores a 1:1:1-style reduced ratio (a side effect of
+  how the underlying mol file/InChI represents these compounds) while
+  `iupac_name`/synonyms correctly carry the true stoichiometric formula in
+  parentheses, e.g. `CoOTi` / `cobalt titanium oxide (CoTiO3)`. This is
+  deliberate and consistent — do **not** "fix" the name to match the
+  formula column for these. The tell for a *genuine* stoichiometry bug
+  (fixed in this repo for CAS 12137-12-1, 12065-65-5, 1315-03-3) is a row
+  whose *own* synonym list is internally self-contradictory — e.g. it uses
+  names for two different, unrelated compounds/CAS numbers (a millerite/NiS
+  row that also said "nickel sulfide (Ni3S4)", a real but different
+  compound) — not just a mismatch against the reduced formula column.
+- **PubChem records for extended/lattice solids (oxides, minerals) are
+  sometimes simply wrong**, not just imprecisely reduced. CAS 1317-61-9 /
+  1309-38-2 (Fe3O4, iron oxide/magnetite) both resolved to PubChem CID
+  9816051, whose own record ("iron;tetrahydrate", formula `Fe3H8O4`, MW
+  239.6, SMILES `O.O.O.O.[Fe].[Fe].[Fe]`) represents Fe3O4 as three bare
+  iron atoms plus four water molecules — not a real structure. Fixed by
+  hand with a proper charge-balanced ionic SMILES
+  (`[Fe+2].[Fe+3].[Fe+3].[O-2].[O-2].[O-2].[O-2]`, MW 231.531), matching the
+  convention already used for Fe2O3 elsewhere in the same file. If you hit
+  another oxide/mineral CAS whose MW/formula looks physically wrong, check
+  the raw `PUBCHEM_MOLECULAR_FORMULA`/`PUBCHEM_IUPAC_NAME` tags inside its
+  `mol/<CAS>.mol` file before trusting it — low-quality PubChem CIDs like
+  this one are a real, recurring failure mode for compounds without a
+  well-defined molecular structure, not something the pipeline can catch
+  automatically.
+- **A one-off text-mangling bug hit `organic/chemical identifiers example
+  user db.tsv`'s synonym lists** (not the primary `iupac_name`/`common_name`
+  fields, and not the other three databases beyond a couple of stray
+  instances): a handful of punctuation characters were replaced by their
+  literal (mis-identified) Unicode character names or lost entirely somewhere
+  in a PDF/HTML→text conversion step, e.g. a prime/apostrophe (`′`/`'`)
+  became the literal text `" inverted exclamation mark"`, a comma became
+  `" pound not"`, a lost synonym-list separator became `"pound>>"`, and
+  alpha (`α`) became `"I+/-"`. Fixed with a handful of global substitutions
+  (verified first that none collided with the literal word "compound",
+  which contains "pound" as a substring) plus manual cleanup of a few
+  unreconstructable vendor-spec fragments. If a future `parse-pdf-organic`
+  run reintroduces this, it's almost certainly the same root cause in
+  `pdftohtml`/`parse_CAS_data.parse_scifinder`'s handling of non-ASCII
+  punctuation — worth fixing at the source rather than re-patching output.
+- **Verified clean as of this review** (2026-08-13): no duplicate CAS
+  numbers within or across the four databases, no duplicate InChIKeys
+  across databases, no CAS number given as a synonym in one row that is
+  actually a different row's primary CAS, no invalid CAS checksums, no
+  empty `iupac_name`+`common_name` pairs, and (aside from the Fe3O4 case
+  above) no formula/MW disagreement with the row's own SMILES when
+  cross-checked with RDKit.
