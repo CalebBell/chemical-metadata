@@ -737,21 +737,29 @@ custom_compounds['1317-60-8'] = {'preferred': False}  # Hematite (α-Fe2O3)
 custom_compounds['12134-66-6'] = {'preferred': False}  # Maghemite (γ-Fe2O3)
 
 # Fe3O4 entries
-# Prefer the general iron(II,III) oxide over magnetite mineral form
-custom_compounds['1317-61-9'] = {'preferred': True}  # Iron(II,III) oxide (Fe3O4)
-# Magnetite (Fe3O4): the source mol file (mol/1309-38-2.mol) only encodes 2 atoms
-# (Fe, O), i.e. it is actually FeO, not Fe3O4. Override with the same structure
-# used by the preferred Fe3O4 entry (1317-61-9) so regeneration doesn't collapse
-# this back onto ferrous oxide (1345-25-1) again.
-custom_compounds['1309-38-2'] = {
-    'pubchem': 9816051,
-    'formula': 'Fe3H8O4',
-    'smiles': 'O.O.O.O.[Fe].[Fe].[Fe]',
-    'inchi': 'InChI=1S/3Fe.4H2O/h;;;4*1H2',
-    'inchikey': 'IKHQQBKIDMRMEU-UHFFFAOYSA-N',
-    'iupac_name': 'iron;tetrahydrate',
-    'preferred': False,
+# Prefer the general iron(II,III) oxide over magnetite mineral form.
+#
+# Neither CAS number has a usable mol file / PubChem record for Fe3O4 itself:
+# 1309-38-2's source mol file (mol/1309-38-2.mol) only encodes 2 atoms (Fe, O),
+# i.e. it's actually FeO, not Fe3O4. 1317-61-9 resolved via PubChem CID 9816051,
+# but that CID's own record ("iron;tetrahydrate", formula Fe3H8O4, MW 239.6) is
+# a low-quality auto-generated PubChem entry that represents Fe3O4 as 3 bare Fe
+# atoms plus 4 water molecules -- not a real structure for this compound.
+# Override both with a proper charge-balanced ionic representation (2x Fe(III) +
+# 1x Fe(II) + 4x O(2-), MW 231.531, matching real magnetite), consistent with
+# how Fe2O3 is represented elsewhere in this database ([Fe+3].[Fe+3].[O-2].[O-2].[O-2]
+# above). No verified PubChem CID exists for this representation, hence -1.
+_Fe3O4 = {
+    'pubchem': -1,
+    'formula': 'Fe3O4',
+    'smiles': '[Fe+2].[Fe+3].[Fe+3].[O-2].[O-2].[O-2].[O-2]',
+    'inchi': 'InChI=1S/3Fe.4O/q+2;2*+3;4*-2',
+    'inchikey': 'WTFXARWRTYJXII-UHFFFAOYSA-N',
+    'iupac_name': 'iron(2+);iron(3+);oxygen(2-)',
+    'hardcoded_synonyms': False,
 }
+custom_compounds['1317-61-9'] = {**_Fe3O4, 'preferred': True}  # Iron(II,III) oxide (Fe3O4)
+custom_compounds['1309-38-2'] = {**_Fe3O4, 'preferred': False}  # Magnetite (Fe3O4)
 
 # FeO entry
 # Only one form so it's preferred by default
